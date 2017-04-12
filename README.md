@@ -1,2 +1,2 @@
-# stata-derivevars
-Stata tool to enable structured derivation of variables from classifications based on classification tables
+# stata-derivescores
+Stata tool to enable structured derivation of (score) variables from classifications based on derivation tables
