@@ -1,0 +1,19 @@
+v 3
+d 'derivescores': Stata tool to enable structured derivation of variables from classifications based on classification tables
+d
+d 'derivescores' is a Stata program enabling users to derive variables from classifications of any kind,
+d albeit designed for generating status variables from coded occupational information.
+d
+d This is the current version of the package.
+d
+d Requires: Stata version 14 or newer
+d
+d Distribution-Date: 20170420
+d
+d Authors: Daniel Bela and Knut Wenzig
+d Support: {browse "https://github.com/dirtyhawk/stata-derivescores"}
+f ado/derivescores.ado
+f ado/derivescores.sthlp
+F tables/whatevertable.csv
+e
+* EOF
