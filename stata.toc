@@ -1,0 +1,17 @@
+v 3
+d Stata packages provided by the github repository 'stata-derivescores'
+d {bf:Welcome!}
+d
+d In this repository, we provide packaged versions of the Stata program 'derivescores'.
+d
+d {bf:This site and its programs are currently under active and steady development, and in a very early stage;}
+d {bf:don't expect anything to work flawlessly, or work at all, until this message has disappeared.}
+d
+d Feel free to use it, but be aware: Our packages are provided 'as is';
+d we are not liable for any data loss that may occur in using them.
+d
+d If you have any questions, complaints or wishes, feel free to contact us on -{browse "https://github.com/dirtyhawk/stata-derivescores":github}-.
+d
+p derivescores Stata tool to enable structured derivation of variables from classifications based on classification tables
+e
+*EOF
