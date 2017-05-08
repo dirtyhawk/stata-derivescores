@@ -1,6 +1,6 @@
 "ConceptScheme","prefLabel","Correspondence","coreContentNote","source_overview","source_direct"
 "ISCO-88_Ganzeboom","International Standard Classification of Occupations, ISCO-88 (Ganzeboom‘s version)",,"This version of ISCO-88 is derived from Harry Ganzeboom‘s SPSS script iskolab.sps","http://www.harryganzeboom.nl/isco88/index.htm","http://www.harryganzeboom.nl/isco88/isco88.zip"
-"EGP88_Ganzeboom","Goldthorpe‘s class categories (Ganzeboom‘s version)",,"This version of Goldthorpe‘s class categories (EGP) is derived from Ganzeboom‘s SPSS script iskoegp.sps.","http://www.harryganzeboom.nl/isco88/index.htm","http://www.harryganzeboom.nl/isco88/isco88.zip"
+"EGP_Ganzeboom","Goldthorpe‘s class categories (Ganzeboom‘s version)",,"This version of Goldthorpe‘s class categories (EGP) is derived from Ganzeboom‘s SPSS script iskoegp.sps.","http://www.harryganzeboom.nl/isco88/index.htm","http://www.harryganzeboom.nl/isco88/isco88.zip"
 "ISEI","International Socio-Economic Index of Occupational Status",,"Range from 16 to 90.",,
 "ISCO-88_Ganzeboom",,"ISEI","This Correspondence is derived from Ganzeboom‘s SPSS script iskoisei.sps.","http://www.harryganzeboom.nl/isco88/index.htm","http://www.harryganzeboom.nl/isco88/isco88.zip"
 "ISCO-88_COM","International Standard Classification of Occupations, ISCO-88 (COM). Version of the European Union.",,,,
