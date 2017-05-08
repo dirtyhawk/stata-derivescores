@@ -1,0 +1,12 @@
+ConceptScheme	Concept	prefLabel	sortorder
+EGP_Ganzeboom	1	[I] Higher Controllers	1
+EGP_Ganzeboom	2	[II] Lower Controllers	2
+EGP_Ganzeboom	3	[IIIa]Routine Nonmanual	3
+EGP_Ganzeboom	4	[IIIb] Lower Sales-Service	4
+EGP_Ganzeboom	5	[IVa] Selfempl with empl	5
+EGP_Ganzeboom	6	[IVb] Selfempl no empl	6
+EGP_Ganzeboom	7	[V] Manual Supervisors	7
+EGP_Ganzeboom	8	[VI] Skilled Worker	8
+EGP_Ganzeboom	9	[VIIa] Unskilled Worker	9
+EGP_Ganzeboom	10	[VIIb] Farm Labor	10
+EGP_Ganzeboom	11	[IVc] Selfempl Farmer	11
