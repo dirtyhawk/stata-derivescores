@@ -16,7 +16,7 @@ sort sortorder
 replace sortorder = _n
 order ConceptScheme Concept prefLabel sortorder
 export delimited using D:\temp\stata-derivescores\tables\ISCO-88_Ganzeboom.csv, ///
-	delimiter(tab) replace
+	delimiter(",") quote replace
 	
 
 *** ISCO-88_Ganzeboom to ISEI_Ganzeboom	
@@ -27,7 +27,7 @@ gen output_ConceptScheme="ISEI"
 gen prob=1
 order input_ConceptScheme input_Concept output_ConceptScheme output_Concept prob
 export delimited using D:\temp\stata-derivescores\tables\ISCO-88_Ganzeboom--ISEI.csv, ///
-	delimiter(tab) replace
+	delimiter(",") quote replace
 	
 ende
 	
