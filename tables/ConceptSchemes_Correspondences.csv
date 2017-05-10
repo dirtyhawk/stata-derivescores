@@ -4,3 +4,5 @@
 "ISEI","International Socio-Economic Index of Occupational Status",,"Range from 16 to 90.",,
 "ISCO-88_Ganzeboom",,"ISEI","This Correspondence is derived from Ganzeboom‘s SPSS script iskoisei.sps.","http://www.harryganzeboom.nl/isco88/index.htm","http://www.harryganzeboom.nl/isco88/isco88.zip"
 "ISCO-88_COM","International Standard Classification of Occupations, ISCO-88 (COM). Version of the European Union.",,,,
+"ISCO-88_ILO","International Standard Classification of Occupations, ISCO-88. Version of the ILO.",,,"http://www.ilo.org/public/english/bureau/stat/isco/isco88/index.htm","http://www.ilo.org/public/english/bureau/stat/isco/isco88/major.htm"
+"ISCO-88_ILO",,"ISCO-88_Ganzeboom",,,
