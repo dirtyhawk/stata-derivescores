@@ -1,521 +1,1561 @@
-ConceptScheme,Concept,prefLabel,sortorder
-"ISCO-88_COM","1","LEGISLATORS, SENIOR OFFICIALS AND MANAGERS",1
-"ISCO-88_COM","11","Legislators and senior officials",2
-"ISCO-88_COM","111","Legislators and senior government officials",3
-"ISCO-88_COM","1110","Legislators and senior government officials",4
-"ISCO-88_COM","114","Senior officials of special-interest organisations",5
-"ISCO-88_COM","1141","Senior officials of political party organisations",6
-"ISCO-88_COM","1142","Senior officials of employers', workers' and other economic-interest organisations",7
-"ISCO-88_COM","1143","Senior officials of humanitarian and other special-interest organisations",8
-"ISCO-88_COM","12","Corporate managers",9
-"ISCO-88_COM","121","Directors and chief executives",10
-"ISCO-88_COM","1210","Directors and chief executives",11
-"ISCO-88_COM","122","Production and operations managers",12
-"ISCO-88_COM","1221","Production and operations managers in agriculture, hunting, forestry and fishing",13
-"ISCO-88_COM","1222","Production and operations managers in manufacturing",14
-"ISCO-88_COM","1223","Production and operations managers in construction",15
-"ISCO-88_COM","1224","Production and operations managers in wholesale and retail trade",16
-"ISCO-88_COM","1225","Production and operations managers in restaurants and hotels",17
-"ISCO-88_COM","1226","Production and operations managers in transport, storage and communications",18
-"ISCO-88_COM","1227","Production and operations managers in business services enterprises",19
-"ISCO-88_COM","1228","Production and operations managers in personal care, cleaning and related services",20
-"ISCO-88_COM","1229","Production and operations managers not elsewhere classified",21
-"ISCO-88_COM","123","Other specialist managers",22
-"ISCO-88_COM","1231","Finance and administration managers",23
-"ISCO-88_COM","1232","Personnel and industrial relations managers",24
-"ISCO-88_COM","1233","Sales and marketing managers",25
-"ISCO-88_COM","1234","Advertising and public relations managers",26
-"ISCO-88_COM","1235","Supply and distribution managers",27
-"ISCO-88_COM","1236","Computing services managers",28
-"ISCO-88_COM","1237","Research and development managers",29
-"ISCO-88_COM","1239","Other specialist managers not elsewhere classified",30
-"ISCO-88_COM","13","Managers of small enterprises",31
-"ISCO-88_COM","131","Managers of small enterprises",32
-"ISCO-88_COM","1311","Managers of small enterprises in agriculture, hunting,  forestry and fishing",33
-"ISCO-88_COM","1312","Managers of small enterprises in manufacturing",34
-"ISCO-88_COM","1313","Managers of small enterprises in construction",35
-"ISCO-88_COM","1314","Managers of small enterprises in wholesale and retail trade",36
-"ISCO-88_COM","1315","Managers of small enterprises of restaurants and hotels",37
-"ISCO-88_COM","1316","Managers of small enterprises in transport, storage and communications",38
-"ISCO-88_COM","1317","Managers of small enterprises in business services enterprises",39
-"ISCO-88_COM","1318","Managers of small enterprises in personal care, cleaning and related services",40
-"ISCO-88_COM","1319","Managers of small enterprises not elsewhere classifie",41
-"ISCO-88_COM","2","PROFESSIONALS",42
-"ISCO-88_COM","21","Physical, mathematical and engineering science professionals",43
-"ISCO-88_COM","211","Physicists, chemists and related professionals",44
-"ISCO-88_COM","2111","Physicists and astronomers",45
-"ISCO-88_COM","2112","Meteorologists",46
-"ISCO-88_COM","2113","Chemists",47
-"ISCO-88_COM","2114","Geologists and geophysicists",48
-"ISCO-88_COM","212","Mathematicians, statisticians and related professionals",49
-"ISCO-88_COM","2121","Mathematicians and related professionals",50
-"ISCO-88_COM","2122","Statisticians",51
-"ISCO-88_COM","213","Computing professionals",52
-"ISCO-88_COM","2131","Computer systems designers, analysts and programmers",53
-"ISCO-88_COM","2139","Computing professionals not elsewhere classified",54
-"ISCO-88_COM","214","Architects, engineers and related professionals",55
-"ISCO-88_COM","2141","Architects, town and traffic planners",56
-"ISCO-88_COM","2142","Civil engineers",57
-"ISCO-88_COM","2143","Electrical engineers",58
-"ISCO-88_COM","2144","Electronics and telecommunications engineers",59
-"ISCO-88_COM","2145","Mechanical engineers",60
-"ISCO-88_COM","2146","Chemical engineers",61
-"ISCO-88_COM","2147","Mining engineers, metallurgists and related professionals",62
-"ISCO-88_COM","2148","Cartographers and surveyors",63
-"ISCO-88_COM","2149","Architects, engineers and related professionals not elsewhere classified",64
-"ISCO-88_COM","22","Life science and health professionals",65
-"ISCO-88_COM","221","Life science professionals",66
-"ISCO-88_COM","2211","Biologists, botanists, zoologists and related professionals ",67
-"ISCO-88_COM","2212","Pharmacologists, pathologists and related professionals",68
-"ISCO-88_COM","2213","Agronomists and related professionals",69
-"ISCO-88_COM","222","Health professionals (except nursing)",70
-"ISCO-88_COM","2221","Medical doctors",71
-"ISCO-88_COM","2222","Dentists",72
-"ISCO-88_COM","2223","Veterinarians",73
-"ISCO-88_COM","2224","Pharmacists",74
-"ISCO-88_COM","2229","Health professionals (except nursing) not elsewhere classified",75
-"ISCO-88_COM","223","Nursing and midwifery professionals",76
-"ISCO-88_COM","2230","Nursing and midwifery professionals ",77
-"ISCO-88_COM","23","Teaching professionals",78
-"ISCO-88_COM","231","College, university and higher education teaching professionals",79
-"ISCO-88_COM","2310","College, university and higher education teaching professionals",80
-"ISCO-88_COM","232","Secondary education teaching professionals",81
-"ISCO-88_COM","2320","Secondary education teaching professionals",82
-"ISCO-88_COM","233","Primary and pre-primary education teaching professionals",83
-"ISCO-88_COM","2331","Primary education teaching professionals",84
-"ISCO-88_COM","2332","Pre-primary education teaching professionals",85
-"ISCO-88_COM","234","Special education teaching professionals",86
-"ISCO-88_COM","2340","Special education teaching professionals",87
-"ISCO-88_COM","235","Other teaching professionals",88
-"ISCO-88_COM","2351","Education methods specialists",89
-"ISCO-88_COM","2352","School inspectors",90
-"ISCO-88_COM","2359","Other teaching professionals not elsewhere classified",91
-"ISCO-88_COM","24","Other professionals",92
-"ISCO-88_COM","241","Business professionals",93
-"ISCO-88_COM","2411","Accountants",94
-"ISCO-88_COM","2412","Personnel and careers professionals",95
-"ISCO-88_COM","2419","Business professionals not elsewhere classified",96
-"ISCO-88_COM","242","Legal professionals",97
-"ISCO-88_COM","2421","Lawyers",98
-"ISCO-88_COM","2422","Judges",99
-"ISCO-88_COM","2429","Legal professionals not elswhere classified",100
-"ISCO-88_COM","243","Archivists, librarians and related information professionals",101
-"ISCO-88_COM","2431","Archivists and curators",102
-"ISCO-88_COM","2432","Librarians and related information professionals",103
-"ISCO-88_COM","244","Social science and related professionals",104
-"ISCO-88_COM","2441","Economists",105
-"ISCO-88_COM","2442","Sociologists, anthropologists and related professionals",106
-"ISCO-88_COM","2443","Philosophers, historians and political scientists",107
-"ISCO-88_COM","2444","Philologists, translators and interpreters",108
-"ISCO-88_COM","2445","Psychologists",109
-"ISCO-88_COM","2446","Social work professionals",110
-"ISCO-88_COM","245","Writers and creative or performing artists",111
-"ISCO-88_COM","2451","Authors, journalists and other writers",112
-"ISCO-88_COM","2452","Sculptors, painters and related artists",113
-"ISCO-88_COM","2453","Composers, musicians and singers",114
-"ISCO-88_COM","2454","Choreographers and dancers",115
-"ISCO-88_COM","2455","Film, stage and related actors and directors",116
-"ISCO-88_COM","246","Religious professionals",117
-"ISCO-88_COM","2460","Religious professionals",118
-"ISCO-88_COM","247","Public service administrative professionals",119
-"ISCO-88_COM","2470","Public service administrative professionals",120
-"ISCO-88_COM","3","TECHNICIANS AND ASSOCIATE PROFESSIONALS",121
-"ISCO-88_COM","31","Physical and engineering science associate professionals",122
-"ISCO-88_COM","311","Physical and engineering science technicians",123
-"ISCO-88_COM","3111","Chemical and physical science technicians",124
-"ISCO-88_COM","3112","Civil engineering technicians",125
-"ISCO-88_COM","3113","Electrical engineering technicians",126
-"ISCO-88_COM","3114","Electronics and telecommunications engineering technicians",127
-"ISCO-88_COM","3115","Mechanical engineering technicians",128
-"ISCO-88_COM","3116","Chemical engineering technicians",129
-"ISCO-88_COM","3117","Mining and metallurgical technicians",130
-"ISCO-88_COM","3118","Draughtspersons",131
-"ISCO-88_COM","3119","Physical and engineering science technicians not elsewhere classified",132
-"ISCO-88_COM","312","Computer associate professionals",133
-"ISCO-88_COM","3121","Computer assistants",134
-"ISCO-88_COM","3122","Computer equipment operators",135
-"ISCO-88_COM","3123","Industrial robot controllers",136
-"ISCO-88_COM","313","Optical and electronic equipment operators",137
-"ISCO-88_COM","3131","Photographers and image and sound recording equipment operators",138
-"ISCO-88_COM","3132","Broadcasting and telecommunications equipment operators",139
-"ISCO-88_COM","3133","Medical equipment operators",140
-"ISCO-88_COM","3139","Optical and electronic equipment operators not elsewhere classified",141
-"ISCO-88_COM","314","Ship and aircraft controllers and technicians",142
-"ISCO-88_COM","3141","Ships' engineers",143
-"ISCO-88_COM","3142","Ships' deck officers and pilots",144
-"ISCO-88_COM","3143","Aircraft pilots and related associate professionals",145
-"ISCO-88_COM","3144","Air traffic controllers",146
-"ISCO-88_COM","3145","Air traffic safety technicians",147
-"ISCO-88_COM","315","Safety and quality inspectors",148
-"ISCO-88_COM","3151","Building and fire inspectors",149
-"ISCO-88_COM","3152","Safety, health and quality inspectors",150
-"ISCO-88_COM","32","Life science and health associate professionals",151
-"ISCO-88_COM","321","Life science technicians and related associate professional",152
-"ISCO-88_COM","3211","Life science technicians",153
-"ISCO-88_COM","3212","Agronomy and forestry technicians",154
-"ISCO-88_COM","3213","Farming and forestry advisers",155
-"ISCO-88_COM","322","Health associate professionals (except nursing)",156
-"ISCO-88_COM","3221","Medical assistants",157
-"ISCO-88_COM","3222","Hygienists, health and environmental officers",158
-"ISCO-88_COM","3223","Dieticians and nutritionists",159
-"ISCO-88_COM","3224","Optometrists and opticians",160
-"ISCO-88_COM","3225","Dental assistants",161
-"ISCO-88_COM","3226","Physiotherapists and related associate professionals",162
-"ISCO-88_COM","3227","Veterinary assistants",163
-"ISCO-88_COM","3228","Pharmaceutical assistants",164
-"ISCO-88_COM","3229","Health associate professionals (except nursing) not elsewhere classified",165
-"ISCO-88_COM","323","Nursing and midwifery associate professionals",166
-"ISCO-88_COM","3231","Nursing associate professionals",167
-"ISCO-88_COM","3232","Midwifery associate professionals",168
-"ISCO-88_COM","33","Teaching associate professionals",169
-"ISCO-88_COM","331","Primary education teaching associate professionals",170
-"ISCO-88_COM","3310","Primary education teaching associate professionals",171
-"ISCO-88_COM","332","Pre-primary education teaching associate professionals",172
-"ISCO-88_COM","3320","Pre-primary education teaching associate professionals",173
-"ISCO-88_COM","333","Special education teaching associate professionals",174
-"ISCO-88_COM","3330","Special education teaching associate professionals",175
-"ISCO-88_COM","334","Other teaching associate professionals",176
-"ISCO-88_COM","3340","Other teaching associate professionals",177
-"ISCO-88_COM","34","Other associate professionals",178
-"ISCO-88_COM","341","Finance and sales associate professionals",179
-"ISCO-88_COM","3411","Securities and finance dealers and brokers",180
-"ISCO-88_COM","3412","Insurance representatives",181
-"ISCO-88_COM","3413","Estate agents",182
-"ISCO-88_COM","3414","Travel consultants and organisers",183
-"ISCO-88_COM","3415","Technical and commercial sales representatives",184
-"ISCO-88_COM","3416","Buyers",185
-"ISCO-88_COM","3417","Appraisers, valuers and auctioneers",186
-"ISCO-88_COM","3419","Finance and sales associate professionals not elsewhere classified",187
-"ISCO-88_COM","342","Business services agents and trade brokers",188
-"ISCO-88_COM","3421","Trade brokers",189
-"ISCO-88_COM","3422","Clearing and forwarding agents",190
-"ISCO-88_COM","3423","Employment agents and labour contractors",191
-"ISCO-88_COM","3429","Business services agents and trade brokers not elsewhere classified",192
-"ISCO-88_COM","343","Administrative associate professionals",193
-"ISCO-88_COM","3431","Administrative secretaries and related associate professionals",194
-"ISCO-88_COM","3432","Legal and related business associate professionals",195
-"ISCO-88_COM","3433","Bookkeepers",196
-"ISCO-88_COM","3434","Statistical, mathematical and related associate professionals",197
-"ISCO-88_COM","344","Customs, tax and related government associate professionals",198
-"ISCO-88_COM","3441","Customs and border inspectors",199
-"ISCO-88_COM","3442","Government tax and excise officials",200
-"ISCO-88_COM","3443","Government social benefits officials",201
-"ISCO-88_COM","3444","Government licensing officials",202
-"ISCO-88_COM","3449","Customs, tax and related government associate professionals not elsewhere classified",203
-"ISCO-88_COM","345","Police inspectors and detectives",204
-"ISCO-88_COM","3450","Police inspectors and detectives",205
-"ISCO-88_COM","346","Social work associate professionals",206
-"ISCO-88_COM","3460","Social work associate professionals",207
-"ISCO-88_COM","347","Artistic, entertainment and sports associate professionals",208
-"ISCO-88_COM","3471","Decorators and commercial designers",209
-"ISCO-88_COM","3472","Radio, television and other announcers",210
-"ISCO-88_COM","3473","Street, night-club and related musicians, singers and dancers",211
-"ISCO-88_COM","3474","Clowns, magicians, acrobats and related associate professionals",212
-"ISCO-88_COM","3475","Athletes, sports persons and related associate professionals",213
-"ISCO-88_COM","348","Religious associate professionals",214
-"ISCO-88_COM","3480","Religious associate professionals",215
-"ISCO-88_COM","4","CLERKS",216
-"ISCO-88_COM","41","Office clerks",217
-"ISCO-88_COM","411","Secretaries and keyboard-operating clerks",218
-"ISCO-88_COM","4111","Stenographers and typists",219
-"ISCO-88_COM","4112","Word-processor and related operators",220
-"ISCO-88_COM","4113","Data entry operators",221
-"ISCO-88_COM","4114","Calculating-machine operators",222
-"ISCO-88_COM","4115","Secretaries",223
-"ISCO-88_COM","412","Numerical clerks",224
-"ISCO-88_COM","4121","Accounting and book-keeping clerks",225
-"ISCO-88_COM","4122","Statistical and finance clerks",226
-"ISCO-88_COM","413","Material-recording and transport clerks",227
-"ISCO-88_COM","4131","Stock clerks",228
-"ISCO-88_COM","4132","Production clerks",229
-"ISCO-88_COM","4133","Transport clerks",230
-"ISCO-88_COM","414","Library, mail and related clerks",231
-"ISCO-88_COM","4141","Library and filing clerks",232
-"ISCO-88_COM","4142","Mail carriers and sorting clerks",233
-"ISCO-88_COM","4143","Coding, proof-reading and related clerks",234
-"ISCO-88_COM","4144","Scribes and related workers",235
-"ISCO-88_COM","419","Other office clerks",236
-"ISCO-88_COM","4190","Other office clerks",237
-"ISCO-88_COM","42","Customer services clerks",238
-"ISCO-88_COM","421","Cashiers, tellers and related clerks",239
-"ISCO-88_COM","4211","Cashiers and ticket clerks",240
-"ISCO-88_COM","4212","Tellers and other counter clerks",241
-"ISCO-88_COM","4213","Bookmakers and croupiers",242
-"ISCO-88_COM","4214","Pawnbrokers and money-lenders",243
-"ISCO-88_COM","4215","Debt-collectors and related workers",244
-"ISCO-88_COM","422","Client information clerks",245
-"ISCO-88_COM","4221","Travel agency and related clerks",246
-"ISCO-88_COM","4222","Receptionists and information clerks",247
-"ISCO-88_COM","4223","Telephone switchboard operators",248
-"ISCO-88_COM","5","SERVICE WORKERS AND SHOP AND MARKET SALES WORKERS",249
-"ISCO-88_COM","51","Personal and protective services workers",250
-"ISCO-88_COM","511","Travel attendants and related workers",251
-"ISCO-88_COM","5111","Travel attendants and travel stewards",252
-"ISCO-88_COM","5112","Transport conductors",253
-"ISCO-88_COM","5113","Travel guides",254
-"ISCO-88_COM","512","Housekeeping and restaurant services workers",255
-"ISCO-88_COM","5121","Housekeepers and related workers",256
-"ISCO-88_COM","5122","Cooks",257
-"ISCO-88_COM","5123","Waiters, waitresses and bartenders",258
-"ISCO-88_COM","513","Personal care and related workers",259
-"ISCO-88_COM","5131","Child-care workers",260
-"ISCO-88_COM","5132","Institution-based personal care workers",261
-"ISCO-88_COM","5133","Home-based personal care workers",262
-"ISCO-88_COM","5139","Personal care and related workers not elsewhere classified",263
-"ISCO-88_COM","514","Other personal services workers",264
-"ISCO-88_COM","5141","Hairdressers, barbers, beauticians and related workers",265
-"ISCO-88_COM","5142","Companions and valets",266
-"ISCO-88_COM","5143","Undertakers and embalmers",267
-"ISCO-88_COM","5149","Other personal services workers not elsewhere classified",268
-"ISCO-88_COM","516","Protective services workers",269
-"ISCO-88_COM","5161","Fire-fighters",270
-"ISCO-88_COM","5162","Police officers",271
-"ISCO-88_COM","5163","Prison guards",272
-"ISCO-88_COM","5169","Protective services workers not elsewhere classified",273
-"ISCO-88_COM","52","Models, salespersons and demonstrators",274
-"ISCO-88_COM","521","Fashion and other models",275
-"ISCO-88_COM","5210","Fashion and other models",276
-"ISCO-88_COM","522","Shop, stall and market salespersons and demonstrators",277
-"ISCO-88_COM","5220","Shop, stall and market salespersons and demonstrators",278
-"ISCO-88_COM","6","SKILLED AGRICULTURAL AND FISHERY WORKERS",279
-"ISCO-88_COM","61","Skilled agricultural and fishery workers",280
-"ISCO-88_COM","611","Market gardeners and crop growers",281
-"ISCO-88_COM","6111","Field crop and vegetable growers",282
-"ISCO-88_COM","6112","Gardeners, horticultural and nursery growers",283
-"ISCO-88_COM","612","Animal producers and related workers",284
-"ISCO-88_COM","6121","Dairy and livestock producers",285
-"ISCO-88_COM","6122","Poultry producers",286
-"ISCO-88_COM","6129","Animal producers and related workers not elsewhere classified",287
-"ISCO-88_COM","613","Crop and animal producers",288
-"ISCO-88_COM","6130","Crop and animal producers",289
-"ISCO-88_COM","614","Forestry and related workers",290
-"ISCO-88_COM","6141","Forestry workers and loggers",291
-"ISCO-88_COM","6142","Charcoal burners and related workers",292
-"ISCO-88_COM","615","Fishery workers, hunters and trappers",293
-"ISCO-88_COM","6151","Aquatic life cultivation workers",294
-"ISCO-88_COM","6152","Inland and coastal waters fishery workers",295
-"ISCO-88_COM","6153","Deep-sea fishery workers",296
-"ISCO-88_COM","6154","Hunters and trappers",297
-"ISCO-88_COM","7","CRAFT AND RELATED TRADES WORKERS",298
-"ISCO-88_COM","71","Extraction and building trades workers",299
-"ISCO-88_COM","711","Miners, shotfirers, stone cutters and carvers",300
-"ISCO-88_COM","7111","Miners and quarry workers",301
-"ISCO-88_COM","7112","Shotfirers and blasters",302
-"ISCO-88_COM","7113","Stone splitters, cutters and carvers",303
-"ISCO-88_COM","712","Building frame and related trades workers",304
-"ISCO-88_COM","7121","Builders",305
-"ISCO-88_COM","7122","Bricklayers and stonemasons",306
-"ISCO-88_COM","7123","Concrete placers, concrete finishers and related workers",307
-"ISCO-88_COM","7124","Carpenters and joiners",308
-"ISCO-88_COM","7129","Building frame and related trades workers not elsewhere classified",309
-"ISCO-88_COM","713","Building finishers and related trades workers",310
-"ISCO-88_COM","7131","Roofers",311
-"ISCO-88_COM","7132","Floor layers and tile setters",312
-"ISCO-88_COM","7133","Plasterers",313
-"ISCO-88_COM","7134","Insulation workers",314
-"ISCO-88_COM","7135","Glaziers",315
-"ISCO-88_COM","7136","Plumbers and pipe fitters",316
-"ISCO-88_COM","7137","Building and related electricians",317
-"ISCO-88_COM","7139","Building finishers and related trade workers not elsewhere classified",318
-"ISCO-88_COM","714","Painters, building structure cleaners and related trades workers",319
-"ISCO-88_COM","7141","Painters and related workers",320
-"ISCO-88_COM","7143","Building structure cleaners",321
-"ISCO-88_COM","72","Metal, machinery and related trades workers",322
-"ISCO-88_COM","721","Metal moulders, welders, sheet-metal workers, structural-metal preparers, and related trades workers",323
-"ISCO-88_COM","7211","Metal moulders and coremakers",324
-"ISCO-88_COM","7212","Welders and flame cutters",325
-"ISCO-88_COM","7213","Sheet-metal workers",326
-"ISCO-88_COM","7214","Structural-metal preparers and erectors",327
-"ISCO-88_COM","7215","Riggers and cable splicers",328
-"ISCO-88_COM","7216","Underwater workers",329
-"ISCO-88_COM","722","Blacksmiths, tool-makers and related trades workers",330
-"ISCO-88_COM","7221","Blacksmiths, hammer-smiths and forging-press workers",331
-"ISCO-88_COM","7222","Tool-makers and related workers",332
-"ISCO-88_COM","7223","Machine-tool setters and setter-operators",333
-"ISCO-88_COM","7224","Metal wheel-grinders, polishers and tool sharpeners",334
-"ISCO-88_COM","723","Machinery mechanics and fitters",335
-"ISCO-88_COM","7231","Motor vehicle mechanics and fitters",336
-"ISCO-88_COM","7232","Aircraft engine mechanics and fitters",337
-"ISCO-88_COM","7233","Agricultural- or industrial-machinery mechanics and fitters",338
-"ISCO-88_COM","724","Electrical and electronic equipment mechanics and fitters",339
-"ISCO-88_COM","7241","Electrical mechanics fitters and services",340
-"ISCO-88_COM","7242","Electronics mechanics, fitters and servicers",341
-"ISCO-88_COM","7244","Telegraph and telephone installers and servicers",342
-"ISCO-88_COM","7245","Electrical line installers, repairers and cable jointers ",343
-"ISCO-88_COM","73","Precision, handicraft, craft printing and related trades workers",344
-"ISCO-88_COM","731","Precision workers in metal and related materials",345
-"ISCO-88_COM","7311","Precision-instrument makers and repairers",346
-"ISCO-88_COM","7312","Musical-instrument makers and tuners",347
-"ISCO-88_COM","7313","Jewellery and precious-metal workers",348
-"ISCO-88_COM","732","Potters, glass-makers and related trades workers",349
-"ISCO-88_COM","7321","Abrasive wheel formers, potters and related workers",350
-"ISCO-88_COM","7322","Glass-makers, cutters, grinders and finishers",351
-"ISCO-88_COM","7323","Glass engravers and etchers",352
-"ISCO-88_COM","7324","Glass, ceramics and related decorative painters",353
-"ISCO-88_COM","733","Handicraft workers in wood, textile, leather and related materials",354
-"ISCO-88_COM","7331","Handicraft workers in wood and related materials",355
-"ISCO-88_COM","7332","Handicraft workers in textile, leather and related materials",356
-"ISCO-88_COM","734","Craft printing and related trades workers",357
-"ISCO-88_COM","7341","Compositors, typesetters and related workers",358
-"ISCO-88_COM","7342","Stereotypers and electrotypers",359
-"ISCO-88_COM","7343","Printing engravers and etchers",360
-"ISCO-88_COM","7344","Photographic and related workers",361
-"ISCO-88_COM","7345","Bookbinders and related workers",362
-"ISCO-88_COM","7346","Silk-screen, block and craft textile printers",363
-"ISCO-88_COM","74","Other craft and related trades workers",364
-"ISCO-88_COM","741","Food processing and related trades workers",365
-"ISCO-88_COM","7411","Butchers, fishmongers and related food preparers",366
-"ISCO-88_COM","7412","Bakers, pastry-cooks and confectionery makers",367
-"ISCO-88_COM","7413","Dairy-products workers",368
-"ISCO-88_COM","7414","Fruit, vegetable and related preservers",369
-"ISCO-88_COM","7415","Food and beverage tasters and graders",370
-"ISCO-88_COM","7416","Tobacco preparers and tobacco products makers",371
-"ISCO-88_COM","742","Wood treaters, cabinet-makers and related trades workers",372
-"ISCO-88_COM","7421","Wood treaters",373
-"ISCO-88_COM","7422","Cabinetmakers and related workers",374
-"ISCO-88_COM","7423","Woodworking machine setters and setter-operators",375
-"ISCO-88_COM","7424","Basketry weavers, brush makers and related workers",376
-"ISCO-88_COM","743","Textile, garment and related trades workers",377
-"ISCO-88_COM","7431","Fibre preparers",378
-"ISCO-88_COM","7432","Weavers, knitters and related workers",379
-"ISCO-88_COM","7433","Tailors, dressmakers and hatters",380
-"ISCO-88_COM","7434","Furriers and related workers",381
-"ISCO-88_COM","7435","Textile, leather and related pattern-makers and cutters",382
-"ISCO-88_COM","7436","Sewers, embroiderers and related workers",383
-"ISCO-88_COM","7437","Upholsterers and related workers",384
-"ISCO-88_COM","744","Pelt, leather and shoemaking trades workers",385
-"ISCO-88_COM","7441","Pelt dressers, tanners and fellmongers",386
-"ISCO-88_COM","7442","Shoe-makers and related workers",387
-"ISCO-88_COM","8","PLANT AND MACHINE OPERATORS AND ASSEMBLERS",388
-"ISCO-88_COM","81","Stationary plant and related operators",389
-"ISCO-88_COM","811","Mining and mineral-processing-plant operators",390
-"ISCO-88_COM","8111","Mining plant operators",391
-"ISCO-88_COM","8112","Mineral-ore and stone-processing-plant operators",392
-"ISCO-88_COM","8113","Well drillers and borers and related workers",393
-"ISCO-88_COM","812","Metal-processing plant operators",394
-"ISCO-88_COM","8121","Ore and metal furnace operators",395
-"ISCO-88_COM","8122","Metal melters, casters and rolling-mill operators",396
-"ISCO-88_COM","8123","Metal heat-treating-plant operators",397
-"ISCO-88_COM","8124","Metal drawers and extruders",398
-"ISCO-88_COM","813","Glass, ceramics and related plant operators",399
-"ISCO-88_COM","8131","Glass and ceramics kiln and related machine operators",400
-"ISCO-88_COM","8139","Glass, ceramics and related plant operators not elsewhere classified",401
-"ISCO-88_COM","814","Wood-processing- and papermaking-plant operators",402
-"ISCO-88_COM","8141","Wood-processing-plant operators",403
-"ISCO-88_COM","8142","Paper-pulp plant operators",404
-"ISCO-88_COM","8143","Papermaking-plant operators",405
-"ISCO-88_COM","815","Chemical-processing-plant operators",406
-"ISCO-88_COM","8151","Crushing-, grinding- and chemical-mixing-machinery operators",407
-"ISCO-88_COM","8152","Chemical-heat-treating-plant operators",408
-"ISCO-88_COM","8153","Chemical-filtering- and separating-equipment operators",409
-"ISCO-88_COM","8154","Chemical-still and reactor operators (except petroleum and natural gas)",410
-"ISCO-88_COM","8155","Petroleum- and natural-gas-refining-plant operators",411
-"ISCO-88_COM","8159","Chemical-processing-plant operators not elsewhere classified",412
-"ISCO-88_COM","816","Power-production and related plant operators",413
-"ISCO-88_COM","8161","Power-production plant operators",414
-"ISCO-88_COM","8162","Steam-engine and boiler operators",415
-"ISCO-88_COM","8163","Incinerator, water-treatment and related plant operators",416
-"ISCO-88_COM","817","Industrial robot operators",417
-"ISCO-88_COM","8170","Industrial robot operators",418
-"ISCO-88_COM","82","Machine operators and assemblers",419
-"ISCO-88_COM","821","Metal- and mineral-products machine operators",420
-"ISCO-88_COM","8211","Machine-tool operators",421
-"ISCO-88_COM","8212","Cement and other mineral products machine operators",422
-"ISCO-88_COM","822","Chemical-products machine operators",423
-"ISCO-88_COM","8221","Pharmaceutical-and toiletry-products machine operators",424
-"ISCO-88_COM","8222","Ammunition- and explosive-products machine operators",425
-"ISCO-88_COM","8223","Metal finishing-, plating- and coating-machine operators",426
-"ISCO-88_COM","8224","Photographic-products machine operators",427
-"ISCO-88_COM","8229","Chemical-products machine operators not elsewhere classified",428
-"ISCO-88_COM","823","Rubber- and plastic-products machine operators",429
-"ISCO-88_COM","8231","Rubber-products machine operators",430
-"ISCO-88_COM","8232","Plastic-products machine operators",431
-"ISCO-88_COM","824","Wood-products machine operators",432
-"ISCO-88_COM","8240","Wood-products machine operators",433
-"ISCO-88_COM","825","Printing-, binding- and paper-products machine operators",434
-"ISCO-88_COM","8251","Printing-machine operators",435
-"ISCO-88_COM","8252","Book-binding-machine operators",436
-"ISCO-88_COM","8253","Paper-products machine operators",437
-"ISCO-88_COM","826","Textile-, fur- and leather-products machine operators",438
-"ISCO-88_COM","8261","Fibre-preparing-, spinning- and winding-machine operators",439
-"ISCO-88_COM","8262","Weaving- and knitting-machine operators",440
-"ISCO-88_COM","8263","Sewing-machine operators",441
-"ISCO-88_COM","8264","Bleaching-, dyeing- and cleaning-machine operators",442
-"ISCO-88_COM","8265","Fur- and leather-preparing-machine operators",443
-"ISCO-88_COM","8266","Shoemaking- and related machine operators",444
-"ISCO-88_COM","8269","Textile-, fur- and leather-products machine operators not elsewhere classified",445
-"ISCO-88_COM","827","Food and related products machine operators",446
-"ISCO-88_COM","8271","Meat- and fish-processing-machine operators",447
-"ISCO-88_COM","8272","Dairy-products machine operators",448
-"ISCO-88_COM","8273","Grain- and spice-milling-machine operators",449
-"ISCO-88_COM","8274","Baked-goods, cereal- and chocolate-products machine operators",450
-"ISCO-88_COM","8275","Fruit-, vegetable- and nut-processing-machine operators",451
-"ISCO-88_COM","8276","Sugar production machine operators",452
-"ISCO-88_COM","8277","Tea-, coffee- and cocoa-processing-machine operators",453
-"ISCO-88_COM","8278","Brewers, wine and other beverage machine operators",454
-"ISCO-88_COM","8279","Tobacco production machine operators",455
-"ISCO-88_COM","828","Assemblers",456
-"ISCO-88_COM","8281","Mechanical-machinery assemblers",457
-"ISCO-88_COM","8282","Electrical-equipment assemblers",458
-"ISCO-88_COM","8283","Electronic-equipment assemblers",459
-"ISCO-88_COM","8284","Metal-, rubber- and plastic-products assemblers",460
-"ISCO-88_COM","8285","Wood and related products assemblers",461
-"ISCO-88_COM","8286","Paperboard, textile and related products assemblers",462
-"ISCO-88_COM","8287","Composite products assemblers",463
-"ISCO-88_COM","829","Other machine operators not elsewhere classified",464
-"ISCO-88_COM","8290","Other machine operators not elsewhere classified",465
-"ISCO-88_COM","83","Drivers and mobile plant operators",466
-"ISCO-88_COM","831","Locomotive engine drivers and related workers",467
-"ISCO-88_COM","8311","Locomotive engine drivers",468
-"ISCO-88_COM","8312","Railway brakers, signallers and shunters",469
-"ISCO-88_COM","832","Motor vehicle drivers",470
-"ISCO-88_COM","8321","Motorcycle drivers",471
-"ISCO-88_COM","8322","Car, taxi and van drivers",472
-"ISCO-88_COM","8323","Bus and tram drivers",473
-"ISCO-88_COM","8324","Heavy truck and lorry drivers",474
-"ISCO-88_COM","833","Agricultural and other mobile plant operators",475
-"ISCO-88_COM","8331","Motorised farm and forestry plant operators",476
-"ISCO-88_COM","8332","Earth-moving and related plant operators",477
-"ISCO-88_COM","8333","Crane, hoist and related plant operators",478
-"ISCO-88_COM","8334","Lifting-truck operators",479
-"ISCO-88_COM","834","Ships' deck crews and related workers",480
-"ISCO-88_COM","8340","Ships' deck crews and related workers",481
-"ISCO-88_COM","9","ELEMENTARY OCCUPATIONS",482
-"ISCO-88_COM","91","Sales and services elementary occupations",483
-"ISCO-88_COM","911","Street vendors and related workers",484
-"ISCO-88_COM","9111","Street vendors",485
-"ISCO-88_COM","9113","Door-to-door and telephone salespersons",486
-"ISCO-88_COM","912","Shoe cleaning and other street services elementary occupations",487
-"ISCO-88_COM","9120","Shoe cleaning and other street services elementary occupations",488
-"ISCO-88_COM","913","Domestic and related helpers, cleaners and launderers",489
-"ISCO-88_COM","9131","Domestic helpers and cleaners",490
-"ISCO-88_COM","9132","Helpers and cleaners in offices, hotels and other establishments",491
-"ISCO-88_COM","9133","Hand-launderers and pressers",492
-"ISCO-88_COM","914","Building caretakers, window and related cleaners",493
-"ISCO-88_COM","9141","Building caretakers",494
-"ISCO-88_COM","9142","Vehicle, window and related cleaners",495
-"ISCO-88_COM","915","Messengers, porters, doorkeepers and related workers",496
-"ISCO-88_COM","9151","Messengers, package and luggage porters and deliverers",497
-"ISCO-88_COM","9152","Doorkeepers, watchpersons and related workers",498
-"ISCO-88_COM","9153","Vending-machine money collectors, meter readers and related workers",499
-"ISCO-88_COM","916","Garbage collectors and related labourers",500
-"ISCO-88_COM","9161","Garbage collectors",501
-"ISCO-88_COM","9162","Sweepers and related labourers",502
-"ISCO-88_COM","92","Agricultural, fishery and related labourers",503
-"ISCO-88_COM","921","Agricultural, fishery and related labourers",504
-"ISCO-88_COM","9211","Farm-hands and labourers",505
-"ISCO-88_COM","9212","Forestry labourers",506
-"ISCO-88_COM","9213","Fishery, hunting and trapping labourers",507
-"ISCO-88_COM","93","Labourers in mining, construction, manufacturing and transport",508
-"ISCO-88_COM","931","Mining and construction labourers",509
-"ISCO-88_COM","9311","Mining and quarrying labourers",510
-"ISCO-88_COM","9312","Construction and maintenance labourers: roads, dams and similar constructions",511
-"ISCO-88_COM","9313","Building construction labourers",512
-"ISCO-88_COM","932","Manufacturing labourers",513
-"ISCO-88_COM","9320","Manufacturing labourers",514
-"ISCO-88_COM","933","Transport labourers and freight handlers",515
-"ISCO-88_COM","9330","Transport labourers and freight handlers",516
-"ISCO-88_COM","0","ARMED FORCES",517
-"ISCO-88_COM","01","Armed forces",518
-"ISCO-88_COM","010","Armed forces",519
-"ISCO-88_COM","0100","Armed forces",520
+"ConceptScheme","labelStyle","Concept","prefLabel","sortorder"
+"ISCO-88_COM","en","1","LEGISLATORS, SENIOR OFFICIALS AND MANAGERS",1
+"ISCO-88_COM","en","11","Legislators and senior officials",2
+"ISCO-88_COM","en","111","Legislators and senior government officials",3
+"ISCO-88_COM","en","1110","Legislators and senior government officials",4
+"ISCO-88_COM","en","114","Senior officials of special-interest organisations",5
+"ISCO-88_COM","en","1141","Senior officials of political party organisations",6
+"ISCO-88_COM","en","1142","Senior officials of employers', workers' and other economic-interest organisations",7
+"ISCO-88_COM","en","1143","Senior officials of humanitarian and other special-interest organisations",8
+"ISCO-88_COM","en","12","Corporate managers",9
+"ISCO-88_COM","en","121","Directors and chief executives",10
+"ISCO-88_COM","en","1210","Directors and chief executives",11
+"ISCO-88_COM","en","122","Production and operations managers",12
+"ISCO-88_COM","en","1221","Production and operations managers in agriculture, hunting, forestry and fishing",13
+"ISCO-88_COM","en","1222","Production and operations managers in manufacturing",14
+"ISCO-88_COM","en","1223","Production and operations managers in construction",15
+"ISCO-88_COM","en","1224","Production and operations managers in wholesale and retail trade",16
+"ISCO-88_COM","en","1225","Production and operations managers in restaurants and hotels",17
+"ISCO-88_COM","en","1226","Production and operations managers in transport, storage and communications",18
+"ISCO-88_COM","en","1227","Production and operations managers in business services enterprises",19
+"ISCO-88_COM","en","1228","Production and operations managers in personal care, cleaning and related services",20
+"ISCO-88_COM","en","1229","Production and operations managers not elsewhere classified",21
+"ISCO-88_COM","en","123","Other specialist managers",22
+"ISCO-88_COM","en","1231","Finance and administration managers",23
+"ISCO-88_COM","en","1232","Personnel and industrial relations managers",24
+"ISCO-88_COM","en","1233","Sales and marketing managers",25
+"ISCO-88_COM","en","1234","Advertising and public relations managers",26
+"ISCO-88_COM","en","1235","Supply and distribution managers",27
+"ISCO-88_COM","en","1236","Computing services managers",28
+"ISCO-88_COM","en","1237","Research and development managers",29
+"ISCO-88_COM","en","1239","Other specialist managers not elsewhere classified",30
+"ISCO-88_COM","en","13","Managers of small enterprises",31
+"ISCO-88_COM","en","131","Managers of small enterprises",32
+"ISCO-88_COM","en","1311","Managers of small enterprises in agriculture, hunting,  forestry and fishing",33
+"ISCO-88_COM","en","1312","Managers of small enterprises in manufacturing",34
+"ISCO-88_COM","en","1313","Managers of small enterprises in construction",35
+"ISCO-88_COM","en","1314","Managers of small enterprises in wholesale and retail trade",36
+"ISCO-88_COM","en","1315","Managers of small enterprises of restaurants and hotels",37
+"ISCO-88_COM","en","1316","Managers of small enterprises in transport, storage and communications",38
+"ISCO-88_COM","en","1317","Managers of small enterprises in business services enterprises",39
+"ISCO-88_COM","en","1318","Managers of small enterprises in personal care, cleaning and related services",40
+"ISCO-88_COM","en","1319","Managers of small enterprises not elsewhere classifie",41
+"ISCO-88_COM","en","2","PROFESSIONALS",42
+"ISCO-88_COM","en","21","Physical, mathematical and engineering science professionals",43
+"ISCO-88_COM","en","211","Physicists, chemists and related professionals",44
+"ISCO-88_COM","en","2111","Physicists and astronomers",45
+"ISCO-88_COM","en","2112","Meteorologists",46
+"ISCO-88_COM","en","2113","Chemists",47
+"ISCO-88_COM","en","2114","Geologists and geophysicists",48
+"ISCO-88_COM","en","212","Mathematicians, statisticians and related professionals",49
+"ISCO-88_COM","en","2121","Mathematicians and related professionals",50
+"ISCO-88_COM","en","2122","Statisticians",51
+"ISCO-88_COM","en","213","Computing professionals",52
+"ISCO-88_COM","en","2131","Computer systems designers, analysts and programmers",53
+"ISCO-88_COM","en","2139","Computing professionals not elsewhere classified",54
+"ISCO-88_COM","en","214","Architects, engineers and related professionals",55
+"ISCO-88_COM","en","2141","Architects, town and traffic planners",56
+"ISCO-88_COM","en","2142","Civil engineers",57
+"ISCO-88_COM","en","2143","Electrical engineers",58
+"ISCO-88_COM","en","2144","Electronics and telecommunications engineers",59
+"ISCO-88_COM","en","2145","Mechanical engineers",60
+"ISCO-88_COM","en","2146","Chemical engineers",61
+"ISCO-88_COM","en","2147","Mining engineers, metallurgists and related professionals",62
+"ISCO-88_COM","en","2148","Cartographers and surveyors",63
+"ISCO-88_COM","en","2149","Architects, engineers and related professionals not elsewhere classified",64
+"ISCO-88_COM","en","22","Life science and health professionals",65
+"ISCO-88_COM","en","221","Life science professionals",66
+"ISCO-88_COM","en","2211","Biologists, botanists, zoologists and related professionals ",67
+"ISCO-88_COM","en","2212","Pharmacologists, pathologists and related professionals",68
+"ISCO-88_COM","en","2213","Agronomists and related professionals",69
+"ISCO-88_COM","en","222","Health professionals (except nursing)",70
+"ISCO-88_COM","en","2221","Medical doctors",71
+"ISCO-88_COM","en","2222","Dentists",72
+"ISCO-88_COM","en","2223","Veterinarians",73
+"ISCO-88_COM","en","2224","Pharmacists",74
+"ISCO-88_COM","en","2229","Health professionals (except nursing) not elsewhere classified",75
+"ISCO-88_COM","en","223","Nursing and midwifery professionals",76
+"ISCO-88_COM","en","2230","Nursing and midwifery professionals ",77
+"ISCO-88_COM","en","23","Teaching professionals",78
+"ISCO-88_COM","en","231","College, university and higher education teaching professionals",79
+"ISCO-88_COM","en","2310","College, university and higher education teaching professionals",80
+"ISCO-88_COM","en","232","Secondary education teaching professionals",81
+"ISCO-88_COM","en","2320","Secondary education teaching professionals",82
+"ISCO-88_COM","en","233","Primary and pre-primary education teaching professionals",83
+"ISCO-88_COM","en","2331","Primary education teaching professionals",84
+"ISCO-88_COM","en","2332","Pre-primary education teaching professionals",85
+"ISCO-88_COM","en","234","Special education teaching professionals",86
+"ISCO-88_COM","en","2340","Special education teaching professionals",87
+"ISCO-88_COM","en","235","Other teaching professionals",88
+"ISCO-88_COM","en","2351","Education methods specialists",89
+"ISCO-88_COM","en","2352","School inspectors",90
+"ISCO-88_COM","en","2359","Other teaching professionals not elsewhere classified",91
+"ISCO-88_COM","en","24","Other professionals",92
+"ISCO-88_COM","en","241","Business professionals",93
+"ISCO-88_COM","en","2411","Accountants",94
+"ISCO-88_COM","en","2412","Personnel and careers professionals",95
+"ISCO-88_COM","en","2419","Business professionals not elsewhere classified",96
+"ISCO-88_COM","en","242","Legal professionals",97
+"ISCO-88_COM","en","2421","Lawyers",98
+"ISCO-88_COM","en","2422","Judges",99
+"ISCO-88_COM","en","2429","Legal professionals not elswhere classified",100
+"ISCO-88_COM","en","243","Archivists, librarians and related information professionals",101
+"ISCO-88_COM","en","2431","Archivists and curators",102
+"ISCO-88_COM","en","2432","Librarians and related information professionals",103
+"ISCO-88_COM","en","244","Social science and related professionals",104
+"ISCO-88_COM","en","2441","Economists",105
+"ISCO-88_COM","en","2442","Sociologists, anthropologists and related professionals",106
+"ISCO-88_COM","en","2443","Philosophers, historians and political scientists",107
+"ISCO-88_COM","en","2444","Philologists, translators and interpreters",108
+"ISCO-88_COM","en","2445","Psychologists",109
+"ISCO-88_COM","en","2446","Social work professionals",110
+"ISCO-88_COM","en","245","Writers and creative or performing artists",111
+"ISCO-88_COM","en","2451","Authors, journalists and other writers",112
+"ISCO-88_COM","en","2452","Sculptors, painters and related artists",113
+"ISCO-88_COM","en","2453","Composers, musicians and singers",114
+"ISCO-88_COM","en","2454","Choreographers and dancers",115
+"ISCO-88_COM","en","2455","Film, stage and related actors and directors",116
+"ISCO-88_COM","en","246","Religious professionals",117
+"ISCO-88_COM","en","2460","Religious professionals",118
+"ISCO-88_COM","en","247","Public service administrative professionals",119
+"ISCO-88_COM","en","2470","Public service administrative professionals",120
+"ISCO-88_COM","en","3","TECHNICIANS AND ASSOCIATE PROFESSIONALS",121
+"ISCO-88_COM","en","31","Physical and engineering science associate professionals",122
+"ISCO-88_COM","en","311","Physical and engineering science technicians",123
+"ISCO-88_COM","en","3111","Chemical and physical science technicians",124
+"ISCO-88_COM","en","3112","Civil engineering technicians",125
+"ISCO-88_COM","en","3113","Electrical engineering technicians",126
+"ISCO-88_COM","en","3114","Electronics and telecommunications engineering technicians",127
+"ISCO-88_COM","en","3115","Mechanical engineering technicians",128
+"ISCO-88_COM","en","3116","Chemical engineering technicians",129
+"ISCO-88_COM","en","3117","Mining and metallurgical technicians",130
+"ISCO-88_COM","en","3118","Draughtspersons",131
+"ISCO-88_COM","en","3119","Physical and engineering science technicians not elsewhere classified",132
+"ISCO-88_COM","en","312","Computer associate professionals",133
+"ISCO-88_COM","en","3121","Computer assistants",134
+"ISCO-88_COM","en","3122","Computer equipment operators",135
+"ISCO-88_COM","en","3123","Industrial robot controllers",136
+"ISCO-88_COM","en","313","Optical and electronic equipment operators",137
+"ISCO-88_COM","en","3131","Photographers and image and sound recording equipment operators",138
+"ISCO-88_COM","en","3132","Broadcasting and telecommunications equipment operators",139
+"ISCO-88_COM","en","3133","Medical equipment operators",140
+"ISCO-88_COM","en","3139","Optical and electronic equipment operators not elsewhere classified",141
+"ISCO-88_COM","en","314","Ship and aircraft controllers and technicians",142
+"ISCO-88_COM","en","3141","Ships' engineers",143
+"ISCO-88_COM","en","3142","Ships' deck officers and pilots",144
+"ISCO-88_COM","en","3143","Aircraft pilots and related associate professionals",145
+"ISCO-88_COM","en","3144","Air traffic controllers",146
+"ISCO-88_COM","en","3145","Air traffic safety technicians",147
+"ISCO-88_COM","en","315","Safety and quality inspectors",148
+"ISCO-88_COM","en","3151","Building and fire inspectors",149
+"ISCO-88_COM","en","3152","Safety, health and quality inspectors",150
+"ISCO-88_COM","en","32","Life science and health associate professionals",151
+"ISCO-88_COM","en","321","Life science technicians and related associate professional",152
+"ISCO-88_COM","en","3211","Life science technicians",153
+"ISCO-88_COM","en","3212","Agronomy and forestry technicians",154
+"ISCO-88_COM","en","3213","Farming and forestry advisers",155
+"ISCO-88_COM","en","322","Health associate professionals (except nursing)",156
+"ISCO-88_COM","en","3221","Medical assistants",157
+"ISCO-88_COM","en","3222","Hygienists, health and environmental officers",158
+"ISCO-88_COM","en","3223","Dieticians and nutritionists",159
+"ISCO-88_COM","en","3224","Optometrists and opticians",160
+"ISCO-88_COM","en","3225","Dental assistants",161
+"ISCO-88_COM","en","3226","Physiotherapists and related associate professionals",162
+"ISCO-88_COM","en","3227","Veterinary assistants",163
+"ISCO-88_COM","en","3228","Pharmaceutical assistants",164
+"ISCO-88_COM","en","3229","Health associate professionals (except nursing) not elsewhere classified",165
+"ISCO-88_COM","en","323","Nursing and midwifery associate professionals",166
+"ISCO-88_COM","en","3231","Nursing associate professionals",167
+"ISCO-88_COM","en","3232","Midwifery associate professionals",168
+"ISCO-88_COM","en","33","Teaching associate professionals",169
+"ISCO-88_COM","en","331","Primary education teaching associate professionals",170
+"ISCO-88_COM","en","3310","Primary education teaching associate professionals",171
+"ISCO-88_COM","en","332","Pre-primary education teaching associate professionals",172
+"ISCO-88_COM","en","3320","Pre-primary education teaching associate professionals",173
+"ISCO-88_COM","en","333","Special education teaching associate professionals",174
+"ISCO-88_COM","en","3330","Special education teaching associate professionals",175
+"ISCO-88_COM","en","334","Other teaching associate professionals",176
+"ISCO-88_COM","en","3340","Other teaching associate professionals",177
+"ISCO-88_COM","en","34","Other associate professionals",178
+"ISCO-88_COM","en","341","Finance and sales associate professionals",179
+"ISCO-88_COM","en","3411","Securities and finance dealers and brokers",180
+"ISCO-88_COM","en","3412","Insurance representatives",181
+"ISCO-88_COM","en","3413","Estate agents",182
+"ISCO-88_COM","en","3414","Travel consultants and organisers",183
+"ISCO-88_COM","en","3415","Technical and commercial sales representatives",184
+"ISCO-88_COM","en","3416","Buyers",185
+"ISCO-88_COM","en","3417","Appraisers, valuers and auctioneers",186
+"ISCO-88_COM","en","3419","Finance and sales associate professionals not elsewhere classified",187
+"ISCO-88_COM","en","342","Business services agents and trade brokers",188
+"ISCO-88_COM","en","3421","Trade brokers",189
+"ISCO-88_COM","en","3422","Clearing and forwarding agents",190
+"ISCO-88_COM","en","3423","Employment agents and labour contractors",191
+"ISCO-88_COM","en","3429","Business services agents and trade brokers not elsewhere classified",192
+"ISCO-88_COM","en","343","Administrative associate professionals",193
+"ISCO-88_COM","en","3431","Administrative secretaries and related associate professionals",194
+"ISCO-88_COM","en","3432","Legal and related business associate professionals",195
+"ISCO-88_COM","en","3433","Bookkeepers",196
+"ISCO-88_COM","en","3434","Statistical, mathematical and related associate professionals",197
+"ISCO-88_COM","en","344","Customs, tax and related government associate professionals",198
+"ISCO-88_COM","en","3441","Customs and border inspectors",199
+"ISCO-88_COM","en","3442","Government tax and excise officials",200
+"ISCO-88_COM","en","3443","Government social benefits officials",201
+"ISCO-88_COM","en","3444","Government licensing officials",202
+"ISCO-88_COM","en","3449","Customs, tax and related government associate professionals not elsewhere classified",203
+"ISCO-88_COM","en","345","Police inspectors and detectives",204
+"ISCO-88_COM","en","3450","Police inspectors and detectives",205
+"ISCO-88_COM","en","346","Social work associate professionals",206
+"ISCO-88_COM","en","3460","Social work associate professionals",207
+"ISCO-88_COM","en","347","Artistic, entertainment and sports associate professionals",208
+"ISCO-88_COM","en","3471","Decorators and commercial designers",209
+"ISCO-88_COM","en","3472","Radio, television and other announcers",210
+"ISCO-88_COM","en","3473","Street, night-club and related musicians, singers and dancers",211
+"ISCO-88_COM","en","3474","Clowns, magicians, acrobats and related associate professionals",212
+"ISCO-88_COM","en","3475","Athletes, sports persons and related associate professionals",213
+"ISCO-88_COM","en","348","Religious associate professionals",214
+"ISCO-88_COM","en","3480","Religious associate professionals",215
+"ISCO-88_COM","en","4","CLERKS",216
+"ISCO-88_COM","en","41","Office clerks",217
+"ISCO-88_COM","en","411","Secretaries and keyboard-operating clerks",218
+"ISCO-88_COM","en","4111","Stenographers and typists",219
+"ISCO-88_COM","en","4112","Word-processor and related operators",220
+"ISCO-88_COM","en","4113","Data entry operators",221
+"ISCO-88_COM","en","4114","Calculating-machine operators",222
+"ISCO-88_COM","en","4115","Secretaries",223
+"ISCO-88_COM","en","412","Numerical clerks",224
+"ISCO-88_COM","en","4121","Accounting and book-keeping clerks",225
+"ISCO-88_COM","en","4122","Statistical and finance clerks",226
+"ISCO-88_COM","en","413","Material-recording and transport clerks",227
+"ISCO-88_COM","en","4131","Stock clerks",228
+"ISCO-88_COM","en","4132","Production clerks",229
+"ISCO-88_COM","en","4133","Transport clerks",230
+"ISCO-88_COM","en","414","Library, mail and related clerks",231
+"ISCO-88_COM","en","4141","Library and filing clerks",232
+"ISCO-88_COM","en","4142","Mail carriers and sorting clerks",233
+"ISCO-88_COM","en","4143","Coding, proof-reading and related clerks",234
+"ISCO-88_COM","en","4144","Scribes and related workers",235
+"ISCO-88_COM","en","419","Other office clerks",236
+"ISCO-88_COM","en","4190","Other office clerks",237
+"ISCO-88_COM","en","42","Customer services clerks",238
+"ISCO-88_COM","en","421","Cashiers, tellers and related clerks",239
+"ISCO-88_COM","en","4211","Cashiers and ticket clerks",240
+"ISCO-88_COM","en","4212","Tellers and other counter clerks",241
+"ISCO-88_COM","en","4213","Bookmakers and croupiers",242
+"ISCO-88_COM","en","4214","Pawnbrokers and money-lenders",243
+"ISCO-88_COM","en","4215","Debt-collectors and related workers",244
+"ISCO-88_COM","en","422","Client information clerks",245
+"ISCO-88_COM","en","4221","Travel agency and related clerks",246
+"ISCO-88_COM","en","4222","Receptionists and information clerks",247
+"ISCO-88_COM","en","4223","Telephone switchboard operators",248
+"ISCO-88_COM","en","5","SERVICE WORKERS AND SHOP AND MARKET SALES WORKERS",249
+"ISCO-88_COM","en","51","Personal and protective services workers",250
+"ISCO-88_COM","en","511","Travel attendants and related workers",251
+"ISCO-88_COM","en","5111","Travel attendants and travel stewards",252
+"ISCO-88_COM","en","5112","Transport conductors",253
+"ISCO-88_COM","en","5113","Travel guides",254
+"ISCO-88_COM","en","512","Housekeeping and restaurant services workers",255
+"ISCO-88_COM","en","5121","Housekeepers and related workers",256
+"ISCO-88_COM","en","5122","Cooks",257
+"ISCO-88_COM","en","5123","Waiters, waitresses and bartenders",258
+"ISCO-88_COM","en","513","Personal care and related workers",259
+"ISCO-88_COM","en","5131","Child-care workers",260
+"ISCO-88_COM","en","5132","Institution-based personal care workers",261
+"ISCO-88_COM","en","5133","Home-based personal care workers",262
+"ISCO-88_COM","en","5139","Personal care and related workers not elsewhere classified",263
+"ISCO-88_COM","en","514","Other personal services workers",264
+"ISCO-88_COM","en","5141","Hairdressers, barbers, beauticians and related workers",265
+"ISCO-88_COM","en","5142","Companions and valets",266
+"ISCO-88_COM","en","5143","Undertakers and embalmers",267
+"ISCO-88_COM","en","5149","Other personal services workers not elsewhere classified",268
+"ISCO-88_COM","en","516","Protective services workers",269
+"ISCO-88_COM","en","5161","Fire-fighters",270
+"ISCO-88_COM","en","5162","Police officers",271
+"ISCO-88_COM","en","5163","Prison guards",272
+"ISCO-88_COM","en","5169","Protective services workers not elsewhere classified",273
+"ISCO-88_COM","en","52","Models, salespersons and demonstrators",274
+"ISCO-88_COM","en","521","Fashion and other models",275
+"ISCO-88_COM","en","5210","Fashion and other models",276
+"ISCO-88_COM","en","522","Shop, stall and market salespersons and demonstrators",277
+"ISCO-88_COM","en","5220","Shop, stall and market salespersons and demonstrators",278
+"ISCO-88_COM","en","6","SKILLED AGRICULTURAL AND FISHERY WORKERS",279
+"ISCO-88_COM","en","61","Skilled agricultural and fishery workers",280
+"ISCO-88_COM","en","611","Market gardeners and crop growers",281
+"ISCO-88_COM","en","6111","Field crop and vegetable growers",282
+"ISCO-88_COM","en","6112","Gardeners, horticultural and nursery growers",283
+"ISCO-88_COM","en","612","Animal producers and related workers",284
+"ISCO-88_COM","en","6121","Dairy and livestock producers",285
+"ISCO-88_COM","en","6122","Poultry producers",286
+"ISCO-88_COM","en","6129","Animal producers and related workers not elsewhere classified",287
+"ISCO-88_COM","en","613","Crop and animal producers",288
+"ISCO-88_COM","en","6130","Crop and animal producers",289
+"ISCO-88_COM","en","614","Forestry and related workers",290
+"ISCO-88_COM","en","6141","Forestry workers and loggers",291
+"ISCO-88_COM","en","6142","Charcoal burners and related workers",292
+"ISCO-88_COM","en","615","Fishery workers, hunters and trappers",293
+"ISCO-88_COM","en","6151","Aquatic life cultivation workers",294
+"ISCO-88_COM","en","6152","Inland and coastal waters fishery workers",295
+"ISCO-88_COM","en","6153","Deep-sea fishery workers",296
+"ISCO-88_COM","en","6154","Hunters and trappers",297
+"ISCO-88_COM","en","7","CRAFT AND RELATED TRADES WORKERS",298
+"ISCO-88_COM","en","71","Extraction and building trades workers",299
+"ISCO-88_COM","en","711","Miners, shotfirers, stone cutters and carvers",300
+"ISCO-88_COM","en","7111","Miners and quarry workers",301
+"ISCO-88_COM","en","7112","Shotfirers and blasters",302
+"ISCO-88_COM","en","7113","Stone splitters, cutters and carvers",303
+"ISCO-88_COM","en","712","Building frame and related trades workers",304
+"ISCO-88_COM","en","7121","Builders",305
+"ISCO-88_COM","en","7122","Bricklayers and stonemasons",306
+"ISCO-88_COM","en","7123","Concrete placers, concrete finishers and related workers",307
+"ISCO-88_COM","en","7124","Carpenters and joiners",308
+"ISCO-88_COM","en","7129","Building frame and related trades workers not elsewhere classified",309
+"ISCO-88_COM","en","713","Building finishers and related trades workers",310
+"ISCO-88_COM","en","7131","Roofers",311
+"ISCO-88_COM","en","7132","Floor layers and tile setters",312
+"ISCO-88_COM","en","7133","Plasterers",313
+"ISCO-88_COM","en","7134","Insulation workers",314
+"ISCO-88_COM","en","7135","Glaziers",315
+"ISCO-88_COM","en","7136","Plumbers and pipe fitters",316
+"ISCO-88_COM","en","7137","Building and related electricians",317
+"ISCO-88_COM","en","7139","Building finishers and related trade workers not elsewhere classified",318
+"ISCO-88_COM","en","714","Painters, building structure cleaners and related trades workers",319
+"ISCO-88_COM","en","7141","Painters and related workers",320
+"ISCO-88_COM","en","7143","Building structure cleaners",321
+"ISCO-88_COM","en","72","Metal, machinery and related trades workers",322
+"ISCO-88_COM","en","721","Metal moulders, welders, sheet-metal workers, structural-metal preparers, and related trades workers",323
+"ISCO-88_COM","en","7211","Metal moulders and coremakers",324
+"ISCO-88_COM","en","7212","Welders and flame cutters",325
+"ISCO-88_COM","en","7213","Sheet-metal workers",326
+"ISCO-88_COM","en","7214","Structural-metal preparers and erectors",327
+"ISCO-88_COM","en","7215","Riggers and cable splicers",328
+"ISCO-88_COM","en","7216","Underwater workers",329
+"ISCO-88_COM","en","722","Blacksmiths, tool-makers and related trades workers",330
+"ISCO-88_COM","en","7221","Blacksmiths, hammer-smiths and forging-press workers",331
+"ISCO-88_COM","en","7222","Tool-makers and related workers",332
+"ISCO-88_COM","en","7223","Machine-tool setters and setter-operators",333
+"ISCO-88_COM","en","7224","Metal wheel-grinders, polishers and tool sharpeners",334
+"ISCO-88_COM","en","723","Machinery mechanics and fitters",335
+"ISCO-88_COM","en","7231","Motor vehicle mechanics and fitters",336
+"ISCO-88_COM","en","7232","Aircraft engine mechanics and fitters",337
+"ISCO-88_COM","en","7233","Agricultural- or industrial-machinery mechanics and fitters",338
+"ISCO-88_COM","en","724","Electrical and electronic equipment mechanics and fitters",339
+"ISCO-88_COM","en","7241","Electrical mechanics fitters and services",340
+"ISCO-88_COM","en","7242","Electronics mechanics, fitters and servicers",341
+"ISCO-88_COM","en","7244","Telegraph and telephone installers and servicers",342
+"ISCO-88_COM","en","7245","Electrical line installers, repairers and cable jointers ",343
+"ISCO-88_COM","en","73","Precision, handicraft, craft printing and related trades workers",344
+"ISCO-88_COM","en","731","Precision workers in metal and related materials",345
+"ISCO-88_COM","en","7311","Precision-instrument makers and repairers",346
+"ISCO-88_COM","en","7312","Musical-instrument makers and tuners",347
+"ISCO-88_COM","en","7313","Jewellery and precious-metal workers",348
+"ISCO-88_COM","en","732","Potters, glass-makers and related trades workers",349
+"ISCO-88_COM","en","7321","Abrasive wheel formers, potters and related workers",350
+"ISCO-88_COM","en","7322","Glass-makers, cutters, grinders and finishers",351
+"ISCO-88_COM","en","7323","Glass engravers and etchers",352
+"ISCO-88_COM","en","7324","Glass, ceramics and related decorative painters",353
+"ISCO-88_COM","en","733","Handicraft workers in wood, textile, leather and related materials",354
+"ISCO-88_COM","en","7331","Handicraft workers in wood and related materials",355
+"ISCO-88_COM","en","7332","Handicraft workers in textile, leather and related materials",356
+"ISCO-88_COM","en","734","Craft printing and related trades workers",357
+"ISCO-88_COM","en","7341","Compositors, typesetters and related workers",358
+"ISCO-88_COM","en","7342","Stereotypers and electrotypers",359
+"ISCO-88_COM","en","7343","Printing engravers and etchers",360
+"ISCO-88_COM","en","7344","Photographic and related workers",361
+"ISCO-88_COM","en","7345","Bookbinders and related workers",362
+"ISCO-88_COM","en","7346","Silk-screen, block and craft textile printers",363
+"ISCO-88_COM","en","74","Other craft and related trades workers",364
+"ISCO-88_COM","en","741","Food processing and related trades workers",365
+"ISCO-88_COM","en","7411","Butchers, fishmongers and related food preparers",366
+"ISCO-88_COM","en","7412","Bakers, pastry-cooks and confectionery makers",367
+"ISCO-88_COM","en","7413","Dairy-products workers",368
+"ISCO-88_COM","en","7414","Fruit, vegetable and related preservers",369
+"ISCO-88_COM","en","7415","Food and beverage tasters and graders",370
+"ISCO-88_COM","en","7416","Tobacco preparers and tobacco products makers",371
+"ISCO-88_COM","en","742","Wood treaters, cabinet-makers and related trades workers",372
+"ISCO-88_COM","en","7421","Wood treaters",373
+"ISCO-88_COM","en","7422","Cabinetmakers and related workers",374
+"ISCO-88_COM","en","7423","Woodworking machine setters and setter-operators",375
+"ISCO-88_COM","en","7424","Basketry weavers, brush makers and related workers",376
+"ISCO-88_COM","en","743","Textile, garment and related trades workers",377
+"ISCO-88_COM","en","7431","Fibre preparers",378
+"ISCO-88_COM","en","7432","Weavers, knitters and related workers",379
+"ISCO-88_COM","en","7433","Tailors, dressmakers and hatters",380
+"ISCO-88_COM","en","7434","Furriers and related workers",381
+"ISCO-88_COM","en","7435","Textile, leather and related pattern-makers and cutters",382
+"ISCO-88_COM","en","7436","Sewers, embroiderers and related workers",383
+"ISCO-88_COM","en","7437","Upholsterers and related workers",384
+"ISCO-88_COM","en","744","Pelt, leather and shoemaking trades workers",385
+"ISCO-88_COM","en","7441","Pelt dressers, tanners and fellmongers",386
+"ISCO-88_COM","en","7442","Shoe-makers and related workers",387
+"ISCO-88_COM","en","8","PLANT AND MACHINE OPERATORS AND ASSEMBLERS",388
+"ISCO-88_COM","en","81","Stationary plant and related operators",389
+"ISCO-88_COM","en","811","Mining and mineral-processing-plant operators",390
+"ISCO-88_COM","en","8111","Mining plant operators",391
+"ISCO-88_COM","en","8112","Mineral-ore and stone-processing-plant operators",392
+"ISCO-88_COM","en","8113","Well drillers and borers and related workers",393
+"ISCO-88_COM","en","812","Metal-processing plant operators",394
+"ISCO-88_COM","en","8121","Ore and metal furnace operators",395
+"ISCO-88_COM","en","8122","Metal melters, casters and rolling-mill operators",396
+"ISCO-88_COM","en","8123","Metal heat-treating-plant operators",397
+"ISCO-88_COM","en","8124","Metal drawers and extruders",398
+"ISCO-88_COM","en","813","Glass, ceramics and related plant operators",399
+"ISCO-88_COM","en","8131","Glass and ceramics kiln and related machine operators",400
+"ISCO-88_COM","en","8139","Glass, ceramics and related plant operators not elsewhere classified",401
+"ISCO-88_COM","en","814","Wood-processing- and papermaking-plant operators",402
+"ISCO-88_COM","en","8141","Wood-processing-plant operators",403
+"ISCO-88_COM","en","8142","Paper-pulp plant operators",404
+"ISCO-88_COM","en","8143","Papermaking-plant operators",405
+"ISCO-88_COM","en","815","Chemical-processing-plant operators",406
+"ISCO-88_COM","en","8151","Crushing-, grinding- and chemical-mixing-machinery operators",407
+"ISCO-88_COM","en","8152","Chemical-heat-treating-plant operators",408
+"ISCO-88_COM","en","8153","Chemical-filtering- and separating-equipment operators",409
+"ISCO-88_COM","en","8154","Chemical-still and reactor operators (except petroleum and natural gas)",410
+"ISCO-88_COM","en","8155","Petroleum- and natural-gas-refining-plant operators",411
+"ISCO-88_COM","en","8159","Chemical-processing-plant operators not elsewhere classified",412
+"ISCO-88_COM","en","816","Power-production and related plant operators",413
+"ISCO-88_COM","en","8161","Power-production plant operators",414
+"ISCO-88_COM","en","8162","Steam-engine and boiler operators",415
+"ISCO-88_COM","en","8163","Incinerator, water-treatment and related plant operators",416
+"ISCO-88_COM","en","817","Industrial robot operators",417
+"ISCO-88_COM","en","8170","Industrial robot operators",418
+"ISCO-88_COM","en","82","Machine operators and assemblers",419
+"ISCO-88_COM","en","821","Metal- and mineral-products machine operators",420
+"ISCO-88_COM","en","8211","Machine-tool operators",421
+"ISCO-88_COM","en","8212","Cement and other mineral products machine operators",422
+"ISCO-88_COM","en","822","Chemical-products machine operators",423
+"ISCO-88_COM","en","8221","Pharmaceutical-and toiletry-products machine operators",424
+"ISCO-88_COM","en","8222","Ammunition- and explosive-products machine operators",425
+"ISCO-88_COM","en","8223","Metal finishing-, plating- and coating-machine operators",426
+"ISCO-88_COM","en","8224","Photographic-products machine operators",427
+"ISCO-88_COM","en","8229","Chemical-products machine operators not elsewhere classified",428
+"ISCO-88_COM","en","823","Rubber- and plastic-products machine operators",429
+"ISCO-88_COM","en","8231","Rubber-products machine operators",430
+"ISCO-88_COM","en","8232","Plastic-products machine operators",431
+"ISCO-88_COM","en","824","Wood-products machine operators",432
+"ISCO-88_COM","en","8240","Wood-products machine operators",433
+"ISCO-88_COM","en","825","Printing-, binding- and paper-products machine operators",434
+"ISCO-88_COM","en","8251","Printing-machine operators",435
+"ISCO-88_COM","en","8252","Book-binding-machine operators",436
+"ISCO-88_COM","en","8253","Paper-products machine operators",437
+"ISCO-88_COM","en","826","Textile-, fur- and leather-products machine operators",438
+"ISCO-88_COM","en","8261","Fibre-preparing-, spinning- and winding-machine operators",439
+"ISCO-88_COM","en","8262","Weaving- and knitting-machine operators",440
+"ISCO-88_COM","en","8263","Sewing-machine operators",441
+"ISCO-88_COM","en","8264","Bleaching-, dyeing- and cleaning-machine operators",442
+"ISCO-88_COM","en","8265","Fur- and leather-preparing-machine operators",443
+"ISCO-88_COM","en","8266","Shoemaking- and related machine operators",444
+"ISCO-88_COM","en","8269","Textile-, fur- and leather-products machine operators not elsewhere classified",445
+"ISCO-88_COM","en","827","Food and related products machine operators",446
+"ISCO-88_COM","en","8271","Meat- and fish-processing-machine operators",447
+"ISCO-88_COM","en","8272","Dairy-products machine operators",448
+"ISCO-88_COM","en","8273","Grain- and spice-milling-machine operators",449
+"ISCO-88_COM","en","8274","Baked-goods, cereal- and chocolate-products machine operators",450
+"ISCO-88_COM","en","8275","Fruit-, vegetable- and nut-processing-machine operators",451
+"ISCO-88_COM","en","8276","Sugar production machine operators",452
+"ISCO-88_COM","en","8277","Tea-, coffee- and cocoa-processing-machine operators",453
+"ISCO-88_COM","en","8278","Brewers, wine and other beverage machine operators",454
+"ISCO-88_COM","en","8279","Tobacco production machine operators",455
+"ISCO-88_COM","en","828","Assemblers",456
+"ISCO-88_COM","en","8281","Mechanical-machinery assemblers",457
+"ISCO-88_COM","en","8282","Electrical-equipment assemblers",458
+"ISCO-88_COM","en","8283","Electronic-equipment assemblers",459
+"ISCO-88_COM","en","8284","Metal-, rubber- and plastic-products assemblers",460
+"ISCO-88_COM","en","8285","Wood and related products assemblers",461
+"ISCO-88_COM","en","8286","Paperboard, textile and related products assemblers",462
+"ISCO-88_COM","en","8287","Composite products assemblers",463
+"ISCO-88_COM","en","829","Other machine operators not elsewhere classified",464
+"ISCO-88_COM","en","8290","Other machine operators not elsewhere classified",465
+"ISCO-88_COM","en","83","Drivers and mobile plant operators",466
+"ISCO-88_COM","en","831","Locomotive engine drivers and related workers",467
+"ISCO-88_COM","en","8311","Locomotive engine drivers",468
+"ISCO-88_COM","en","8312","Railway brakers, signallers and shunters",469
+"ISCO-88_COM","en","832","Motor vehicle drivers",470
+"ISCO-88_COM","en","8321","Motorcycle drivers",471
+"ISCO-88_COM","en","8322","Car, taxi and van drivers",472
+"ISCO-88_COM","en","8323","Bus and tram drivers",473
+"ISCO-88_COM","en","8324","Heavy truck and lorry drivers",474
+"ISCO-88_COM","en","833","Agricultural and other mobile plant operators",475
+"ISCO-88_COM","en","8331","Motorised farm and forestry plant operators",476
+"ISCO-88_COM","en","8332","Earth-moving and related plant operators",477
+"ISCO-88_COM","en","8333","Crane, hoist and related plant operators",478
+"ISCO-88_COM","en","8334","Lifting-truck operators",479
+"ISCO-88_COM","en","834","Ships' deck crews and related workers",480
+"ISCO-88_COM","en","8340","Ships' deck crews and related workers",481
+"ISCO-88_COM","en","9","ELEMENTARY OCCUPATIONS",482
+"ISCO-88_COM","en","91","Sales and services elementary occupations",483
+"ISCO-88_COM","en","911","Street vendors and related workers",484
+"ISCO-88_COM","en","9111","Street vendors",485
+"ISCO-88_COM","en","9113","Door-to-door and telephone salespersons",486
+"ISCO-88_COM","en","912","Shoe cleaning and other street services elementary occupations",487
+"ISCO-88_COM","en","9120","Shoe cleaning and other street services elementary occupations",488
+"ISCO-88_COM","en","913","Domestic and related helpers, cleaners and launderers",489
+"ISCO-88_COM","en","9131","Domestic helpers and cleaners",490
+"ISCO-88_COM","en","9132","Helpers and cleaners in offices, hotels and other establishments",491
+"ISCO-88_COM","en","9133","Hand-launderers and pressers",492
+"ISCO-88_COM","en","914","Building caretakers, window and related cleaners",493
+"ISCO-88_COM","en","9141","Building caretakers",494
+"ISCO-88_COM","en","9142","Vehicle, window and related cleaners",495
+"ISCO-88_COM","en","915","Messengers, porters, doorkeepers and related workers",496
+"ISCO-88_COM","en","9151","Messengers, package and luggage porters and deliverers",497
+"ISCO-88_COM","en","9152","Doorkeepers, watchpersons and related workers",498
+"ISCO-88_COM","en","9153","Vending-machine money collectors, meter readers and related workers",499
+"ISCO-88_COM","en","916","Garbage collectors and related labourers",500
+"ISCO-88_COM","en","9161","Garbage collectors",501
+"ISCO-88_COM","en","9162","Sweepers and related labourers",502
+"ISCO-88_COM","en","92","Agricultural, fishery and related labourers",503
+"ISCO-88_COM","en","921","Agricultural, fishery and related labourers",504
+"ISCO-88_COM","en","9211","Farm-hands and labourers",505
+"ISCO-88_COM","en","9212","Forestry labourers",506
+"ISCO-88_COM","en","9213","Fishery, hunting and trapping labourers",507
+"ISCO-88_COM","en","93","Labourers in mining, construction, manufacturing and transport",508
+"ISCO-88_COM","en","931","Mining and construction labourers",509
+"ISCO-88_COM","en","9311","Mining and quarrying labourers",510
+"ISCO-88_COM","en","9312","Construction and maintenance labourers: roads, dams and similar constructions",511
+"ISCO-88_COM","en","9313","Building construction labourers",512
+"ISCO-88_COM","en","932","Manufacturing labourers",513
+"ISCO-88_COM","en","9320","Manufacturing labourers",514
+"ISCO-88_COM","en","933","Transport labourers and freight handlers",515
+"ISCO-88_COM","en","9330","Transport labourers and freight handlers",516
+"ISCO-88_COM","en","0","ARMED FORCES",517
+"ISCO-88_COM","en","01","Armed forces",518
+"ISCO-88_COM","en","010","Armed forces",519
+"ISCO-88_COM","en","0100","Armed forces",520
+"ISCO-88_COM","fr","1","MEMBRES DE L'EXÉCUTIF ET DES CORPS LÉGISLATIFS, HAUTS FONCTIONNAIRES DES SERVICES PUBLICS, DIRIGEANTS ET CADRES DE DIRECTION DES ENTREPRISES",1
+"ISCO-88_COM","fr","11","Membres de l'Exécutif et des corps législatifs et cadres supérieurs de l'Administration publique",2
+"ISCO-88_COM","fr","111","Membres de l'Exécutif et des corps législatifs et cadres supérieurs de l'Administration publique",3
+"ISCO-88_COM","fr","1110","Membres de l'Exécutif et des corps législatifs et cadres supérieurs de l'Administration publique",4
+"ISCO-88_COM","fr","114","Dirigeants et cadres supérieurs de partis politiques",5
+"ISCO-88_COM","fr","1141","Dirigeants et cadres supérieurs de partis politiques",6
+"ISCO-88_COM","fr","1142","Dirigeants et cadres supérieurs d'organisations d'employeurs et de travailleurs et d'autres organisations socio-économiques",7
+"ISCO-88_COM","fr","1143","Dirigeants et cadres supérieurs d'organisations humanitaires et d'autres organisations spécialisées",8
+"ISCO-88_COM","fr","12","Directeurs de société",9
+"ISCO-88_COM","fr","121","Directeurs",10
+"ISCO-88_COM","fr","1210","Directeurs",11
+"ISCO-88_COM","fr","122","Cadres de direction, production et opérations",12
+"ISCO-88_COM","fr","1221","Cadres de direction, agriculture, chasse, sylviculture et pêche",13
+"ISCO-88_COM","fr","1222","Cadres de direction, industries manufacturières",14
+"ISCO-88_COM","fr","1223","Cadres de direction, bâtiment et travaux publics",15
+"ISCO-88_COM","fr","1224","Cadres de direction, commerce de gros et de détail",16
+"ISCO-88_COM","fr","1225","Cadres de direction, restauration et hôtellerie",17
+"ISCO-88_COM","fr","1226","Cadres de direction, transports, entreposage et communications",18
+"ISCO-88_COM","fr","1227","Cadres de direction, entreprises d'intermédiation et de service aux entreprises",19
+"ISCO-88_COM","fr","1228","Cadres de direction, services de soins personnels, de nettoyage et services similaires",20
+"ISCO-88_COM","fr","1229","Cadres de direction, non classés ailleurs",21
+"ISCO-88_COM","fr","123","Autres cadres de direction spécialisés",22
+"ISCO-88_COM","fr","1231","Cadres de direction, services administratifs et financiers",23
+"ISCO-88_COM","fr","1232","Cadres de direction, personnel et relations professionnelles",24
+"ISCO-88_COM","fr","1233","Cadres de direction, ventes et commercialisation",25
+"ISCO-88_COM","fr","1234","Cadres de direction, publicité et relations publiques",26
+"ISCO-88_COM","fr","1235","Cadres de direction, achats et distribution",27
+"ISCO-88_COM","fr","1236","Cadres de direction, services informatiques",28
+"ISCO-88_COM","fr","1237","Cadres de direction, recherche-développement",29
+"ISCO-88_COM","fr","1239","Autres cadres de direction non classés ailleurs",30
+"ISCO-88_COM","fr","13","Dirigeants et gérants de petites entreprises",31
+"ISCO-88_COM","fr","131","Dirigeants et gérants de petites entreprises",32
+"ISCO-88_COM","fr","1311","Dirigeants et gérants de petites entreprises dans l'agriculture, la chasse, la sylviculture et la pêche",33
+"ISCO-88_COM","fr","1312","Dirigeants et gérants de petites entreprises dans les industries manufacturières",34
+"ISCO-88_COM","fr","1313","Dirigeants et gérants de petites entreprises dans le bâtiment et les travaux publics",35
+"ISCO-88_COM","fr","1314","Dirigeants et gérants de petites entreprises dans le commerce de gros et de détail",36
+"ISCO-88_COM","fr","1315","Dirigeants et gérants de petites entreprises dans la restauration et l'hôtellerie",37
+"ISCO-88_COM","fr","1316","Dirigeants et gérants de petites entreprises dans les transports, l'entreposage et les communications",38
+"ISCO-88_COM","fr","1317","Dirigeants et gérants de petites entreprises d'intermédiation et de service aux entreprises",39
+"ISCO-88_COM","fr","1318","Dirigeants et gérants de petites entreprises de services de soins personnels, de nettoyage et de services similaires",40
+"ISCO-88_COM","fr","1319","Dirigeants et gérants de petites entreprises non classés ailleurs",41
+"ISCO-88_COM","fr","2","PROFESSIONS INTELLECTUELLES ET SCIENTIFIQUES",42
+"ISCO-88_COM","fr","21","Spécialistes des sciences physiques, mathématiques et techniques",43
+"ISCO-88_COM","fr","211","Physiciens, chimistes et assimilés",44
+"ISCO-88_COM","fr","2111","Physiciens et astronomes",45
+"ISCO-88_COM","fr","2112","Météorologues",46
+"ISCO-88_COM","fr","2113","Chimistes",47
+"ISCO-88_COM","fr","2114","Géologues et géophysiciens",48
+"ISCO-88_COM","fr","212","Mathématiciens, statisticiens et assimilés",49
+"ISCO-88_COM","fr","2121","Mathématiciens et assimilés",50
+"ISCO-88_COM","fr","2122","Statisticiens",51
+"ISCO-88_COM","fr","213","Spécialistes de l'informatique",52
+"ISCO-88_COM","fr","2131","Concepteurs et analystes de systèmes informatiques",53
+"ISCO-88_COM","fr","2139","Spécialistes de l'informatique non classés ailleurs",54
+"ISCO-88_COM","fr","214","Architectes, ingénieurs et assimilés",55
+"ISCO-88_COM","fr","2141","Architectes, urbanistes et ingénieurs de la circulation routière",56
+"ISCO-88_COM","fr","2142","Ingénieurs civils",57
+"ISCO-88_COM","fr","2143","Ingénieurs électriciens",58
+"ISCO-88_COM","fr","2144","Ingénieurs électroniciens et des télécommunications",59
+"ISCO-88_COM","fr","2145","Ingénieurs mécaniciens",60
+"ISCO-88_COM","fr","2146","Ingénieurs chimistes",61
+"ISCO-88_COM","fr","2147","Ingénieurs des mines, ingénieurs métallurgistes et assimilés",62
+"ISCO-88_COM","fr","2148","Cartographes et géomètres",63
+"ISCO-88_COM","fr","2149","Architectes, ingénieurs et assimilés, non classés ailleurs",64
+"ISCO-88_COM","fr","22","Spécialistes des sciences de la vie et de la santé",65
+"ISCO-88_COM","fr","221","Spécialistes des sciences de la vie",66
+"ISCO-88_COM","fr","2211","Biologistes, botanistes, zoologistes et assimilés",67
+"ISCO-88_COM","fr","2212","Pharmacologistes, pathologistes et assimilés",68
+"ISCO-88_COM","fr","2213","Agronomes et assimilés",69
+"ISCO-88_COM","fr","222","Médecins et assimilés (à l'exception des cadres infirmiers)",70
+"ISCO-88_COM","fr","2221","Médecins",71
+"ISCO-88_COM","fr","2222","Dentistes",72
+"ISCO-88_COM","fr","2223","Vétérinaires",73
+"ISCO-88_COM","fr","2224","Pharmaciens",74
+"ISCO-88_COM","fr","2229","Médecins et assimilés (à l'exception des cadres infirmiers) non classés ailleurs",75
+"ISCO-88_COM","fr","223","Cadres infirmiers et sages-femmes",76
+"ISCO-88_COM","fr","2230","Cadres infirmiers et sages-femmes",77
+"ISCO-88_COM","fr","23","Spécialistes de l'enseignement",78
+"ISCO-88_COM","fr","231","Professeurs d'université et d'établissements d'enseignement supérieur",79
+"ISCO-88_COM","fr","2310","Professeurs d'université et d'établissements d'enseignement supérieur",80
+"ISCO-88_COM","fr","232","Professeurs de l'enseignement secondaire",81
+"ISCO-88_COM","fr","2320","Professeurs de l'enseignement secondaire",82
+"ISCO-88_COM","fr","233","Instituteurs de l'enseignement primaire et de maternelle",83
+"ISCO-88_COM","fr","2331","Instituteurs de l'enseignement primaire",84
+"ISCO-88_COM","fr","2332","Instituteurs de classe maternelle",85
+"ISCO-88_COM","fr","234","Enseignants spécialisés dans l'éducation des handicapés",86
+"ISCO-88_COM","fr","2340","Enseignants spécialisés dans l'éducation des handicapés",87
+"ISCO-88_COM","fr","235","Autres spécialistes de l'enseignement",88
+"ISCO-88_COM","fr","2351","Spécialistes des méthodes d'enseignement",89
+"ISCO-88_COM","fr","2352","Inspecteurs de l'enseignement",90
+"ISCO-88_COM","fr","2359","Autres spécialistes de l'enseignement, non classés ailleurs",91
+"ISCO-88_COM","fr","24","Autres spécialistes des professions intellectuelles et scientifiques",92
+"ISCO-88_COM","fr","241","Spécialistes des fonctions administratives et commerciales des entreprises",93
+"ISCO-88_COM","fr","2411","Cadres comptables",94
+"ISCO-88_COM","fr","2412","Spécialistes des problèmes de personnel et de développement de carrière",95
+"ISCO-88_COM","fr","2419","Spécialistes des fonctions administratives et commerciales des entreprises non classées ailleurs",96
+"ISCO-88_COM","fr","242","Juristes",97
+"ISCO-88_COM","fr","2421","Avocats",98
+"ISCO-88_COM","fr","2422","Magistrats",99
+"ISCO-88_COM","fr","2429","Juristes non classés ailleurs",100
+"ISCO-88_COM","fr","243","Archivistes, bibliothécaires, documentalistes et assimilés",101
+"ISCO-88_COM","fr","2431","Archivistes paléographes et conservateurs de musée",102
+"ISCO-88_COM","fr","2432","Bibliothécaires, documentalistes et assimilés",103
+"ISCO-88_COM","fr","244","Spécialistes des sciences sociales et humaines",104
+"ISCO-88_COM","fr","2441","Economistes",105
+"ISCO-88_COM","fr","2442","Sociologues, anthropologues et assimilés",106
+"ISCO-88_COM","fr","2443","Philosophes, historiens et spécialistes des sciences politiques",107
+"ISCO-88_COM","fr","2444","Linguistes, traducteurs et interprètes",108
+"ISCO-88_COM","fr","2445","Psychologues",109
+"ISCO-88_COM","fr","2446","Spécialistes du travail social",110
+"ISCO-88_COM","fr","245","Écrivains et artistes créateurs et interprètes",111
+"ISCO-88_COM","fr","2451","Auteurs, journalistes et autres écrivains",112
+"ISCO-88_COM","fr","2452","Sculpteurs, peintres et assimilés",113
+"ISCO-88_COM","fr","2453","Compositeurs, musiciens et chanteurs",114
+"ISCO-88_COM","fr","2454","Chorégraphes et danseurs",115
+"ISCO-88_COM","fr","2455","Acteurs et metteurs en scène de cinéma, de théâtre et d'autres spectacles",116
+"ISCO-88_COM","fr","246","Membres du clergé",117
+"ISCO-88_COM","fr","2460","Membres du clergé",118
+"ISCO-88_COM","fr","247","Cadres administratifs des services publics",119
+"ISCO-88_COM","fr","2470","Cadres administratifs des services publics",120
+"ISCO-88_COM","fr","3","PROFESSIONS INTERMÉDIAIRES",121
+"ISCO-88_COM","fr","31","Professions intermédiaires des sciences physiques et techniques",122
+"ISCO-88_COM","fr","311","Techniciens des sciences physiques et techniques",123
+"ISCO-88_COM","fr","3111","Techniciens des sciences chimiques et physiques",124
+"ISCO-88_COM","fr","3112","Techniciens du génie civil",125
+"ISCO-88_COM","fr","3113","Techniciens en électricité",126
+"ISCO-88_COM","fr","3114","Techniciens en électronique et en télécommunications",127
+"ISCO-88_COM","fr","3115","Techniciens en construction mécanique",128
+"ISCO-88_COM","fr","3116","Techniciens en chimie industrielle",129
+"ISCO-88_COM","fr","3117","Techniciens des mines, techniciens métallurgistes",130
+"ISCO-88_COM","fr","3118","Dessinateurs industriels",131
+"ISCO-88_COM","fr","3119","Techniciens des sciences physiques et techniques non classés ailleurs",132
+"ISCO-88_COM","fr","312","Pupitreurs et autres opérateurs de matériels informatiques",133
+"ISCO-88_COM","fr","3121","Assistants informaticiens",134
+"ISCO-88_COM","fr","3122","Techniciens de matériels informatiques",135
+"ISCO-88_COM","fr","3123","Techniciens de robots industriels",136
+"ISCO-88_COM","fr","313","Techniciens d'appareils optiques et électroniques",137
+"ISCO-88_COM","fr","3131","Photographes et techniciens d'appareils enregistreurs d'images et de son",138
+"ISCO-88_COM","fr","3132","Techniciens de matériels d'émissions de radio, de télévision et de télécommunications",139
+"ISCO-88_COM","fr","3133","Techniciens d'appareils électromédicaux",140
+"ISCO-88_COM","fr","3139","Techniciens d'appareils optiques et électroniques non classés ailleurs",141
+"ISCO-88_COM","fr","314","Techniciens des moyens de transport maritime et aérien",142
+"ISCO-88_COM","fr","3141","Officiers mécaniciens de navires",143
+"ISCO-88_COM","fr","3142","Officiers de pont et pilotes",144
+"ISCO-88_COM","fr","3143","Pilotes d'avions et assimilés",145
+"ISCO-88_COM","fr","3144","Contrôleurs de la circulation routière",146
+"ISCO-88_COM","fr","3145","Techniciens de la sécurité aérienne",147
+"ISCO-88_COM","fr","315","Inspecteurs d'immeubles, de sécurité, d'hygiène et de qualité",148
+"ISCO-88_COM","fr","3151","Inspecteurs de sécurité incendie et d'immeubles",149
+"ISCO-88_COM","fr","3152","Inspecteurs de sécurité et d'hygiène, et contrôleurs de qualité",150
+"ISCO-88_COM","fr","32","Professions intermédiaires des sciences de la vie et de la santé",151
+"ISCO-88_COM","fr","321","Techniciens et travailleurs assimilés des sciences de la vie et de la santé",152
+"ISCO-88_COM","fr","3211","Techniciens des sciences de la vie",153
+"ISCO-88_COM","fr","3212","Techniciens agronomes et forestiers",154
+"ISCO-88_COM","fr","3213","Conseillers agricoles et forestiers",155
+"ISCO-88_COM","fr","322","Professions intermédiaires de la médecine moderne (à l'exception du personnel infirmier)",156
+"ISCO-88_COM","fr","3221","Assistants médicaux",157
+"ISCO-88_COM","fr","3222","Hygiénistes, inspecteurs de la santé et responsables de l'environnement",158
+"ISCO-88_COM","fr","3223","Diététiciens et spécialistes de la nutrition",159
+"ISCO-88_COM","fr","3224","Optométriciens et opticiens",160
+"ISCO-88_COM","fr","3225","Assistants de médecine dentaire",161
+"ISCO-88_COM","fr","3226","Kinésithérapeutes et assimilés",162
+"ISCO-88_COM","fr","3227","Assistants vétérinaires",163
+"ISCO-88_COM","fr","3228","Assistants pharmaciens et préparateurs en pharmacie",164
+"ISCO-88_COM","fr","3229","Professions intermédiaires de la médecine moderne (à l'exception du personnel infirmier) non classées ailleurs",165
+"ISCO-88_COM","fr","323","Personnel infirmier et sages-femmes (niveau intermédiaire)",166
+"ISCO-88_COM","fr","3231","Personnel infirmier (niveau intermédiaire)",167
+"ISCO-88_COM","fr","3232","Sages-femmes (niveau intermédiaire)",168
+"ISCO-88_COM","fr","33","Professions intermédiaires de l'enseignement",169
+"ISCO-88_COM","fr","331","Professions intermédiaires de l'enseignement primaire",170
+"ISCO-88_COM","fr","3310","Professions intermédiaires de l'enseignement primaire",171
+"ISCO-88_COM","fr","332","Professions intermédiaires de l'enseignement préprimaire",172
+"ISCO-88_COM","fr","3320","Professions intermédiaires de l'enseignement préprimaire",173
+"ISCO-88_COM","fr","333","Professions intermédiaires de l'éducation des handicapés",174
+"ISCO-88_COM","fr","3330","Professions intermédiaires de l'éducation des handicapés",175
+"ISCO-88_COM","fr","334","Autres professions intermédiaires de l'enseignement",176
+"ISCO-88_COM","fr","3340","Autres professions intermédiaires de l'enseignement",177
+"ISCO-88_COM","fr","34","Autres professions intermédiaires",178
+"ISCO-88_COM","fr","341","Professions intermédiaires des finances et de la vente",179
+"ISCO-88_COM","fr","3411","Courtiers en valeurs et cambistes",180
+"ISCO-88_COM","fr","3412","Agents d'assurances",181
+"ISCO-88_COM","fr","3413","Agents immobiliers",182
+"ISCO-88_COM","fr","3414","Agents de voyages",183
+"ISCO-88_COM","fr","3415","Agents commerciaux et agents commerciaux techniciens",184
+"ISCO-88_COM","fr","3416","Acheteurs",185
+"ISCO-88_COM","fr","3417","Estimateurs, experts en évaluation et vendeurs aux enchères",186
+"ISCO-88_COM","fr","3419","Professions intermédiaires des finances et de la vente non classées ailleurs",187
+"ISCO-88_COM","fr","342","Agents commerciaux et courtiers",188
+"ISCO-88_COM","fr","3421","Courtiers en marchandises",189
+"ISCO-88_COM","fr","3422","Agents concessionnaires",190
+"ISCO-88_COM","fr","3423","Agents d'établissement de contrats d'emploi et de recrutement de main-d'oeuvre",191
+"ISCO-88_COM","fr","3429","Agents commerciaux et courtiers non classés ailleurs",192
+"ISCO-88_COM","fr","343","Professions intermédiaires de la gestion administrative",193
+"ISCO-88_COM","fr","3431","Secrétaires d'administration et professions intermédiaires assimilées de la gestion administrative",194
+"ISCO-88_COM","fr","3432","Professions juridiques intermédiaires et intermédiaires assimilés des fonctions administratives et commerciales des entreprises",195
+"ISCO-88_COM","fr","3433","Comptables",196
+"ISCO-88_COM","fr","3434","Professions intermédiaires de la statistique et des mathématiques, et assimilées",197
+"ISCO-88_COM","fr","344","Professions intermédiaires de l'administration publique des douanes et des impôts, et assimilées",198
+"ISCO-88_COM","fr","3441","Inspecteurs des douanes et des frontières",199
+"ISCO-88_COM","fr","3442","Contrôleurs des impôts",200
+"ISCO-88_COM","fr","3443","Agents des services publics accordant des prestations sociales",201
+"ISCO-88_COM","fr","3444","Agents des services publics accordant des permis et des licences",202
+"ISCO-88_COM","fr","3449","Professions intermédiaires de l'administration publique des douanes et des impôts, et assimilées, non classées ailleurs",203
+"ISCO-88_COM","fr","345","Inspecteurs de la police judiciaire et détectives",204
+"ISCO-88_COM","fr","3450","Inspecteurs de la police judiciaire et détectives",205
+"ISCO-88_COM","fr","346","Professions intermédiaires du travail social",206
+"ISCO-88_COM","fr","3460","Professions intermédiaires du travail social",207
+"ISCO-88_COM","fr","347","Professions intermédiaires de la création artistique, du spectacle et du sport",208
+"ISCO-88_COM","fr","3471","Décorateurs et dessinateurs modélistes de produits industriels et commerciaux",209
+"ISCO-88_COM","fr","3472","Annonceurs-présentateurs de radio, de télévision et de spectacles",210
+"ISCO-88_COM","fr","3473","Musiciens, chanteurs et danseurs de rue, de boîte de nuit et assimilés",211
+"ISCO-88_COM","fr","3474","Clowns, magiciens, acrobates et assimilés",212
+"ISCO-88_COM","fr","3475","Athlètes, sportifs et assimilés",213
+"ISCO-88_COM","fr","348","Assistants laïcs des cultes",214
+"ISCO-88_COM","fr","3480","Assistants laïcs des cultes",215
+"ISCO-88_COM","fr","4","EMPLOYÉS DE TYPE ADMINISTRATIF",216
+"ISCO-88_COM","fr","41","Employés de bureau",217
+"ISCO-88_COM","fr","411","Secrétaires et opérateurs sur clavier",218
+"ISCO-88_COM","fr","4111","Sténographes et dactylographes",219
+"ISCO-88_COM","fr","4112","Opérateurs de traitement de texte et assimilés",220
+"ISCO-88_COM","fr","4113","Opérateurs de saisie de données",221
+"ISCO-88_COM","fr","4114","Opérateurs sur machines à calculer",222
+"ISCO-88_COM","fr","4115","Secrétaires",223
+"ISCO-88_COM","fr","412","Employés des services comptables et financiers",224
+"ISCO-88_COM","fr","4121","Teneurs de livres",225
+"ISCO-88_COM","fr","4122","Employés de service statistique ou financier",226
+"ISCO-88_COM","fr","413","Employés d'approvisionnement, d'ordonnancement et des transports",227
+"ISCO-88_COM","fr","4131","Employés du service des stocks",228
+"ISCO-88_COM","fr","4132","Employés du service d'ordonnancement de la production",229
+"ISCO-88_COM","fr","4133","Employés du service des transports",230
+"ISCO-88_COM","fr","414","Employés de bibliothèque, de service du courrier et assimilés",231
+"ISCO-88_COM","fr","4141","Employés de bibliothèque et classeurs-archivistes",232
+"ISCO-88_COM","fr","4142","Employés de service du courrier",233
+"ISCO-88_COM","fr","4143","Codeurs, correcteurs d'épreuves et assimilés",234
+"ISCO-88_COM","fr","4144","Écrivains publics et assimilés",235
+"ISCO-88_COM","fr","419","Autres employés de bureau",236
+"ISCO-88_COM","fr","4190","Autres employés de bureau",237
+"ISCO-88_COM","fr","42","Employés de réception, caissiers, guichetiers et assimilés",238
+"ISCO-88_COM","fr","421","Caissiers, guichetiers et assimilés",239
+"ISCO-88_COM","fr","4211","Caissiers et billettistes",240
+"ISCO-88_COM","fr","4212","Guichetiers de banque et autres guichetiers",241
+"ISCO-88_COM","fr","4213","Croupiers et assimilés",242
+"ISCO-88_COM","fr","4214","Prêteurs sur gages et bailleurs de fonds",243
+"ISCO-88_COM","fr","4215","Encaisseurs et assimilés",244
+"ISCO-88_COM","fr","422","Employés de réception et d'information de la clientèle",245
+"ISCO-88_COM","fr","4221","Employés d'agence de voyages",246
+"ISCO-88_COM","fr","4222","Réceptionnistes et employés d'information",247
+"ISCO-88_COM","fr","4223","Téléphonistes-standardistes",248
+"ISCO-88_COM","fr","5","PERSONNEL DES SERVICES ET VENDEURS DE MAGASIN ET DE MARCHÉ",249
+"ISCO-88_COM","fr","51","Personnel des services directs aux particuliers et des services de protection et de sécurité",250
+"ISCO-88_COM","fr","511","Agents d'accompagnement et assimilés",251
+"ISCO-88_COM","fr","5111","Agents d'accueil de voyage et stewards",252
+"ISCO-88_COM","fr","5112","Contrôleurs et receveurs de transports publics",253
+"ISCO-88_COM","fr","5113","Guides",254
+"ISCO-88_COM","fr","512","Intendants et personnel des services de restauration",255
+"ISCO-88_COM","fr","5121","Economes (collectivités), intendants et gouvernantes",256
+"ISCO-88_COM","fr","5122","Cuisiniers",257
+"ISCO-88_COM","fr","5123","Serveurs et barmen",258
+"ISCO-88_COM","fr","513","Personnel soignant et assimilé",259
+"ISCO-88_COM","fr","5131","Gardes d'enfants",260
+"ISCO-88_COM","fr","5132","Aides-soignants en institution",261
+"ISCO-88_COM","fr","5133","Aides-soignants à domicile",262
+"ISCO-88_COM","fr","5139","Personnel soignant et assimilé, non classé ailleurs",263
+"ISCO-88_COM","fr","514","Autre personnel des services directs aux particuliers",264
+"ISCO-88_COM","fr","5141","Coiffeurs, spécialistes des soins de beauté et assimilés",265
+"ISCO-88_COM","fr","5142","Personnel de compagnie et valets de chambre",266
+"ISCO-88_COM","fr","5143","Agents de pompes funèbres et embaumeurs",267
+"ISCO-88_COM","fr","5149","Autre personnel des services directs aux particuliers, non classé ailleurs",268
+"ISCO-88_COM","fr","516","Personnel des services de protection et de sécurité",269
+"ISCO-88_COM","fr","5161","Pompiers",270
+"ISCO-88_COM","fr","5162","Agents de police",271
+"ISCO-88_COM","fr","5163","Gardiens de prison",272
+"ISCO-88_COM","fr","5169","Personnel des services de protection et de sécurité, non classé ailleurs",273
+"ISCO-88_COM","fr","52","Modèles, vendeurs et démonstrateurs",274
+"ISCO-88_COM","fr","521","Mannequins et autres modèles",275
+"ISCO-88_COM","fr","5210","Mannequins et autres modèles",276
+"ISCO-88_COM","fr","522","Vendeurs et démonstrateurs en magasin, à l'étal et sur les marchés",277
+"ISCO-88_COM","fr","5220","Vendeurs et démonstrateurs en magasin",278
+"ISCO-88_COM","fr","6","AGRICULTEURS ET OUVRIERS QUALIFIÉS DE L'AGRICULTURE ET DE LA PECHE",279
+"ISCO-88_COM","fr","61","Agriculteurs et ouvriers qualifiés de l'agriculture et de la pêche",280
+"ISCO-88_COM","fr","611","Agriculteurs et ouvriers qualifiés des cultures",281
+"ISCO-88_COM","fr","6111","Agriculteurs et ouvriers qualifiés des cultures de plein champ et maraîchères",282
+"ISCO-88_COM","fr","6112","Agriculteurs et ouvriers qualifiés de l'horticulture et des pépinières",283
+"ISCO-88_COM","fr","612","Éleveurs et ouvriers qualifiés de l'élevage",284
+"ISCO-88_COM","fr","6121","Éleveurs et ouvriers qualifiés de l'élevage de bétail et d'autres animaux domestiques et de la production laitière",285
+"ISCO-88_COM","fr","6122","Aviculteurs et ouvriers qualifiés de l'aviculture",286
+"ISCO-88_COM","fr","6129","Éleveurs et ouvriers qualifiés de l'élevage et assimilés non classés ailleurs",287
+"ISCO-88_COM","fr","613","Agriculteurs et ouvriers qualifiés sur exploitation sans orientation dominante",288
+"ISCO-88_COM","fr","6130","Agriculteurs et ouvriers qualifiés sur exploitation sans orientation dominante",289
+"ISCO-88_COM","fr","614","Professions du forestage et assimilées",290
+"ISCO-88_COM","fr","6141","Exploitants et ouvriers forestiers",291
+"ISCO-88_COM","fr","6142","Charbonniers en charbon de bois et ouvriers assimilés",292
+"ISCO-88_COM","fr","615","Pêcheurs, chasseurs et trappeurs",293
+"ISCO-88_COM","fr","6151","Aquaculteurs et ouvriers de l'aquaculture",294
+"ISCO-88_COM","fr","6152","Pêcheurs de la pêche côtière et en eaux intérieures",295
+"ISCO-88_COM","fr","6153","Pêcheurs de la pêche en haute mer",296
+"ISCO-88_COM","fr","6154","Chasseurs et trappeurs",297
+"ISCO-88_COM","fr","7","ARTISANS ET OUVRIERS DES MÉTIERS DE TYPE ARTISANAL",298
+"ISCO-88_COM","fr","71","Artisans et ouvriers des métiers de l'extraction et du bâtiment",299
+"ISCO-88_COM","fr","711","Mineurs, carriers, boutefeux et tailleurs de pierre",300
+"ISCO-88_COM","fr","7111","Mineurs et carriers",301
+"ISCO-88_COM","fr","7112","Boutefeux",302
+"ISCO-88_COM","fr","7113","Fendeurs et tailleurs de pierre, ciseleurs",303
+"ISCO-88_COM","fr","712","Ouvriers du bâtiment (gros oeuvre) et assimilés",304
+"ISCO-88_COM","fr","7121","Ouvriers utilisant des techniques et matériaux traditionnels",305
+"ISCO-88_COM","fr","7122","Maçons",306
+"ISCO-88_COM","fr","7123","Ouvriers du travail du béton, maçons ragréeurs et assimilés",307
+"ISCO-88_COM","fr","7124","Charpentiers en bois et menuisiers du bâtiment",308
+"ISCO-88_COM","fr","7129","Ouvriers du bâtiment (gros oeuvre) et assimilés non classés ailleurs",309
+"ISCO-88_COM","fr","713","Ouvriers du bâtiment (finitions) et assimilés",310
+"ISCO-88_COM","fr","7131","Couvreurs et zingueurs",311
+"ISCO-88_COM","fr","7132","Poseurs de revêtements de sol et carreleurs",312
+"ISCO-88_COM","fr","7133","Plâtriers",313
+"ISCO-88_COM","fr","7134","Monteurs en isolation thermique et acoustique",314
+"ISCO-88_COM","fr","7135","Vitriers",315
+"ISCO-88_COM","fr","7136","Plombiers et tuyauteurs",316
+"ISCO-88_COM","fr","7137","Électriciens du bâtiment et assimilés",317
+"ISCO-88_COM","fr","7139","Ouvriers du bâtiment (finitions) et assimilés, non classés ailleurs",318
+"ISCO-88_COM","fr","714","Ouvriers peintres, ravaleurs de façades et assimilés",319
+"ISCO-88_COM","fr","7141","Peintres en bâtiment et poseurs de papiers peints",320
+"ISCO-88_COM","fr","7143","Ravaleurs de façades et ramoneurs",321
+"ISCO-88_COM","fr","72","Artisans et ouvriers des métiers de la métallurgie, de la construction mécanique et assimilés",322
+"ISCO-88_COM","fr","721","Mouleurs de fonderie, soudeurs, tôliers-chaudronniers, monteurs de charpentes métalliques et assimilés",323
+"ISCO-88_COM","fr","7211","Mouleurs et noyauteurs de fonderie",324
+"ISCO-88_COM","fr","7212","Soudeurs et oxycoupeurs",325
+"ISCO-88_COM","fr","7213","Tôliers-chaudronniers",326
+"ISCO-88_COM","fr","7214","Charpentiers métalliers et monteurs de charpentes métalliques",327
+"ISCO-88_COM","fr","7215","Gréeurs et épisseurs de câbles",328
+"ISCO-88_COM","fr","7216","Scaphandriers et hommes-grenouilles",329
+"ISCO-88_COM","fr","722","Forgerons, outilleurs et assimilés",330
+"ISCO-88_COM","fr","7221","Forgerons, estampeurs et conducteurs de presses à forger",331
+"ISCO-88_COM","fr","7222","Outilleurs et assimilés",332
+"ISCO-88_COM","fr","7223","Régleurs et régleurs-conducteurs de machines-outils",333
+"ISCO-88_COM","fr","7224","Meuleurs, polisseurs et affûteurs",334
+"ISCO-88_COM","fr","723","Mécaniciens et ajusteurs de machines",335
+"ISCO-88_COM","fr","7231","Mécaniciens et ajusteurs de véhicules à moteur",336
+"ISCO-88_COM","fr","7232","Mécaniciens et ajusteurs de moteurs d'avion",337
+"ISCO-88_COM","fr","7233","Mécaniciens et ajusteurs de machines agricoles et industrielles",338
+"ISCO-88_COM","fr","724","Mécaniciens et ajusteurs d'appareils électriques et électroniques",339
+"ISCO-88_COM","fr","7241","Mécaniciens, ajusteurs et réparateurs d'appareils électriques",340
+"ISCO-88_COM","fr","7242","Mécaniciens, ajusteurs et réparateurs d'appareils électroniques",341
+"ISCO-88_COM","fr","7244","Monteurs et réparateurs d'installations télégraphiques et téléphoniques",342
+"ISCO-88_COM","fr","7245","Monteurs et réparateurs de lignes électriques",343
+"ISCO-88_COM","fr","73","Artisans et ouvriers de la mécanique de précision, des métiers d'art, de l'imprimerie et assimilés",344
+"ISCO-88_COM","fr","731","Mécaniciens de précision sur métaux et matériaux similaires",345
+"ISCO-88_COM","fr","7311","Mécaniciens-réparateurs d'instruments de précision",346
+"ISCO-88_COM","fr","7312","Facteurs et accordeurs d'instruments de musique",347
+"ISCO-88_COM","fr","7313","Joailliers et orfèvres",348
+"ISCO-88_COM","fr","732","Potiers, souffleurs de verre et assimilés",349
+"ISCO-88_COM","fr","7321","Potiers et assimilés (produits céramiques et abrasifs)",350
+"ISCO-88_COM","fr","7322","Souffleurs, mouleurs, tailleurs, meuleurs et polisseurs de verre",351
+"ISCO-88_COM","fr","7323","Graveurs sur verre",352
+"ISCO-88_COM","fr","7324","Peintres-décorateurs sur verre et céramique, et assimilés",353
+"ISCO-88_COM","fr","733","Ouvriers des métiers d'artisanat sur bois, sur textile, sur cuir et sur des matériaux similaires",354
+"ISCO-88_COM","fr","7331","Ouvriers des métiers d'artisanat sur bois et sur des matériaux similaires",355
+"ISCO-88_COM","fr","7332","Ouvriers des métiers d'artisanat sur textile, sur cuir et sur des matériaux similaires",356
+"ISCO-88_COM","fr","734","Artisans et ouvriers de l'imprimerie et assimilés",357
+"ISCO-88_COM","fr","7341","Compositeurs typographes et assimilés",358
+"ISCO-88_COM","fr","7342","Stéréotypeurs et clicheurs-galvanoplastes",359
+"ISCO-88_COM","fr","7343","Graveurs d'imprimerie et photograveurs",360
+"ISCO-88_COM","fr","7344","Personnel de la photographie et assimilés",361
+"ISCO-88_COM","fr","7345","Relieurs et assimilés",362
+"ISCO-88_COM","fr","7346","Imprimeurs sérigraphes, à la planche et sur textile",363
+"ISCO-88_COM","fr","74","Autres artisans et ouvriers des métiers de type artisanal",364
+"ISCO-88_COM","fr","741","Artisans et ouvriers de l'alimentation et assimilés",365
+"ISCO-88_COM","fr","7411","Bouchers, poissonniers et assimilés",366
+"ISCO-88_COM","fr","7412","Boulangers, pâtissiers et confiseurs",367
+"ISCO-88_COM","fr","7413","Ouvriers de la fabrication des produits laitiers",368
+"ISCO-88_COM","fr","7414","Ouvriers de la conserverie de fruits, de légumes et assimilés",369
+"ISCO-88_COM","fr","7415","Dégustateurs et classeurs de denrées alimentaires et de boissons",370
+"ISCO-88_COM","fr","7416","Ouvriers de la préparation du tabac et de la fabrication des produits du tabac",371
+"ISCO-88_COM","fr","742","Artisans et ouvriers du traitement du bois, ébénistes et assimilés",372
+"ISCO-88_COM","fr","7421","Ouvriers du traitement du bois",373
+"ISCO-88_COM","fr","7422","Ébénistes, menuisiers et assimilés",374
+"ISCO-88_COM","fr","7423","Régleurs et régleurs-conducteurs de machines à bois",375
+"ISCO-88_COM","fr","7424","Vanniers, brossiers et assimilés",376
+"ISCO-88_COM","fr","743","Artisans et ouvriers des métiers du textile et de l'habillement et assimilés",377
+"ISCO-88_COM","fr","7431","Préparateurs de fibres",378
+"ISCO-88_COM","fr","7432","Tisserands, tricoteurs et assimilés",379
+"ISCO-88_COM","fr","7433","Tailleurs, couturiers, chapeliers et modistes",380
+"ISCO-88_COM","fr","7434","Fourreurs et assimilés",381
+"ISCO-88_COM","fr","7435","Patronniers et coupeurs du textile, du cuir et assimilés",382
+"ISCO-88_COM","fr","7436","Couseurs, brodeurs et assimilés",383
+"ISCO-88_COM","fr","7437","Tapissiers et assimilés",384
+"ISCO-88_COM","fr","744","Artisans et ouvriers du travail du cuir, des peaux et de la chaussure",385
+"ISCO-88_COM","fr","7441","Tanneurs, peaussiers et mégissiers",386
+"ISCO-88_COM","fr","7442","Artisans et ouvriers de la chaussure et assimilés",387
+"ISCO-88_COM","fr","8","CONDUCTEURS D'INSTALLATIONS ET DE MACHINES ET OUVRIERS DE L'ASSEMBLAGE",388
+"ISCO-88_COM","fr","81","Conducteurs d'installations et de matériels fixes et assimilés",389
+"ISCO-88_COM","fr","811","Conducteurs d'installations d'exploitation minière et d'extraction des minéraux",390
+"ISCO-88_COM","fr","8111","Conducteurs d'installations de mine",391
+"ISCO-88_COM","fr","8112","Conducteurs d'installations de préparation des minerais et de la roche",392
+"ISCO-88_COM","fr","8113","Foreurs, sondeurs de puits et assimilés",393
+"ISCO-88_COM","fr","812","Conducteurs d'installations de transformation des métaux",394
+"ISCO-88_COM","fr","8121","Conducteurs de fours à minerais et de fours de première fusion des métaux",395
+"ISCO-88_COM","fr","8122","Conducteurs de fours de deuxième fusion des métaux, couleurs de fonderie et conducteurs de laminoirs",396
+"ISCO-88_COM","fr","8123","Conducteurs d'installations de traitement thermique des métaux",397
+"ISCO-88_COM","fr","8124","Tréfileurs et étireurs de métaux",398
+"ISCO-88_COM","fr","813","Conducteurs d'installations de verrerie et de céramique et assimilés",399
+"ISCO-88_COM","fr","8131","Conducteurs de fours de verrerie et de céramique, et conducteurs de machines assimilés",400
+"ISCO-88_COM","fr","8139","Conducteurs d'installations de verrerie et de céramique et assimilés non classés ailleurs",401
+"ISCO-88_COM","fr","814","Conducteurs d'installations pour le travail du bois et la fabrication du papier",402
+"ISCO-88_COM","fr","8141","Conducteurs d'installations pour le travail du bois",403
+"ISCO-88_COM","fr","8142","Conducteurs d'installations pour la fabrication de la pâte à papier",404
+"ISCO-88_COM","fr","8143","Conducteurs d'installations pour la fabrication du papier",405
+"ISCO-88_COM","fr","815","Conducteurs d'installations de traitement chimique",406
+"ISCO-88_COM","fr","8151","Conducteurs d'installations de fragmentation et de broyage, et d'installations de malaxage chimique",407
+"ISCO-88_COM","fr","8152","Conducteurs d'appareils de traitement thermique de la chimie",408
+"ISCO-88_COM","fr","8153","Conducteurs d'appareils de filtrage et de séparation chimiques",409
+"ISCO-88_COM","fr","8154","Conducteurs d'appareils de distillation et de réacteurs chimiques (traitement du pétrole et du gaz naturel excepté)",410
+"ISCO-88_COM","fr","8155","Conducteurs d'installations de raffinage de pétrole et de gaz naturel",411
+"ISCO-88_COM","fr","8159","Conducteurs d'installations de traitement chimique non classés ailleurs",412
+"ISCO-88_COM","fr","816","Conducteurs d'installations de production d'énergie et assimilés",413
+"ISCO-88_COM","fr","8161","Conducteurs d'installations de production d'énergie",414
+"ISCO-88_COM","fr","8162","Chauffeurs de machines à vapeur et de chaudières",415
+"ISCO-88_COM","fr","8163","Conducteurs d'incinérateurs, d'installations de traitement de l'eau et assimilés",416
+"ISCO-88_COM","fr","817","Conducteurs de robots industriels",417
+"ISCO-88_COM","fr","8170","Conducteurs de robots industriels",418
+"ISCO-88_COM","fr","82","Conducteurs de machines et ouvriers de l'assemblage",419
+"ISCO-88_COM","fr","821","Conducteurs de machines à travailler les métaux et les produits minéraux",420
+"ISCO-88_COM","fr","8211","Conducteurs de machines-outils",421
+"ISCO-88_COM","fr","8212","Conducteurs de machines à fabriquer du ciment et d'autres produits minéraux",422
+"ISCO-88_COM","fr","822","Conducteurs de machines pour la fabrication des produits chimiques",423
+"ISCO-88_COM","fr","8221","Conducteurs de machines pour la fabrication de produits pharmaceutiques et cosmétiques",424
+"ISCO-88_COM","fr","8222","Conducteurs de machines pour la fabrication de munitions et d'explosifs",425
+"ISCO-88_COM","fr","8223","Conducteurs de machines de traitement superficiel des métaux",426
+"ISCO-88_COM","fr","8224","Conducteurs de machines pour la fabrication de produits photographiques",427
+"ISCO-88_COM","fr","8229","Conducteurs de machines pour la fabrication des produits chimiques non classés ailleurs",428
+"ISCO-88_COM","fr","823","Conducteurs de machines pour la fabrication de produits en caoutchouc et en matières plastiques",429
+"ISCO-88_COM","fr","8231","Conducteurs de machines pour la fabrication des produits en caoutchouc",430
+"ISCO-88_COM","fr","8232","Conducteurs de machines pour la fabrication des produits en matières plastiques",431
+"ISCO-88_COM","fr","824","Conducteurs de machines à bois",432
+"ISCO-88_COM","fr","8240","Conducteurs de machines à bois",433
+"ISCO-88_COM","fr","825","Conducteurs de machines d'imprimerie, de machines à relier et de machines de papeterie",434
+"ISCO-88_COM","fr","8251","Conducteurs de machines d'imprimerie",435
+"ISCO-88_COM","fr","8252","Conducteurs de machines à relier",436
+"ISCO-88_COM","fr","8253","Conducteurs de machines de papeterie",437
+"ISCO-88_COM","fr","826","Conducteurs de machines pour la fabrication de produits textiles et d'articles en fourrure et en cuir",438
+"ISCO-88_COM","fr","8261","Conducteurs de machines à préparer les fibres, à filer et à bobiner",439
+"ISCO-88_COM","fr","8262","Conducteurs de métiers mécaniques à tisser et à tricoter",440
+"ISCO-88_COM","fr","8263","Conducteurs de machines à piquer",441
+"ISCO-88_COM","fr","8264","Conducteurs de machines à blanchir, à teindre et à nettoyer",442
+"ISCO-88_COM","fr","8265","Conducteurs de machines à préparer les fourrures et le cuir",443
+"ISCO-88_COM","fr","8266","Conducteurs de machines pour la fabrication des chaussures et assimilés",444
+"ISCO-88_COM","fr","8269","Conducteurs de machines pour la fabrication de produits textiles et d'articles en fourrure et en cuir, non classés ailleurs",445
+"ISCO-88_COM","fr","827","Conducteurs de machines pour la fabrication de denrées alimentaires et de produits connexes",446
+"ISCO-88_COM","fr","8271","Conducteurs de machines pour la préparation des viandes et du poisson",447
+"ISCO-88_COM","fr","8272","Conducteurs de machines pour la fabrication des produits laitiers",448
+"ISCO-88_COM","fr","8273","Conducteurs de machines à moudre les céréales et les épices",449
+"ISCO-88_COM","fr","8274","Conducteurs de machines pour la production d'articles de boulangerie-pâtisserie, d'articles à base de céréales et d'articles de chocolaterie",450
+"ISCO-88_COM","fr","8275","Conducteurs de machines pour le traitement des fruits, des légumes, des noix et des amandes",451
+"ISCO-88_COM","fr","8276","Conducteurs de machines pour la production du sucre",452
+"ISCO-88_COM","fr","8277","Conducteurs de machines pour le traitement du thé, du café et du cacao",453
+"ISCO-88_COM","fr","8278","Conducteurs de machines de brasserie et de machines pour la fabrication du vin et d'autres boissons",454
+"ISCO-88_COM","fr","8279","Conducteurs de machines pour la production du tabac",455
+"ISCO-88_COM","fr","828","Ouvriers de l'assemblage",456
+"ISCO-88_COM","fr","8281","Monteurs en construction mécanique",457
+"ISCO-88_COM","fr","8282","Monteurs en appareillages électriques",458
+"ISCO-88_COM","fr","8283","Monteurs d'appareils électriques",459
+"ISCO-88_COM","fr","8284","Assembleurs d'articles en métal, en caoutchouc et en matières plastiques",460
+"ISCO-88_COM","fr","8285","Assembleurs d'articles en bois et en matières similaires",461
+"ISCO-88_COM","fr","8286","Assembleurs d'articles en carton, en textile et en matières similaires",462
+"ISCO-88_COM","fr","8287","Assembleurs d'articles de plusieurs matières",463
+"ISCO-88_COM","fr","829","Autres conducteurs de machines et ouvriers de l'assemblage",464
+"ISCO-88_COM","fr","8290","Autres conducteurs de machines et ouvriers de l'assemblage",465
+"ISCO-88_COM","fr","83","Conducteurs de véhicules et d'engins lourds de levage et de manoeuvre",466
+"ISCO-88_COM","fr","831","Conducteurs de locomotives et assimilés",467
+"ISCO-88_COM","fr","8311","Conducteurs de locomotives",468
+"ISCO-88_COM","fr","8312","Serre-freins, aiguilleurs et agents de manoeuvre",469
+"ISCO-88_COM","fr","832","Conducteurs de véhicules à moteur",470
+"ISCO-88_COM","fr","8321","Conducteurs de motocycles",471
+"ISCO-88_COM","fr","8322","Chauffeurs de taxi et conducteurs d'automobiles et de camionnettes",472
+"ISCO-88_COM","fr","8323","Conducteurs d'autobus et de tramways",473
+"ISCO-88_COM","fr","8324","Conducteurs de poids lourds et de camions",474
+"ISCO-88_COM","fr","833","Conducteurs de matériels mobiles agricoles et d'autres engins mobiles",475
+"ISCO-88_COM","fr","8331","Conducteurs de matériels motorisés agricoles et forestiers",476
+"ISCO-88_COM","fr","8332","Conducteurs d'engins de terrassement et de matériels similaires",477
+"ISCO-88_COM","fr","8333","Conducteurs de grues, d'engins de levage divers et de matériels similaires",478
+"ISCO-88_COM","fr","8334","Conducteurs de chariots élévateurs",479
+"ISCO-88_COM","fr","834","Matelots de pont et assimilés",480
+"ISCO-88_COM","fr","8340","Matelots de pont et assimilés",481
+"ISCO-88_COM","fr","9","OUVRIERS ET EMPLOYÉS NON QUALIFIÉS",482
+"ISCO-88_COM","fr","91","Employés non qualifiés des services et de la vente",483
+"ISCO-88_COM","fr","911","Vendeurs ambulants et assimilés",484
+"ISCO-88_COM","fr","9111","Vendeurs ambulants",485
+"ISCO-88_COM","fr","9113","Vendeurs de porte en porte et vendeurs au téléphone",486
+"ISCO-88_COM","fr","912","Cireurs de chaussures et autres travailleurs des petits métiers des rues",487
+"ISCO-88_COM","fr","9120","Cireurs de chaussures et autres petits métiers des rues",488
+"ISCO-88_COM","fr","913","Aides de ménage et autres aides, nettoyeurs et blanchisseurs",489
+"ISCO-88_COM","fr","9131","Aides de ménage et nettoyeurs domestiques",490
+"ISCO-88_COM","fr","9132","Aides et nettoyeurs dans les bureaux, les hôtels et autres établissements",491
+"ISCO-88_COM","fr","9133","Laveurs et repasseurs de linge à la main",492
+"ISCO-88_COM","fr","914","Personnel du service d'immeuble, laveurs de vitres et assimilés",493
+"ISCO-88_COM","fr","9141","Personnel du service d'immeuble",494
+"ISCO-88_COM","fr","9142","Laveurs de véhicules, de vitres et assimilés",495
+"ISCO-88_COM","fr","915","Messagers, porteurs, gardiens, portiers et assimilés",496
+"ISCO-88_COM","fr","9151","Messagers, porteurs de colis ou de bagages, livreurs",497
+"ISCO-88_COM","fr","9152","Portiers, gardiens et assimilés",498
+"ISCO-88_COM","fr","9153","Encaisseurs de distributeurs automatiques à prépaiement, releveurs de compteurs et assimilés",499
+"ISCO-88_COM","fr","916","Éboueurs et manoeuvres assimilés",500
+"ISCO-88_COM","fr","9161","Éboueurs",501
+"ISCO-88_COM","fr","9162","Balayeurs et manoeuvres assimilés",502
+"ISCO-88_COM","fr","92","Manoeuvres de l'agriculture, de la pêche et assimilés",503
+"ISCO-88_COM","fr","921","Manoeuvres de l'agriculture, de la pêche et assimilés",504
+"ISCO-88_COM","fr","9211","Aides et manoeuvres agricoles",505
+"ISCO-88_COM","fr","9212","Manoeuvres forestiers",506
+"ISCO-88_COM","fr","9213","Manoeuvres pêcheurs, chasseurs et trappeurs",507
+"ISCO-88_COM","fr","93","Manoeuvres des mines, du bâtiment et des travaux publics, des industries manufacturières et des transports",508
+"ISCO-88_COM","fr","931","Manoeuvres des mines, du bâtiment et des travaux publics",509
+"ISCO-88_COM","fr","9311","Manoeuvres des mines et des carrières",510
+"ISCO-88_COM","fr","9312","Manoeuvres de chantier de travaux publics et d'entretien: routes, barrages et ouvrages similaires",511
+"ISCO-88_COM","fr","9313","Manoeuvres du bâtiment",512
+"ISCO-88_COM","fr","932","Manoeuvres des industries manufacturières",513
+"ISCO-88_COM","fr","9320","Manoeuvres des industries manufacturières",514
+"ISCO-88_COM","fr","933","Manoeuvres des transports et manutentionnaires",515
+"ISCO-88_COM","fr","9330","Manoeuvres des transports et manutentionnaires",516
+"ISCO-88_COM","fr","0","FORCES ARMÉES",517
+"ISCO-88_COM","fr","01","Forces armées",518
+"ISCO-88_COM","fr","010","Forces armées",519
+"ISCO-88_COM","fr","0100","Forces armées",520
+"ISCO-88_COM","de","1","ANGEHÖRIGE GESETZGEBENDER KÖRPERSCHAFTEN, LEITENDE VERWALTUNGSBEDIENSTETE UND FÜHRUNGSKRÄFTE IN DER PRIVATWIRTSCHAFT",1
+"ISCO-88_COM","de","11","Angehörige gesetzgebender Körperschaften und leitende Verwaltungsbedienstete",2
+"ISCO-88_COM","de","111","Angehörige gesetzgebender Körperschaften und leitende Verwaltungsbedienstete",3
+"ISCO-88_COM","de","1110","Angehörige gesetzgebender Körperschaften und leitende Verwaltungsbe- dienstete",4
+"ISCO-88_COM","de","114","Leitende Bedienstete von Interessenorganisationen",5
+"ISCO-88_COM","de","1141","Leitende Bedienstete politischer Parteien",6
+"ISCO-88_COM","de","1142","Leitende Bedienstete von Arbeitgeber- und Arbeitnehmer- sowie anderen Wirt- schaftsverbänden",7
+"ISCO-88_COM","de","1143","Leitende Bedienstete humanitärer und anderer Interessenorganisationen",8
+"ISCO-88_COM","de","12","Geschäftsleiter und Geschäftsbereichsleiter in großen Unternehmen",9
+"ISCO-88_COM","de","121","Direktoren und Hauptgeschäftsführer",10
+"ISCO-88_COM","de","1210","Direktoren und Hauptgeschäftsführer",11
+"ISCO-88_COM","de","122","Produktions- und Operationsleiter",12
+"ISCO-88_COM","de","1221","Produktions- und Operationsleiter in der Landwirtschaft, Jagd, Forstwirtschaft und Fischerei",13
+"ISCO-88_COM","de","1222","Produktions- und Operationsleiter im verarbeitenden Gewerbe",14
+"ISCO-88_COM","de","1223","Produktions- und Operationsleiter im Baugewerbe",15
+"ISCO-88_COM","de","1224","Produktions- und Operationsleiter im Groß- und Einzelhandel",16
+"ISCO-88_COM","de","1225","Produktions- und Operationsleiter in Restaurants und Hotels",17
+"ISCO-88_COM","de","1226","Produktions- und Operationsleiter im Transportwesen, in der Lagerbewirtschaftung und Nachrichtenübermittlung ",18
+"ISCO-88_COM","de","1227","Produktions- und Operationsleiter in gewerblichen Dienst- leistungsunternehmen",19
+"ISCO-88_COM","de","1228","Produktions- und Operationsleiter in Körperpflege-, Pflege-, Reinigungs- und verwandten Dienstleistungsunternehmen",20
+"ISCO-88_COM","de","1229","Produktions- und Operationsleiter, anderweitig nicht genannt",21
+"ISCO-88_COM","de","123","Sonstige Fachbereichsleiter",22
+"ISCO-88_COM","de","1231","Finanzdirektoren und Verwaltungsleiter",23
+"ISCO-88_COM","de","1232","Personalleiter und Sozialdirektoren",24
+"ISCO-88_COM","de","1233","Verkaufs- und Absatzleiter",25
+"ISCO-88_COM","de","1234","Werbeleiter und Leiter der Öffentlichkeitsarbeit",26
+"ISCO-88_COM","de","1235","Leiter des Einkaufs und der Materialwirtschaft",27
+"ISCO-88_COM","de","1236","Leiter der EDV",28
+"ISCO-88_COM","de","1237","Forschungs- und Entwicklungsleiter",29
+"ISCO-88_COM","de","1239","Sonstige Fachbereichsleiter, anderweitig nicht genannt",30
+"ISCO-88_COM","de","13","Leiter kleiner Unternehmen",31
+"ISCO-88_COM","de","131","Leiter kleiner Unternehmen",32
+"ISCO-88_COM","de","1311","Leiter kleiner Unternehmen in der Landwirtschaft, Jagd, Forst-wirtschaft und Fischerei",33
+"ISCO-88_COM","de","1312","Leiter kleiner Unternehmen im verarbeitenden Gewerbe",34
+"ISCO-88_COM","de","1313","Leiter kleiner Unternehmen im Baugewerbe",35
+"ISCO-88_COM","de","1314","Leiter kleiner Unternehmen im Groß- und Einzelhandel",36
+"ISCO-88_COM","de","1315","Leiter kleiner Unternehmen von Restaurants und Hotels",37
+"ISCO-88_COM","de","1316","Leiter kleiner Unternehmen im Transportwesen, in der Lagerei und Nachrichtenübermittlung",38
+"ISCO-88_COM","de","1317","Leiter von kleinen gewerblichen Dienstleistungsunternehmen",39
+"ISCO-88_COM","de","1318","Leiter von kleinen Körperpflege-, Pflege-, Reinigungs- und verwandten Dienstleistungsunternehmen",40
+"ISCO-88_COM","de","1319","Leiter kleiner Unternehmen, anderweitig nicht genannt",41
+"ISCO-88_COM","de","2","WISSENSCHAFTLER",42
+"ISCO-88_COM","de","21","Physiker, Mathematiker und Ingenieurwissenschaftler",43
+"ISCO-88_COM","de","211","Physiker, Chemiker und verwandte Wissenschaftler",44
+"ISCO-88_COM","de","2111","Physiker und Astronomen",45
+"ISCO-88_COM","de","2112","Meteorologen",46
+"ISCO-88_COM","de","2113","Chemiker",47
+"ISCO-88_COM","de","2114","Geologen und Geophysiker",48
+"ISCO-88_COM","de","212","Mathematiker, Statistiker und verwandte Wissenschaftler",49
+"ISCO-88_COM","de","2121","Mathematiker und verwandte Wissenschaftler",50
+"ISCO-88_COM","de","2122","Statistiker",51
+"ISCO-88_COM","de","213","Informatiker",52
+"ISCO-88_COM","de","2131","Systemplaner, Systemanalytiker und Systemprogrammierer",53
+"ISCO-88_COM","de","2139","Informatiker, anderweitig nicht genannt",54
+"ISCO-88_COM","de","214","Architekten, Ingenieure und verwandte Wissenschaftler",55
+"ISCO-88_COM","de","2141","Architekten, Raum- und Verkehrsplaner",56
+"ISCO-88_COM","de","2142","Bauingenieure",57
+"ISCO-88_COM","de","2143","Elektroingenieure",58
+"ISCO-88_COM","de","2144","Elektronik- und Fernmeldeingenieure",59
+"ISCO-88_COM","de","2145","Maschinenbauingenieure",60
+"ISCO-88_COM","de","2146","Chemieingenieure",61
+"ISCO-88_COM","de","2147","Bergbauingenieure, Metallurgen und verwandte Wissenschaftler",62
+"ISCO-88_COM","de","2148","Kartographen und Vermessungsingenieure",63
+"ISCO-88_COM","de","2149","Architekten, Ingenieure und verwandte Wissenschaftler, ander-weitig nicht genannt",64
+"ISCO-88_COM","de","22","Biowissenschaftler und Mediziner",65
+"ISCO-88_COM","de","221","Biowissenschaftler",66
+"ISCO-88_COM","de","2211","Biologen, Botaniker, Zoologen und verwandte Wissenschaftler",67
+"ISCO-88_COM","de","2212","Pharmakologen, Pathologen und verwandte Wissenschaftler (nicht Ärzte)",68
+"ISCO-88_COM","de","2213","Agrar- und verwandte Wissenschaftler",69
+"ISCO-88_COM","de","222","Mediziner (ohne Krankenpflege)",70
+"ISCO-88_COM","de","2221","Ärzte",71
+"ISCO-88_COM","de","2222","Zahnärzte",72
+"ISCO-88_COM","de","2223","Tierärzte",73
+"ISCO-88_COM","de","2224","Apotheker",74
+"ISCO-88_COM","de","2229","Mediziner (ohne Krankenpflege), anderweitig nicht genannt",75
+"ISCO-88_COM","de","223","Wissenschaftliche Krankenpflege- und Geburtshilfefachkräfte",76
+"ISCO-88_COM","de","2230","Wissenschaftliche Krankenpflege- und Geburtshilfefachkräfte",77
+"ISCO-88_COM","de","23","Wissenschaftliche Lehrkräfte",78
+"ISCO-88_COM","de","231","Universitäts- und Hochschullehrer",79
+"ISCO-88_COM","de","2310","Universitäts- und Hochschullehrer",80
+"ISCO-88_COM","de","232","Lehrer des Sekundarbereiches",81
+"ISCO-88_COM","de","2320","Lehrer des Sekundarbereiches",82
+"ISCO-88_COM","de","233","Wissenschaftliche Lehrer des Primar- und Vorschulbereiches",83
+"ISCO-88_COM","de","2331","Wissenschaftliche Lehrer des Primarbereiches",84
+"ISCO-88_COM","de","2332","Wissenschaftliche Lehrer des Vorschulbereiches",85
+"ISCO-88_COM","de","234","Wissenschaftliche Sonderschullehrer",86
+"ISCO-88_COM","de","2340","Wissenschaftliche Sonderschullehrer",87
+"ISCO-88_COM","de","235","Sonstige wissenschaftliche Lehrkräfte",88
+"ISCO-88_COM","de","2351","Pädagogik-, Didaktiklehrer und -berater",89
+"ISCO-88_COM","de","2352","Schulinspektoren",90
+"ISCO-88_COM","de","2359","Sonstige wissenschaftliche Lehrkräfte, anderweitig nicht genannt",91
+"ISCO-88_COM","de","24","Sonstige Wissenschaftler und verwandte Berufe",92
+"ISCO-88_COM","de","241","Unternehmensberatungs- und Organisationsfachkräfte",93
+"ISCO-88_COM","de","2411","Buchprüfer, Revisoren, Steuerberater",94
+"ISCO-88_COM","de","2412","Personalfachleute, Berufsberater und Berufsanalytiker",95
+"ISCO-88_COM","de","2419","Unternehmensberatungs- und Organisationsfachkräfte, ander- weitig nicht genannt",96
+"ISCO-88_COM","de","242","Juristen",97
+"ISCO-88_COM","de","2421","Anwälte",98
+"ISCO-88_COM","de","2422","Richter",99
+"ISCO-88_COM","de","2429","Juristen, anderweitig nicht genannt",100
+"ISCO-88_COM","de","243","Archiv-, Bibliotheks- und verwandte Informationswissenschaftler",101
+"ISCO-88_COM","de","2431","Archiv- und Museumswissenschaftler",102
+"ISCO-88_COM","de","2432","Bibliotheks-, Dokumentations- und verwandte Informationswissenschaftler",103
+"ISCO-88_COM","de","244","Sozialwissenschaftler und verwandte Berufe",104
+"ISCO-88_COM","de","2441","Wirtschaftswissenschaftler",105
+"ISCO-88_COM","de","2442","Soziologen, Anthropologen und verwandte Wissenschaftler",106
+"ISCO-88_COM","de","2443","Philosophen, Historiker und Politologen",107
+"ISCO-88_COM","de","2444","Philologen, Übersetzer und Dolmetscher",108
+"ISCO-88_COM","de","2445","Psychologen",109
+"ISCO-88_COM","de","2446","Sozialarbeiter",110
+"ISCO-88_COM","de","245","Schriftsteller, bildende oder darstellende Künstler",111
+"ISCO-88_COM","de","2451","Autoren, Journalisten und andere Schriftsteller",112
+"ISCO-88_COM","de","2452","Bildhauer, Maler und verwandte Künstler",113
+"ISCO-88_COM","de","2453","Komponisten, Musiker und Sänger",114
+"ISCO-88_COM","de","2454","Choreographen und Tänzer",115
+"ISCO-88_COM","de","2455","Film-, Bühnen- und sonstige Schauspieler, Regisseure",116
+"ISCO-88_COM","de","246","Geistliche, Seelsorger",117
+"ISCO-88_COM","de","2460","Geistliche, Seelsorger",118
+"ISCO-88_COM","de","247","Wissenschaftliche Verwaltungsfachkräfte des öffentlichen Dienstes",119
+"ISCO-88_COM","de","2470","Wissenschaftliche Verwaltungsfachkräfte des öffentlichen Dienstes",120
+"ISCO-88_COM","de","3","TECHNIKER UND GLEICHRANGIGE NICHTTECHNISCHE BERUFE",121
+"ISCO-88_COM","de","31","Technische Fachkräfte",122
+"ISCO-88_COM","de","311","Material- und ingenieurtechnische Fachkräfte",123
+"ISCO-88_COM","de","3111","Chemo- und Physikotechniker",124
+"ISCO-88_COM","de","3112","Bautechniker",125
+"ISCO-88_COM","de","3113","Elektrotechniker",126
+"ISCO-88_COM","de","3114","Elektronik- und Fernmeldetechniker",127
+"ISCO-88_COM","de","3115","Maschinenbautechniker",128
+"ISCO-88_COM","de","3116","Chemiebetriebs- und Verfahrenstechniker",129
+"ISCO-88_COM","de","3117","Bergbau-, Hüttentechniker",130
+"ISCO-88_COM","de","3118","Technische Zeichner",131
+"ISCO-88_COM","de","3119","Material- und ingenieurtechnische Fachkräfte, anderweitig nicht genannt",132
+"ISCO-88_COM","de","312","Datenverarbeitungsfachkräfte",133
+"ISCO-88_COM","de","3121","Datenverarbeitungsassistenten",134
+"ISCO-88_COM","de","3122","EDV-Operateure",135
+"ISCO-88_COM","de","3123","Roboterkontrolleure und -programmierer",136
+"ISCO-88_COM","de","313","Bediener optischer und elektronischer Anlagen",137
+"ISCO-88_COM","de","3131","Photographen und Bediener von Bild- und Tonaufzeichnungsanlagen",138
+"ISCO-88_COM","de","3132","Fernseh-, Rundfunk- und Fernmeldeanlagenbediener",139
+"ISCO-88_COM","de","3133","Bediener medizinischer Geräte",140
+"ISCO-88_COM","de","3139","Bediener optischer und elektronischer Anlagen, anderweitig nicht genannt",141
+"ISCO-88_COM","de","314","Schiffs-, Flugzeugführer und verwandte Berufe",142
+"ISCO-88_COM","de","3141","Schiffsmaschinisten",143
+"ISCO-88_COM","de","3142","Schiffsführer und Lotsen",144
+"ISCO-88_COM","de","3143","Flugzeugführer und verwandte Berufe",145
+"ISCO-88_COM","de","3144","Flugverkehrslotsen",146
+"ISCO-88_COM","de","3145","Flugsicherungstechniker",147
+"ISCO-88_COM","de","315","Sicherheits- und Qualitätskontrolleure",148
+"ISCO-88_COM","de","3151","Bau-, Brandschutz-, Brandinspektoren",149
+"ISCO-88_COM","de","3152","Gesundheits-, Umweltschutzinspektoren und Qualitätskontrolleure",150
+"ISCO-88_COM","de","32","Biowissenschaftliche und Gesundheitsfachkräfte",151
+"ISCO-88_COM","de","321","Biotechniker und verwandte Berufe",152
+"ISCO-88_COM","de","3211","Biotechniker",153
+"ISCO-88_COM","de","3212","Agrar- und Forstwirtschaftstechniker",154
+"ISCO-88_COM","de","3213","Land- und forstwirtschaftliche Berater",155
+"ISCO-88_COM","de","322","Medizinische Fachberufe (ohne Krankenpflege)",156
+"ISCO-88_COM","de","3221","Medizinische Assistenten",157
+"ISCO-88_COM","de","3222","Hygiene-, Gesundheitsaufsichts- und Umweltschutzbeamte",158
+"ISCO-88_COM","de","3223","Diätassistenten und Ernährungsberater",159
+"ISCO-88_COM","de","3224","Augenoptiker",160
+"ISCO-88_COM","de","3225","Zahnmedizinische Assistenten",161
+"ISCO-88_COM","de","3226","Physiotherapeuten und verwandte Berufe",162
+"ISCO-88_COM","de","3227","Veterinärmedizinische Assistenten",163
+"ISCO-88_COM","de","3228","Pharmazeutische Assistenten",164
+"ISCO-88_COM","de","3229","Medizinische Fachberufe (ohne Krankenpflege), anderweitig nicht genannt",165
+"ISCO-88_COM","de","323","Nicht-wissenschaftliche Krankenpflege- und Geburtshilfefachkräfte",166
+"ISCO-88_COM","de","3231","Nicht-wissenschaftliche Krankenschwestern/-pfleger",167
+"ISCO-88_COM","de","3232","Nicht-wissenschaftliche Hebammen/Geburtshelfer",168
+"ISCO-88_COM","de","33","Nicht-wissenschaftliche Lehrkräfte",169
+"ISCO-88_COM","de","331","Nicht-wissenschaftliche Lehrkräfte des Primarbereiches",170
+"ISCO-88_COM","de","3310","Nicht-wissenschaftliche Lehrkräfte des Primarbereiches",171
+"ISCO-88_COM","de","332","Nicht-wissenschaftliche Lehrkräfte des Vorschulbereiches",172
+"ISCO-88_COM","de","3320","Nicht-wissenschaftliche Lehrkräfte des Vorschulbereiches",173
+"ISCO-88_COM","de","333","Nicht-wissenschaftliche Sonderschullehrkräfte",174
+"ISCO-88_COM","de","3330","Nicht-wissenschaftliche Sonderschullehrkräfte",175
+"ISCO-88_COM","de","334","Sonstige nicht-wissenschaftliche Lehrkräfte",176
+"ISCO-88_COM","de","3340","Sonstige nicht-wissenschaftliche Lehrkräfte",177
+"ISCO-88_COM","de","34","Sonstige Fachkräfte (mittlere Qualifikationsebene)",178
+"ISCO-88_COM","de","341","Finanz- und Verkaufsfachkräfte",179
+"ISCO-88_COM","de","3411","Effektenhändler, -makler und Finanzmakler",180
+"ISCO-88_COM","de","3412","Versicherungsvertreter",181
+"ISCO-88_COM","de","3413","Immobilienmakler",182
+"ISCO-88_COM","de","3414","Reiseberater und -veranstalter",183
+"ISCO-88_COM","de","3415","Technische und kaufmännische Handelsvertreter",184
+"ISCO-88_COM","de","3416","Einkäufer",185
+"ISCO-88_COM","de","3417","Schätzer und Versteigerer",186
+"ISCO-88_COM","de","3419","Finanz- und Verkaufsfachkräfte, anderweitig nicht genannt",187
+"ISCO-88_COM","de","342","Vermittler gewerblicher Dienstleistungen und Handelsmakler",188
+"ISCO-88_COM","de","3421","Handelsmakler",189
+"ISCO-88_COM","de","3422","Vermittler von Abrechnungs- und Speditionsdienstleistungen",190
+"ISCO-88_COM","de","3423","Arbeits- und Personalvermittler",191
+"ISCO-88_COM","de","3429","Vermittler gewerblicher Dienstleistungen und Handelsmakler, anderweitig nicht genannt",192
+"ISCO-88_COM","de","343","Verwaltungsfachkräfte",193
+"ISCO-88_COM","de","3431","Verwaltungssekretäre und verwandte Fachkräfte",194
+"ISCO-88_COM","de","3432","Fachkräfte für Rechts- und verwandte Angelegenheiten",195
+"ISCO-88_COM","de","3433","Buchhalter",196
+"ISCO-88_COM","de","3434","Statistische, mathematische und verwandte Fachkräfte",197
+"ISCO-88_COM","de","344","Zoll-, Steuer- und verwandte Fachkräfte der öffentlichen Verwaltung",198
+"ISCO-88_COM","de","3441","Zoll- und Grenzschutzinspektoren",199
+"ISCO-88_COM","de","3442","Staatliche Steuer- und Abgabenbedienstete",200
+"ISCO-88_COM","de","3443","Staatliche Sozialverwaltungsbedienstete",201
+"ISCO-88_COM","de","3444","Staatliche Bedienstete bei Paß-, Lizenz- und Genehmigungsstellen",202
+"ISCO-88_COM","de","3449","Zoll-, Steuer- und verwandte Fachkräfte der öffentlichen Verwaltung, anderweitig nicht genannt",203
+"ISCO-88_COM","de","345","Polizeikommissare und Detektive",204
+"ISCO-88_COM","de","3450","Polizeikommissare und Detektive",205
+"ISCO-88_COM","de","346","Sozialpflegerische Berufe",206
+"ISCO-88_COM","de","3460","Sozialpflegerische Berufe",207
+"ISCO-88_COM","de","347","Künstlerische, Unterhaltungs- und Sportberufe",208
+"ISCO-88_COM","de","3471","Dekorateure und gewerbliche Designer",209
+"ISCO-88_COM","de","3472","Rundfunk-, Fernsehsprecher und verwandte Berufe",210
+"ISCO-88_COM","de","3473","Straßen-, Nachtklub- und verwandte Musiker, Sänger und Tänzer",211
+"ISCO-88_COM","de","3474","Clowns, Zauberer, Akrobaten und verwandte Fachkräfte",212
+"ISCO-88_COM","de","3475","Athleten, Berufssportler und verwandte Fachkräfte",213
+"ISCO-88_COM","de","348","Ordensbrüder/-schwestern und Seelsorgehelfer",214
+"ISCO-88_COM","de","3480","Ordensbrüder/-schwestern und Seelsorgehelfer",215
+"ISCO-88_COM","de","4","BÜROKRÄFTE, KAUFMÄNNISCHE ANGESTELLTE",216
+"ISCO-88_COM","de","41","Büroangestellte ohne Kundenkontakt",217
+"ISCO-88_COM","de","411","Sekretärinnen, Maschinenschreibkräfte und verwandte Berufe",218
+"ISCO-88_COM","de","4111","Stenographen, Stenotypisten, Maschinenschreiber",219
+"ISCO-88_COM","de","4112","Bediener von Textverarbeitungs- und verwandten Anlagen",220
+"ISCO-88_COM","de","4113","Datenerfasser",221
+"ISCO-88_COM","de","4114","Rechenmaschinenbediener",222
+"ISCO-88_COM","de","4115","Sekretärinnen",223
+"ISCO-88_COM","de","412","Angestellte im Rechnungs-, Statistik- und Finanzwesen",224
+"ISCO-88_COM","de","4121","Rechnungswesen- und Buchhaltungsangestellte",225
+"ISCO-88_COM","de","4122","Statistik- und Finanzangestellte",226
+"ISCO-88_COM","de","413","Materialverwaltungs- und Transportangestellte",227
+"ISCO-88_COM","de","4131","Lagerverwalter",228
+"ISCO-88_COM","de","4132","Material-, Fertigungsplaner",229
+"ISCO-88_COM","de","4133","Speditionsangestellte",230
+"ISCO-88_COM","de","414","Bibliotheks-, Post- und verwandte Angestellte",231
+"ISCO-88_COM","de","4141","Bibliotheks-, Dokumentations- und Registraturangestellte",232
+"ISCO-88_COM","de","4142","Postverteiler und -sortierer",233
+"ISCO-88_COM","de","4143","Kodierer, Korrekturleser und verwandte Kräfte",234
+"ISCO-88_COM","de","4144","Schreiber und verwandte Arbeitskräfte",235
+"ISCO-88_COM","de","419","Sonstige Büroangestellte",236
+"ISCO-88_COM","de","4190","Sonstige Büroangestellte",237
+"ISCO-88_COM","de","42","Büroangestellte mit Kundenkontakt",238
+"ISCO-88_COM","de","421","Kassierer, Schalter- und andere Angestellte",239
+"ISCO-88_COM","de","4211","Kassierer und Kartenverkäufer",240
+"ISCO-88_COM","de","4212","Bank-, Post und andere Schalterbedienstete",241
+"ISCO-88_COM","de","4213","Buchmacher und Croupiers",242
+"ISCO-88_COM","de","4214","Pfandleiher und Geldverleiher",243
+"ISCO-88_COM","de","4215","Inkassobeauftragte und verwandte Arbeitskräfte",244
+"ISCO-88_COM","de","422","Kundeninformationsangestellte",245
+"ISCO-88_COM","de","4221","Reisebüroangestellte",246
+"ISCO-88_COM","de","4222","Empfangsbürokräfte und Auskunftspersonal",247
+"ISCO-88_COM","de","4223","Telefonisten",248
+"ISCO-88_COM","de","5","DIENSTLEISTUNGSBERUFE, VERKÄUFER IN GESCHÄFTEN UND AUF MÄRKTEN",249
+"ISCO-88_COM","de","51","Personenbezogene Dienstleistungsberufe und Sicherheitsbedienstete",250
+"ISCO-88_COM","de","511","Reisebegleiter und verwandte Berufe",251
+"ISCO-88_COM","de","5111","Reisebegleiter und Stewards",252
+"ISCO-88_COM","de","5112","Schaffner",253
+"ISCO-88_COM","de","5113","Reiseführer",254
+"ISCO-88_COM","de","512","Dienstleistungsberufe im hauswirtschaftlichen Bereich und im Gaststättengewerbe",255
+"ISCO-88_COM","de","5121","Hauswirtschaftliche und verwandte Berufe",256
+"ISCO-88_COM","de","5122","Köche",257
+"ISCO-88_COM","de","5123","Kellner und Barkeeper",258
+"ISCO-88_COM","de","513","Pflege- und verwandte Berufe",259
+"ISCO-88_COM","de","5131","Kinderbetreuer",260
+"ISCO-88_COM","de","5132","Pflegekräfte in Institutionen",261
+"ISCO-88_COM","de","5133","Haus- und Familienpfleger",262
+"ISCO-88_COM","de","5139","Pflege- und verwandte Berufe, anderweitig nicht genannt",263
+"ISCO-88_COM","de","514","Sonstige personenbezogene Dienstleistungsberufe",264
+"ISCO-88_COM","de","5141","Friseure, Kosmetiker und verwandte Berufe",265
+"ISCO-88_COM","de","5142","Gesellschafter und Zofen/Kammerdiener",266
+"ISCO-88_COM","de","5143","Leichenbestatter und Einbalsamierer",267
+"ISCO-88_COM","de","5149","Sonstige personenbezogene Dienstleistungsberufe, anderweitig nicht genannt",268
+"ISCO-88_COM","de","516","Sicherheitsbedienstete",269
+"ISCO-88_COM","de","5161","Feuerwehrleute",270
+"ISCO-88_COM","de","5162","Polizisten",271
+"ISCO-88_COM","de","5163","Gefängnisaufseher",272
+"ISCO-88_COM","de","5169","Sicherheitsbedienstete, anderweitig nicht genannt",273
+"ISCO-88_COM","de","52","Modelle, Verkäufer und Vorführer",274
+"ISCO-88_COM","de","521","Mannequins/Dressmen und sonstige Modelle",275
+"ISCO-88_COM","de","5210","Mannequins/Dressmen und sonstige Modelle",276
+"ISCO-88_COM","de","522","Ladenverkäufer, Verkaufs-, Marktstandverkäufer und Vorführer",277
+"ISCO-88_COM","de","5220","Ladenverkäufer, Verkaufs-, Marktstandverkäufer und Vorführer",278
+"ISCO-88_COM","de","6","FACHKRÄFTE IN DER LANDWIRTSCHAFT UND FISCHEREI",279
+"ISCO-88_COM","de","61","Fachkräfte in der Landwirtschaft und Fischerei",280
+"ISCO-88_COM","de","611","Gärtner und Ackerbauern",281
+"ISCO-88_COM","de","6111","Feldfrucht- und Gemüseanbauer",282
+"ISCO-88_COM","de","6112","Gärtner, Saat- und Pflanzenzüchter",283
+"ISCO-88_COM","de","612","Tierwirtschaftliche und verwandte Berufe",284
+"ISCO-88_COM","de","6121","Milchviehhalter und Nutztierzüchter",285
+"ISCO-88_COM","de","6122","Geflügelzüchter",286
+"ISCO-88_COM","de","6129","Tierwirtschaftliche und verwandte Berufe, anderweitig nicht genannt",287
+"ISCO-88_COM","de","613","Ackerbauern und Tierzüchter/-halter",288
+"ISCO-88_COM","de","6130","Ackerbauern und Tierzüchter/-halter",289
+"ISCO-88_COM","de","614","Forstarbeitskräfte und verwandte Berufe",290
+"ISCO-88_COM","de","6141","Waldarbeiter und Holzfäller",291
+"ISCO-88_COM","de","6142","Köhler und verwandte Berufe",292
+"ISCO-88_COM","de","615","Fischer, Jäger und Fallensteller",293
+"ISCO-88_COM","de","6151","Züchter von Wasserlebewesen",294
+"ISCO-88_COM","de","6152","Binnen- und Küstenfischer",295
+"ISCO-88_COM","de","6153","Hochseefischer",296
+"ISCO-88_COM","de","6154","Jäger und Fallensteller",297
+"ISCO-88_COM","de","7","HANDWERKS- UND VERWANDTE BERUFE",298
+"ISCO-88_COM","de","71","Mineralgewinnungs- und Bauberufe",299
+"ISCO-88_COM","de","711","Bergleute, Sprengmeister, Steinbearbeiter und Steinbildhauer",300
+"ISCO-88_COM","de","7111","Bergleute und Steinbrecher",301
+"ISCO-88_COM","de","7112","Sprengmeister",302
+"ISCO-88_COM","de","7113","Steinspalter, -bearbeiter und Steinbildhauer",303
+"ISCO-88_COM","de","712","Baukonstruktions- und verwandte Berufe",304
+"ISCO-88_COM","de","7121","Bauhandwerker",305
+"ISCO-88_COM","de","7122","Maurer, Bausteinmetzen",306
+"ISCO-88_COM","de","7123","Betonierer, Betonoberflächenfertigmacher und verwandte Berufe",307
+"ISCO-88_COM","de","7124","Zimmerer, Bautischler",308
+"ISCO-88_COM","de","7129","Baukonstruktions- und verwandte Berufe, anderweitig nicht genannt",309
+"ISCO-88_COM","de","713","Ausbau- und verwandte Berufe",310
+"ISCO-88_COM","de","7131","Dachdecker",311
+"ISCO-88_COM","de","7132","Fußboden- und Fliesenleger",312
+"ISCO-88_COM","de","7133","Stukkateure",313
+"ISCO-88_COM","de","7134","Isolierer",314
+"ISCO-88_COM","de","7135","Glaser",315
+"ISCO-88_COM","de","7136","Klempner, Rohrinstallateure",316
+"ISCO-88_COM","de","7137","Bau- und verwandte Elektriker",317
+"ISCO-88_COM","de","7139","Ausbau- und verwandte Berufe, anderweitig nicht genannt",318
+"ISCO-88_COM","de","714","Maler, Gebäudereiniger und verwandte Berufe",319
+"ISCO-88_COM","de","7141","Maler, Tapezierer und verwandte Berufe",320
+"ISCO-88_COM","de","7143","Gebäudereiniger und Schornsteinfeger",321
+"ISCO-88_COM","de","72","Metallarbeiter, Mechaniker und verwandte Berufe",322
+"ISCO-88_COM","de","721","Former (für Metallguß), Schweißer, Blechkaltverformer, Baumetallverformer und ver- wandte Berufe",323
+"ISCO-88_COM","de","7211","Former und Kernmacher (für Metallguß)",324
+"ISCO-88_COM","de","7212","Schweißer und Brennschneider",325
+"ISCO-88_COM","de","7213","Blechkaltverformer",326
+"ISCO-88_COM","de","7214","Baumetallverformer und Metallbaumonteure",327
+"ISCO-88_COM","de","7215","Verspannungsmonteure und Seilspleißer",328
+"ISCO-88_COM","de","7216","Taucher",329
+"ISCO-88_COM","de","722","Grobschmiede, Werkzeugmacher und verwandte Berufe",330
+"ISCO-88_COM","de","7221","Grobschmiede, Hammerschmiede und Schmiedepresser",331
+"ISCO-88_COM","de","7222","Werkzeugmacher und verwandte Berufe",332
+"ISCO-88_COM","de","7223","Werkzeugmaschineneinrichter und Einrichter/Bediener",333
+"ISCO-88_COM","de","7224","Metallschleifer, Metallpolierer und Werkzeugschärfer",334
+"ISCO-88_COM","de","723","Maschinenmechaniker und -schlosser",335
+"ISCO-88_COM","de","7231","Kraftfahrzeugmechaniker und -schlosser",336
+"ISCO-88_COM","de","7232","Flugmotorenmechaniker und -schlosser",337
+"ISCO-88_COM","de","7233","Landmaschinen- oder Industriemaschinenmechaniker und -schlosser",338
+"ISCO-88_COM","de","724","Elektro- und Elektronikmechaniker und -monteure",339
+"ISCO-88_COM","de","7241","Elektromechaniker, -monteure und Service-Fachkräfte",340
+"ISCO-88_COM","de","7242","Elektronikmechaniker, -monteure und Service-Fachkräfte",341
+"ISCO-88_COM","de","7244","Telefon- und Telegrapheninstallateure und -wartungspersonal",342
+"ISCO-88_COM","de","7245","Elektrokabel-, Elektroleitungsmonteure und -wartungspersonal",343
+"ISCO-88_COM","de","73","Präzisionsarbeiter, Kunsthandwerker, Drucker und verwandte Berufe",344
+"ISCO-88_COM","de","731","Präzisionsarbeiter für Metall und verwandte Werkstoffe",345
+"ISCO-88_COM","de","7311","Präzisionsinstrumentenmacher und -instandsetzer",346
+"ISCO-88_COM","de","7312","Musikinstrumentenmacher und -stimmer",347
+"ISCO-88_COM","de","7313","Schmuckwarenhersteller und Edelmetallbearbeiter",348
+"ISCO-88_COM","de","732","Töpfer, Glasmacher und verwandte Berufe",349
+"ISCO-88_COM","de","7321","Töpfer und verwandte Berufe",350
+"ISCO-88_COM","de","7322","Glasmacher, -schneider, -schleifer und -polierer",351
+"ISCO-88_COM","de","7323","Glasgraveure und -ätzer",352
+"ISCO-88_COM","de","7324","Glas-, Keram- und verwandte Dekormaler",353
+"ISCO-88_COM","de","733","Kunsthandwerker für Holz, Textilien, Leder und verwandte Materialien",354
+"ISCO-88_COM","de","7331","Kunsthandwerker für Holz und verwandte Materialien",355
+"ISCO-88_COM","de","7332","Kunsthandwerker für Textilien, Leder und verwandte Materialien",356
+"ISCO-88_COM","de","734","Druckhandwerker und verwandte Berufe",357
+"ISCO-88_COM","de","7341","Schriftsetzer und verwandte Berufe",358
+"ISCO-88_COM","de","7342","Stereotypeure und Galvanoplastiker",359
+"ISCO-88_COM","de","7343","Klischeehersteller und -ätzer",360
+"ISCO-88_COM","de","7344","Fotolaboranten",361
+"ISCO-88_COM","de","7345","Buchbinder und verwandte Berufe",362
+"ISCO-88_COM","de","7346","Sieb-, Druckstock- und Textildrucker",363
+"ISCO-88_COM","de","74","Sonstige Handwerks- und verwandte Berufe",364
+"ISCO-88_COM","de","741","Berufe in der Nahrungsmittelverarbeitung und verwandte Berufe",365
+"ISCO-88_COM","de","7411","Fleischer, Fischhändler und verwandte Berufe",366
+"ISCO-88_COM","de","7412","Bäcker, Konditoren und Süßwarenhersteller",367
+"ISCO-88_COM","de","7413","Molkereiwarenhersteller",368
+"ISCO-88_COM","de","7414","Obst-, Gemüse- und verwandte Konservierer",369
+"ISCO-88_COM","de","7415","Nahrungsmittel- und Getränkekoster und -klassierer",370
+"ISCO-88_COM","de","7416","Tabakaufbereiter und Tabakwarenhersteller",371
+"ISCO-88_COM","de","742","Holzbearbeiter, Möbeltischler und verwandte Berufe",372
+"ISCO-88_COM","de","7421","Holztrockner und -konservierer",373
+"ISCO-88_COM","de","7422","Möbeltischler und verwandte Berufe",374
+"ISCO-88_COM","de","7423","Holzbearbeitungsmaschineneinrichter und Einrichter/Bediener",375
+"ISCO-88_COM","de","7424","Korbflechter, Bürstenmacher und verwandte Berufe",376
+"ISCO-88_COM","de","743","Textil-, Bekleidungs- und verwandte Berufe",377
+"ISCO-88_COM","de","7431","Spinnvorbereiter",378
+"ISCO-88_COM","de","7432","Weber, Stricker, Wirker und verwandte Berufe",379
+"ISCO-88_COM","de","7433","Herren-, Damenschneider und Hutmacher",380
+"ISCO-88_COM","de","7434","Kürschner und verwandte Berufe",381
+"ISCO-88_COM","de","7435","Schnittmustermacher und Zuschneider (Textilien, Leder u.ä.)",382
+"ISCO-88_COM","de","7436","Näher, Sticker  und verwandte Berufe",383
+"ISCO-88_COM","de","7437","Polsterer und verwandte Berufe",384
+"ISCO-88_COM","de","744","Fell-, Lederverarbeiter und Schuhmacher",385
+"ISCO-88_COM","de","7441","Rauchwarenzurichter, Gerber und Fellzurichter",386
+"ISCO-88_COM","de","7442","Schuhmacher und verwandte Berufe",387
+"ISCO-88_COM","de","8","ANLAGEN- UND MASCHINENBEDIENER SOWIE MONTIERER",388
+"ISCO-88_COM","de","81","Bediener stationärer und verwandter Anlagen",389
+"ISCO-88_COM","de","811","Bediener von bergbaulichen und Mineralaufbereitungsanlagen",390
+"ISCO-88_COM","de","8111","Bediener von bergbaulichen Maschinen und Anlagen",391
+"ISCO-88_COM","de","8112","Bediener von Erz- und Gesteinsaufbereitungsanlagen",392
+"ISCO-88_COM","de","8113","Tiefbohrer und verwandte Berufe",393
+"ISCO-88_COM","de","812","Verfahrensanlagenbediener in der Metallerzeugung und Metallumformung",394
+"ISCO-88_COM","de","8121","Ofenbediener (Erzschmelzen, Metallumformung und -veredlung)",395
+"ISCO-88_COM","de","8122","Metallschmelzer, Metallgießer und Walzwerker",396
+"ISCO-88_COM","de","8123","Metallhärter, Metallvergüter",397
+"ISCO-88_COM","de","8124","Metallzieher, Preßzieher",398
+"ISCO-88_COM","de","813","Bediener von Anlagen zur Glas- und Keramikherstellung sowie verwandte Anlagen-bediener",399
+"ISCO-88_COM","de","8131","Glasschmelz-, Kerambrennofenbediener und verwandte Berufe",400
+"ISCO-88_COM","de","8139","Bediener von Anlagen zur Glas- und Keramikherstellung sowie verwandte Anlagenbediener, anderweitig nicht genannt",401
+"ISCO-88_COM","de","814","Bediener von Anlagen zur Holzaufbereitung und Papierherstellung",402
+"ISCO-88_COM","de","8141","Bediener von Holzaufbereitungsanlagen",403
+"ISCO-88_COM","de","8142","Bediener von Anlagen zur Papierbreiherstellung",404
+"ISCO-88_COM","de","8143","Bediener von Papierherstellungsanlagen",405
+"ISCO-88_COM","de","815","Bediener chemischer Verfahrensanlagen",406
+"ISCO-88_COM","de","8151","Bediener von Brechmaschinen, Mahlwerken und Mischanlagen",407
+"ISCO-88_COM","de","8152","Bediener von Warmbehandlungsanlagen",408
+"ISCO-88_COM","de","8153","Bediener von Filtrier- und Trennvorrichtungen",409
+"ISCO-88_COM","de","8154","Destillations- und Reaktionsgefäßbediener (ausgenommen Erdöl und Erdgas)",410
+"ISCO-88_COM","de","8155","Bediener von Erdöl- und Erdgasraffinieranlagen",411
+"ISCO-88_COM","de","8159","Bediener chemischer Verfahrensanlagen, anderweitig nicht genannt",412
+"ISCO-88_COM","de","816","Bediener von Energieerzeugungs- und verwandten Anlagen",413
+"ISCO-88_COM","de","8161","Bediener von Energieerzeugungsanlagen",414
+"ISCO-88_COM","de","8162","Bediener von Dampfmaschinen und -kesseln",415
+"ISCO-88_COM","de","8163","Bediener von Verbrennungs-, Wasserbehandlungs- und verwandten Anlagen",416
+"ISCO-88_COM","de","817","Bediener von Industrierobotern",417
+"ISCO-88_COM","de","8170","Bediener von Industrierobotern",418
+"ISCO-88_COM","de","82","Maschinenbediener und Montierer",419
+"ISCO-88_COM","de","821","Maschinenbediener für Metall- und Mineralerzeugnisse",420
+"ISCO-88_COM","de","8211","Werkzeugmaschinenbediener",421
+"ISCO-88_COM","de","8212","Bediener von Maschinen zur Herstellung und Verarbeitung von Zement und verwandten Mineralien",422
+"ISCO-88_COM","de","822","Maschinenbediener für chemische Erzeugnisse",423
+"ISCO-88_COM","de","8221","Bediener von Maschinen zur Herstellung von pharmazeutischen Produkten und Toilettenartikeln",424
+"ISCO-88_COM","de","8222","Bediener von Maschinen zur Herstellung von Munition und explosiven Stoffen",425
+"ISCO-88_COM","de","8223","Bediener von Metalloberflächenbearbeitungs- und -beschichtungsmaschinen",426
+"ISCO-88_COM","de","8224","Bediener von Maschinen zur Herstellung photographischer Erzeugnisse",427
+"ISCO-88_COM","de","8229","Maschinenbediener für chemische Erzeugnisse, anderweitig nicht genannt",428
+"ISCO-88_COM","de","823","Maschinenbediener für Gummi- und Kunststofferzeugnisse",429
+"ISCO-88_COM","de","8231","Bediener von Maschinen zur Herstellung von Gummierzeugnissen",430
+"ISCO-88_COM","de","8232","Bediener von Maschinen zur Herstellung von Kunststofferzeugnissen",431
+"ISCO-88_COM","de","824","Maschinenbediener für Holzerzeugnisse",432
+"ISCO-88_COM","de","8240","Bediener von Holzbearbeitungsmaschinen",433
+"ISCO-88_COM","de","825","Maschinenbediener für Druck-, Buchbinde- und Papiererzeugnisse",434
+"ISCO-88_COM","de","8251","Druckmaschinenbediener",435
+"ISCO-88_COM","de","8252","Buchbindemaschinenbediener",436
+"ISCO-88_COM","de","8253","Bediener von Maschinen zur Herstellung von Papiererzeugnissen",437
+"ISCO-88_COM","de","826","Maschinenbediener für Textil-, Pelz- und Ledererzeugnisse",438
+"ISCO-88_COM","de","8261","Bediener von Spinnvorbereitungs-, Spinn- und Spulmaschinen",439
+"ISCO-88_COM","de","8262","Bediener von Web-, Strick- und Wirkmaschinen",440
+"ISCO-88_COM","de","8263","Nähmaschinenbediener",441
+"ISCO-88_COM","de","8264","Bediener von Bleich-, Färbe- und Reinigungsmaschinen",442
+"ISCO-88_COM","de","8265","Bediener von Pelz- und Ledervorbereitungsmaschinen",443
+"ISCO-88_COM","de","8266","Maschinenbediener für die Herstellung von Schuhen und anderen Lederwaren",444
+"ISCO-88_COM","de","8269","Maschinenbediener für Textil-, Pelz- und Ledererzeugnisse, anderweitig nicht genannt",445
+"ISCO-88_COM","de","827","Maschinenbediener zur Herstellung von Nahrungs- und Genußmitteln",446
+"ISCO-88_COM","de","8271","Bediener von Fleisch- und Fischverarbeitungsmaschinen",447
+"ISCO-88_COM","de","8272","Bediener von Milchverarbeitungsmaschinen",448
+"ISCO-88_COM","de","8273","Bediener von Getreide- und Gewürzmühlen",449
+"ISCO-88_COM","de","8274","Bediener von Maschinen zur Herstellung von Backwaren, Getreide- und Schokoladeerzeugnissen",450
+"ISCO-88_COM","de","8275","Bediener von Obst-, Gemüse- und Nußverarbeitungsmaschinen",451
+"ISCO-88_COM","de","8276","Bediener von Zuckerherstellungsmaschinen",452
+"ISCO-88_COM","de","8277","Bediener von Tee-, Kaffee- und Kakaoverarbeitungsmaschinen",453
+"ISCO-88_COM","de","8278","Brauer, Bediener von Wein- und sonstigen Getränkeherstellungsmaschinen",454
+"ISCO-88_COM","de","8279","Bediener von Tabakaufbereitungs- und Tabakwarenherstellungsmaschinen",455
+"ISCO-88_COM","de","828","Montierer",456
+"ISCO-88_COM","de","8281","Montierer (von mechanischen Bauteilen)",457
+"ISCO-88_COM","de","8282","Montierer (von elektrischen Einrichtungen)",458
+"ISCO-88_COM","de","8283","Montierer (von elektronischen Einrichtungen)",459
+"ISCO-88_COM","de","8284","Montierer von Metall-, Gummi- und Kunststofferzeugnissen",460
+"ISCO-88_COM","de","8285","Montierer von Holzwaren und verwandten Erzeugnissen",461
+"ISCO-88_COM","de","8286","Montierer von Pappe-, Textil- und verwandten Erzeugnissen",462
+"ISCO-88_COM","de","8287","Montierer von Erzeugnissen aus unterschiedlichen Materialien",463
+"ISCO-88_COM","de","829","Sonstige Maschinenbediener, anderweitig nicht genannt",464
+"ISCO-88_COM","de","8290","Sonstige Maschinenbediener, anderweitig nicht genannt",465
+"ISCO-88_COM","de","83","Fahrzeugführer und Bediener mobiler Anlagen",466
+"ISCO-88_COM","de","831","Lokomotivführer und verwandte Berufe",467
+"ISCO-88_COM","de","8311","Lokomotivführer",468
+"ISCO-88_COM","de","8312","Eisenbahnbremser, Stellwerksbediener und Rangierer",469
+"ISCO-88_COM","de","832","Kraftfahrzeugführer",470
+"ISCO-88_COM","de","8321","Motorradfahrer",471
+"ISCO-88_COM","de","8322","Personenkraftwagen-, Taxi- und Kleinlastkraftwagenfahrer",472
+"ISCO-88_COM","de","8323","Busfahrer und Straßenbahnführer",473
+"ISCO-88_COM","de","8324","Fahrer schwerer Lastkraftwagen",474
+"ISCO-88_COM","de","833","Führer von Landmaschinen und anderen mobilen Anlagen",475
+"ISCO-88_COM","de","8331","Führer von motorisierten land- und forstwirtschaftlichen Maschinen",476
+"ISCO-88_COM","de","8332","Führer von Erdbewegungs- und verwandten Maschinen",477
+"ISCO-88_COM","de","8333","Kranführer, Aufzugsmaschinisten und Bediener verwandter Hebeeinrichtungen",478
+"ISCO-88_COM","de","8334","Hubkarrenführer",479
+"ISCO-88_COM","de","834","Deckspersonal auf Schiffen und verwandte Berufe",480
+"ISCO-88_COM","de","8340","Deckspersonal auf Schiffen und verwandte Berufe",481
+"ISCO-88_COM","de","9","HILFSARBEITSKRÄFTE",482
+"ISCO-88_COM","de","91","Verkaufs- und Dienstleistungshilfskräfte",483
+"ISCO-88_COM","de","911","Straßenhändler und verwandte Berufe",484
+"ISCO-88_COM","de","9111","Straßenhändler",485
+"ISCO-88_COM","de","9113","Hausierer und Telefonverkäufer",486
+"ISCO-88_COM","de","912","Schuhputzer und sonstige auf der Straße ausgeübte einfache Dienstleistungstätigkeiten",487
+"ISCO-88_COM","de","9120","Schuhputzer und sonstige auf der Straße ausgeübte einfache Dienstleistungstätigkeiten",488
+"ISCO-88_COM","de","913","Haushaltshilfen und verwandte Hilfskräfte, Reinigungspersonal und Wäscher",489
+"ISCO-88_COM","de","9131","Haushaltshilfen und Reinigungspersonal in Privathaushalten",490
+"ISCO-88_COM","de","9132","Hilfskräfte und Reinigungspersonal in Büros, Hotels und sonstigen Einrich-tungen",491
+"ISCO-88_COM","de","9133","Handwäscher und Handbügler",492
+"ISCO-88_COM","de","914","Hausmeister, Fensterputzer und verwandtes Reinigungspersonal",493
+"ISCO-88_COM","de","9141","Hausmeister, Hauswarte und verwandte Berufe",494
+"ISCO-88_COM","de","9142","Fahrzeugreiniger, Fensterputzer und verwandtes Reinigungspersonal",495
+"ISCO-88_COM","de","915","Boten, Träger, Pförtner und verwandte Berufe",496
+"ISCO-88_COM","de","9151","Boten, Paket-, Gepäckträger und -austräger",497
+"ISCO-88_COM","de","9152","Pförtner, Wachpersonal und verwandte Berufe",498
+"ISCO-88_COM","de","9153","Automatenkassierer, Zählerableser und verwandte Berufe",499
+"ISCO-88_COM","de","916","Müllsammler und verwandte Berufe",500
+"ISCO-88_COM","de","9161","Müllsammler",501
+"ISCO-88_COM","de","9162","Straßenkehrer und verwandte Berufe",502
+"ISCO-88_COM","de","92","Landwirtschaftliche, Fischerei- und verwandte Hilfsarbeiter",503
+"ISCO-88_COM","de","921","Landwirtschaftliche, Fischerei- und verwandte Hilfsarbeiter",504
+"ISCO-88_COM","de","9211","Landwirtschaftliche Hilfsarbeiter",505
+"ISCO-88_COM","de","9212","Forstwirtschaftliche Hilfsarbeiter",506
+"ISCO-88_COM","de","9213","Hilfsarbeiter in Fischerei, Jagd und Fallenstellerei",507
+"ISCO-88_COM","de","93","Hilfsarbeiter im Bergbau, Baugewerbe, Verarbeitenden Gewerbe und Transportwesen",508
+"ISCO-88_COM","de","931","Hilfsarbeiter im Bergbau und Baugewerbe",509
+"ISCO-88_COM","de","9311","Hilfsarbeiter im Bergbau und Steinbruch",510
+"ISCO-88_COM","de","9312","Bau- und Instandhaltungshilfsarbeiter (Straßen, Dämme und ähnliche Bauwerke)",511
+"ISCO-88_COM","de","9313","Bauhilfsarbeiter (Gebäude)",512
+"ISCO-88_COM","de","932","Hilfsarbeiter in der Fertigung",513
+"ISCO-88_COM","de","9320","Hilfsarbeiter in der Fertigung",514
+"ISCO-88_COM","de","933","Transport- und Frachtarbeiter",515
+"ISCO-88_COM","de","9330","Transport- und Frachtarbeiter",516
+"ISCO-88_COM","de","0","SOLDATEN",517
+"ISCO-88_COM","de","01","Soldaten",518
+"ISCO-88_COM","de","010","Soldaten",519
+"ISCO-88_COM","de","0100","Soldaten",520
