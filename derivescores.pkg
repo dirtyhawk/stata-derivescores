@@ -14,6 +14,13 @@ d Authors: Daniel Bela and Knut Wenzig
 d Support: {browse "https://github.com/dirtyhawk/stata-derivescores"}
 f ado/derivescores.ado
 f ado/derivescores.sthlp
-F tables/whatevertable.csv
+F tables/ConceptSchemes_Correspondences.csv
+F tables/EGP_Ganzeboom.csv
+F tables/ISCO-88_COM--ISCO-88_ILO.csv
+F tables/ISCO-88_COM.csv
+F tables/ISCO-88_Ganzeboom--ISEI.csv
+F tables/ISCO-88_Ganzeboom.csv
+F tables/ISCO-88_ILO--ISCO-88_Ganzeboom.csv
+F tables/ISCO-88_ILO.csv.csv
 e
 * EOF
