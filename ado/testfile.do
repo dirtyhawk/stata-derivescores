@@ -5,7 +5,10 @@ set more off
 run "./derivescores.ado"
 run "./derivescores_help.ado"
 
+// clear screen
+cls
 
-derivescores help
+// test procedure
+derivescores init
 
 exit 0
