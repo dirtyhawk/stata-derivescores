@@ -539,7 +539,7 @@
 "ISCO-88_ILO",9331,"ISCO-88_Ganzeboom","9331",1,
 "ISCO-88_ILO",9332,"ISCO-88_Ganzeboom","9332",1,
 "ISCO-88_ILO",9333,"ISCO-88_Ganzeboom","9333",1,
-"ISCO-88_ILO","0","ISCO-88_Ganzeboom","0110",1,"target introduces some other concepts for armed forces, but still has concept „0110 armed forces“ the source concept is associated with"
-"ISCO-88_ILO","01","ISCO-88_Ganzeboom","0110",1,"target introduces some other concepts for armed forces, but still has concept „0110 armed forces“ the source concept is associated with"
-"ISCO-88_ILO","011","ISCO-88_Ganzeboom","0110",1,"target introduces some other concepts for armed forces, but still has concept „0110 armed forces“ the source concept is associated with"
-"ISCO-88_ILO","0110","ISCO-88_Ganzeboom","0110",1,"target introduces some other concepts for armed forces, but still has concept „0110 armed forces“ the source concept is associated with"
+"ISCO-88_ILO","0","ISCO-88_Ganzeboom","3452",1,"Target introduces concept „3452 [armed forces non-commissioned officers + army nfs]“. This is linked here in order to use further derivations of Ganzeboom. Target's concept „(0)110 armed forces“ is a dead end regarding to further derivations."
+"ISCO-88_ILO","01","ISCO-88_Ganzeboom","110",1,"Target introduces concept „3452 [armed forces non-commissioned officers + army nfs]“. This is linked here in order to use further derivations of Ganzeboom. Target's concept „(0)110 armed forces“ is a dead end regarding to further derivations."
+"ISCO-88_ILO","011","ISCO-88_Ganzeboom","110",1,"Target introduces concept „3452 [armed forces non-commissioned officers + army nfs]“. This is linked here in order to use further derivations of Ganzeboom. Target's concept „(0)110 armed forces“ is a dead end regarding to further derivations."
+"ISCO-88_ILO","0110","ISCO-88_Ganzeboom","110",1,"Target introduces concept „3452 [armed forces non-commissioned officers + army nfs]“. This is linked here in order to use further derivations of Ganzeboom. Target's concept „(0)110 armed forces“ is a dead end regarding to further derivations."
