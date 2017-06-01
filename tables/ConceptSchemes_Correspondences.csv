@@ -11,3 +11,5 @@
 "ISCO-68_ILO",,"ISCO-68_Ganzeboom",,,
 "ISCO-68_Ganzeboom","International Standard Classification of Occupations, ISCO-68 (Treimann‘s/Ganzeboom‘s version)",,,"http://www.harryganzeboom.nl/isco68/index.htm","http://www.harryganzeboom.nl/isco68/isco68.zip"
 "ISCO-68_Ganzeboom",,"ISEI","This Correspondence is derived from Ganzeboom‘s SPSS script iscoisei.sps.","http://www.harryganzeboom.nl/isco68/index.htm","http://www.harryganzeboom.nl/isco68/isco68.zip"
+"ISCO-68_SOEPdepr","International Standard Classification of Occupations, ISCO-68 (deprecated SOEP version)",,"Do not use for new data.",,
+"ISCO-68_SOEPdepr",,"ISCO-68_ILO",,,
