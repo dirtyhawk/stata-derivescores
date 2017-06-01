@@ -14,6 +14,7 @@ d Authors: Daniel Bela and Knut Wenzig
 d Support: {browse "https://github.com/dirtyhawk/stata-derivescores"}
 f ado/derivescores.ado
 f ado/derivescores_init.ado
+f ado/derivescores_cleanup.ado
 f ado/derivescores_help.ado
 f ado/derivescores.sthlp
 F tables/ConceptSchemes_Correspondences.csv

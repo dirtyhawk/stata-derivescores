@@ -2,7 +2,7 @@
 program define derivescores , nclass sortpreserve
 	version 14 // Stata version 14 or newer required
 	// parse subcommands: valid are "help", "init", "info", "classify", "crosswalk"
-	local validcmds help init info classify crosswalk
+	local validcmds help init cleanup info classify crosswalk
 	gettoken cmd 0 : 0, parse(`" ,"')
         local cmdlength=length(`"`cmd'"')
 	// no subcommand specified -- issue error message

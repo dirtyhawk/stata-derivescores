@@ -18,6 +18,10 @@ net install derivescores , from(`c(pwd)') replace
 cls
 
 // test procedure
+derivescores cleanup , verbose
+clear
+sysuse auto , clear
+drop make
 derivescores init , verbose
 
 browse
