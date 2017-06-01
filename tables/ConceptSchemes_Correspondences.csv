@@ -6,4 +6,8 @@
 "ISCO-88_Ganzeboom",,"ISEI","This Correspondence is derived from Ganzeboom‘s SPSS script iskoisei.sps.","http://www.harryganzeboom.nl/isco88/index.htm","http://www.harryganzeboom.nl/isco88/isco88.zip"
 "ISCO-88_ILO","International Standard Classification of Occupations, ISCO-88. Version of the ILO.",,"This version of ISCO-88 is used by the International Labour Organization (ILO).","http://www.ilo.org/public/english/bureau/stat/isco/isco88/index.htm","http://www.ilo.org/public/english/bureau/stat/isco/isco88/major.htm"
 "ISCO-88_ILO",,"ISCO-88_Ganzeboom",,,
-"ISEI","International Socio-Economic Index of Occupational Status",,"Range from 16 to 90.",,
+"ISEI","International Socio-Economic Index of Occupational Status",,"Range from 10 to 90.",,
+"ISCO-68_ILO","International Standard Classification of Occupations, ISCO-68. Version of the ILO.",,"Major,  minor and unit groups.","http://www.ilo.org/public/libdoc/ilo/1969/69B09_35_engl.pdf","http://www.ilo.org/public/english/bureau/stat/isco/isco68/major.htm"
+"ISCO-68_ILO",,"ISCO-68_Ganzeboom",,,
+"ISCO-68_Ganzeboom","International Standard Classification of Occupations, ISCO-68 (Treimann‘s/Ganzeboom‘s version)",,,"http://www.harryganzeboom.nl/isco68/index.htm","http://www.harryganzeboom.nl/isco68/isco68.zip"
+"ISCO-68_Ganzeboom",,"ISEI","This Correspondence is derived from Ganzeboom‘s SPSS script iscoisei.sps.","http://www.harryganzeboom.nl/isco68/index.htm","http://www.harryganzeboom.nl/isco68/isco68.zip"
