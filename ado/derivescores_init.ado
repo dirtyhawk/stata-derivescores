@@ -67,8 +67,9 @@ program define derivescores_init , nclass
 	quietly : mkdir `"`temppath'"'
 	forvalues counter=1/`total' {
 		global DERIVESCORES_dec`counter'file `"`temppath'/${DERIVESCORES_dec`counter'file}"'
-		import delimited using `"${DERIVESCORES_dec`counter'pkgfile}"' , varnames(1) case(preserve) encoding("utf-8")
+		quietly : import delimited using `"${DERIVESCORES_dec`counter'pkgfile}"' , clear varnames(1) case(preserve) encoding("utf-8")
 		quietly : save `"${DERIVESCORES_dec`counter'file}"'
+		if (`"`verbose'"'=="verbose") noisily : display as text in smcl `"saved classification table for declaration {result}{it:${DERIVESCORES_dec`counter'shortname}}{text} to {result}{it:${DERIVESCORES_dec`counter'file}}{text}"'
 	}
 	restore
 	// save global marking everything as initialized
