@@ -1,0 +1,377 @@
+"ConceptScheme","labelStyle","Concept","prefLabel","sortorder","prefValue"
+"ISCO-68_ILO","en","0/1","Professional, Technical and Related Workers",1,0
+"ISCO-68_ILO","en","0-1","Physical Scientists and Related Technicians",2,100
+"ISCO-68_ILO","en","0-11","Chemists",3,110
+"ISCO-68_ILO","en","0-12","Physicists",4,120
+"ISCO-68_ILO","en","0-13","Physical scientists not elsewhere classified",5,130
+"ISCO-68_ILO","en","0-14","Physical science technicians",6,140
+"ISCO-68_ILO","en","0-2/0-3","Architects, Engineers and Related Technicians",7,200
+"ISCO-68_ILO","en","0-21","Architects and town planners",8,210
+"ISCO-68_ILO","en","0-22","Civil engineers",9,220
+"ISCO-68_ILO","en","0-23","Electrical and electronics engineers",10,230
+"ISCO-68_ILO","en","0-24","Mechanical engineers",11,240
+"ISCO-68_ILO","en","0-25","Chemical engineers",12,250
+"ISCO-68_ILO","en","0-26","Metallurgists",13,260
+"ISCO-68_ILO","en","0-27","Mining engineers",14,270
+"ISCO-68_ILO","en","0-28","Industrial engineers",15,280
+"ISCO-68_ILO","en","0-29","Engineers not elsewhere classified",16,290
+"ISCO-68_ILO","en","0-31","Surveyors",17,310
+"ISCO-68_ILO","en","0-32","Draughtsmen",18,320
+"ISCO-68_ILO","en","0-33","Civil engineering technicians",19,330
+"ISCO-68_ILO","en","0-34","Electrical and electronics engineering technicians",20,340
+"ISCO-68_ILO","en","0-35","Mechanical engineering technicians",21,350
+"ISCO-68_ILO","en","0-36","Chemical engineering technicians",22,360
+"ISCO-68_ILO","en","0-37","Metallurgical technicians",23,370
+"ISCO-68_ILO","en","0-38","Mining technicians",24,380
+"ISCO-68_ILO","en","0-39","Engineering technicians not elsewhere classified",25,390
+"ISCO-68_ILO","en","0-4","Aircraft and Ships' Officers",26,400
+"ISCO-68_ILO","en","0-41","Aircraft pilots, navigators and flight engineers",27,410
+"ISCO-68_ILO","en","0-42","Ships' deck officers and pilots",28,420
+"ISCO-68_ILO","en","0-43","Ships' engineers",29,430
+"ISCO-68_ILO","en","0-5","Life Scientists and Related Technicians",30,500
+"ISCO-68_ILO","en","0-51","Biologists, zoologists and related scientists",31,510
+"ISCO-68_ILO","en","0-52","Bacteriologists, pharmacologists and related scientists",32,520
+"ISCO-68_ILO","en","0-53","Agronomists and related scientists",33,530
+"ISCO-68_ILO","en","0-54","Life sciences technicians",34,540
+"ISCO-68_ILO","en","0-6/0-7","Medical, Dental, Veterinary and Related Workers",35,600
+"ISCO-68_ILO","en","0-61","Medical doctors",36,610
+"ISCO-68_ILO","en","0-62","Medical assistants",37,620
+"ISCO-68_ILO","en","0-63","Dentists",38,630
+"ISCO-68_ILO","en","0-64","Dental assistants",39,640
+"ISCO-68_ILO","en","0-65","Veterinarians",40,650
+"ISCO-68_ILO","en","0-66","Veterinary assistants",41,660
+"ISCO-68_ILO","en","0-67","Pharmacists",42,670
+"ISCO-68_ILO","en","0-68","Pharmaceutical assistants",43,680
+"ISCO-68_ILO","en","0-69","Dietitians and public health nutritionists",44,690
+"ISCO-68_ILO","en","0-71","Professional nurses",45,710
+"ISCO-68_ILO","en","0-72","Nursing personnel not elsewhere classified",46,720
+"ISCO-68_ILO","en","0-73","Professional midwives",47,730
+"ISCO-68_ILO","en","0-74","Midwifery personnel not elsewhere classified",48,740
+"ISCO-68_ILO","en","0-75","Optometrists and opticians",49,750
+"ISCO-68_ILO","en","0-76","Physiotherapists and occupational therapists",50,760
+"ISCO-68_ILO","en","0-77","Medical X-ray technicians",51,770
+"ISCO-68_ILO","en","0-79","Medical, dental, veterinary and related workers not elsewhere classified",52,790
+"ISCO-68_ILO","en","0-8","Statisticians, Mathematicians, Systems Analysts and Related Technicians",53,800
+"ISCO-68_ILO","en","0-81","Statisticians",54,810
+"ISCO-68_ILO","en","0-82","Mathematicians and actuaries",55,820
+"ISCO-68_ILO","en","0-83","Systems Analysts",56,830
+"ISCO-68_ILO","en","0-84","Statistical and mathematical technicians",57,840
+"ISCO-68_ILO","en","0-9","Economists",58,900
+"ISCO-68_ILO","en","0-90","Economists",59,901
+"ISCO-68_ILO","en","1-1","Accountants",60,1100
+"ISCO-68_ILO","en","1-10","Accountants",61,1101
+"ISCO-68_ILO","en","1-2","Jurists",62,1200
+"ISCO-68_ILO","en","1-21","Lawyers",63,1210
+"ISCO-68_ILO","en","1-22","Judges",64,1220
+"ISCO-68_ILO","en","1-29","Jurists not elsewhere classified",65,1290
+"ISCO-68_ILO","en","1-3","Teachers",66,1300
+"ISCO-68_ILO","en","1-31","University and higher education teachers",67,1310
+"ISCO-68_ILO","en","1-32","Secondary education teachers",68,1320
+"ISCO-68_ILO","en","1-33","Primary education teachers",69,1330
+"ISCO-68_ILO","en","1-34","Pre-primary education teachers",70,1340
+"ISCO-68_ILO","en","1-35","Special education teachers",71,1350
+"ISCO-68_ILO","en","1-39","Teachers not elsewhere classified",72,1390
+"ISCO-68_ILO","en","1-4","Workers in Religion",73,1400
+"ISCO-68_ILO","en","1-41","Ministers of religion and related members of religious orders",74,1410
+"ISCO-68_ILO","en","1-49","Workers in religion not elsewhere classified",75,1490
+"ISCO-68_ILO","en","1-5","Authors, Journalists and Related Writers",76,1500
+"ISCO-68_ILO","en","1-51","Authors and critics",77,1510
+"ISCO-68_ILO","en","1-59","Authors, journalists and related writers not elsewhere classified",78,1590
+"ISCO-68_ILO","en","1-6","Sculptors, Painters, Photographers and Related Creative Artists",79,1600
+"ISCO-68_ILO","en","1-61","Sculptors, painters and related artists",80,1610
+"ISCO-68_ILO","en","1-62","Commercial artists and designers",81,1620
+"ISCO-68_ILO","en","1-63","Photographers and cameramen",82,1630
+"ISCO-68_ILO","en","1-7","Composers and Performing Artists",83,1700
+"ISCO-68_ILO","en","1-71","Composers, musicians and singers",84,1710
+"ISCO-68_ILO","en","1-72","Choreographers and dancers",85,1720
+"ISCO-68_ILO","en","1-73","Actors and stage directors",86,1730
+"ISCO-68_ILO","en","1-74","Producers, performing arts",87,1740
+"ISCO-68_ILO","en","1-75","Circus performers",88,1750
+"ISCO-68_ILO","en","1-79","Performing artists not elsewhere classified",89,1790
+"ISCO-68_ILO","en","1-8","Athletes, Sportsmen and Related Workers",90,1800
+"ISCO-68_ILO","en","1-80","Athletes, sportsmen and related workers",91,1801
+"ISCO-68_ILO","en","1-9","Professional, Technical and Related Workers Not Elsewhere Classified",92,1900
+"ISCO-68_ILO","en","1-91","Librarians, archivists and curators",93,1910
+"ISCO-68_ILO","en","1-92","Sociologists, anthropologists and related scientists",94,1920
+"ISCO-68_ILO","en","1-93","Social workers",95,1930
+"ISCO-68_ILO","en","1-94","Personnel and occupational specialists",96,1940
+"ISCO-68_ILO","en","1-95","Philologists, translators and interpreters",97,1950
+"ISCO-68_ILO","en","1-99","Other professional, technical and related workers",98,1990
+"ISCO-68_ILO","en","2","Administrative and Managerial Workers",99,2000
+"ISCO-68_ILO","en","2-0","Legislative Officials and Government Administrators",100,2001
+"ISCO-68_ILO","en","2-01","Legislative officials",101,2010
+"ISCO-68_ILO","en","2-02","Government administrators",102,2020
+"ISCO-68_ILO","en","2-1","Managers",103,2100
+"ISCO-68_ILO","en","2-11","General managers",104,2110
+"ISCO-68_ILO","en","2-12","Production managers (except farm)",105,2120
+"ISCO-68_ILO","en","2-19","Managers not elsewhere classified",106,2190
+"ISCO-68_ILO","en","3","Clerical and Related Workers",107,3000
+"ISCO-68_ILO","en","3-0","Clerical Supervisors",108,3001
+"ISCO-68_ILO","en","3-00","Clerical supervisors",109,3002
+"ISCO-68_ILO","en","3-1","Government Executive Officials",110,3100
+"ISCO-68_ILO","en","3-10","Government executive officials",111,3101
+"ISCO-68_ILO","en","3-2","Stenographers, Typists and Card- and Tape-Punching Machine Operators",112,3200
+"ISCO-68_ILO","en","3-21","Stenographers, typists and teletypists",113,3210
+"ISCO-68_ILO","en","3-22","Card- and tape-punching machine operators",114,3220
+"ISCO-68_ILO","en","3-3","Bookkeepers, Cashiers and Related Workers",115,3300
+"ISCO-68_ILO","en","3-31","Bookkeepers and cashiers",116,3310
+"ISCO-68_ILO","en","3-39","Bookkeepers, cashiers and related workers not elsewhere classified",117,3390
+"ISCO-68_ILO","en","3-4","Computing Machine Operators",118,3400
+"ISCO-68_ILO","en","3-41","Bookkeeping and calculating machine operators",119,3410
+"ISCO-68_ILO","en","3-42","Automatic data-processing machine operators",120,3420
+"ISCO-68_ILO","en","3-5","Transport and Communications Supervisors",121,3500
+"ISCO-68_ILO","en","3-51","Railway station masters",122,3510
+"ISCO-68_ILO","en","3-52","Postmasters",123,3520
+"ISCO-68_ILO","en","3-59","Transport and communications supervisors not elsewhere classified",124,3590
+"ISCO-68_ILO","en","3-6","Transport Conductors",125,3600
+"ISCO-68_ILO","en","3-60","Transport conductors",126,3601
+"ISCO-68_ILO","en","3-7","Mail Distribution Clerks",127,3700
+"ISCO-68_ILO","en","3-70","Mail distribution clerks",128,3701
+"ISCO-68_ILO","en","3-8","Telephone and Telegraph Operators",129,3800
+"ISCO-68_ILO","en","3-80","Telephone and telegraph operators",130,3801
+"ISCO-68_ILO","en","3-9","Clerical and Related Workers Not Elsewhere Classified",131,3900
+"ISCO-68_ILO","en","3-91","Stock clerks",132,3910
+"ISCO-68_ILO","en","3-92","Material and production planning clerks",133,3920
+"ISCO-68_ILO","en","3-93","Correspondence and reporting clerks",134,3930
+"ISCO-68_ILO","en","3-94","Receptionists and travel agency clerks",135,3940
+"ISCO-68_ILO","en","3-95","Library and filing clerks",136,3950
+"ISCO-68_ILO","en","3-99","Clerks not elsewhere classified",137,3990
+"ISCO-68_ILO","en","4","Sales Workers",138,4000
+"ISCO-68_ILO","en","4-0","Managers (Wholesale and Retail Trade)",139,4001
+"ISCO-68_ILO","en","4-00","Managers (wholesale and retail trade)",140,4002
+"ISCO-68_ILO","en","4-1","Working Proprietors (Wholesale and Retail Trade)",141,4100
+"ISCO-68_ILO","en","4-10","Working proprietors (wholesale and retail trade)",142,4101
+"ISCO-68_ILO","en","4-2","Sales Supervisors and Buyers",143,4200
+"ISCO-68_ILO","en","4-21","Sales supervisors",144,4210
+"ISCO-68_ILO","en","4-22","Buyers",145,4220
+"ISCO-68_ILO","en","4-3","Technical Salesmen, Commercial Travellers and Manufacturers' Agents",146,4300
+"ISCO-68_ILO","en","4-31","Technical salesmen and service advisers",147,4310
+"ISCO-68_ILO","en","4-32","Commercial travellers and Manufacturers' agents",148,4320
+"ISCO-68_ILO","en","4-4","Insurance, Real Estate, Securities and Business Services Salesmen and Auctioneers",149,4400
+"ISCO-68_ILO","en","4-41","Insurance, real estate and securities salesmen",150,4410
+"ISCO-68_ILO","en","4-42","Business services salesmen",151,4420
+"ISCO-68_ILO","en","4-43","Auctioneers",152,4430
+"ISCO-68_ILO","en","4-5","Salesmen, Shop Assistants and Related Workers",153,4500
+"ISCO-68_ILO","en","4-51","Salesmen, shop assistants and demonstrators",154,4510
+"ISCO-68_ILO","en","4-52","Street vendors, canvassers and newsvendors",155,4520
+"ISCO-68_ILO","en","4-9","Sales Workers Not Elsewhere Classified",156,4900
+"ISCO-68_ILO","en","4-90","Sales workers not elsewhere classified",157,4901
+"ISCO-68_ILO","en","5","Service Workers",158,5000
+"ISCO-68_ILO","en","5-0","Managers (Catering and Lodging Services)",159,5001
+"ISCO-68_ILO","en","5-00","Managers (catering and lodging services)",160,5002
+"ISCO-68_ILO","en","5-1","Working Proprietors (Catering and Lodging Services)",161,5100
+"ISCO-68_ILO","en","5-10","Working proprietors (catering and lodging services)",162,5101
+"ISCO-68_ILO","en","5-2","Housekeeping and Related Service Supervisors",163,5200
+"ISCO-68_ILO","en","5-20","Housekeeping and related service supervisors",164,5201
+"ISCO-68_ILO","en","5-3","Cooks, Waiters, Bartenders and Relaters Workers",165,5300
+"ISCO-68_ILO","en","5-31","Cooks",166,5310
+"ISCO-68_ILO","en","5-32","Waiters, bartenders and related workers",167,5320
+"ISCO-68_ILO","en","5-4","Maids and Related Housekeeping Service Workers Not Elsewhere Classified",168,5400
+"ISCO-68_ILO","en","5-40","Maids and related housekeeping service workers not elsewhere classified",169,5401
+"ISCO-68_ILO","en","5-5","Building Caretakers, Charworkers, Cleaners and Related Workers",170,5500
+"ISCO-68_ILO","en","5-51","Building caretakers",171,5510
+"ISCO-68_ILO","en","5-52","Charworkers, cleaners and related workers",172,5520
+"ISCO-68_ILO","en","5-6","Launderers, Dry-Cleaners and Pressers",173,5600
+"ISCO-68_ILO","en","5-60","Launderers, dry-cleaners and pressers",174,5601
+"ISCO-68_ILO","en","5-7","Hairdressers, Barbers, Beauticians and Related Workers",175,5700
+"ISCO-68_ILO","en","5-70","Hairdressers, barbers, beauticians and related workers",176,5701
+"ISCO-68_ILO","en","5-8","Protective Service Workers",177,5800
+"ISCO-68_ILO","en","5-81","Fire-fighters",178,5810
+"ISCO-68_ILO","en","5-82","Policemen and detectives",179,5820
+"ISCO-68_ILO","en","5-89","Protective service workers not elsewhere classified",180,5890
+"ISCO-68_ILO","en","5-9","Service Workers Not Elsewhere Classified",181,5900
+"ISCO-68_ILO","en","5-91","Guides",182,5910
+"ISCO-68_ILO","en","5-92","Undertakers and embalmers",183,5920
+"ISCO-68_ILO","en","5-99","Other service workers",184,5990
+"ISCO-68_ILO","en","6","Agricultural, Animal Husbandry and Forestry Workers, Fishermen and Hunters",185,6000
+"ISCO-68_ILO","en","6-0","Farm Managers and Supervisors",186,6001
+"ISCO-68_ILO","en","6-00","Farm managers and supervisors",187,6002
+"ISCO-68_ILO","en","6-1","Farmers",188,6100
+"ISCO-68_ILO","en","6-11","General farmers",189,6110
+"ISCO-68_ILO","en","6-12","Specialised farmers",190,6120
+"ISCO-68_ILO","en","6-2","Agricultural and Animal Husbandry Workers",191,6200
+"ISCO-68_ILO","en","6-21","General farm workers",192,6210
+"ISCO-68_ILO","en","6-22","Field crop and vegetable farm workers",193,6220
+"ISCO-68_ILO","en","6-23","Orchard, vineyard and related tree and shrub crop workers",194,6230
+"ISCO-68_ILO","en","6-24","Livestock workers",195,6240
+"ISCO-68_ILO","en","6-25","Dairy farm workers",196,6250
+"ISCO-68_ILO","en","6-26","Poultry farm workers",197,6260
+"ISCO-68_ILO","en","6-27","Nursery workers and gardeners",198,6270
+"ISCO-68_ILO","en","6-28","Farm machinery operators",199,6280
+"ISCO-68_ILO","en","6-29","Agricultural and animal husbandry workers not elsewhere classified",200,6290
+"ISCO-68_ILO","en","6-3","Forestry Workers",201,6300
+"ISCO-68_ILO","en","6-31","Loggers",202,6310
+"ISCO-68_ILO","en","6-32","Forestry workers (except logging)",203,6320
+"ISCO-68_ILO","en","6-4","Fishermen, Hunters and Related Workers",204,6400
+"ISCO-68_ILO","en","6-41","Fishermen",205,6410
+"ISCO-68_ILO","en","6-49","Fishermen, hunters and related workers not elsewhere classified",206,6490
+"ISCO-68_ILO","en","7/8/9","Production and Related Workers, Transport Equipment Operators and Labourers",207,7000
+"ISCO-68_ILO","en","7-0","Production Supervisors and General Foremen",208,7001
+"ISCO-68_ILO","en","7-00","Production supervisors and general foremen",209,7002
+"ISCO-68_ILO","en","7-1","Miners, Quarrymen, Well Drillers and Related Workers",210,7100
+"ISCO-68_ILO","en","7-11","Miners and quarrymen",211,7110
+"ISCO-68_ILO","en","7-12","Mineral and stone treaters",212,7120
+"ISCO-68_ILO","en","7-13","Well drillers, borers and related workers",213,7130
+"ISCO-68_ILO","en","7-2","Metal Processers",214,7200
+"ISCO-68_ILO","en","7-21","Metal smelting, converting and refining furnacemen",215,7210
+"ISCO-68_ILO","en","7-22","Metal rolling-mill workers",216,7220
+"ISCO-68_ILO","en","7-23","Metal melters and reheaters",217,7230
+"ISCO-68_ILO","en","7-24","Metal casters",218,7240
+"ISCO-68_ILO","en","7-25","Metal moulders and coremakers",219,7250
+"ISCO-68_ILO","en","7-26","Metal annealers, temperers and case-hardeners",220,7260
+"ISCO-68_ILO","en","7-27","Metal drawers and extruders",221,7270
+"ISCO-68_ILO","en","7-28","Metal platers and coaters",222,7280
+"ISCO-68_ILO","en","7-29","Metal processers not elsewhere classified",223,7290
+"ISCO-68_ILO","en","7-3","Wood Preparation Workers and Paper Makers",224,7300
+"ISCO-68_ILO","en","7-31","Wood treaters",225,7310
+"ISCO-68_ILO","en","7-32","Sawyers, plywood makers and related wood-processing workers",226,7320
+"ISCO-68_ILO","en","7-33","Paper pulp preparers",227,7330
+"ISCO-68_ILO","en","7-34","Paper makers",228,7340
+"ISCO-68_ILO","en","7-4","Chemical Processers and Related Workers",229,7400
+"ISCO-68_ILO","en","7-41","Crushers, grinders and mixers",230,7410
+"ISCO-68_ILO","en","7-42","Cookers, roasters and related heat-treaters",231,7420
+"ISCO-68_ILO","en","7-43","Filter and separator operators",232,7430
+"ISCO-68_ILO","en","7-44","Still and reactor operators",233,7440
+"ISCO-68_ILO","en","7-45","Petroleum-refining workers",234,7450
+"ISCO-68_ILO","en","7-49","Chemical processers and related workers not elsewhere classified",235,7490
+"ISCO-68_ILO","en","7-5","Spinners, Weavers, Knitters, Dyers and Related Workers",236,7500
+"ISCO-68_ILO","en","7-51","Fibre preparers",237,7510
+"ISCO-68_ILO","en","7-52","Spinners and winders",238,7520
+"ISCO-68_ILO","en","7-53","Weaving- and knitting-machine setters and pattern-card preparers",239,7530
+"ISCO-68_ILO","en","7-54","Weavers and related workers",240,7540
+"ISCO-68_ILO","en","7-55","Knitters",241,7550
+"ISCO-68_ILO","en","7-56","Bleachers, dyers and textile product finishers",242,7560
+"ISCO-68_ILO","en","7-59","Spinners, weavers, knitters, dyers and related workers not elsewhere classified",243,7590
+"ISCO-68_ILO","en","7-6","Tanners, Fellmongers and Pelt Dressers",244,7600
+"ISCO-68_ILO","en","7-61","Tanners and fellmongers",245,7610
+"ISCO-68_ILO","en","7-62","Pelt dressers",246,7620
+"ISCO-68_ILO","en","7-7","Food and Beverage Processers",247,7700
+"ISCO-68_ILO","en","7-71","Grain millers and related workers",248,7710
+"ISCO-68_ILO","en","7-72","Sugar processers and refiners",249,7720
+"ISCO-68_ILO","en","7-73","Butchers and meat preparers",250,7730
+"ISCO-68_ILO","en","7-74","Food preservers",251,7740
+"ISCO-68_ILO","en","7-75","Dairy product processers",252,7750
+"ISCO-68_ILO","en","7-76","Bakers, pastrycooks and confectionery makers",253,7760
+"ISCO-68_ILO","en","7-77","Tea, coffee and cocoa preparers",254,7770
+"ISCO-68_ILO","en","7-78","Brewers, wine and beverage makers",255,7780
+"ISCO-68_ILO","en","7-79","Food and beverage processers not elsewhere classified",256,7790
+"ISCO-68_ILO","en","7-8","Tobacco Preparers and Tobacco Product Makers",257,7800
+"ISCO-68_ILO","en","7-81","Tobacco preparers",258,7810
+"ISCO-68_ILO","en","7-82","Cigar makers",259,7820
+"ISCO-68_ILO","en","7-83","Cigarette makers",260,7830
+"ISCO-68_ILO","en","7-89","Tobacco preparers and tobacco product makers not elsewhere classified",261,7890
+"ISCO-68_ILO","en","7-9","Tailors, Dressmakers, Sewers, Upholsterers and Related Workers",262,7900
+"ISCO-68_ILO","en","7-91","Tailors and dressmakers",263,7910
+"ISCO-68_ILO","en","7-92","Fur tailors and related workers",264,7920
+"ISCO-68_ILO","en","7-93","Milliners and hatmakers",265,7930
+"ISCO-68_ILO","en","7-94","Patternmakers and cutters",266,7940
+"ISCO-68_ILO","en","7-95","Sewers and embroiderers",267,7950
+"ISCO-68_ILO","en","7-96","Upholsterers and related workers",268,7960
+"ISCO-68_ILO","en","7-99","Tailors, dressmakers, sewers, upholsterers and related workers not elsewhere classified",269,7990
+"ISCO-68_ILO","en","8-0","Shoemakers and Leather Goods Makers",270,8000
+"ISCO-68_ILO","en","8-01","Shoemakers and shoe repairers",271,8010
+"ISCO-68_ILO","en","8-02","Shoe cutters, lasters, sewers and related workers",272,8020
+"ISCO-68_ILO","en","8-03","Leather goods makers",273,8030
+"ISCO-68_ILO","en","8-1","Cabinetmakers and Related Woodworkers",274,8100
+"ISCO-68_ILO","en","8-11","Cabinetmakers",275,8110
+"ISCO-68_ILO","en","8-12","Woodworking-machine operators",276,8120
+"ISCO-68_ILO","en","8-19","Cabinetmakers and related woodworkers not elsewhere classified",277,8190
+"ISCO-68_ILO","en","8-2","Stone Cutters and Carvers",278,8200
+"ISCO-68_ILO","en","8-20","Stone cutters and carvers",279,8201
+"ISCO-68_ILO","en","8-3","Blacksmiths, Toolmakers and Machine-Tool Operators",280,8300
+"ISCO-68_ILO","en","8-31","Blacksmiths, hammersmiths and forging-press operators",281,8310
+"ISCO-68_ILO","en","8-32","Toolmakers, metal patternmakers and metal markers",282,8320
+"ISCO-68_ILO","en","8-33","Machine-tool setter-operators",283,8330
+"ISCO-68_ILO","en","8-34","Machine-tool operators",284,8340
+"ISCO-68_ILO","en","8-35","Metal grinders, polishers and tool sharpeners",285,8350
+"ISCO-68_ILO","en","8-39","Blacksmiths, toolmakers and machine-tool operators not elsewhere classified",286,8390
+"ISCO-68_ILO","en","8-4","Machinery Fitters, Machine Assemblers and Precision Instrument Makers (except Electrical)",287,8400
+"ISCO-68_ILO","en","8-41","Machinery fitters and machine assemblers",288,8410
+"ISCO-68_ILO","en","8-42","Watch, clock and precision instrument makers",289,8420
+"ISCO-68_ILO","en","8-43","Motor vehicle mechanics",290,8430
+"ISCO-68_ILO","en","8-44","Aircraft engine mechanics",291,8440
+"ISCO-68_ILO","en","8-49","Machinery fitters, machine assemblers and precision instrument makers (except electrical) not elsewhere classified",292,8490
+"ISCO-68_ILO","en","8-5","Electrical Fitters and Related Electrical and Electronics Workers",293,8500
+"ISCO-68_ILO","en","8-51","Electrical fitters",294,8510
+"ISCO-68_ILO","en","8-52","Electronics fitters",295,8520
+"ISCO-68_ILO","en","8-53","Electrical and electronics equipment assemblers",296,8530
+"ISCO-68_ILO","en","8-54","Radio and television repairmen",297,8540
+"ISCO-68_ILO","en","8-55","Electrical wiremen",298,8550
+"ISCO-68_ILO","en","8-56","Telephone and telegraph installers",299,8560
+"ISCO-68_ILO","en","8-57","Electric linemen and cable jointers",300,8570
+"ISCO-68_ILO","en","8-59","Electrical fitters and related electrical and electronics workers not elsewhere classified",301,8590
+"ISCO-68_ILO","en","8-6","Broadcasting Station and Sound Equipment Operators and Cinema Projectionists",302,8600
+"ISCO-68_ILO","en","8-61","Broadcasting station operators",303,8610
+"ISCO-68_ILO","en","8-62","Sound equipment operators and cinema projectionists",304,8620
+"ISCO-68_ILO","en","8-7","Plumbers, Welders, Sheet Metal and Structural Metal Preparers and Erectors",305,8700
+"ISCO-68_ILO","en","8-71","Plumbers and pipe fitters",306,8710
+"ISCO-68_ILO","en","8-72","Welders and flame-cutters",307,8720
+"ISCO-68_ILO","en","8-73","Sheet-metal workers",308,8730
+"ISCO-68_ILO","en","8-74","Structural metal preparers and erectors",309,8740
+"ISCO-68_ILO","en","8-8","Jewellery and Precious Metal Workers",310,8800
+"ISCO-68_ILO","en","8-80","Jewellery and precious metal workers",311,8801
+"ISCO-68_ILO","en","8-9","Glass Formers, Potters and Related Workers",312,8900
+"ISCO-68_ILO","en","8-91","Glass formers, cutters, grinders and finishers",313,8910
+"ISCO-68_ILO","en","8-92","Potters and related clay and abrasive formers",314,8920
+"ISCO-68_ILO","en","8-93","Glass and ceramics kilnmen",315,8930
+"ISCO-68_ILO","en","8-94","Glass engravers and etchers",316,8940
+"ISCO-68_ILO","en","8-95","Glass and ceramics painters and decorators",317,8950
+"ISCO-68_ILO","en","8-99","Glass formers, potters and related workers not elsewhere classified",318,8990
+"ISCO-68_ILO","en","9-0","Rubber and Plastics Product Makers",319,9000
+"ISCO-68_ILO","en","9-01","Rubber and plastics product makers (except tire makers and tire vulcanisers)",320,9010
+"ISCO-68_ILO","en","9-02","Tire makers and vulcanisers",321,9020
+"ISCO-68_ILO","en","9-1","Paper and Paperboard Products Makers",322,9100
+"ISCO-68_ILO","en","9-10","Paper and paperboard products makers",323,9101
+"ISCO-68_ILO","en","9-2","Printers and Related Workers",324,9200
+"ISCO-68_ILO","en","9-21","Compositors and typesetters",325,9210
+"ISCO-68_ILO","en","9-22","Printing pressmen",326,9220
+"ISCO-68_ILO","en","9-23","Stereotypers and electrotypers",327,9230
+"ISCO-68_ILO","en","9-24","Printing engravers (except photo-engravers)",328,9240
+"ISCO-68_ILO","en","9-25","Photo-engravers",329,9250
+"ISCO-68_ILO","en","9-26","Bookbinders and related workers",330,9260
+"ISCO-68_ILO","en","9-27","Photographic darkroom workers",331,9270
+"ISCO-68_ILO","en","9-29","Printers and related workers not elsewhere classified",332,9290
+"ISCO-68_ILO","en","9-3","Painters",333,9300
+"ISCO-68_ILO","en","9-31","Painters, construction",334,9310
+"ISCO-68_ILO","en","9-39","Painters not elsewhere classified",335,9390
+"ISCO-68_ILO","en","9-4","Production and Related Workers Not Elsewhere Classified",336,9400
+"ISCO-68_ILO","en","9-41","Musical instrument makers and tuners",337,9410
+"ISCO-68_ILO","en","9-42","Basketry weavers and brush makers",338,9420
+"ISCO-68_ILO","en","9-43","Non-metallic mineral product makers",339,9430
+"ISCO-68_ILO","en","9-49","Other production and related workers",340,9490
+"ISCO-68_ILO","en","9-5","Bricklayers, Carpenters and Other Construction Workers",341,9500
+"ISCO-68_ILO","en","9-51","Bricklayers, stonemasons and tile setters",342,9510
+"ISCO-68_ILO","en","9-52","Reinforced-concreters, cement finishers and terrazzo workers",343,9520
+"ISCO-68_ILO","en","9-53","Roofers",344,9530
+"ISCO-68_ILO","en","9-54","Carpenters, joiners and parquetry workers",345,9540
+"ISCO-68_ILO","en","9-55","Plasterers",346,9550
+"ISCO-68_ILO","en","9-56","Insulators",347,9560
+"ISCO-68_ILO","en","9-57","Glaziers",348,9570
+"ISCO-68_ILO","en","9-59","Construction workers not elsewhere classified",349,9590
+"ISCO-68_ILO","en","9-6","Stationary Engine and Related Equipment Operators",350,9600
+"ISCO-68_ILO","en","9-61","Power-generating machinery operators",351,9610
+"ISCO-68_ILO","en","9-69","Stationary engine and related equipment operators not elsewhere classified",352,9690
+"ISCO-68_ILO","en","9-7","Material-Handling and Related Equipment Operators, Dockers and Freight Handlers",353,9700
+"ISCO-68_ILO","en","9-71","Dockers and freight handlers",354,9710
+"ISCO-68_ILO","en","9-72","Riggers and cable splicers",355,9720
+"ISCO-68_ILO","en","9-73","Crane and hoist operators",356,9730
+"ISCO-68_ILO","en","9-74","Earth-moving and related machinery operators",357,9740
+"ISCO-68_ILO","en","9-79","Material-handling equipment operators not elsewhere classified",358,9790
+"ISCO-68_ILO","en","9-8","Transport Equipment Operators",359,9800
+"ISCO-68_ILO","en","9-81","Ships' deck ratings, barge crews and boatmen",360,9810
+"ISCO-68_ILO","en","9-82","Ships' engine-room ratings",361,9820
+"ISCO-68_ILO","en","9-83","Railway engine drivers and firemen",362,9830
+"ISCO-68_ILO","en","9-84","Railway brakemen, signalmen and shunters",363,9840
+"ISCO-68_ILO","en","9-85","Motor vehicle drivers",364,9850
+"ISCO-68_ILO","en","9-86","Animal and animal-drawn vehicle drivers",365,9860
+"ISCO-68_ILO","en","9-89","Transport equipment operators not elsewhere classified",366,9890
+"ISCO-68_ILO","en","9-9","Labourers Not Elsewhere Classified",367,9900
+"ISCO-68_ILO","en","9-99","Labourers not elsewhere classified",368,9990
+"ISCO-68_ILO","en","X","Workers Not Classifiable by Occupation",369,10000
+"ISCO-68_ILO","en","X-1","New Workers Seeking Employment",370,10100
+"ISCO-68_ILO","en","X-10","New workers seeking employment",371,10101
+"ISCO-68_ILO","en","X-2","Workers Reporting Occupations Unidentifiable or Inadequately Described",372,10200
+"ISCO-68_ILO","en","X-20","Workers reporting occupations unidentifiable or inadequately described",373,10201
+"ISCO-68_ILO","en","X-3","Workers Not Reporting Any Occupation",374,10300
+"ISCO-68_ILO","en","X-30","Workers not reporting any occupation",375,10301
+"ISCO-68_ILO","en","Y","Members of the Armed Forces",376,11000
