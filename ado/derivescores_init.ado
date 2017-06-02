@@ -41,7 +41,7 @@ program define derivescores_init , nclass
 			global DERIVESCORES_dec`counter'type ConceptScheme
 		}
 		else {
-			global DERIVESCORES_dec`counter'shortname=ConceptScheme[`num']+`" --> "'+Correspondence[`num']
+			global DERIVESCORES_dec`counter'shortname=ConceptScheme[`num']+`" 🡺 "'+Correspondence[`num']
 			local searchfilename=lower(ConceptScheme[`num'])+`"--"'+lower(Correspondence[`num'])+`".csv"'
 			global DERIVESCORES_dec`counter'type Correspondence
 		}
