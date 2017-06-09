@@ -1,591 +1,591 @@
-"ConceptScheme","labelStyle","Concept","prefLabel","sortorder"
-"ISCO-08_Ganzeboom","en","0","Armed forces occupations",1
-"ISCO-08_Ganzeboom","en","100","Commissioned armed forces officers",2
-"ISCO-08_Ganzeboom","en","110","Commissioned armed forces officers",3
-"ISCO-08_Ganzeboom","en","200","Non-commissioned armed forces officers",4
-"ISCO-08_Ganzeboom","en","210","Non-commissioned armed forces officers",5
-"ISCO-08_Ganzeboom","en","300","Armed forces occupations, other ranks",6
-"ISCO-08_Ganzeboom","en","310","Armed forces occupations, other ranks",7
-"ISCO-08_Ganzeboom","en","1000","Managers",8
-"ISCO-08_Ganzeboom","en","1100","Chief executives, senior officials and legislators",9
-"ISCO-08_Ganzeboom","en","1110","Legislators and senior officials",10
-"ISCO-08_Ganzeboom","en","1111","Legislators",11
-"ISCO-08_Ganzeboom","en","1112","Senior government officials",12
-"ISCO-08_Ganzeboom","en","1113","Traditional chiefs and heads of village",13
-"ISCO-08_Ganzeboom","en","1114","Senior officials of special-interest organizations",14
-"ISCO-08_Ganzeboom","en","1120","Managing directors and chief executives",15
-"ISCO-08_Ganzeboom","en","1200","Administrative and commercial managers",16
-"ISCO-08_Ganzeboom","en","1210","Business services and administration managers",17
-"ISCO-08_Ganzeboom","en","1211","Finance managers",18
-"ISCO-08_Ganzeboom","en","1212","Human resource managers",19
-"ISCO-08_Ganzeboom","en","1213","Policy and planning managers",20
-"ISCO-08_Ganzeboom","en","1219","Business services and administration managers nec",21
-"ISCO-08_Ganzeboom","en","1220","Sales, marketing and development managers",22
-"ISCO-08_Ganzeboom","en","1221","Sales and marketing managers",23
-"ISCO-08_Ganzeboom","en","1222","Advertising and public relations managers",24
-"ISCO-08_Ganzeboom","en","1223","Research and development managers",25
-"ISCO-08_Ganzeboom","en","1300","Production and specialized services managers",26
-"ISCO-08_Ganzeboom","en","1310","Production managers in agriculture, forestry and fisheries",27
-"ISCO-08_Ganzeboom","en","1311","Agricultural and forestry production managers",28
-"ISCO-08_Ganzeboom","en","1312","Aquaculture and fisheries production managers",29
-"ISCO-08_Ganzeboom","en","1320","Manufacture, mining, construction, distribution managers",30
-"ISCO-08_Ganzeboom","en","1321","Manufacturing managers",31
-"ISCO-08_Ganzeboom","en","1322","Mining managers",32
-"ISCO-08_Ganzeboom","en","1323","Construction managers",33
-"ISCO-08_Ganzeboom","en","1324","Supply, distribution and related managers",34
-"ISCO-08_Ganzeboom","en","1330","ICT service managers",35
-"ISCO-08_Ganzeboom","en","1340","Professional services managers",36
-"ISCO-08_Ganzeboom","en","1341","Child care services managers",37
-"ISCO-08_Ganzeboom","en","1342","Health services managers",38
-"ISCO-08_Ganzeboom","en","1343","Aged care services managers",39
-"ISCO-08_Ganzeboom","en","1344","Social welfare managers",40
-"ISCO-08_Ganzeboom","en","1345","Education managers",41
-"ISCO-08_Ganzeboom","en","1346","Financial and insurance services branch managers",42
-"ISCO-08_Ganzeboom","en","1349","Professional services managers nec",43
-"ISCO-08_Ganzeboom","en","1400","Hospitality, retail and other services managers",44
-"ISCO-08_Ganzeboom","en","1410","Hotel and restaurant managers",45
-"ISCO-08_Ganzeboom","en","1411","Hotel managers",46
-"ISCO-08_Ganzeboom","en","1412","Restaurant managers",47
-"ISCO-08_Ganzeboom","en","1420","Retail and wholesale trade managers",48
-"ISCO-08_Ganzeboom","en","1430","Other services managers",49
-"ISCO-08_Ganzeboom","en","1431","Sports, recreation and cultural centre managers",50
-"ISCO-08_Ganzeboom","en","1439","Services managers nec",51
-"ISCO-08_Ganzeboom","en","2000","Professionals",52
-"ISCO-08_Ganzeboom","en","2100","Science and engineering professionals",53
-"ISCO-08_Ganzeboom","en","2110","Physical and earth science professionals",54
-"ISCO-08_Ganzeboom","en","2111","Physicists and astronomers",55
-"ISCO-08_Ganzeboom","en","2112","Meteorologists",56
-"ISCO-08_Ganzeboom","en","2113","Chemists",57
-"ISCO-08_Ganzeboom","en","2114","Geologists and geophysicists",58
-"ISCO-08_Ganzeboom","en","2120","Mathematicians, actuaries and statisticians",59
-"ISCO-08_Ganzeboom","en","2130","Life science professionals",60
-"ISCO-08_Ganzeboom","en","2131","Biologists, botanists, zoologists and related professionals",61
-"ISCO-08_Ganzeboom","en","2132","Farming, forestry and fisheries advisers",62
-"ISCO-08_Ganzeboom","en","2133","Environmental protection professionals",63
-"ISCO-08_Ganzeboom","en","2140","Engineering professionals [excluding electrotechnology]",64
-"ISCO-08_Ganzeboom","en","2141","Industrial and production engineers",65
-"ISCO-08_Ganzeboom","en","2142","Civil engineers",66
-"ISCO-08_Ganzeboom","en","2143","Environmental engineers",67
-"ISCO-08_Ganzeboom","en","2144","Mechanical engineers",68
-"ISCO-08_Ganzeboom","en","2145","Chemical engineers",69
-"ISCO-08_Ganzeboom","en","2146","Mining engineers, metallurgists and related professionals",70
-"ISCO-08_Ganzeboom","en","2149","Engineering professionals nec",71
-"ISCO-08_Ganzeboom","en","2150","Electrotechnology engineers",72
-"ISCO-08_Ganzeboom","en","2151","Electrical engineers",73
-"ISCO-08_Ganzeboom","en","2152","Electronics engineers",74
-"ISCO-08_Ganzeboom","en","2153","Telecommunications engineers",75
-"ISCO-08_Ganzeboom","en","2160","Architects, planners, surveyors and designers",76
-"ISCO-08_Ganzeboom","en","2161","Building architects",77
-"ISCO-08_Ganzeboom","en","2162","Landscape architects",78
-"ISCO-08_Ganzeboom","en","2163","Product and garment designers",79
-"ISCO-08_Ganzeboom","en","2164","Town and traffic planners",80
-"ISCO-08_Ganzeboom","en","2165","Cartographers and surveyors",81
-"ISCO-08_Ganzeboom","en","2166","Graphic and multimedia designers",82
-"ISCO-08_Ganzeboom","en","2200","Health professionals",83
-"ISCO-08_Ganzeboom","en","2210","Medical doctors",84
-"ISCO-08_Ganzeboom","en","2211","Generalist medical practitioners",85
-"ISCO-08_Ganzeboom","en","2212","Specialist medical practitioners",86
-"ISCO-08_Ganzeboom","en","2220","Nursing and midwifery professionals",87
-"ISCO-08_Ganzeboom","en","2221","Nursing professionals",88
-"ISCO-08_Ganzeboom","en","2222","Midwifery professionals",89
-"ISCO-08_Ganzeboom","en","2230","Traditional and complementary medicine professionals",90
-"ISCO-08_Ganzeboom","en","2240","Paramedical practitioners",91
-"ISCO-08_Ganzeboom","en","2250","Veterinarians",92
-"ISCO-08_Ganzeboom","en","2260","Other health professionals",93
-"ISCO-08_Ganzeboom","en","2261","Dentists",94
-"ISCO-08_Ganzeboom","en","2262","Pharmacists",95
-"ISCO-08_Ganzeboom","en","2263","Environmental & occupational health-hygiene professionals",96
-"ISCO-08_Ganzeboom","en","2264","Physiotherapists",97
-"ISCO-08_Ganzeboom","en","2265","Dieticians and nutritionists",98
-"ISCO-08_Ganzeboom","en","2266","Audiologists and speech therapists",99
-"ISCO-08_Ganzeboom","en","2267","Optometrists and ophthalmic opticians",100
-"ISCO-08_Ganzeboom","en","2269","Health professionals nec",101
-"ISCO-08_Ganzeboom","en","2300","Teaching professionals",102
-"ISCO-08_Ganzeboom","en","2310","University and higher education teachers",103
-"ISCO-08_Ganzeboom","en","2320","Vocational education teachers",104
-"ISCO-08_Ganzeboom","en","2330","Secondary education teachers",105
-"ISCO-08_Ganzeboom","en","2340","Primary school and early childhood teachers",106
-"ISCO-08_Ganzeboom","en","2341","Primary school teachers",107
-"ISCO-08_Ganzeboom","en","2342","Early childhood educators",108
-"ISCO-08_Ganzeboom","en","2350","Other teaching professionals",109
-"ISCO-08_Ganzeboom","en","2351","Education methods specialists",110
-"ISCO-08_Ganzeboom","en","2352","Special needs teachers",111
-"ISCO-08_Ganzeboom","en","2353","Other language teachers",112
-"ISCO-08_Ganzeboom","en","2354","Other music teachers",113
-"ISCO-08_Ganzeboom","en","2355","Other arts teachers",114
-"ISCO-08_Ganzeboom","en","2356","Information technology trainers",115
-"ISCO-08_Ganzeboom","en","2359","Teaching professionals nec",116
-"ISCO-08_Ganzeboom","en","2400","Business and administration professionals",117
-"ISCO-08_Ganzeboom","en","2410","Finance professionals",118
-"ISCO-08_Ganzeboom","en","2411","Accountants",119
-"ISCO-08_Ganzeboom","en","2412","Financial and investment advisers",120
-"ISCO-08_Ganzeboom","en","2413","Financial analysts",121
-"ISCO-08_Ganzeboom","en","2420","Administration professionals",122
-"ISCO-08_Ganzeboom","en","2421","Management and organization analysts",123
-"ISCO-08_Ganzeboom","en","2422","Policy administration professionals",124
-"ISCO-08_Ganzeboom","en","2423","Personnel and careers professionals",125
-"ISCO-08_Ganzeboom","en","2424","Training and staff development professionals",126
-"ISCO-08_Ganzeboom","en","2430","Sales, marketing and public relations professionals",127
-"ISCO-08_Ganzeboom","en","2431","Advertising and marketing professionals",128
-"ISCO-08_Ganzeboom","en","2432","Public relations professionals",129
-"ISCO-08_Ganzeboom","en","2433","Technical and medical sales professionals [excluding ICT]",130
-"ISCO-08_Ganzeboom","en","2434","ICT sales professionals",131
-"ISCO-08_Ganzeboom","en","2500","ICT professionals",132
-"ISCO-08_Ganzeboom","en","2510","Software and applications developers and analysts",133
-"ISCO-08_Ganzeboom","en","2511","Systems analysts",134
-"ISCO-08_Ganzeboom","en","2512","Software developers",135
-"ISCO-08_Ganzeboom","en","2513","Web and multimedia developers",136
-"ISCO-08_Ganzeboom","en","2514","Applications programmers",137
-"ISCO-08_Ganzeboom","en","2519","Software and applications developers and analysts nec",138
-"ISCO-08_Ganzeboom","en","2520","Database and network professionals",139
-"ISCO-08_Ganzeboom","en","2521","Database designers and administrators",140
-"ISCO-08_Ganzeboom","en","2522","Systems administrators",141
-"ISCO-08_Ganzeboom","en","2523","Computer network professionals",142
-"ISCO-08_Ganzeboom","en","2529","Database and network professionals nec",143
-"ISCO-08_Ganzeboom","en","2600","Legal, social and cultural professionals",144
-"ISCO-08_Ganzeboom","en","2610","Legal professionals",145
-"ISCO-08_Ganzeboom","en","2611","Lawyers",146
-"ISCO-08_Ganzeboom","en","2612","Judges",147
-"ISCO-08_Ganzeboom","en","2619","Legal professionals nec",148
-"ISCO-08_Ganzeboom","en","2620","Librarians, archivists and curators",149
-"ISCO-08_Ganzeboom","en","2621","Archivists and curators",150
-"ISCO-08_Ganzeboom","en","2622","Librarians and related information professionals",151
-"ISCO-08_Ganzeboom","en","2630","Social and religious professionals",152
-"ISCO-08_Ganzeboom","en","2631","Economists",153
-"ISCO-08_Ganzeboom","en","2632","Sociologists, anthropologists and related professionals",154
-"ISCO-08_Ganzeboom","en","2633","Philosophers, historians and political scientists",155
-"ISCO-08_Ganzeboom","en","2634","Psychologists",156
-"ISCO-08_Ganzeboom","en","2635","Social work and counselling professionals",157
-"ISCO-08_Ganzeboom","en","2636","Religious professionals",158
-"ISCO-08_Ganzeboom","en","2640","Authors, journalists and linguists",159
-"ISCO-08_Ganzeboom","en","2641","Authors and related writers",160
-"ISCO-08_Ganzeboom","en","2642","Journalists",161
-"ISCO-08_Ganzeboom","en","2643","Translators, interpreters and other linguists",162
-"ISCO-08_Ganzeboom","en","2650","Creative and performing artists",163
-"ISCO-08_Ganzeboom","en","2651","Visual artists",164
-"ISCO-08_Ganzeboom","en","2652","Musicians, singers and composers",165
-"ISCO-08_Ganzeboom","en","2653","Dancers and choreographers",166
-"ISCO-08_Ganzeboom","en","2654","Film, stage and related directors and producers",167
-"ISCO-08_Ganzeboom","en","2655","Actors",168
-"ISCO-08_Ganzeboom","en","2656","Announcers on radio, television and other media",169
-"ISCO-08_Ganzeboom","en","2659","Creative and performing artists nec",170
-"ISCO-08_Ganzeboom","en","3000","Technicians and associate professionals",171
-"ISCO-08_Ganzeboom","en","3100","Science and engineering associate professionals",172
-"ISCO-08_Ganzeboom","en","3110","Physical and engineering science technicians",173
-"ISCO-08_Ganzeboom","en","3111","Chemical and physical science technicians",174
-"ISCO-08_Ganzeboom","en","3112","Civil engineering technicians",175
-"ISCO-08_Ganzeboom","en","3113","Electrical engineering technicians",176
-"ISCO-08_Ganzeboom","en","3114","Electronics engineering technicians",177
-"ISCO-08_Ganzeboom","en","3115","Mechanical engineering technicians",178
-"ISCO-08_Ganzeboom","en","3116","Chemical engineering technicians",179
-"ISCO-08_Ganzeboom","en","3117","Mining and metallurgical technicians",180
-"ISCO-08_Ganzeboom","en","3118","Draughtspersons",181
-"ISCO-08_Ganzeboom","en","3119","Physical and engineering science technicians nec",182
-"ISCO-08_Ganzeboom","en","3120","Mining, manufacturing and construction supervisors",183
-"ISCO-08_Ganzeboom","en","3121","Mining supervisors",184
-"ISCO-08_Ganzeboom","en","3122","Manufacturing supervisors",185
-"ISCO-08_Ganzeboom","en","3123","Construction supervisors",186
-"ISCO-08_Ganzeboom","en","3130","Process control technicians",187
-"ISCO-08_Ganzeboom","en","3131","Power production plant operators",188
-"ISCO-08_Ganzeboom","en","3132","Incinerator and water treatment plant operators",189
-"ISCO-08_Ganzeboom","en","3133","Chemical processing plant controllers",190
-"ISCO-08_Ganzeboom","en","3134","Petroleum and natural gas refining plant operators",191
-"ISCO-08_Ganzeboom","en","3135","Metal production process controllers",192
-"ISCO-08_Ganzeboom","en","3139","Process control technicians nec",193
-"ISCO-08_Ganzeboom","en","3140","Life science technicians and related associate professionals",194
-"ISCO-08_Ganzeboom","en","3141","Life science technicians [excluding medical]",195
-"ISCO-08_Ganzeboom","en","3142","Agricultural technicians",196
-"ISCO-08_Ganzeboom","en","3143","Forestry technicians",197
-"ISCO-08_Ganzeboom","en","3150","Ship and aircraft controllers and technicians",198
-"ISCO-08_Ganzeboom","en","3151","Ships engineers",199
-"ISCO-08_Ganzeboom","en","3152","Ships deck officers and pilots",200
-"ISCO-08_Ganzeboom","en","3153","Aircraft pilots and related associate professionals",201
-"ISCO-08_Ganzeboom","en","3154","Air traffic controllers",202
-"ISCO-08_Ganzeboom","en","3155","Air traffic safety electronics technicians",203
-"ISCO-08_Ganzeboom","en","3200","Health associate professionals",204
-"ISCO-08_Ganzeboom","en","3210","Medical and pharmaceutical technicians",205
-"ISCO-08_Ganzeboom","en","3211","Medical imaging and therapeutic equipment technicians",206
-"ISCO-08_Ganzeboom","en","3212","Medical and pathology laboratory technicians",207
-"ISCO-08_Ganzeboom","en","3213","Pharmaceutical technicians and assistants",208
-"ISCO-08_Ganzeboom","en","3214","Medical and dental prosthetic technicians",209
-"ISCO-08_Ganzeboom","en","3220","Nursing and midwifery associate professionals",210
-"ISCO-08_Ganzeboom","en","3221","Nursing associate professionals",211
-"ISCO-08_Ganzeboom","en","3222","Midwifery associate professionals",212
-"ISCO-08_Ganzeboom","en","3230","Traditional-complementary medicine assoc professionals",213
-"ISCO-08_Ganzeboom","en","3240","Veterinary technicians and assistants",214
-"ISCO-08_Ganzeboom","en","3250","Other health associate professionals",215
-"ISCO-08_Ganzeboom","en","3251","Dental assistants and therapists",216
-"ISCO-08_Ganzeboom","en","3252","Medical records and health information technicians",217
-"ISCO-08_Ganzeboom","en","3253","Community health workers",218
-"ISCO-08_Ganzeboom","en","3254","Dispensing opticians",219
-"ISCO-08_Ganzeboom","en","3255","Physiotherapy technicians and assistants",220
-"ISCO-08_Ganzeboom","en","3256","Medical assistants",221
-"ISCO-08_Ganzeboom","en","3257","Environmental-occupational health inspectors etc",222
-"ISCO-08_Ganzeboom","en","3258","Ambulance workers",223
-"ISCO-08_Ganzeboom","en","3259","Health associate professionals nec",224
-"ISCO-08_Ganzeboom","en","3300","Business and administration associate professionals",225
-"ISCO-08_Ganzeboom","en","3310","Financial and mathematical associate professionals",226
-"ISCO-08_Ganzeboom","en","3311","Securities and finance dealers and brokers",227
-"ISCO-08_Ganzeboom","en","3312","Credit and loans officers",228
-"ISCO-08_Ganzeboom","en","3313","Accounting associate professionals",229
-"ISCO-08_Ganzeboom","en","3314","Statistical, mathematical ar associate professionals",230
-"ISCO-08_Ganzeboom","en","3315","Valuers and loss assessors",231
-"ISCO-08_Ganzeboom","en","3320","Sales and purchasing agents and brokers",232
-"ISCO-08_Ganzeboom","en","3321","Insurance representatives",233
-"ISCO-08_Ganzeboom","en","3322","Commercial sales representatives",234
-"ISCO-08_Ganzeboom","en","3323","Buyers",235
-"ISCO-08_Ganzeboom","en","3324","Trade brokers",236
-"ISCO-08_Ganzeboom","en","3330","Business services agents",237
-"ISCO-08_Ganzeboom","en","3331","Clearing and forwarding agents",238
-"ISCO-08_Ganzeboom","en","3332","Conference and event planners",239
-"ISCO-08_Ganzeboom","en","3333","Employment agents and contractors",240
-"ISCO-08_Ganzeboom","en","3334","Real estate agents and property managers",241
-"ISCO-08_Ganzeboom","en","3339","Business services agents nec",242
-"ISCO-08_Ganzeboom","en","3340","Administrative and specialized secretaries",243
-"ISCO-08_Ganzeboom","en","3341","Office supervisors",244
-"ISCO-08_Ganzeboom","en","3342","Legal secretaries",245
-"ISCO-08_Ganzeboom","en","3343","Administrative and executive secretaries",246
-"ISCO-08_Ganzeboom","en","3344","Medical secretaries",247
-"ISCO-08_Ganzeboom","en","3350","Regulatory government associate professionals",248
-"ISCO-08_Ganzeboom","en","3351","Customs and border inspectors",249
-"ISCO-08_Ganzeboom","en","3352","Government tax and excise officials",250
-"ISCO-08_Ganzeboom","en","3353","Government social benefits officials",251
-"ISCO-08_Ganzeboom","en","3354","Government licensing officials",252
-"ISCO-08_Ganzeboom","en","3355","Police inspectors and detectives",253
-"ISCO-08_Ganzeboom","en","3359","Regulatory government associate professionals nec",254
-"ISCO-08_Ganzeboom","en","3400","Legal, social, cultural and related associate professionals",255
-"ISCO-08_Ganzeboom","en","3410","Legal, social and religious associate professionals",256
-"ISCO-08_Ganzeboom","en","3411","Legal and related associate professionals",257
-"ISCO-08_Ganzeboom","en","3412","Social work associate professionals",258
-"ISCO-08_Ganzeboom","en","3413","Religious associate professionals",259
-"ISCO-08_Ganzeboom","en","3420","Sports and fitness workers",260
-"ISCO-08_Ganzeboom","en","3421","Athletes and sports players",261
-"ISCO-08_Ganzeboom","en","3422","Sports coaches, instructors and officials",262
-"ISCO-08_Ganzeboom","en","3423","Fitness and recreation instructors and program leaders",263
-"ISCO-08_Ganzeboom","en","3430","Artistic, cultural and culinary associate professionals",264
-"ISCO-08_Ganzeboom","en","3431","Photographers",265
-"ISCO-08_Ganzeboom","en","3432","Interior designers and decorators",266
-"ISCO-08_Ganzeboom","en","3433","Gallery, museum and library technicians",267
-"ISCO-08_Ganzeboom","en","3434","Chefs",268
-"ISCO-08_Ganzeboom","en","3435","Other artistic and cultural associate professionals",269
-"ISCO-08_Ganzeboom","en","3500","Information and communications technicians",270
-"ISCO-08_Ganzeboom","en","3510","ICT operations and user support technicians",271
-"ISCO-08_Ganzeboom","en","3511","ICT operations technicians",272
-"ISCO-08_Ganzeboom","en","3512","ICT user support technicians",273
-"ISCO-08_Ganzeboom","en","3513","Computer network and systems technicians",274
-"ISCO-08_Ganzeboom","en","3514","Web technicians",275
-"ISCO-08_Ganzeboom","en","3520","Telecommunications and broadcasting technicians",276
-"ISCO-08_Ganzeboom","en","3521","Broadcasting and audio-visual technicians",277
-"ISCO-08_Ganzeboom","en","3522","Telecommunications engineering technicians",278
-"ISCO-08_Ganzeboom","en","4000","Clerical support workers",279
-"ISCO-08_Ganzeboom","en","4100","General and keyboard clerks",280
-"ISCO-08_Ganzeboom","en","4110","General office clerks",281
-"ISCO-08_Ganzeboom","en","4120","Secretaries [general]",282
-"ISCO-08_Ganzeboom","en","4130","Keyboard operators",283
-"ISCO-08_Ganzeboom","en","4131","Typists and word processing operators",284
-"ISCO-08_Ganzeboom","en","4132","Data entry clerks",285
-"ISCO-08_Ganzeboom","en","4200","Customer services clerks",286
-"ISCO-08_Ganzeboom","en","4210","Tellers, money collectors and related clerks",287
-"ISCO-08_Ganzeboom","en","4211","Bank tellers and related clerks",288
-"ISCO-08_Ganzeboom","en","4212","Bookmakers, croupiers and related gaming workers",289
-"ISCO-08_Ganzeboom","en","4213","Pawnbrokers and money-lenders",290
-"ISCO-08_Ganzeboom","en","4214","Debt-collectors arw",291
-"ISCO-08_Ganzeboom","en","4220","Client information workers",292
-"ISCO-08_Ganzeboom","en","4221","Travel consultants and clerks",293
-"ISCO-08_Ganzeboom","en","4222","Contact centre information clerks",294
-"ISCO-08_Ganzeboom","en","4223","Telephone switchboard operators",295
-"ISCO-08_Ganzeboom","en","4224","Hotel receptionists",296
-"ISCO-08_Ganzeboom","en","4225","Enquiry clerks",297
-"ISCO-08_Ganzeboom","en","4226","Receptionists [general]",298
-"ISCO-08_Ganzeboom","en","4227","Survey and market research interviewers",299
-"ISCO-08_Ganzeboom","en","4229","Client information workers nec",300
-"ISCO-08_Ganzeboom","en","4300","Numerical and material recording clerks",301
-"ISCO-08_Ganzeboom","en","4310","Numerical clerks",302
-"ISCO-08_Ganzeboom","en","4311","Accounting and bookkeeping clerks",303
-"ISCO-08_Ganzeboom","en","4312","Statistical, finance and insurance clerks",304
-"ISCO-08_Ganzeboom","en","4313","Payroll clerks",305
-"ISCO-08_Ganzeboom","en","4320","Material-recording and transport clerks",306
-"ISCO-08_Ganzeboom","en","4321","Stock clerks",307
-"ISCO-08_Ganzeboom","en","4322","Production clerks",308
-"ISCO-08_Ganzeboom","en","4323","Transport clerks",309
-"ISCO-08_Ganzeboom","en","4400","Other clerical support workers",310
-"ISCO-08_Ganzeboom","en","4410","Other clerical support workers",311
-"ISCO-08_Ganzeboom","en","4411","Library clerks",312
-"ISCO-08_Ganzeboom","en","4412","Mail carriers and sorting clerks",313
-"ISCO-08_Ganzeboom","en","4413","Coding, proof-reading and related clerks",314
-"ISCO-08_Ganzeboom","en","4414","Scribes arw",315
-"ISCO-08_Ganzeboom","en","4415","Filing and copying clerks",316
-"ISCO-08_Ganzeboom","en","4416","Personnel clerks",317
-"ISCO-08_Ganzeboom","en","4419","Clerical support workers nec",318
-"ISCO-08_Ganzeboom","en","5000","Service and sales workers",319
-"ISCO-08_Ganzeboom","en","5100","Personal service workers",320
-"ISCO-08_Ganzeboom","en","5110","Travel attendants, conductors and guides",321
-"ISCO-08_Ganzeboom","en","5111","Travel attendants and travel stewards",322
-"ISCO-08_Ganzeboom","en","5112","Transport conductors",323
-"ISCO-08_Ganzeboom","en","5113","Travel guides",324
-"ISCO-08_Ganzeboom","en","5120","Cooks",325
-"ISCO-08_Ganzeboom","en","5130","Waiters and bartenders",326
-"ISCO-08_Ganzeboom","en","5131","Waiters",327
-"ISCO-08_Ganzeboom","en","5132","Bartenders",328
-"ISCO-08_Ganzeboom","en","5140","Hairdressers, beauticians arw",329
-"ISCO-08_Ganzeboom","en","5141","Hairdressers",330
-"ISCO-08_Ganzeboom","en","5142","Beauticians arw",331
-"ISCO-08_Ganzeboom","en","5150","Building and housekeeping supervisors",332
-"ISCO-08_Ganzeboom","en","5151","Cleaning and housekeeping supervisors in offices, hotels etc",333
-"ISCO-08_Ganzeboom","en","5152","Domestic housekeepers",334
-"ISCO-08_Ganzeboom","en","5153","Building caretakers",335
-"ISCO-08_Ganzeboom","en","5160","Other personal services workers",336
-"ISCO-08_Ganzeboom","en","5161","Astrologers, fortune-tellers arw",337
-"ISCO-08_Ganzeboom","en","5162","Companions and valets",338
-"ISCO-08_Ganzeboom","en","5163","Undertakers and embalmers",339
-"ISCO-08_Ganzeboom","en","5164","Pet groomers and animal care workers",340
-"ISCO-08_Ganzeboom","en","5165","Driving instructors",341
-"ISCO-08_Ganzeboom","en","5169","Personal services workers nec",342
-"ISCO-08_Ganzeboom","en","5200","Sales workers",343
-"ISCO-08_Ganzeboom","en","5210","Street and market salespersons",344
-"ISCO-08_Ganzeboom","en","5211","Stall and market salespersons",345
-"ISCO-08_Ganzeboom","en","5212","Street food salespersons",346
-"ISCO-08_Ganzeboom","en","5220","Shop salespersons",347
-"ISCO-08_Ganzeboom","en","5221","Shop keepers",348
-"ISCO-08_Ganzeboom","en","5222","Shop supervisors",349
-"ISCO-08_Ganzeboom","en","5223","Shop sales assistants",350
-"ISCO-08_Ganzeboom","en","5230","Cashiers and ticket clerks",351
-"ISCO-08_Ganzeboom","en","5240","Other sales workers",352
-"ISCO-08_Ganzeboom","en","5241","Fashion and other models",353
-"ISCO-08_Ganzeboom","en","5242","Sales demonstrators",354
-"ISCO-08_Ganzeboom","en","5243","Door to door salespersons",355
-"ISCO-08_Ganzeboom","en","5244","Contact centre salespersons",356
-"ISCO-08_Ganzeboom","en","5245","Service station attendants",357
-"ISCO-08_Ganzeboom","en","5246","Food service counter attendants",358
-"ISCO-08_Ganzeboom","en","5249","Sales workers nec",359
-"ISCO-08_Ganzeboom","en","5300","Personal care workers",360
-"ISCO-08_Ganzeboom","en","5310","Child care workers and teachers aides",361
-"ISCO-08_Ganzeboom","en","5311","Child care workers",362
-"ISCO-08_Ganzeboom","en","5312","Teachers aides",363
-"ISCO-08_Ganzeboom","en","5320","Personal care workers in health services",364
-"ISCO-08_Ganzeboom","en","5321","Health care assistants",365
-"ISCO-08_Ganzeboom","en","5322","Home-based personal care workers",366
-"ISCO-08_Ganzeboom","en","5329","Personal care workers in health services nec",367
-"ISCO-08_Ganzeboom","en","5400","Protective services workers",368
-"ISCO-08_Ganzeboom","en","5410","Protective services workers",369
-"ISCO-08_Ganzeboom","en","5411","Fire-fighters",370
-"ISCO-08_Ganzeboom","en","5412","Police officers",371
-"ISCO-08_Ganzeboom","en","5413","Prison guards",372
-"ISCO-08_Ganzeboom","en","5414","Security guards",373
-"ISCO-08_Ganzeboom","en","5419","Protective services workers nec",374
-"ISCO-08_Ganzeboom","en","6000","Skilled agricultural, forestry and fishery workers",375
-"ISCO-08_Ganzeboom","en","6100","Market-oriented skilled agricultural workers",376
-"ISCO-08_Ganzeboom","en","6110","Market gardeners and crop growers",377
-"ISCO-08_Ganzeboom","en","6111","Field crop and vegetable growers",378
-"ISCO-08_Ganzeboom","en","6112","Tree and shrub crop growers",379
-"ISCO-08_Ganzeboom","en","6113","Gardeners, horticultural and nursery growers",380
-"ISCO-08_Ganzeboom","en","6114","Mixed crop growers",381
-"ISCO-08_Ganzeboom","en","6120","Animal producers",382
-"ISCO-08_Ganzeboom","en","6121","Livestock and dairy producers",383
-"ISCO-08_Ganzeboom","en","6122","Poultry producers",384
-"ISCO-08_Ganzeboom","en","6123","Apiarists and sericulturists",385
-"ISCO-08_Ganzeboom","en","6129","Animal producers nec",386
-"ISCO-08_Ganzeboom","en","6130","Mixed crop and animal producers",387
-"ISCO-08_Ganzeboom","en","6200","Market-oriented skilled forestry, fishery, hunting wrkrs",388
-"ISCO-08_Ganzeboom","en","6210","Forestry arw",389
-"ISCO-08_Ganzeboom","en","6220","Fishery workers, hunters and trappers",390
-"ISCO-08_Ganzeboom","en","6221","Aquaculture workers",391
-"ISCO-08_Ganzeboom","en","6222","Inland and coastal waters fishery workers",392
-"ISCO-08_Ganzeboom","en","6223","Deep-sea fishery workers",393
-"ISCO-08_Ganzeboom","en","6224","Hunters and trappers",394
-"ISCO-08_Ganzeboom","en","6300","Subsistence farmers, fishers, hunters and gatherers",395
-"ISCO-08_Ganzeboom","en","6310","Subsistence crop farmers",396
-"ISCO-08_Ganzeboom","en","6320","Subsistence livestock farmers",397
-"ISCO-08_Ganzeboom","en","6330","Subsistence mixed crop and livestock farmers",398
-"ISCO-08_Ganzeboom","en","6340","Subsistence fishers, hunters, trappers and gatherers",399
-"ISCO-08_Ganzeboom","en","7000","Craft ar trades wrkrs",400
-"ISCO-08_Ganzeboom","en","7100","Building ar trades wrkrs, excluding electricians",401
-"ISCO-08_Ganzeboom","en","7110","Building frame ar trades wrkrs",402
-"ISCO-08_Ganzeboom","en","7111","House builders",403
-"ISCO-08_Ganzeboom","en","7112","Bricklayers arw",404
-"ISCO-08_Ganzeboom","en","7113","Stonemasons, stone cutters, splitters and carvers",405
-"ISCO-08_Ganzeboom","en","7114","Concrete placers, concrete finishers arw",406
-"ISCO-08_Ganzeboom","en","7115","Carpenters and joiners",407
-"ISCO-08_Ganzeboom","en","7119","Building frame ar trades wrkrs nec",408
-"ISCO-08_Ganzeboom","en","7120","Building finishers ar trades wrkrs",409
-"ISCO-08_Ganzeboom","en","7121","Roofers",410
-"ISCO-08_Ganzeboom","en","7122","Floor layers and tile setters",411
-"ISCO-08_Ganzeboom","en","7123","Plasterers",412
-"ISCO-08_Ganzeboom","en","7124","Insulation workers",413
-"ISCO-08_Ganzeboom","en","7125","Glaziers",414
-"ISCO-08_Ganzeboom","en","7126","Plumbers and pipe fitters",415
-"ISCO-08_Ganzeboom","en","7127","Air conditioning and refrigeration mechanics",416
-"ISCO-08_Ganzeboom","en","7130","Painters, building structure cleaners ar trades wrkrs",417
-"ISCO-08_Ganzeboom","en","7131","Painters arw",418
-"ISCO-08_Ganzeboom","en","7132","Spray painters and varnishers",419
-"ISCO-08_Ganzeboom","en","7133","Building structure cleaners",420
-"ISCO-08_Ganzeboom","en","7200","Metal, machinery ar trades wrkrs",421
-"ISCO-08_Ganzeboom","en","7210","Sheet-structural metal wekrs, moulders and welders, arw",422
-"ISCO-08_Ganzeboom","en","7211","Metal moulders and coremakers",423
-"ISCO-08_Ganzeboom","en","7212","Welders and flamecutters",424
-"ISCO-08_Ganzeboom","en","7213","Sheet-metal workers",425
-"ISCO-08_Ganzeboom","en","7214","Structural-metal preparers and erectors",426
-"ISCO-08_Ganzeboom","en","7215","Riggers and cable splicers",427
-"ISCO-08_Ganzeboom","en","7220","Blacksmiths, toolmakers ar trades wrkrs",428
-"ISCO-08_Ganzeboom","en","7221","Blacksmiths, hammersmiths and forging press workers",429
-"ISCO-08_Ganzeboom","en","7222","Toolmakers arw",430
-"ISCO-08_Ganzeboom","en","7223","Metal working machine tool setters and operators",431
-"ISCO-08_Ganzeboom","en","7224","Metal polishers, wheel grinders and tool sharpeners",432
-"ISCO-08_Ganzeboom","en","7230","Machinery mechanics and repairers",433
-"ISCO-08_Ganzeboom","en","7231","Motor vehicle mechanics and repairers",434
-"ISCO-08_Ganzeboom","en","7232","Aircraft engine mechanics and repairers",435
-"ISCO-08_Ganzeboom","en","7233","Agricultural-industrial machinery mechanics & repairers",436
-"ISCO-08_Ganzeboom","en","7234","Bicycle and related repairers",437
-"ISCO-08_Ganzeboom","en","7300","Handicraft and printing workers",438
-"ISCO-08_Ganzeboom","en","7310","Handicraft workers",439
-"ISCO-08_Ganzeboom","en","7311","Precision-instrument makers and repairers",440
-"ISCO-08_Ganzeboom","en","7312","Musical instrument makers and tuners",441
-"ISCO-08_Ganzeboom","en","7313","Jewellery and precious-metal workers",442
-"ISCO-08_Ganzeboom","en","7314","Potters arw",443
-"ISCO-08_Ganzeboom","en","7315","Glass makers, cutters, grinders and finishers",444
-"ISCO-08_Ganzeboom","en","7316","Sign writers, decorative painters, engravers and etchers",445
-"ISCO-08_Ganzeboom","en","7317","Handicraft workers in wood, basketry and related materials",446
-"ISCO-08_Ganzeboom","en","7318","Handicraft workers in textile, leather and related materials",447
-"ISCO-08_Ganzeboom","en","7319","Handicraft workers nec",448
-"ISCO-08_Ganzeboom","en","7320","Printing trades workers",449
-"ISCO-08_Ganzeboom","en","7321","Pre-press technicians",450
-"ISCO-08_Ganzeboom","en","7322","Printers",451
-"ISCO-08_Ganzeboom","en","7323","Print finishing and binding workers",452
-"ISCO-08_Ganzeboom","en","7400","Electrical and electronic trades workers",453
-"ISCO-08_Ganzeboom","en","7410","Electrical equipment installers and repairers",454
-"ISCO-08_Ganzeboom","en","7411","Building and related electricians",455
-"ISCO-08_Ganzeboom","en","7412","Electrical mechanics and fitters",456
-"ISCO-08_Ganzeboom","en","7413","Electrical line installers and repairers",457
-"ISCO-08_Ganzeboom","en","7420","Electronics and telecommunications installers and repairers",458
-"ISCO-08_Ganzeboom","en","7421","Electronics mechanics and servicers",459
-"ISCO-08_Ganzeboom","en","7422","ICT installers and servicers",460
-"ISCO-08_Ganzeboom","en","7500","Food processing, wood working, garment ar craft-trades wrks",461
-"ISCO-08_Ganzeboom","en","7510","Food processing ar trades wrkrs",462
-"ISCO-08_Ganzeboom","en","7511","Butchers, fishmongers and related food preparers",463
-"ISCO-08_Ganzeboom","en","7512","Bakers, pastry-cooks and confectionery makers",464
-"ISCO-08_Ganzeboom","en","7513","Dairy-products makers",465
-"ISCO-08_Ganzeboom","en","7514","Fruit, vegetable and related preservers",466
-"ISCO-08_Ganzeboom","en","7515","Food and beverage tasters and graders",467
-"ISCO-08_Ganzeboom","en","7516","Tobacco preparers and tobacco products makers",468
-"ISCO-08_Ganzeboom","en","7520","Wood treaters, cabinet-makers ar trades wrkrs",469
-"ISCO-08_Ganzeboom","en","7521","Wood treaters",470
-"ISCO-08_Ganzeboom","en","7522","Cabinet-makers arw",471
-"ISCO-08_Ganzeboom","en","7523","Woodworking-machine tool setters and operators",472
-"ISCO-08_Ganzeboom","en","7530","Garment ar trades wrkrs",473
-"ISCO-08_Ganzeboom","en","7531","Tailors, dressmakers, furriers and hatters",474
-"ISCO-08_Ganzeboom","en","7532","Garment and related pattern-makers and cutters",475
-"ISCO-08_Ganzeboom","en","7533","Sewing, embroidery arw",476
-"ISCO-08_Ganzeboom","en","7534","Upholsterers arw",477
-"ISCO-08_Ganzeboom","en","7535","Pelt dressers, tanners and fellmongers",478
-"ISCO-08_Ganzeboom","en","7536","Shoemakers arw",479
-"ISCO-08_Ganzeboom","en","7540","Other craft arw",480
-"ISCO-08_Ganzeboom","en","7541","Underwater divers",481
-"ISCO-08_Ganzeboom","en","7542","Shotfirers and blasters",482
-"ISCO-08_Ganzeboom","en","7543","Product graders and testers [excluding foods and beverages]",483
-"ISCO-08_Ganzeboom","en","7544","Fumigators and other pest and weed controllers",484
-"ISCO-08_Ganzeboom","en","7549","Craft arw nec",485
-"ISCO-08_Ganzeboom","en","8000","Plant and machine operators, and assemblers",486
-"ISCO-08_Ganzeboom","en","8100","Stationary plant and machine operators",487
-"ISCO-08_Ganzeboom","en","8110","Mining and mineral processing plant operators",488
-"ISCO-08_Ganzeboom","en","8111","Miners and quarriers",489
-"ISCO-08_Ganzeboom","en","8112","Mineral and stone processing plant operators",490
-"ISCO-08_Ganzeboom","en","8113","Well drillers and borers arw",491
-"ISCO-08_Ganzeboom","en","8114","Cement, stone and other mineral products machine operators",492
-"ISCO-08_Ganzeboom","en","8120","Metal processing and finishing plant operators",493
-"ISCO-08_Ganzeboom","en","8121","Metal processing plant operators",494
-"ISCO-08_Ganzeboom","en","8122","Metal finishing, plating and coating machine operators",495
-"ISCO-08_Ganzeboom","en","8130","Chemical-photograph products plant and machine operators",496
-"ISCO-08_Ganzeboom","en","8131","Chemical products plant and machine operators",497
-"ISCO-08_Ganzeboom","en","8132","Photographic products machine operators",498
-"ISCO-08_Ganzeboom","en","8140","Rubber, plastic and paper products machine operators",499
-"ISCO-08_Ganzeboom","en","8141","Rubber products machine operators",500
-"ISCO-08_Ganzeboom","en","8142","Plastic products machine operators",501
-"ISCO-08_Ganzeboom","en","8143","Paper products machine operators",502
-"ISCO-08_Ganzeboom","en","8150","Textile, fur and leather products machine operators",503
-"ISCO-08_Ganzeboom","en","8151","Fibre preparing, spinning and winding machine operators",504
-"ISCO-08_Ganzeboom","en","8152","Weaving and knitting machine operators",505
-"ISCO-08_Ganzeboom","en","8153","Sewing machine operators",506
-"ISCO-08_Ganzeboom","en","8154","Bleaching, dyeing and fabric cleaning machine operators",507
-"ISCO-08_Ganzeboom","en","8155","Fur and leather preparing machine operators",508
-"ISCO-08_Ganzeboom","en","8156","Shoemaking and related machine operators",509
-"ISCO-08_Ganzeboom","en","8157","Laundry machine operators",510
-"ISCO-08_Ganzeboom","en","8159","Textile, fur and leather products machine operators nec",511
-"ISCO-08_Ganzeboom","en","8160","Food and related products machine operators",512
-"ISCO-08_Ganzeboom","en","8170","Wood processing and papermaking plant operators",513
-"ISCO-08_Ganzeboom","en","8171","Pulp and papermaking plant operators",514
-"ISCO-08_Ganzeboom","en","8172","Wood processing plant operators",515
-"ISCO-08_Ganzeboom","en","8180","Other stationary plant and machine operators",516
-"ISCO-08_Ganzeboom","en","8181","Glass and ceramics plant operators",517
-"ISCO-08_Ganzeboom","en","8182","Steam engine and boiler operators",518
-"ISCO-08_Ganzeboom","en","8183","Packing, bottling and labelling machine operators",519
-"ISCO-08_Ganzeboom","en","8189","Stationary plant and machine operators nec",520
-"ISCO-08_Ganzeboom","en","8200","Assemblers",521
-"ISCO-08_Ganzeboom","en","8210","Assemblers",522
-"ISCO-08_Ganzeboom","en","8211","Mechanical machinery assemblers",523
-"ISCO-08_Ganzeboom","en","8212","Electrical and electronic equipment assemblers",524
-"ISCO-08_Ganzeboom","en","8219","Assemblers nec",525
-"ISCO-08_Ganzeboom","en","8300","Drivers and mobile plant operators",526
-"ISCO-08_Ganzeboom","en","8310","Locomotive engine drivers arw",527
-"ISCO-08_Ganzeboom","en","8311","Locomotive engine drivers",528
-"ISCO-08_Ganzeboom","en","8312","Railway brake, signal and switch operators",529
-"ISCO-08_Ganzeboom","en","8320","Car, van and motorcycle drivers",530
-"ISCO-08_Ganzeboom","en","8321","Motorcycle drivers",531
-"ISCO-08_Ganzeboom","en","8322","Car, taxi and van drivers",532
-"ISCO-08_Ganzeboom","en","8330","Heavy truck and bus drivers",533
-"ISCO-08_Ganzeboom","en","8331","Bus and tram drivers",534
-"ISCO-08_Ganzeboom","en","8332","Heavy truck and lorry drivers",535
-"ISCO-08_Ganzeboom","en","8340","Mobile plant operators",536
-"ISCO-08_Ganzeboom","en","8341","Mobile farm and forestry plant operators",537
-"ISCO-08_Ganzeboom","en","8342","Earthmoving and related plant operators",538
-"ISCO-08_Ganzeboom","en","8343","Crane, hoist and related plant operators",539
-"ISCO-08_Ganzeboom","en","8344","Lifting truck operators",540
-"ISCO-08_Ganzeboom","en","8350","Ships deck crews arw",541
-"ISCO-08_Ganzeboom","en","9000","Elementary occupations",542
-"ISCO-08_Ganzeboom","en","9100","Cleaners and helpers",543
-"ISCO-08_Ganzeboom","en","9110","Domestic, hotel and office cleaners and helpers",544
-"ISCO-08_Ganzeboom","en","9111","Domestic cleaners and helpers",545
-"ISCO-08_Ganzeboom","en","9112","Cleaners and helpers in offices, hotels etc",546
-"ISCO-08_Ganzeboom","en","9120","Vehicle, window, laundry and other hand cleaning workers",547
-"ISCO-08_Ganzeboom","en","9121","Hand launderers and pressers",548
-"ISCO-08_Ganzeboom","en","9122","Vehicle cleaners",549
-"ISCO-08_Ganzeboom","en","9123","Window cleaners",550
-"ISCO-08_Ganzeboom","en","9129","Other cleaning workers",551
-"ISCO-08_Ganzeboom","en","9200","Agricultural, forestry and fishery labourers",552
-"ISCO-08_Ganzeboom","en","9210","Agricultural, forestry and fishery labourers",553
-"ISCO-08_Ganzeboom","en","9211","Crop farm labourers",554
-"ISCO-08_Ganzeboom","en","9212","Livestock farm labourers",555
-"ISCO-08_Ganzeboom","en","9213","Mixed crop and livestock farm labourers",556
-"ISCO-08_Ganzeboom","en","9214","Garden and horticultural labourers",557
-"ISCO-08_Ganzeboom","en","9215","Forestry labourers",558
-"ISCO-08_Ganzeboom","en","9216","Fishery and aquaculture labourers",559
-"ISCO-08_Ganzeboom","en","9300","Labourers mining, construction, manufactur & transport",560
-"ISCO-08_Ganzeboom","en","9310","Mining and construction labourers",561
-"ISCO-08_Ganzeboom","en","9311","Mining and quarrying labourers",562
-"ISCO-08_Ganzeboom","en","9312","Civil engineering labourers",563
-"ISCO-08_Ganzeboom","en","9313","Building construction labourers",564
-"ISCO-08_Ganzeboom","en","9320","Manufacturing labourers",565
-"ISCO-08_Ganzeboom","en","9321","Hand packers",566
-"ISCO-08_Ganzeboom","en","9329","Manufacturing labourers nec",567
-"ISCO-08_Ganzeboom","en","9330","Transport and storage labourers",568
-"ISCO-08_Ganzeboom","en","9331","Hand and pedal vehicle drivers",569
-"ISCO-08_Ganzeboom","en","9332","Drivers of animal-drawn vehicles and machinery",570
-"ISCO-08_Ganzeboom","en","9333","Freight handlers",571
-"ISCO-08_Ganzeboom","en","9334","Shelf fillers",572
-"ISCO-08_Ganzeboom","en","9400","Food preparation assistants",573
-"ISCO-08_Ganzeboom","en","9410","Food preparation assistants",574
-"ISCO-08_Ganzeboom","en","9411","Fast food preparers",575
-"ISCO-08_Ganzeboom","en","9412","Kitchen helpers",576
-"ISCO-08_Ganzeboom","en","9500","Street and related sales and service workers",577
-"ISCO-08_Ganzeboom","en","9510","Street and related service workers",578
-"ISCO-08_Ganzeboom","en","9520","Street vendors [excluding food]",579
-"ISCO-08_Ganzeboom","en","9600","Refuse workers and other elementary workers",580
-"ISCO-08_Ganzeboom","en","9610","Refuse workers",581
-"ISCO-08_Ganzeboom","en","9611","Garbage and recycling collectors",582
-"ISCO-08_Ganzeboom","en","9612","Refuse sorters",583
-"ISCO-08_Ganzeboom","en","9613","Sweepers and related labourers",584
-"ISCO-08_Ganzeboom","en","9620","Other elementary workers",585
-"ISCO-08_Ganzeboom","en","9621","Messengers, package deliverers and luggage porters",586
-"ISCO-08_Ganzeboom","en","9622","Odd job persons",587
-"ISCO-08_Ganzeboom","en","9623","Meter readers and vending-machine collectors",588
-"ISCO-08_Ganzeboom","en","9624","Water and firewood collectors",589
-"ISCO-08_Ganzeboom","en","9629","Elementary workers nec",590
+"ConceptScheme","labelStyle","Concept","prefLabel","sortorder","prefValue"
+"ISCO-08_Ganzeboom","en","0","Armed forces occupations",1,0
+"ISCO-08_Ganzeboom","en","100","Commissioned armed forces officers",2,100
+"ISCO-08_Ganzeboom","en","110","Commissioned armed forces officers",3,110
+"ISCO-08_Ganzeboom","en","200","Non-commissioned armed forces officers",4,200
+"ISCO-08_Ganzeboom","en","210","Non-commissioned armed forces officers",5,210
+"ISCO-08_Ganzeboom","en","300","Armed forces occupations, other ranks",6,300
+"ISCO-08_Ganzeboom","en","310","Armed forces occupations, other ranks",7,310
+"ISCO-08_Ganzeboom","en","1000","Managers",8,1000
+"ISCO-08_Ganzeboom","en","1100","Chief executives, senior officials and legislators",9,1100
+"ISCO-08_Ganzeboom","en","1110","Legislators and senior officials",10,1110
+"ISCO-08_Ganzeboom","en","1111","Legislators",11,1111
+"ISCO-08_Ganzeboom","en","1112","Senior government officials",12,1112
+"ISCO-08_Ganzeboom","en","1113","Traditional chiefs and heads of village",13,1113
+"ISCO-08_Ganzeboom","en","1114","Senior officials of special-interest organizations",14,1114
+"ISCO-08_Ganzeboom","en","1120","Managing directors and chief executives",15,1120
+"ISCO-08_Ganzeboom","en","1200","Administrative and commercial managers",16,1200
+"ISCO-08_Ganzeboom","en","1210","Business services and administration managers",17,1210
+"ISCO-08_Ganzeboom","en","1211","Finance managers",18,1211
+"ISCO-08_Ganzeboom","en","1212","Human resource managers",19,1212
+"ISCO-08_Ganzeboom","en","1213","Policy and planning managers",20,1213
+"ISCO-08_Ganzeboom","en","1219","Business services and administration managers nec",21,1219
+"ISCO-08_Ganzeboom","en","1220","Sales, marketing and development managers",22,1220
+"ISCO-08_Ganzeboom","en","1221","Sales and marketing managers",23,1221
+"ISCO-08_Ganzeboom","en","1222","Advertising and public relations managers",24,1222
+"ISCO-08_Ganzeboom","en","1223","Research and development managers",25,1223
+"ISCO-08_Ganzeboom","en","1300","Production and specialized services managers",26,1300
+"ISCO-08_Ganzeboom","en","1310","Production managers in agriculture, forestry and fisheries",27,1310
+"ISCO-08_Ganzeboom","en","1311","Agricultural and forestry production managers",28,1311
+"ISCO-08_Ganzeboom","en","1312","Aquaculture and fisheries production managers",29,1312
+"ISCO-08_Ganzeboom","en","1320","Manufacture, mining, construction, distribution managers",30,1320
+"ISCO-08_Ganzeboom","en","1321","Manufacturing managers",31,1321
+"ISCO-08_Ganzeboom","en","1322","Mining managers",32,1322
+"ISCO-08_Ganzeboom","en","1323","Construction managers",33,1323
+"ISCO-08_Ganzeboom","en","1324","Supply, distribution and related managers",34,1324
+"ISCO-08_Ganzeboom","en","1330","ICT service managers",35,1330
+"ISCO-08_Ganzeboom","en","1340","Professional services managers",36,1340
+"ISCO-08_Ganzeboom","en","1341","Child care services managers",37,1341
+"ISCO-08_Ganzeboom","en","1342","Health services managers",38,1342
+"ISCO-08_Ganzeboom","en","1343","Aged care services managers",39,1343
+"ISCO-08_Ganzeboom","en","1344","Social welfare managers",40,1344
+"ISCO-08_Ganzeboom","en","1345","Education managers",41,1345
+"ISCO-08_Ganzeboom","en","1346","Financial and insurance services branch managers",42,1346
+"ISCO-08_Ganzeboom","en","1349","Professional services managers nec",43,1349
+"ISCO-08_Ganzeboom","en","1400","Hospitality, retail and other services managers",44,1400
+"ISCO-08_Ganzeboom","en","1410","Hotel and restaurant managers",45,1410
+"ISCO-08_Ganzeboom","en","1411","Hotel managers",46,1411
+"ISCO-08_Ganzeboom","en","1412","Restaurant managers",47,1412
+"ISCO-08_Ganzeboom","en","1420","Retail and wholesale trade managers",48,1420
+"ISCO-08_Ganzeboom","en","1430","Other services managers",49,1430
+"ISCO-08_Ganzeboom","en","1431","Sports, recreation and cultural centre managers",50,1431
+"ISCO-08_Ganzeboom","en","1439","Services managers nec",51,1439
+"ISCO-08_Ganzeboom","en","2000","Professionals",52,2000
+"ISCO-08_Ganzeboom","en","2100","Science and engineering professionals",53,2100
+"ISCO-08_Ganzeboom","en","2110","Physical and earth science professionals",54,2110
+"ISCO-08_Ganzeboom","en","2111","Physicists and astronomers",55,2111
+"ISCO-08_Ganzeboom","en","2112","Meteorologists",56,2112
+"ISCO-08_Ganzeboom","en","2113","Chemists",57,2113
+"ISCO-08_Ganzeboom","en","2114","Geologists and geophysicists",58,2114
+"ISCO-08_Ganzeboom","en","2120","Mathematicians, actuaries and statisticians",59,2120
+"ISCO-08_Ganzeboom","en","2130","Life science professionals",60,2130
+"ISCO-08_Ganzeboom","en","2131","Biologists, botanists, zoologists and related professionals",61,2131
+"ISCO-08_Ganzeboom","en","2132","Farming, forestry and fisheries advisers",62,2132
+"ISCO-08_Ganzeboom","en","2133","Environmental protection professionals",63,2133
+"ISCO-08_Ganzeboom","en","2140","Engineering professionals [excluding electrotechnology]",64,2140
+"ISCO-08_Ganzeboom","en","2141","Industrial and production engineers",65,2141
+"ISCO-08_Ganzeboom","en","2142","Civil engineers",66,2142
+"ISCO-08_Ganzeboom","en","2143","Environmental engineers",67,2143
+"ISCO-08_Ganzeboom","en","2144","Mechanical engineers",68,2144
+"ISCO-08_Ganzeboom","en","2145","Chemical engineers",69,2145
+"ISCO-08_Ganzeboom","en","2146","Mining engineers, metallurgists and related professionals",70,2146
+"ISCO-08_Ganzeboom","en","2149","Engineering professionals nec",71,2149
+"ISCO-08_Ganzeboom","en","2150","Electrotechnology engineers",72,2150
+"ISCO-08_Ganzeboom","en","2151","Electrical engineers",73,2151
+"ISCO-08_Ganzeboom","en","2152","Electronics engineers",74,2152
+"ISCO-08_Ganzeboom","en","2153","Telecommunications engineers",75,2153
+"ISCO-08_Ganzeboom","en","2160","Architects, planners, surveyors and designers",76,2160
+"ISCO-08_Ganzeboom","en","2161","Building architects",77,2161
+"ISCO-08_Ganzeboom","en","2162","Landscape architects",78,2162
+"ISCO-08_Ganzeboom","en","2163","Product and garment designers",79,2163
+"ISCO-08_Ganzeboom","en","2164","Town and traffic planners",80,2164
+"ISCO-08_Ganzeboom","en","2165","Cartographers and surveyors",81,2165
+"ISCO-08_Ganzeboom","en","2166","Graphic and multimedia designers",82,2166
+"ISCO-08_Ganzeboom","en","2200","Health professionals",83,2200
+"ISCO-08_Ganzeboom","en","2210","Medical doctors",84,2210
+"ISCO-08_Ganzeboom","en","2211","Generalist medical practitioners",85,2211
+"ISCO-08_Ganzeboom","en","2212","Specialist medical practitioners",86,2212
+"ISCO-08_Ganzeboom","en","2220","Nursing and midwifery professionals",87,2220
+"ISCO-08_Ganzeboom","en","2221","Nursing professionals",88,2221
+"ISCO-08_Ganzeboom","en","2222","Midwifery professionals",89,2222
+"ISCO-08_Ganzeboom","en","2230","Traditional and complementary medicine professionals",90,2230
+"ISCO-08_Ganzeboom","en","2240","Paramedical practitioners",91,2240
+"ISCO-08_Ganzeboom","en","2250","Veterinarians",92,2250
+"ISCO-08_Ganzeboom","en","2260","Other health professionals",93,2260
+"ISCO-08_Ganzeboom","en","2261","Dentists",94,2261
+"ISCO-08_Ganzeboom","en","2262","Pharmacists",95,2262
+"ISCO-08_Ganzeboom","en","2263","Environmental & occupational health-hygiene professionals",96,2263
+"ISCO-08_Ganzeboom","en","2264","Physiotherapists",97,2264
+"ISCO-08_Ganzeboom","en","2265","Dieticians and nutritionists",98,2265
+"ISCO-08_Ganzeboom","en","2266","Audiologists and speech therapists",99,2266
+"ISCO-08_Ganzeboom","en","2267","Optometrists and ophthalmic opticians",100,2267
+"ISCO-08_Ganzeboom","en","2269","Health professionals nec",101,2269
+"ISCO-08_Ganzeboom","en","2300","Teaching professionals",102,2300
+"ISCO-08_Ganzeboom","en","2310","University and higher education teachers",103,2310
+"ISCO-08_Ganzeboom","en","2320","Vocational education teachers",104,2320
+"ISCO-08_Ganzeboom","en","2330","Secondary education teachers",105,2330
+"ISCO-08_Ganzeboom","en","2340","Primary school and early childhood teachers",106,2340
+"ISCO-08_Ganzeboom","en","2341","Primary school teachers",107,2341
+"ISCO-08_Ganzeboom","en","2342","Early childhood educators",108,2342
+"ISCO-08_Ganzeboom","en","2350","Other teaching professionals",109,2350
+"ISCO-08_Ganzeboom","en","2351","Education methods specialists",110,2351
+"ISCO-08_Ganzeboom","en","2352","Special needs teachers",111,2352
+"ISCO-08_Ganzeboom","en","2353","Other language teachers",112,2353
+"ISCO-08_Ganzeboom","en","2354","Other music teachers",113,2354
+"ISCO-08_Ganzeboom","en","2355","Other arts teachers",114,2355
+"ISCO-08_Ganzeboom","en","2356","Information technology trainers",115,2356
+"ISCO-08_Ganzeboom","en","2359","Teaching professionals nec",116,2359
+"ISCO-08_Ganzeboom","en","2400","Business and administration professionals",117,2400
+"ISCO-08_Ganzeboom","en","2410","Finance professionals",118,2410
+"ISCO-08_Ganzeboom","en","2411","Accountants",119,2411
+"ISCO-08_Ganzeboom","en","2412","Financial and investment advisers",120,2412
+"ISCO-08_Ganzeboom","en","2413","Financial analysts",121,2413
+"ISCO-08_Ganzeboom","en","2420","Administration professionals",122,2420
+"ISCO-08_Ganzeboom","en","2421","Management and organization analysts",123,2421
+"ISCO-08_Ganzeboom","en","2422","Policy administration professionals",124,2422
+"ISCO-08_Ganzeboom","en","2423","Personnel and careers professionals",125,2423
+"ISCO-08_Ganzeboom","en","2424","Training and staff development professionals",126,2424
+"ISCO-08_Ganzeboom","en","2430","Sales, marketing and public relations professionals",127,2430
+"ISCO-08_Ganzeboom","en","2431","Advertising and marketing professionals",128,2431
+"ISCO-08_Ganzeboom","en","2432","Public relations professionals",129,2432
+"ISCO-08_Ganzeboom","en","2433","Technical and medical sales professionals [excluding ICT]",130,2433
+"ISCO-08_Ganzeboom","en","2434","ICT sales professionals",131,2434
+"ISCO-08_Ganzeboom","en","2500","ICT professionals",132,2500
+"ISCO-08_Ganzeboom","en","2510","Software and applications developers and analysts",133,2510
+"ISCO-08_Ganzeboom","en","2511","Systems analysts",134,2511
+"ISCO-08_Ganzeboom","en","2512","Software developers",135,2512
+"ISCO-08_Ganzeboom","en","2513","Web and multimedia developers",136,2513
+"ISCO-08_Ganzeboom","en","2514","Applications programmers",137,2514
+"ISCO-08_Ganzeboom","en","2519","Software and applications developers and analysts nec",138,2519
+"ISCO-08_Ganzeboom","en","2520","Database and network professionals",139,2520
+"ISCO-08_Ganzeboom","en","2521","Database designers and administrators",140,2521
+"ISCO-08_Ganzeboom","en","2522","Systems administrators",141,2522
+"ISCO-08_Ganzeboom","en","2523","Computer network professionals",142,2523
+"ISCO-08_Ganzeboom","en","2529","Database and network professionals nec",143,2529
+"ISCO-08_Ganzeboom","en","2600","Legal, social and cultural professionals",144,2600
+"ISCO-08_Ganzeboom","en","2610","Legal professionals",145,2610
+"ISCO-08_Ganzeboom","en","2611","Lawyers",146,2611
+"ISCO-08_Ganzeboom","en","2612","Judges",147,2612
+"ISCO-08_Ganzeboom","en","2619","Legal professionals nec",148,2619
+"ISCO-08_Ganzeboom","en","2620","Librarians, archivists and curators",149,2620
+"ISCO-08_Ganzeboom","en","2621","Archivists and curators",150,2621
+"ISCO-08_Ganzeboom","en","2622","Librarians and related information professionals",151,2622
+"ISCO-08_Ganzeboom","en","2630","Social and religious professionals",152,2630
+"ISCO-08_Ganzeboom","en","2631","Economists",153,2631
+"ISCO-08_Ganzeboom","en","2632","Sociologists, anthropologists and related professionals",154,2632
+"ISCO-08_Ganzeboom","en","2633","Philosophers, historians and political scientists",155,2633
+"ISCO-08_Ganzeboom","en","2634","Psychologists",156,2634
+"ISCO-08_Ganzeboom","en","2635","Social work and counselling professionals",157,2635
+"ISCO-08_Ganzeboom","en","2636","Religious professionals",158,2636
+"ISCO-08_Ganzeboom","en","2640","Authors, journalists and linguists",159,2640
+"ISCO-08_Ganzeboom","en","2641","Authors and related writers",160,2641
+"ISCO-08_Ganzeboom","en","2642","Journalists",161,2642
+"ISCO-08_Ganzeboom","en","2643","Translators, interpreters and other linguists",162,2643
+"ISCO-08_Ganzeboom","en","2650","Creative and performing artists",163,2650
+"ISCO-08_Ganzeboom","en","2651","Visual artists",164,2651
+"ISCO-08_Ganzeboom","en","2652","Musicians, singers and composers",165,2652
+"ISCO-08_Ganzeboom","en","2653","Dancers and choreographers",166,2653
+"ISCO-08_Ganzeboom","en","2654","Film, stage and related directors and producers",167,2654
+"ISCO-08_Ganzeboom","en","2655","Actors",168,2655
+"ISCO-08_Ganzeboom","en","2656","Announcers on radio, television and other media",169,2656
+"ISCO-08_Ganzeboom","en","2659","Creative and performing artists nec",170,2659
+"ISCO-08_Ganzeboom","en","3000","Technicians and associate professionals",171,3000
+"ISCO-08_Ganzeboom","en","3100","Science and engineering associate professionals",172,3100
+"ISCO-08_Ganzeboom","en","3110","Physical and engineering science technicians",173,3110
+"ISCO-08_Ganzeboom","en","3111","Chemical and physical science technicians",174,3111
+"ISCO-08_Ganzeboom","en","3112","Civil engineering technicians",175,3112
+"ISCO-08_Ganzeboom","en","3113","Electrical engineering technicians",176,3113
+"ISCO-08_Ganzeboom","en","3114","Electronics engineering technicians",177,3114
+"ISCO-08_Ganzeboom","en","3115","Mechanical engineering technicians",178,3115
+"ISCO-08_Ganzeboom","en","3116","Chemical engineering technicians",179,3116
+"ISCO-08_Ganzeboom","en","3117","Mining and metallurgical technicians",180,3117
+"ISCO-08_Ganzeboom","en","3118","Draughtspersons",181,3118
+"ISCO-08_Ganzeboom","en","3119","Physical and engineering science technicians nec",182,3119
+"ISCO-08_Ganzeboom","en","3120","Mining, manufacturing and construction supervisors",183,3120
+"ISCO-08_Ganzeboom","en","3121","Mining supervisors",184,3121
+"ISCO-08_Ganzeboom","en","3122","Manufacturing supervisors",185,3122
+"ISCO-08_Ganzeboom","en","3123","Construction supervisors",186,3123
+"ISCO-08_Ganzeboom","en","3130","Process control technicians",187,3130
+"ISCO-08_Ganzeboom","en","3131","Power production plant operators",188,3131
+"ISCO-08_Ganzeboom","en","3132","Incinerator and water treatment plant operators",189,3132
+"ISCO-08_Ganzeboom","en","3133","Chemical processing plant controllers",190,3133
+"ISCO-08_Ganzeboom","en","3134","Petroleum and natural gas refining plant operators",191,3134
+"ISCO-08_Ganzeboom","en","3135","Metal production process controllers",192,3135
+"ISCO-08_Ganzeboom","en","3139","Process control technicians nec",193,3139
+"ISCO-08_Ganzeboom","en","3140","Life science technicians and related associate professionals",194,3140
+"ISCO-08_Ganzeboom","en","3141","Life science technicians [excluding medical]",195,3141
+"ISCO-08_Ganzeboom","en","3142","Agricultural technicians",196,3142
+"ISCO-08_Ganzeboom","en","3143","Forestry technicians",197,3143
+"ISCO-08_Ganzeboom","en","3150","Ship and aircraft controllers and technicians",198,3150
+"ISCO-08_Ganzeboom","en","3151","Ships engineers",199,3151
+"ISCO-08_Ganzeboom","en","3152","Ships deck officers and pilots",200,3152
+"ISCO-08_Ganzeboom","en","3153","Aircraft pilots and related associate professionals",201,3153
+"ISCO-08_Ganzeboom","en","3154","Air traffic controllers",202,3154
+"ISCO-08_Ganzeboom","en","3155","Air traffic safety electronics technicians",203,3155
+"ISCO-08_Ganzeboom","en","3200","Health associate professionals",204,3200
+"ISCO-08_Ganzeboom","en","3210","Medical and pharmaceutical technicians",205,3210
+"ISCO-08_Ganzeboom","en","3211","Medical imaging and therapeutic equipment technicians",206,3211
+"ISCO-08_Ganzeboom","en","3212","Medical and pathology laboratory technicians",207,3212
+"ISCO-08_Ganzeboom","en","3213","Pharmaceutical technicians and assistants",208,3213
+"ISCO-08_Ganzeboom","en","3214","Medical and dental prosthetic technicians",209,3214
+"ISCO-08_Ganzeboom","en","3220","Nursing and midwifery associate professionals",210,3220
+"ISCO-08_Ganzeboom","en","3221","Nursing associate professionals",211,3221
+"ISCO-08_Ganzeboom","en","3222","Midwifery associate professionals",212,3222
+"ISCO-08_Ganzeboom","en","3230","Traditional-complementary medicine assoc professionals",213,3230
+"ISCO-08_Ganzeboom","en","3240","Veterinary technicians and assistants",214,3240
+"ISCO-08_Ganzeboom","en","3250","Other health associate professionals",215,3250
+"ISCO-08_Ganzeboom","en","3251","Dental assistants and therapists",216,3251
+"ISCO-08_Ganzeboom","en","3252","Medical records and health information technicians",217,3252
+"ISCO-08_Ganzeboom","en","3253","Community health workers",218,3253
+"ISCO-08_Ganzeboom","en","3254","Dispensing opticians",219,3254
+"ISCO-08_Ganzeboom","en","3255","Physiotherapy technicians and assistants",220,3255
+"ISCO-08_Ganzeboom","en","3256","Medical assistants",221,3256
+"ISCO-08_Ganzeboom","en","3257","Environmental-occupational health inspectors etc",222,3257
+"ISCO-08_Ganzeboom","en","3258","Ambulance workers",223,3258
+"ISCO-08_Ganzeboom","en","3259","Health associate professionals nec",224,3259
+"ISCO-08_Ganzeboom","en","3300","Business and administration associate professionals",225,3300
+"ISCO-08_Ganzeboom","en","3310","Financial and mathematical associate professionals",226,3310
+"ISCO-08_Ganzeboom","en","3311","Securities and finance dealers and brokers",227,3311
+"ISCO-08_Ganzeboom","en","3312","Credit and loans officers",228,3312
+"ISCO-08_Ganzeboom","en","3313","Accounting associate professionals",229,3313
+"ISCO-08_Ganzeboom","en","3314","Statistical, mathematical ar associate professionals",230,3314
+"ISCO-08_Ganzeboom","en","3315","Valuers and loss assessors",231,3315
+"ISCO-08_Ganzeboom","en","3320","Sales and purchasing agents and brokers",232,3320
+"ISCO-08_Ganzeboom","en","3321","Insurance representatives",233,3321
+"ISCO-08_Ganzeboom","en","3322","Commercial sales representatives",234,3322
+"ISCO-08_Ganzeboom","en","3323","Buyers",235,3323
+"ISCO-08_Ganzeboom","en","3324","Trade brokers",236,3324
+"ISCO-08_Ganzeboom","en","3330","Business services agents",237,3330
+"ISCO-08_Ganzeboom","en","3331","Clearing and forwarding agents",238,3331
+"ISCO-08_Ganzeboom","en","3332","Conference and event planners",239,3332
+"ISCO-08_Ganzeboom","en","3333","Employment agents and contractors",240,3333
+"ISCO-08_Ganzeboom","en","3334","Real estate agents and property managers",241,3334
+"ISCO-08_Ganzeboom","en","3339","Business services agents nec",242,3339
+"ISCO-08_Ganzeboom","en","3340","Administrative and specialized secretaries",243,3340
+"ISCO-08_Ganzeboom","en","3341","Office supervisors",244,3341
+"ISCO-08_Ganzeboom","en","3342","Legal secretaries",245,3342
+"ISCO-08_Ganzeboom","en","3343","Administrative and executive secretaries",246,3343
+"ISCO-08_Ganzeboom","en","3344","Medical secretaries",247,3344
+"ISCO-08_Ganzeboom","en","3350","Regulatory government associate professionals",248,3350
+"ISCO-08_Ganzeboom","en","3351","Customs and border inspectors",249,3351
+"ISCO-08_Ganzeboom","en","3352","Government tax and excise officials",250,3352
+"ISCO-08_Ganzeboom","en","3353","Government social benefits officials",251,3353
+"ISCO-08_Ganzeboom","en","3354","Government licensing officials",252,3354
+"ISCO-08_Ganzeboom","en","3355","Police inspectors and detectives",253,3355
+"ISCO-08_Ganzeboom","en","3359","Regulatory government associate professionals nec",254,3359
+"ISCO-08_Ganzeboom","en","3400","Legal, social, cultural and related associate professionals",255,3400
+"ISCO-08_Ganzeboom","en","3410","Legal, social and religious associate professionals",256,3410
+"ISCO-08_Ganzeboom","en","3411","Legal and related associate professionals",257,3411
+"ISCO-08_Ganzeboom","en","3412","Social work associate professionals",258,3412
+"ISCO-08_Ganzeboom","en","3413","Religious associate professionals",259,3413
+"ISCO-08_Ganzeboom","en","3420","Sports and fitness workers",260,3420
+"ISCO-08_Ganzeboom","en","3421","Athletes and sports players",261,3421
+"ISCO-08_Ganzeboom","en","3422","Sports coaches, instructors and officials",262,3422
+"ISCO-08_Ganzeboom","en","3423","Fitness and recreation instructors and program leaders",263,3423
+"ISCO-08_Ganzeboom","en","3430","Artistic, cultural and culinary associate professionals",264,3430
+"ISCO-08_Ganzeboom","en","3431","Photographers",265,3431
+"ISCO-08_Ganzeboom","en","3432","Interior designers and decorators",266,3432
+"ISCO-08_Ganzeboom","en","3433","Gallery, museum and library technicians",267,3433
+"ISCO-08_Ganzeboom","en","3434","Chefs",268,3434
+"ISCO-08_Ganzeboom","en","3435","Other artistic and cultural associate professionals",269,3435
+"ISCO-08_Ganzeboom","en","3500","Information and communications technicians",270,3500
+"ISCO-08_Ganzeboom","en","3510","ICT operations and user support technicians",271,3510
+"ISCO-08_Ganzeboom","en","3511","ICT operations technicians",272,3511
+"ISCO-08_Ganzeboom","en","3512","ICT user support technicians",273,3512
+"ISCO-08_Ganzeboom","en","3513","Computer network and systems technicians",274,3513
+"ISCO-08_Ganzeboom","en","3514","Web technicians",275,3514
+"ISCO-08_Ganzeboom","en","3520","Telecommunications and broadcasting technicians",276,3520
+"ISCO-08_Ganzeboom","en","3521","Broadcasting and audio-visual technicians",277,3521
+"ISCO-08_Ganzeboom","en","3522","Telecommunications engineering technicians",278,3522
+"ISCO-08_Ganzeboom","en","4000","Clerical support workers",279,4000
+"ISCO-08_Ganzeboom","en","4100","General and keyboard clerks",280,4100
+"ISCO-08_Ganzeboom","en","4110","General office clerks",281,4110
+"ISCO-08_Ganzeboom","en","4120","Secretaries [general]",282,4120
+"ISCO-08_Ganzeboom","en","4130","Keyboard operators",283,4130
+"ISCO-08_Ganzeboom","en","4131","Typists and word processing operators",284,4131
+"ISCO-08_Ganzeboom","en","4132","Data entry clerks",285,4132
+"ISCO-08_Ganzeboom","en","4200","Customer services clerks",286,4200
+"ISCO-08_Ganzeboom","en","4210","Tellers, money collectors and related clerks",287,4210
+"ISCO-08_Ganzeboom","en","4211","Bank tellers and related clerks",288,4211
+"ISCO-08_Ganzeboom","en","4212","Bookmakers, croupiers and related gaming workers",289,4212
+"ISCO-08_Ganzeboom","en","4213","Pawnbrokers and money-lenders",290,4213
+"ISCO-08_Ganzeboom","en","4214","Debt-collectors arw",291,4214
+"ISCO-08_Ganzeboom","en","4220","Client information workers",292,4220
+"ISCO-08_Ganzeboom","en","4221","Travel consultants and clerks",293,4221
+"ISCO-08_Ganzeboom","en","4222","Contact centre information clerks",294,4222
+"ISCO-08_Ganzeboom","en","4223","Telephone switchboard operators",295,4223
+"ISCO-08_Ganzeboom","en","4224","Hotel receptionists",296,4224
+"ISCO-08_Ganzeboom","en","4225","Enquiry clerks",297,4225
+"ISCO-08_Ganzeboom","en","4226","Receptionists [general]",298,4226
+"ISCO-08_Ganzeboom","en","4227","Survey and market research interviewers",299,4227
+"ISCO-08_Ganzeboom","en","4229","Client information workers nec",300,4229
+"ISCO-08_Ganzeboom","en","4300","Numerical and material recording clerks",301,4300
+"ISCO-08_Ganzeboom","en","4310","Numerical clerks",302,4310
+"ISCO-08_Ganzeboom","en","4311","Accounting and bookkeeping clerks",303,4311
+"ISCO-08_Ganzeboom","en","4312","Statistical, finance and insurance clerks",304,4312
+"ISCO-08_Ganzeboom","en","4313","Payroll clerks",305,4313
+"ISCO-08_Ganzeboom","en","4320","Material-recording and transport clerks",306,4320
+"ISCO-08_Ganzeboom","en","4321","Stock clerks",307,4321
+"ISCO-08_Ganzeboom","en","4322","Production clerks",308,4322
+"ISCO-08_Ganzeboom","en","4323","Transport clerks",309,4323
+"ISCO-08_Ganzeboom","en","4400","Other clerical support workers",310,4400
+"ISCO-08_Ganzeboom","en","4410","Other clerical support workers",311,4410
+"ISCO-08_Ganzeboom","en","4411","Library clerks",312,4411
+"ISCO-08_Ganzeboom","en","4412","Mail carriers and sorting clerks",313,4412
+"ISCO-08_Ganzeboom","en","4413","Coding, proof-reading and related clerks",314,4413
+"ISCO-08_Ganzeboom","en","4414","Scribes arw",315,4414
+"ISCO-08_Ganzeboom","en","4415","Filing and copying clerks",316,4415
+"ISCO-08_Ganzeboom","en","4416","Personnel clerks",317,4416
+"ISCO-08_Ganzeboom","en","4419","Clerical support workers nec",318,4419
+"ISCO-08_Ganzeboom","en","5000","Service and sales workers",319,5000
+"ISCO-08_Ganzeboom","en","5100","Personal service workers",320,5100
+"ISCO-08_Ganzeboom","en","5110","Travel attendants, conductors and guides",321,5110
+"ISCO-08_Ganzeboom","en","5111","Travel attendants and travel stewards",322,5111
+"ISCO-08_Ganzeboom","en","5112","Transport conductors",323,5112
+"ISCO-08_Ganzeboom","en","5113","Travel guides",324,5113
+"ISCO-08_Ganzeboom","en","5120","Cooks",325,5120
+"ISCO-08_Ganzeboom","en","5130","Waiters and bartenders",326,5130
+"ISCO-08_Ganzeboom","en","5131","Waiters",327,5131
+"ISCO-08_Ganzeboom","en","5132","Bartenders",328,5132
+"ISCO-08_Ganzeboom","en","5140","Hairdressers, beauticians arw",329,5140
+"ISCO-08_Ganzeboom","en","5141","Hairdressers",330,5141
+"ISCO-08_Ganzeboom","en","5142","Beauticians arw",331,5142
+"ISCO-08_Ganzeboom","en","5150","Building and housekeeping supervisors",332,5150
+"ISCO-08_Ganzeboom","en","5151","Cleaning and housekeeping supervisors in offices, hotels etc",333,5151
+"ISCO-08_Ganzeboom","en","5152","Domestic housekeepers",334,5152
+"ISCO-08_Ganzeboom","en","5153","Building caretakers",335,5153
+"ISCO-08_Ganzeboom","en","5160","Other personal services workers",336,5160
+"ISCO-08_Ganzeboom","en","5161","Astrologers, fortune-tellers arw",337,5161
+"ISCO-08_Ganzeboom","en","5162","Companions and valets",338,5162
+"ISCO-08_Ganzeboom","en","5163","Undertakers and embalmers",339,5163
+"ISCO-08_Ganzeboom","en","5164","Pet groomers and animal care workers",340,5164
+"ISCO-08_Ganzeboom","en","5165","Driving instructors",341,5165
+"ISCO-08_Ganzeboom","en","5169","Personal services workers nec",342,5169
+"ISCO-08_Ganzeboom","en","5200","Sales workers",343,5200
+"ISCO-08_Ganzeboom","en","5210","Street and market salespersons",344,5210
+"ISCO-08_Ganzeboom","en","5211","Stall and market salespersons",345,5211
+"ISCO-08_Ganzeboom","en","5212","Street food salespersons",346,5212
+"ISCO-08_Ganzeboom","en","5220","Shop salespersons",347,5220
+"ISCO-08_Ganzeboom","en","5221","Shop keepers",348,5221
+"ISCO-08_Ganzeboom","en","5222","Shop supervisors",349,5222
+"ISCO-08_Ganzeboom","en","5223","Shop sales assistants",350,5223
+"ISCO-08_Ganzeboom","en","5230","Cashiers and ticket clerks",351,5230
+"ISCO-08_Ganzeboom","en","5240","Other sales workers",352,5240
+"ISCO-08_Ganzeboom","en","5241","Fashion and other models",353,5241
+"ISCO-08_Ganzeboom","en","5242","Sales demonstrators",354,5242
+"ISCO-08_Ganzeboom","en","5243","Door to door salespersons",355,5243
+"ISCO-08_Ganzeboom","en","5244","Contact centre salespersons",356,5244
+"ISCO-08_Ganzeboom","en","5245","Service station attendants",357,5245
+"ISCO-08_Ganzeboom","en","5246","Food service counter attendants",358,5246
+"ISCO-08_Ganzeboom","en","5249","Sales workers nec",359,5249
+"ISCO-08_Ganzeboom","en","5300","Personal care workers",360,5300
+"ISCO-08_Ganzeboom","en","5310","Child care workers and teachers aides",361,5310
+"ISCO-08_Ganzeboom","en","5311","Child care workers",362,5311
+"ISCO-08_Ganzeboom","en","5312","Teachers aides",363,5312
+"ISCO-08_Ganzeboom","en","5320","Personal care workers in health services",364,5320
+"ISCO-08_Ganzeboom","en","5321","Health care assistants",365,5321
+"ISCO-08_Ganzeboom","en","5322","Home-based personal care workers",366,5322
+"ISCO-08_Ganzeboom","en","5329","Personal care workers in health services nec",367,5329
+"ISCO-08_Ganzeboom","en","5400","Protective services workers",368,5400
+"ISCO-08_Ganzeboom","en","5410","Protective services workers",369,5410
+"ISCO-08_Ganzeboom","en","5411","Fire-fighters",370,5411
+"ISCO-08_Ganzeboom","en","5412","Police officers",371,5412
+"ISCO-08_Ganzeboom","en","5413","Prison guards",372,5413
+"ISCO-08_Ganzeboom","en","5414","Security guards",373,5414
+"ISCO-08_Ganzeboom","en","5419","Protective services workers nec",374,5419
+"ISCO-08_Ganzeboom","en","6000","Skilled agricultural, forestry and fishery workers",375,6000
+"ISCO-08_Ganzeboom","en","6100","Market-oriented skilled agricultural workers",376,6100
+"ISCO-08_Ganzeboom","en","6110","Market gardeners and crop growers",377,6110
+"ISCO-08_Ganzeboom","en","6111","Field crop and vegetable growers",378,6111
+"ISCO-08_Ganzeboom","en","6112","Tree and shrub crop growers",379,6112
+"ISCO-08_Ganzeboom","en","6113","Gardeners, horticultural and nursery growers",380,6113
+"ISCO-08_Ganzeboom","en","6114","Mixed crop growers",381,6114
+"ISCO-08_Ganzeboom","en","6120","Animal producers",382,6120
+"ISCO-08_Ganzeboom","en","6121","Livestock and dairy producers",383,6121
+"ISCO-08_Ganzeboom","en","6122","Poultry producers",384,6122
+"ISCO-08_Ganzeboom","en","6123","Apiarists and sericulturists",385,6123
+"ISCO-08_Ganzeboom","en","6129","Animal producers nec",386,6129
+"ISCO-08_Ganzeboom","en","6130","Mixed crop and animal producers",387,6130
+"ISCO-08_Ganzeboom","en","6200","Market-oriented skilled forestry, fishery, hunting wrkrs",388,6200
+"ISCO-08_Ganzeboom","en","6210","Forestry arw",389,6210
+"ISCO-08_Ganzeboom","en","6220","Fishery workers, hunters and trappers",390,6220
+"ISCO-08_Ganzeboom","en","6221","Aquaculture workers",391,6221
+"ISCO-08_Ganzeboom","en","6222","Inland and coastal waters fishery workers",392,6222
+"ISCO-08_Ganzeboom","en","6223","Deep-sea fishery workers",393,6223
+"ISCO-08_Ganzeboom","en","6224","Hunters and trappers",394,6224
+"ISCO-08_Ganzeboom","en","6300","Subsistence farmers, fishers, hunters and gatherers",395,6300
+"ISCO-08_Ganzeboom","en","6310","Subsistence crop farmers",396,6310
+"ISCO-08_Ganzeboom","en","6320","Subsistence livestock farmers",397,6320
+"ISCO-08_Ganzeboom","en","6330","Subsistence mixed crop and livestock farmers",398,6330
+"ISCO-08_Ganzeboom","en","6340","Subsistence fishers, hunters, trappers and gatherers",399,6340
+"ISCO-08_Ganzeboom","en","7000","Craft ar trades wrkrs",400,7000
+"ISCO-08_Ganzeboom","en","7100","Building ar trades wrkrs, excluding electricians",401,7100
+"ISCO-08_Ganzeboom","en","7110","Building frame ar trades wrkrs",402,7110
+"ISCO-08_Ganzeboom","en","7111","House builders",403,7111
+"ISCO-08_Ganzeboom","en","7112","Bricklayers arw",404,7112
+"ISCO-08_Ganzeboom","en","7113","Stonemasons, stone cutters, splitters and carvers",405,7113
+"ISCO-08_Ganzeboom","en","7114","Concrete placers, concrete finishers arw",406,7114
+"ISCO-08_Ganzeboom","en","7115","Carpenters and joiners",407,7115
+"ISCO-08_Ganzeboom","en","7119","Building frame ar trades wrkrs nec",408,7119
+"ISCO-08_Ganzeboom","en","7120","Building finishers ar trades wrkrs",409,7120
+"ISCO-08_Ganzeboom","en","7121","Roofers",410,7121
+"ISCO-08_Ganzeboom","en","7122","Floor layers and tile setters",411,7122
+"ISCO-08_Ganzeboom","en","7123","Plasterers",412,7123
+"ISCO-08_Ganzeboom","en","7124","Insulation workers",413,7124
+"ISCO-08_Ganzeboom","en","7125","Glaziers",414,7125
+"ISCO-08_Ganzeboom","en","7126","Plumbers and pipe fitters",415,7126
+"ISCO-08_Ganzeboom","en","7127","Air conditioning and refrigeration mechanics",416,7127
+"ISCO-08_Ganzeboom","en","7130","Painters, building structure cleaners ar trades wrkrs",417,7130
+"ISCO-08_Ganzeboom","en","7131","Painters arw",418,7131
+"ISCO-08_Ganzeboom","en","7132","Spray painters and varnishers",419,7132
+"ISCO-08_Ganzeboom","en","7133","Building structure cleaners",420,7133
+"ISCO-08_Ganzeboom","en","7200","Metal, machinery ar trades wrkrs",421,7200
+"ISCO-08_Ganzeboom","en","7210","Sheet-structural metal wekrs, moulders and welders, arw",422,7210
+"ISCO-08_Ganzeboom","en","7211","Metal moulders and coremakers",423,7211
+"ISCO-08_Ganzeboom","en","7212","Welders and flamecutters",424,7212
+"ISCO-08_Ganzeboom","en","7213","Sheet-metal workers",425,7213
+"ISCO-08_Ganzeboom","en","7214","Structural-metal preparers and erectors",426,7214
+"ISCO-08_Ganzeboom","en","7215","Riggers and cable splicers",427,7215
+"ISCO-08_Ganzeboom","en","7220","Blacksmiths, toolmakers ar trades wrkrs",428,7220
+"ISCO-08_Ganzeboom","en","7221","Blacksmiths, hammersmiths and forging press workers",429,7221
+"ISCO-08_Ganzeboom","en","7222","Toolmakers arw",430,7222
+"ISCO-08_Ganzeboom","en","7223","Metal working machine tool setters and operators",431,7223
+"ISCO-08_Ganzeboom","en","7224","Metal polishers, wheel grinders and tool sharpeners",432,7224
+"ISCO-08_Ganzeboom","en","7230","Machinery mechanics and repairers",433,7230
+"ISCO-08_Ganzeboom","en","7231","Motor vehicle mechanics and repairers",434,7231
+"ISCO-08_Ganzeboom","en","7232","Aircraft engine mechanics and repairers",435,7232
+"ISCO-08_Ganzeboom","en","7233","Agricultural-industrial machinery mechanics & repairers",436,7233
+"ISCO-08_Ganzeboom","en","7234","Bicycle and related repairers",437,7234
+"ISCO-08_Ganzeboom","en","7300","Handicraft and printing workers",438,7300
+"ISCO-08_Ganzeboom","en","7310","Handicraft workers",439,7310
+"ISCO-08_Ganzeboom","en","7311","Precision-instrument makers and repairers",440,7311
+"ISCO-08_Ganzeboom","en","7312","Musical instrument makers and tuners",441,7312
+"ISCO-08_Ganzeboom","en","7313","Jewellery and precious-metal workers",442,7313
+"ISCO-08_Ganzeboom","en","7314","Potters arw",443,7314
+"ISCO-08_Ganzeboom","en","7315","Glass makers, cutters, grinders and finishers",444,7315
+"ISCO-08_Ganzeboom","en","7316","Sign writers, decorative painters, engravers and etchers",445,7316
+"ISCO-08_Ganzeboom","en","7317","Handicraft workers in wood, basketry and related materials",446,7317
+"ISCO-08_Ganzeboom","en","7318","Handicraft workers in textile, leather and related materials",447,7318
+"ISCO-08_Ganzeboom","en","7319","Handicraft workers nec",448,7319
+"ISCO-08_Ganzeboom","en","7320","Printing trades workers",449,7320
+"ISCO-08_Ganzeboom","en","7321","Pre-press technicians",450,7321
+"ISCO-08_Ganzeboom","en","7322","Printers",451,7322
+"ISCO-08_Ganzeboom","en","7323","Print finishing and binding workers",452,7323
+"ISCO-08_Ganzeboom","en","7400","Electrical and electronic trades workers",453,7400
+"ISCO-08_Ganzeboom","en","7410","Electrical equipment installers and repairers",454,7410
+"ISCO-08_Ganzeboom","en","7411","Building and related electricians",455,7411
+"ISCO-08_Ganzeboom","en","7412","Electrical mechanics and fitters",456,7412
+"ISCO-08_Ganzeboom","en","7413","Electrical line installers and repairers",457,7413
+"ISCO-08_Ganzeboom","en","7420","Electronics and telecommunications installers and repairers",458,7420
+"ISCO-08_Ganzeboom","en","7421","Electronics mechanics and servicers",459,7421
+"ISCO-08_Ganzeboom","en","7422","ICT installers and servicers",460,7422
+"ISCO-08_Ganzeboom","en","7500","Food processing, wood working, garment ar craft-trades wrks",461,7500
+"ISCO-08_Ganzeboom","en","7510","Food processing ar trades wrkrs",462,7510
+"ISCO-08_Ganzeboom","en","7511","Butchers, fishmongers and related food preparers",463,7511
+"ISCO-08_Ganzeboom","en","7512","Bakers, pastry-cooks and confectionery makers",464,7512
+"ISCO-08_Ganzeboom","en","7513","Dairy-products makers",465,7513
+"ISCO-08_Ganzeboom","en","7514","Fruit, vegetable and related preservers",466,7514
+"ISCO-08_Ganzeboom","en","7515","Food and beverage tasters and graders",467,7515
+"ISCO-08_Ganzeboom","en","7516","Tobacco preparers and tobacco products makers",468,7516
+"ISCO-08_Ganzeboom","en","7520","Wood treaters, cabinet-makers ar trades wrkrs",469,7520
+"ISCO-08_Ganzeboom","en","7521","Wood treaters",470,7521
+"ISCO-08_Ganzeboom","en","7522","Cabinet-makers arw",471,7522
+"ISCO-08_Ganzeboom","en","7523","Woodworking-machine tool setters and operators",472,7523
+"ISCO-08_Ganzeboom","en","7530","Garment ar trades wrkrs",473,7530
+"ISCO-08_Ganzeboom","en","7531","Tailors, dressmakers, furriers and hatters",474,7531
+"ISCO-08_Ganzeboom","en","7532","Garment and related pattern-makers and cutters",475,7532
+"ISCO-08_Ganzeboom","en","7533","Sewing, embroidery arw",476,7533
+"ISCO-08_Ganzeboom","en","7534","Upholsterers arw",477,7534
+"ISCO-08_Ganzeboom","en","7535","Pelt dressers, tanners and fellmongers",478,7535
+"ISCO-08_Ganzeboom","en","7536","Shoemakers arw",479,7536
+"ISCO-08_Ganzeboom","en","7540","Other craft arw",480,7540
+"ISCO-08_Ganzeboom","en","7541","Underwater divers",481,7541
+"ISCO-08_Ganzeboom","en","7542","Shotfirers and blasters",482,7542
+"ISCO-08_Ganzeboom","en","7543","Product graders and testers [excluding foods and beverages]",483,7543
+"ISCO-08_Ganzeboom","en","7544","Fumigators and other pest and weed controllers",484,7544
+"ISCO-08_Ganzeboom","en","7549","Craft arw nec",485,7549
+"ISCO-08_Ganzeboom","en","8000","Plant and machine operators, and assemblers",486,8000
+"ISCO-08_Ganzeboom","en","8100","Stationary plant and machine operators",487,8100
+"ISCO-08_Ganzeboom","en","8110","Mining and mineral processing plant operators",488,8110
+"ISCO-08_Ganzeboom","en","8111","Miners and quarriers",489,8111
+"ISCO-08_Ganzeboom","en","8112","Mineral and stone processing plant operators",490,8112
+"ISCO-08_Ganzeboom","en","8113","Well drillers and borers arw",491,8113
+"ISCO-08_Ganzeboom","en","8114","Cement, stone and other mineral products machine operators",492,8114
+"ISCO-08_Ganzeboom","en","8120","Metal processing and finishing plant operators",493,8120
+"ISCO-08_Ganzeboom","en","8121","Metal processing plant operators",494,8121
+"ISCO-08_Ganzeboom","en","8122","Metal finishing, plating and coating machine operators",495,8122
+"ISCO-08_Ganzeboom","en","8130","Chemical-photograph products plant and machine operators",496,8130
+"ISCO-08_Ganzeboom","en","8131","Chemical products plant and machine operators",497,8131
+"ISCO-08_Ganzeboom","en","8132","Photographic products machine operators",498,8132
+"ISCO-08_Ganzeboom","en","8140","Rubber, plastic and paper products machine operators",499,8140
+"ISCO-08_Ganzeboom","en","8141","Rubber products machine operators",500,8141
+"ISCO-08_Ganzeboom","en","8142","Plastic products machine operators",501,8142
+"ISCO-08_Ganzeboom","en","8143","Paper products machine operators",502,8143
+"ISCO-08_Ganzeboom","en","8150","Textile, fur and leather products machine operators",503,8150
+"ISCO-08_Ganzeboom","en","8151","Fibre preparing, spinning and winding machine operators",504,8151
+"ISCO-08_Ganzeboom","en","8152","Weaving and knitting machine operators",505,8152
+"ISCO-08_Ganzeboom","en","8153","Sewing machine operators",506,8153
+"ISCO-08_Ganzeboom","en","8154","Bleaching, dyeing and fabric cleaning machine operators",507,8154
+"ISCO-08_Ganzeboom","en","8155","Fur and leather preparing machine operators",508,8155
+"ISCO-08_Ganzeboom","en","8156","Shoemaking and related machine operators",509,8156
+"ISCO-08_Ganzeboom","en","8157","Laundry machine operators",510,8157
+"ISCO-08_Ganzeboom","en","8159","Textile, fur and leather products machine operators nec",511,8159
+"ISCO-08_Ganzeboom","en","8160","Food and related products machine operators",512,8160
+"ISCO-08_Ganzeboom","en","8170","Wood processing and papermaking plant operators",513,8170
+"ISCO-08_Ganzeboom","en","8171","Pulp and papermaking plant operators",514,8171
+"ISCO-08_Ganzeboom","en","8172","Wood processing plant operators",515,8172
+"ISCO-08_Ganzeboom","en","8180","Other stationary plant and machine operators",516,8180
+"ISCO-08_Ganzeboom","en","8181","Glass and ceramics plant operators",517,8181
+"ISCO-08_Ganzeboom","en","8182","Steam engine and boiler operators",518,8182
+"ISCO-08_Ganzeboom","en","8183","Packing, bottling and labelling machine operators",519,8183
+"ISCO-08_Ganzeboom","en","8189","Stationary plant and machine operators nec",520,8189
+"ISCO-08_Ganzeboom","en","8200","Assemblers",521,8200
+"ISCO-08_Ganzeboom","en","8210","Assemblers",522,8210
+"ISCO-08_Ganzeboom","en","8211","Mechanical machinery assemblers",523,8211
+"ISCO-08_Ganzeboom","en","8212","Electrical and electronic equipment assemblers",524,8212
+"ISCO-08_Ganzeboom","en","8219","Assemblers nec",525,8219
+"ISCO-08_Ganzeboom","en","8300","Drivers and mobile plant operators",526,8300
+"ISCO-08_Ganzeboom","en","8310","Locomotive engine drivers arw",527,8310
+"ISCO-08_Ganzeboom","en","8311","Locomotive engine drivers",528,8311
+"ISCO-08_Ganzeboom","en","8312","Railway brake, signal and switch operators",529,8312
+"ISCO-08_Ganzeboom","en","8320","Car, van and motorcycle drivers",530,8320
+"ISCO-08_Ganzeboom","en","8321","Motorcycle drivers",531,8321
+"ISCO-08_Ganzeboom","en","8322","Car, taxi and van drivers",532,8322
+"ISCO-08_Ganzeboom","en","8330","Heavy truck and bus drivers",533,8330
+"ISCO-08_Ganzeboom","en","8331","Bus and tram drivers",534,8331
+"ISCO-08_Ganzeboom","en","8332","Heavy truck and lorry drivers",535,8332
+"ISCO-08_Ganzeboom","en","8340","Mobile plant operators",536,8340
+"ISCO-08_Ganzeboom","en","8341","Mobile farm and forestry plant operators",537,8341
+"ISCO-08_Ganzeboom","en","8342","Earthmoving and related plant operators",538,8342
+"ISCO-08_Ganzeboom","en","8343","Crane, hoist and related plant operators",539,8343
+"ISCO-08_Ganzeboom","en","8344","Lifting truck operators",540,8344
+"ISCO-08_Ganzeboom","en","8350","Ships deck crews arw",541,8350
+"ISCO-08_Ganzeboom","en","9000","Elementary occupations",542,9000
+"ISCO-08_Ganzeboom","en","9100","Cleaners and helpers",543,9100
+"ISCO-08_Ganzeboom","en","9110","Domestic, hotel and office cleaners and helpers",544,9110
+"ISCO-08_Ganzeboom","en","9111","Domestic cleaners and helpers",545,9111
+"ISCO-08_Ganzeboom","en","9112","Cleaners and helpers in offices, hotels etc",546,9112
+"ISCO-08_Ganzeboom","en","9120","Vehicle, window, laundry and other hand cleaning workers",547,9120
+"ISCO-08_Ganzeboom","en","9121","Hand launderers and pressers",548,9121
+"ISCO-08_Ganzeboom","en","9122","Vehicle cleaners",549,9122
+"ISCO-08_Ganzeboom","en","9123","Window cleaners",550,9123
+"ISCO-08_Ganzeboom","en","9129","Other cleaning workers",551,9129
+"ISCO-08_Ganzeboom","en","9200","Agricultural, forestry and fishery labourers",552,9200
+"ISCO-08_Ganzeboom","en","9210","Agricultural, forestry and fishery labourers",553,9210
+"ISCO-08_Ganzeboom","en","9211","Crop farm labourers",554,9211
+"ISCO-08_Ganzeboom","en","9212","Livestock farm labourers",555,9212
+"ISCO-08_Ganzeboom","en","9213","Mixed crop and livestock farm labourers",556,9213
+"ISCO-08_Ganzeboom","en","9214","Garden and horticultural labourers",557,9214
+"ISCO-08_Ganzeboom","en","9215","Forestry labourers",558,9215
+"ISCO-08_Ganzeboom","en","9216","Fishery and aquaculture labourers",559,9216
+"ISCO-08_Ganzeboom","en","9300","Labourers mining, construction, manufactur & transport",560,9300
+"ISCO-08_Ganzeboom","en","9310","Mining and construction labourers",561,9310
+"ISCO-08_Ganzeboom","en","9311","Mining and quarrying labourers",562,9311
+"ISCO-08_Ganzeboom","en","9312","Civil engineering labourers",563,9312
+"ISCO-08_Ganzeboom","en","9313","Building construction labourers",564,9313
+"ISCO-08_Ganzeboom","en","9320","Manufacturing labourers",565,9320
+"ISCO-08_Ganzeboom","en","9321","Hand packers",566,9321
+"ISCO-08_Ganzeboom","en","9329","Manufacturing labourers nec",567,9329
+"ISCO-08_Ganzeboom","en","9330","Transport and storage labourers",568,9330
+"ISCO-08_Ganzeboom","en","9331","Hand and pedal vehicle drivers",569,9331
+"ISCO-08_Ganzeboom","en","9332","Drivers of animal-drawn vehicles and machinery",570,9332
+"ISCO-08_Ganzeboom","en","9333","Freight handlers",571,9333
+"ISCO-08_Ganzeboom","en","9334","Shelf fillers",572,9334
+"ISCO-08_Ganzeboom","en","9400","Food preparation assistants",573,9400
+"ISCO-08_Ganzeboom","en","9410","Food preparation assistants",574,9410
+"ISCO-08_Ganzeboom","en","9411","Fast food preparers",575,9411
+"ISCO-08_Ganzeboom","en","9412","Kitchen helpers",576,9412
+"ISCO-08_Ganzeboom","en","9500","Street and related sales and service workers",577,9500
+"ISCO-08_Ganzeboom","en","9510","Street and related service workers",578,9510
+"ISCO-08_Ganzeboom","en","9520","Street vendors [excluding food]",579,9520
+"ISCO-08_Ganzeboom","en","9600","Refuse workers and other elementary workers",580,9600
+"ISCO-08_Ganzeboom","en","9610","Refuse workers",581,9610
+"ISCO-08_Ganzeboom","en","9611","Garbage and recycling collectors",582,9611
+"ISCO-08_Ganzeboom","en","9612","Refuse sorters",583,9612
+"ISCO-08_Ganzeboom","en","9613","Sweepers and related labourers",584,9613
+"ISCO-08_Ganzeboom","en","9620","Other elementary workers",585,9620
+"ISCO-08_Ganzeboom","en","9621","Messengers, package deliverers and luggage porters",586,9621
+"ISCO-08_Ganzeboom","en","9622","Odd job persons",587,9622
+"ISCO-08_Ganzeboom","en","9623","Meter readers and vending-machine collectors",588,9623
+"ISCO-08_Ganzeboom","en","9624","Water and firewood collectors",589,9624
+"ISCO-08_Ganzeboom","en","9629","Elementary workers nec",590,9629

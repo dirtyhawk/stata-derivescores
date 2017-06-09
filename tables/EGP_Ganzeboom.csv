@@ -1,12 +1,12 @@
-"ConceptScheme","labelStyle","Concept","prefLabel","sortorder"
-"EGP_Ganzeboom","en",1,"[I] Higher Controllers",1
-"EGP_Ganzeboom","en",2,"[II] Lower Controllers",2
-"EGP_Ganzeboom","en",3,"[IIIa] Routine Nonmanual",3
-"EGP_Ganzeboom","en",4,"[IIIb] Lower Sales-Service",4
-"EGP_Ganzeboom","en",5,"[IVa] Selfempl with empl",5
-"EGP_Ganzeboom","en",6,"[IVb] Selfempl no empl",6
-"EGP_Ganzeboom","en",7,"[V] Manual Supervisors",7
-"EGP_Ganzeboom","en",8,"[VI] Skilled Worker",8
-"EGP_Ganzeboom","en",9,"[VIIa] Unskilled Worker",9
-"EGP_Ganzeboom","en",10,"[VIIb] Farm Labor",10
-"EGP_Ganzeboom","en",11,"[IVc] Selfempl Farmer",11
+"ConceptScheme","labelStyle","Concept","prefLabel","sortorder","prefValue"
+"EGP_Ganzeboom","en","I","Higher Controllers",1,1
+"EGP_Ganzeboom","en","II","Lower Controllers",2,2
+"EGP_Ganzeboom","en","IIIa","Routine Nonmanual",3,3
+"EGP_Ganzeboom","en","IIIb","Lower Sales-Service",4,4
+"EGP_Ganzeboom","en","IVa","Selfempl with empl",5,5
+"EGP_Ganzeboom","en","IVb","Selfempl no empl",6,6
+"EGP_Ganzeboom","en","V","Manual Supervisors",7,7
+"EGP_Ganzeboom","en","VI","Skilled Worker",8,8
+"EGP_Ganzeboom","en","VIIa","Unskilled Worker",9,9
+"EGP_Ganzeboom","en","VIIb","Farm Labor",10,10
+"EGP_Ganzeboom","en","IVv","Selfempl Farmer",11,11
