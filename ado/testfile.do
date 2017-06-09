@@ -23,7 +23,8 @@ clear
 sysuse auto , clear
 drop make
 derivescores init , verbose
+derivescores list
 
-browse
+*browse
 
 exit 0
