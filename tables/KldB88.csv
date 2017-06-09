@@ -1,0 +1,1992 @@
+"ConceptScheme","labelStyle","Concept","prefLabel","sortorder","prefValue"
+"KldB88","de","110","Landwirte, allgemein",1,110
+"KldB88","de","111","Diplomlandwirte (nicht administrativ tätig)",2,111
+"KldB88","de","112","Ackerbauern",3,112
+"KldB88","de","113","Viehhalter und Grünlandwirte",4,113
+"KldB88","de","114","Saat-, Pflanzenzüchter",5,114
+"KldB88","de","115","Pflanzenschützer",6,115
+"KldB88","de","116","Landwirte und Gastwirte bzw.Kaufleute",7,116
+"KldB88","de","118","Landwirte und Winzer",8,118
+"KldB88","de","119","andere Landwirte",9,119
+"KldB88","de","120","Winzer, allgemein",10,120
+"KldB88","de","121","Rebenveredler",11,121
+"KldB88","de","129","andere Weinbauern",12,129
+"KldB88","de","210","Tierwirte, -züchter, allgemein",13,210
+"KldB88","de","211","Pferde-, Rindviehzüchter",14,211
+"KldB88","de","212","Schäfer",15,212
+"KldB88","de","213","Geflügelzüchter",16,213
+"KldB88","de","214","Pelz-, Wildtierzüchter",17,214
+"KldB88","de","215","Fischzüchter, -wirte",18,215
+"KldB88","de","216","Schweinezüchter",19,216
+"KldB88","de","217","Tierzüchterhelfer",20,217
+"KldB88","de","218","Imker",21,218
+"KldB88","de","219","andere Tierzüchter",22,219
+"KldB88","de","220","Fischer, allgemein",23,220
+"KldB88","de","221","Binnenfischer",24,221
+"KldB88","de","222","Küstenfischer",25,222
+"KldB88","de","223","Hochseefischer",26,223
+"KldB88","de","227","Fischerhelfer",27,227
+"KldB88","de","229","andere Fischereiberufe",28,229
+"KldB88","de","311","Verwalter in der Landwirtschaft",29,311
+"KldB88","de","312","Verwalter in der Tierzucht",30,312
+"KldB88","de","319","andere Verwalter in der Landwirtschaft und Tierzucht",31,319
+"KldB88","de","321","Diplomlandwirte (administrativ tätig)",32,321
+"KldB88","de","322","Agraringenieure",33,322
+"KldB88","de","323","Agrartechniker",34,323
+"KldB88","de","324","Weinbauberater",35,324
+"KldB88","de","325","Viehzuchtberater",36,325
+"KldB88","de","329","andere landwirtschaftliche Berater",37,329
+"KldB88","de","410","Landarbeitskräfte, allgemein",38,410
+"KldB88","de","411","Landarbeitsaufseher",39,411
+"KldB88","de","412","Landmaschinenführer",40,412
+"KldB88","de","413","Acker-, Weidearbeiter",41,413
+"KldB88","de","414","Weinbergsarbeiter",42,414
+"KldB88","de","415","Viehpfleger",43,415
+"KldB88","de","417","Erntehilfen, Landarbeitshelfer",44,417
+"KldB88","de","419","andere Landarbeitskräfte",45,419
+"KldB88","de","421","Melker",46,421
+"KldB88","de","431","Familieneigene Arbeitskräfte in der Landwirtschaft",47,431
+"KldB88","de","440","Tierpfleger, allgemein",48,440
+"KldB88","de","441","Pferdepfleger",49,441
+"KldB88","de","442","Rindviehpfleger",50,442
+"KldB88","de","443","Zoowärter (Tierpfleger)",51,443
+"KldB88","de","444","Tierlehrer (nicht Artisten)",52,444
+"KldB88","de","445","Hundepfleger",53,445
+"KldB88","de","446","Schweinepfleger",54,446
+"KldB88","de","447","Tierpflegerhelfer",55,447
+"KldB88","de","448","Deckstationswärter",56,448
+"KldB88","de","449","andere Tierpfleger",57,449
+"KldB88","de","510","Gärtner, allgemein",58,510
+"KldB88","de","511","Landschaftsgärtner",59,511
+"KldB88","de","512","Baumschulengärtner, Baumwarte",60,512
+"KldB88","de","513","Zierpflanzengärtner",61,513
+"KldB88","de","514","Obst- und Gemüsegärtner",62,514
+"KldB88","de","515","Friedhofsgärtner",63,515
+"KldB88","de","517","Gartenarbeiter",64,517
+"KldB88","de","519","andere Gärtner",65,519
+"KldB88","de","521","Landschafts-, Gartenarchitekten",66,521
+"KldB88","de","522","Gartenverwalter",67,522
+"KldB88","de","523","Gartenbauberater und verwandte Berufe",68,523
+"KldB88","de","524","Gartenbautechniker",69,524
+"KldB88","de","525","Ingenieure für Gartenbau",70,525
+"KldB88","de","531","Floristen",71,531
+"KldB88","de","532","Kranzbinder",72,532
+"KldB88","de","537","Blumenbinderhelfer",73,537
+"KldB88","de","611","Forstberufe (Hochschule)",74,611
+"KldB88","de","613","Revierförster, Forstschützer",75,613
+"KldB88","de","614","Forstverwalter, Forstwirte (nicht Waldfacharbeiter)",76,614
+"KldB88","de","615","Revierjäger",77,615
+"KldB88","de","616","Wildheger",78,616
+"KldB88","de","618","Tierfänger",79,618
+"KldB88","de","619","andere Forstberufe",80,619
+"KldB88","de","621","Forstwirte (Waldfacharbeiter)",81,621
+"KldB88","de","622","Holzfäller",82,622
+"KldB88","de","623","Forst- und Waldkulturarbeiter",83,623
+"KldB88","de","624","Waldwegewarte",84,624
+"KldB88","de","627","Waldarbeiter, -nutzerhelfer",85,627
+"KldB88","de","628","Waldfrüchtesammler und verwandte Berufe",86,628
+"KldB88","de","629","andere Waldarbeiter, Waldnutzer",87,629
+"KldB88","de","710","Bergleute, o.n.A.",88,710
+"KldB88","de","711","Bergmechaniker",89,711
+"KldB88","de","712","Berg- und Maschinenmann",90,712
+"KldB88","de","713","Vortrieb- und Gewinnungsbergleute",91,713
+"KldB88","de","714","Transport- und Instandhaltungsbergleute",92,714
+"KldB88","de","717","Bergbauhelfer",93,717
+"KldB88","de","719","andere Bergleute",94,719
+"KldB88","de","721","Maschinenhauer",95,721
+"KldB88","de","722","Elektrohauer",96,722
+"KldB88","de","723","Schießhauer",97,723
+"KldB88","de","727","Maschinen-, Elektro-, Schießhauerhelfer",98,727
+"KldB88","de","729","andere Maschinen-, Elektro-, Schießhauer",99,729
+"KldB88","de","810","Steinbrecher, o.n.A.",100,810
+"KldB88","de","811","Führer von Steingewinnungsmaschinen",101,811
+"KldB88","de","812","Schotter- und Brechwerksteuerer und verwandte Berufe",102,812
+"KldB88","de","814","Steinbruchbohrer",103,814
+"KldB88","de","817","Steinbrecherhelfer",104,817
+"KldB88","de","819","andere Steinbrecher",105,819
+"KldB88","de","820","Erden-, Kies-, Sandgewinner, o.n.A.",106,820
+"KldB88","de","821","Erden-, Sandgräber",107,821
+"KldB88","de","822","Kiesgewinner",108,822
+"KldB88","de","823","Torfgewinner",109,823
+"KldB88","de","827","Torfaufsetzer und ähnliche Helfer",110,827
+"KldB88","de","829","andere Erden-, Kies-, Sandgewinner",111,829
+"KldB88","de","830","Erdöl-, Erdgasgewinner, o.n.A.",112,830
+"KldB88","de","831","Tiefbohrfacharbeiter",113,831
+"KldB88","de","837","Erdöl-, Erdgasgewinnerhelfer",114,837
+"KldB88","de","839","andere Erdöl-, Erdgasgewinner",115,839
+"KldB88","de","910","Mineralaufbereiter, o.n.A, Aufbereiter im Bergbau",116,910
+"KldB88","de","911","Mineralzerkleinerer",117,911
+"KldB88","de","912","Mineralsortierer, -scheideanlagensteuerer",118,912
+"KldB88","de","913","Mineralmischer",119,913
+"KldB88","de","914","Mineraltrockner, -sinterer, -verdampfer",120,914
+"KldB88","de","915","Mineralpresser",121,915
+"KldB88","de","916","Mineralbrenner",122,916
+"KldB88","de","917","Mineralaufbereiterhelfer",123,917
+"KldB88","de","918","Kalk- und Zementwerker",124,918
+"KldB88","de","919","andere Mineralaufbereiter",125,919
+"KldB88","de","1010","Steinbearbeiter, o.n.A.",126,1010
+"KldB88","de","1011","Steinmetzen, Steinbildhauer (nicht Künstler)",127,1011
+"KldB88","de","1012","Steinbehauer",128,1012
+"KldB88","de","1013","Steinsäger, -bohrer",129,1013
+"KldB88","de","1014","Steindreher, -hobler",130,1014
+"KldB88","de","1015","Natursteinschleifer",131,1015
+"KldB88","de","1016","Kunststeinschleifer",132,1016
+"KldB88","de","1017","Steinbearbeiterhelfer",133,1017
+"KldB88","de","1019","andere Steinbearbeiter",134,1019
+"KldB88","de","1020","Edelsteinbearbeiter, o.n.A.",135,1020
+"KldB88","de","1021","Farbsteinschleifer",136,1021
+"KldB88","de","1022","Achatschleifer",137,1022
+"KldB88","de","1023","Edelsteinbohrer",138,1023
+"KldB88","de","1024","Edelsteingraveure und verwandte Berufe",139,1024
+"KldB88","de","1025","Diamantziehsteinmacher",140,1025
+"KldB88","de","1026","Diamantschleifer und verwandte Berufe",141,1026
+"KldB88","de","1027","Edelsteinbearbeiterhelfer",142,1027
+"KldB88","de","1029","andere Edelsteinbearbeiter",143,1029
+"KldB88","de","1110","Brannsteinhersteller, o.n.A.",144,1110
+"KldB88","de","1111","Ziegler",145,1111
+"KldB88","de","1112","Feuerfestformer",146,1112
+"KldB88","de","1113","Branntsteinbrenner, -trockner, -glasierer",147,1113
+"KldB88","de","1117","Branntsteinherstellerhelfer",148,1117
+"KldB88","de","1119","andere Brannsteinhersteller",149,1119
+"KldB88","de","1120","Formsteinhersteller, o.n.A.",150,1120
+"KldB88","de","1121","Betonfertigteilbauer",151,1121
+"KldB88","de","1122","Formsteinwarenhersteller",152,1122
+"KldB88","de","1123","Formsteinmassebereiter",153,1123
+"KldB88","de","1124","Formsteinmischer",154,1124
+"KldB88","de","1125","Formsteinpresser",155,1125
+"KldB88","de","1127","Formsteinherstellerhelfer",156,1127
+"KldB88","de","1129","andere Formsteinhersteller",157,1129
+"KldB88","de","1210","Töpfer, Keramiker, allgemein",158,1210
+"KldB88","de","1211","Geschirr-, Figuren-, Technokeramformer",159,1211
+"KldB88","de","1212","Kerammodelleure, Gipsformengießer",160,1212
+"KldB88","de","1213","Kerammassemacher",161,1213
+"KldB88","de","1214","Keramdreher, -gießer, -presser",162,1214
+"KldB88","de","1215","Kerambrenner",163,1215
+"KldB88","de","1216","Keramoberflächenbehandler",164,1216
+"KldB88","de","1217","Keramikerhelfer",165,1217
+"KldB88","de","1218","Keramteilemontierer",166,1218
+"KldB88","de","1219","andere Keramiker",167,1219
+"KldB88","de","1310","Glasmassehersteller, o.n.A.",168,1310
+"KldB88","de","1311","Glasgemengemacher",169,1311
+"KldB88","de","1312","Glasschmelzofensteuerer",170,1312
+"KldB88","de","1317","Glasmasseherstellerhelfer",171,1317
+"KldB88","de","1320","Hohlglasmacher, o.n.A.",172,1320
+"KldB88","de","1321","Glaswerker",173,1321
+"KldB88","de","1322","Hohl- und Kelchglasmacher",174,1322
+"KldB88","de","1323","Maschinenglasmacher",175,1323
+"KldB88","de","1324","Glaskühlofensteuerer (Hohlglas)",176,1324
+"KldB88","de","1327","Hohlglasmacherhelfer",177,1327
+"KldB88","de","1329","andere Hohlglasmacher",178,1329
+"KldB88","de","1330","Flachglasmacher, o.n.A.",179,1330
+"KldB88","de","1331","Glasziehmaschinensteuerer",180,1331
+"KldB88","de","1332","Glasgießmaschinensteuerer",181,1332
+"KldB88","de","1333","Glaswalzmaschinensteuerer",182,1333
+"KldB88","de","1334","Glasstreckmaschinensteuerer",183,1334
+"KldB88","de","1335","Glaskühlofensteuerer (Flachglas)",184,1335
+"KldB88","de","1336","Glasbeschauer",185,1336
+"KldB88","de","1337","Flachglasmacherhelfer",186,1337
+"KldB88","de","1339","andere Flachglasmacher",187,1339
+"KldB88","de","1340","Glasbläser (vor der Lampe)",188,1340
+"KldB88","de","1341","Glasinstrumentenmacher, -apparatebläser",189,1341
+"KldB88","de","1342","Thermometerbläser",190,1342
+"KldB88","de","1343","Leuchtröhrenglasbläser",191,1343
+"KldB88","de","1344","Christbaumschmuck-, Figurenbläser",192,1344
+"KldB88","de","1345","Kunstaugenmacher",193,1345
+"KldB88","de","1349","andere Glasbläser (vor der Lampe)",194,1349
+"KldB88","de","1350","Glasbearbeiter, Glasveredler, allgemein",195,1350
+"KldB88","de","1351","Glassäger, -schneider, -bohrer",196,1351
+"KldB88","de","1352","Glasschleifer",197,1352
+"KldB88","de","1353","Hohlglasfeinschleifer, -dreher",198,1353
+"KldB88","de","1354","Glasätzer",199,1354
+"KldB88","de","1355","Glasgraveure",200,1355
+"KldB88","de","1356","Feinoptiker",201,1356
+"KldB88","de","1357","Glasbearbeiter-, -veredlerhelfer",202,1357
+"KldB88","de","1358","Brillenoptikschleifer",203,1358
+"KldB88","de","1359","andere Glasbearbeiter, -veredler",204,1359
+"KldB88","de","1410","Chemiebetriebswerker, Chemiefacharbeiter, allgemein",205,1410
+"KldB88","de","1411","Warmbehandler, Destillierer",206,1411
+"KldB88","de","1412","Brecher, Müller, Mischer",207,1412
+"KldB88","de","1413","Separatoren-, Filter-, Kompressorensteuerer",208,1413
+"KldB88","de","1414","sonstige Chemieanlagensteuerer",209,1414
+"KldB88","de","1416","Pharmakanten",210,1416
+"KldB88","de","1417","Chemiehilfsarbeiter",211,1417
+"KldB88","de","1419","andere Chemiebetriebswerker",212,1419
+"KldB88","de","1421","Chemielaborwerker",213,1421
+"KldB88","de","1427","Chemielaborwerkerhelfer",214,1427
+"KldB88","de","1430","Gummihersteller, -verarbeiter, o.n.A.",215,1430
+"KldB88","de","1431","Rohgummiaufbereiter",216,1431
+"KldB88","de","1432","Gummistrangmaschinenführer, Gummipresser, -stanzer",217,1432
+"KldB88","de","1433","Führer sonstiger Gummiherstellungs-, -verarbeitungsmaschinen",218,1433
+"KldB88","de","1434","Gummiauskleider",219,1434
+"KldB88","de","1436","Reifen- und Schlauchmacher",220,1436
+"KldB88","de","1437","Gummihersteller-, -verarbeiterhelfer",221,1437
+"KldB88","de","1438","Gummiwarenmacher",222,1438
+"KldB88","de","1439","andere Gummihersteller, -verarbeiter",223,1439
+"KldB88","de","1440","Vulkaniseure, allgemein",224,1440
+"KldB88","de","1441","Reifenvulkaniseure",225,1441
+"KldB88","de","1447","Vulkaniseurhelfer",226,1447
+"KldB88","de","1449","andere Vulkaniseure",227,1449
+"KldB88","de","1510","Kunststoffverarbeiter, o.n.A, Kunststoff-Formgeber",228,1510
+"KldB88","de","1511","Kunststoffmaschinenpresser",229,1511
+"KldB88","de","1512","Kunststoffspritzgießer, -strangmaschinenführer",230,1512
+"KldB88","de","1513","Kunststoffkalanderführer",231,1513
+"KldB88","de","1514","Kunststofftiefzieher",232,1514
+"KldB88","de","1515","Kunststoffschweißer",233,1515
+"KldB88","de","1516","Gummi- und Kunststoffauskleider",234,1516
+"KldB88","de","1517","Kunststoffverarbeiterhelfer",235,1517
+"KldB88","de","1518","Kunststoffwarenmacher",236,1518
+"KldB88","de","1519","andere Kunststoffverarbeiter",237,1519
+"KldB88","de","1610","Papiermacher, allgemein",238,1610
+"KldB88","de","1611","Pappe-, Kartonmacher",239,1611
+"KldB88","de","1612","Zellstoffmacher",240,1612
+"KldB88","de","1613","Papierrohstoffaufbereiter",241,1613
+"KldB88","de","1614","Papierbreizubereiter",242,1614
+"KldB88","de","1615","Schöpfer, Papierblattmacher",243,1615
+"KldB88","de","1616","Papierausrüster",244,1616
+"KldB88","de","1617","Papier- und Zellstoffherstellerhelfer",245,1617
+"KldB88","de","1619","andere Papier-, Zellstoffhersteller",246,1619
+"KldB88","de","1620","Verpackungsmittelhersteller, o.n.A.",247,1620
+"KldB88","de","1621","Verpackungsmittelmechaniker",248,1621
+"KldB88","de","1622","Kartonagenmaschinenführer",249,1622
+"KldB88","de","1623","sonstige Verpackungsmittelmaschinenführer",250,1623
+"KldB88","de","1624","Feinkartonagen-, Etuimacher (nicht Leder)",251,1624
+"KldB88","de","1627","Verpackungsmittelherstellerhelfer",252,1627
+"KldB88","de","1629","andere Verpackungsmittelhersteller",253,1629
+"KldB88","de","1630","Buchbinder, allgemein",254,1630
+"KldB88","de","1631","Buchblockmacher",255,1631
+"KldB88","de","1632","Buchfertigmacher",256,1632
+"KldB88","de","1637","Buchbinderhelfer",257,1637
+"KldB88","de","1639","andere Buchbinder",258,1639
+"KldB88","de","1640","Papierverarbeiter, o.n.A.",259,1640
+"KldB88","de","1641","Papierwarenhersteller",260,1641
+"KldB88","de","1642","Papierschneidemaschinenführer",261,1642
+"KldB88","de","1643","Papierbeschichtungsmaschinenführer",262,1643
+"KldB88","de","1644","Stahlstichpräger",263,1644
+"KldB88","de","1645","Papierpräger, -presser",264,1645
+"KldB88","de","1647","Papierverarbeiterhelfer",265,1647
+"KldB88","de","1649","andere Papierverarbeiter",266,1649
+"KldB88","de","1710","Schriftsetzer, allgemein",267,1710
+"KldB88","de","1711","Handsetzer",268,1711
+"KldB88","de","1712","Maschinensetzer",269,1712
+"KldB88","de","1713","Perforatortaster",270,1713
+"KldB88","de","1714","Stempelsetzer",271,1714
+"KldB88","de","1715","Korrektoren",272,1715
+"KldB88","de","1719","andere Schriftsetzer",273,1719
+"KldB88","de","1720","Druckstockhersteller, o.n.A.",274,1720
+"KldB88","de","1721","Druckvorlagenhersteller",275,1721
+"KldB88","de","1722","Druckformhersteller",276,1722
+"KldB88","de","1723","Stereotypeure",277,1723
+"KldB88","de","1724","Galvanoplastiker",278,1724
+"KldB88","de","1725","Chemigraphen",279,1725
+"KldB88","de","1726","Flexographen, Stempelmacher",280,1726
+"KldB88","de","1729","andere Druckstockhersteller",281,1729
+"KldB88","de","1730","Buchdrucker, Drucker, o.n.A.",282,1730
+"KldB88","de","1731","Hochdrucker",283,1731
+"KldB88","de","1732","Zeitungs-, Rotationsdrucker",284,1732
+"KldB88","de","1739","andere Hochdrucker",285,1739
+"KldB88","de","1740","Drucker, o.n.A. (Flach-, Tiefdruck)",286,1740
+"KldB88","de","1741","Flach-, Steindrucker",287,1741
+"KldB88","de","1742","Tiefdrucker",288,1742
+"KldB88","de","1743","Keramikdrucker",289,1743
+"KldB88","de","1749","andere Flach-, Tiefdrucker",290,1749
+"KldB88","de","1750","Drucker, o.n.A. (Spezial-, Siebdruck)",291,1750
+"KldB88","de","1751","Textilveredler-Druckerei",292,1751
+"KldB88","de","1753","Tapetendrucker",293,1753
+"KldB88","de","1754","Siebdrucker",294,1754
+"KldB88","de","1759","andere Spezialdrucker",295,1759
+"KldB88","de","1760","Vervielfältiger, o.n.A.",296,1760
+"KldB88","de","1761","Reprographen",297,1761
+"KldB88","de","1763","Adremadrucker, Schablonierer",298,1763
+"KldB88","de","1764","Kleinoffsetvervielfältiger",299,1764
+"KldB88","de","1769","andere Vervielfältiger",300,1769
+"KldB88","de","1771","Druckfachwerker",301,1771
+"KldB88","de","1777","Druckerhelfer",302,1777
+"KldB88","de","1810","Holzbearbeitungsmechaniker, allgemein",303,1810
+"KldB88","de","1811","Sägewerker",304,1811
+"KldB88","de","1812","Holzsäger",305,1812
+"KldB88","de","1813","Holzschleifer",306,1813
+"KldB88","de","1814","Holzfräser",307,1814
+"KldB88","de","1815","Holzhobler",308,1815
+"KldB88","de","1817","Holzaufbereiterhelfer",309,1817
+"KldB88","de","1818","Furnierhersteller",310,1818
+"KldB88","de","1819","andere Holzaufbereiter",311,1819
+"KldB88","de","1821","Drechsler",312,1821
+"KldB88","de","1822","Holzbildhauer",313,1822
+"KldB88","de","1823","Schnitzer",314,1823
+"KldB88","de","1824","Graveure (nicht Metall)",315,1824
+"KldB88","de","1825","Knopfmacher",316,1825
+"KldB88","de","1827","Holzverformerhelfer",317,1827
+"KldB88","de","1829","andere Holzverformer und zugehörige Berufe",318,1829
+"KldB88","de","1830","Holzwarenmacher, o.n.A.",319,1830
+"KldB88","de","1831","Bürsten- und Pinselmacher",320,1831
+"KldB88","de","1832","Borstpinselmacher",321,1832
+"KldB88","de","1833","Schirmmacher",322,1833
+"KldB88","de","1834","Holzspielwarenmacher",323,1834
+"KldB88","de","1835","Korkmacher",324,1835
+"KldB88","de","1837","Holzwarenmacherhelfer",325,1837
+"KldB88","de","1839","andere Holzwarenmacher",326,1839
+"KldB88","de","1841","Korbmacher",327,1841
+"KldB88","de","1842","Stroh- und Rohrflechter",328,1842
+"KldB88","de","1847","Korb-, Flechtwarenmacherhelfer",329,1847
+"KldB88","de","1910","Hüttenfacharbeiter (Hochofen, Stahlwerk)",330,1910
+"KldB88","de","1911","Hochofenbeschicker, -steuerer (Roheisen)",331,1911
+"KldB88","de","1912","Schmelzofenbeschicker, -steuerer (Stahl)",332,1912
+"KldB88","de","1913","Gießer (nicht Formgießer)",333,1913
+"KldB88","de","1914","Erzaufbereiter",334,1914
+"KldB88","de","1917","Eisen-, Metallerzeugerhelfer",335,1917
+"KldB88","de","1919","andere Eisen-, Metallerzeuger",336,1919
+"KldB88","de","1920","Hüttenfacharbeiter (Walzwerk)",337,1920
+"KldB88","de","1921","Warmwalzenführer",338,1921
+"KldB88","de","1922","Kaltwalzenführer",339,1922
+"KldB88","de","1923","Drahtwalzer",340,1923
+"KldB88","de","1927","Walzerhelfer",341,1927
+"KldB88","de","1929","andere Walzer",342,1929
+"KldB88","de","1930","Metallzieher, o.n.A.",343,1930
+"KldB88","de","1931","Drahtzieher",344,1931
+"KldB88","de","1932","Stangenzieher, Rohrzieher",345,1932
+"KldB88","de","1937","Metallzieherhelfer",346,1937
+"KldB88","de","1939","andere Metallzieher",347,1939
+"KldB88","de","2010","Former, allgemein",348,2010
+"KldB88","de","2011","Handformer",349,2011
+"KldB88","de","2012","Maschinenformer",350,2012
+"KldB88","de","2013","Kernmacher",351,2013
+"KldB88","de","2017","Former-, Kernmacherhelfer",352,2017
+"KldB88","de","2019","andere Former",353,2019
+"KldB88","de","2020","Formgießer, allgemein",354,2020
+"KldB88","de","2021","Metallformer, -gießer",355,2021
+"KldB88","de","2022","Zinngießer",356,2022
+"KldB88","de","2023","Glockengießer",357,2023
+"KldB88","de","2024","Schriftgießer",358,2024
+"KldB88","de","2025","Eisen-, Stahlformgießer",359,2025
+"KldB88","de","2027","Formgießerhelfer",360,2027
+"KldB88","de","2029","andere Formgießer",361,2029
+"KldB88","de","2031","Halbzeugputzer",362,2031
+"KldB88","de","2032","Gießereiwerker",363,2032
+"KldB88","de","2037","Gießereihilfsarbeiter",364,2037
+"KldB88","de","2111","Blechpresser",365,2111
+"KldB88","de","2112","Blechzieher",366,2112
+"KldB88","de","2113","Blechstanzer",367,2113
+"KldB88","de","2114","Blechlocher",368,2114
+"KldB88","de","2117","Blechpresser-, -zieher-, -stanzerhelfer",369,2117
+"KldB88","de","2119","andere Blechpresser, -zieher, -stanzer",370,2119
+"KldB88","de","2120","Drahtverformer, -verarbeiter, o.n.A.",371,2120
+"KldB88","de","2121","Drahtseilmacher",372,2121
+"KldB88","de","2122","Metallgewebemacher",373,2122
+"KldB88","de","2123","Drahtwarenmacher",374,2123
+"KldB88","de","2124","Nadelmacher",375,2124
+"KldB88","de","2125","Kabelwerker",376,2125
+"KldB88","de","2126","Federmacher",377,2126
+"KldB88","de","2127","Drahtverarbeiterhelfer",378,2127
+"KldB88","de","2128","Spulenwickler",379,2128
+"KldB88","de","2129","andere Drahtverformer, -verarbeiter",380,2129
+"KldB88","de","2131","Metalldrücker",381,2131
+"KldB88","de","2132","Metallpräger u.a.-kaltverformer",382,2132
+"KldB88","de","2133","Metallbieger",383,2133
+"KldB88","de","2134","Metallschneider",384,2134
+"KldB88","de","2135","Metallsinterer",385,2135
+"KldB88","de","2137","Metallverformerhelfer",386,2137
+"KldB88","de","2139","andere Metallverformer (spanlose Verformung)",387,2139
+"KldB88","de","2210","Dreher, allgemein",388,2210
+"KldB88","de","2211","Dreher (Eisen und Metall)",389,2211
+"KldB88","de","2212","Revolverdreher",390,2212
+"KldB88","de","2213","Walzendreher",391,2213
+"KldB88","de","2214","Leitspindeldrehbankdreher",392,2214
+"KldB88","de","2215","Karusselldreher",393,2215
+"KldB88","de","2217","Dreherhelfer",394,2217
+"KldB88","de","2219","andere Dreher",395,2219
+"KldB88","de","2220","Fräser, allgemein",396,2220
+"KldB88","de","2221","Universalfräser",397,2221
+"KldB88","de","2222","Werkzeugfräser",398,2222
+"KldB88","de","2223","Zahnradfräser",399,2223
+"KldB88","de","2227","Fräserhelfer",400,2227
+"KldB88","de","2229","andere Fräser",401,2229
+"KldB88","de","2230","Hobler, allgemein",402,2230
+"KldB88","de","2231","Universalhobler",403,2231
+"KldB88","de","2232","Langhobler",404,2232
+"KldB88","de","2237","Hoblerhelfer",405,2237
+"KldB88","de","2239","andere Hobler",406,2239
+"KldB88","de","2240","Bohrer, allgemein",407,2240
+"KldB88","de","2241","Bohrwerkdreher",408,2241
+"KldB88","de","2242","Radialbohrer",409,2242
+"KldB88","de","2247","Bohrerhelfer",410,2247
+"KldB88","de","2249","andere Bohrer",411,2249
+"KldB88","de","2250","Metallschleifer, allgemein",412,2250
+"KldB88","de","2251","Universalschleifer",413,2251
+"KldB88","de","2252","Schleifer, o.n.A.",414,2252
+"KldB88","de","2253","Flächenschleifer",415,2253
+"KldB88","de","2254","Rundschleifer",416,2254
+"KldB88","de","2255","Feinschleifer",417,2255
+"KldB88","de","2256","Metallscharfschleifer",418,2256
+"KldB88","de","2257","Metallschleiferhelfer",419,2257
+"KldB88","de","2258","Werkzeugschleifer",420,2258
+"KldB88","de","2259","andere Metallschleifer",421,2259
+"KldB88","de","2261","Metallsäger",422,2261
+"KldB88","de","2262","Feiler",423,2262
+"KldB88","de","2263","Entgrater",424,2263
+"KldB88","de","2269","andere spanende Berufe",425,2269
+"KldB88","de","2310","Metallpolierer, o.n.A.",426,2310
+"KldB88","de","2311","Vorpolierer",427,2311
+"KldB88","de","2312","Feinpolierer",428,2312
+"KldB88","de","2317","Metallpoliererhelfer",429,2317
+"KldB88","de","2319","andere Metallpolierer",430,2319
+"KldB88","de","2320","Graveure, allgemein",431,2320
+"KldB88","de","2321","Flachgraveure",432,2321
+"KldB88","de","2323","Ziseleure",433,2323
+"KldB88","de","2324","Guillocheure",434,2324
+"KldB88","de","2327","Graveur-, Ziseleurhelfer",435,2327
+"KldB88","de","2329","andere Graveure",436,2329
+"KldB88","de","2330","Metallvergüter, allgemein",437,2330
+"KldB88","de","2331","Universalhärter",438,2331
+"KldB88","de","2332","sonstige Härter",439,2332
+"KldB88","de","2333","Anlasser",440,2333
+"KldB88","de","2337","Metallvergüterhelfer",441,2337
+"KldB88","de","2339","andere Metallvergüter",442,2339
+"KldB88","de","2340","Galvaniseure, o.n.A.",443,2340
+"KldB88","de","2341","Galvaniseure und Metallschleifer",444,2341
+"KldB88","de","2342","Metallfärber",445,2342
+"KldB88","de","2343","Metallbeizer",446,2343
+"KldB88","de","2347","Galvaniseur-, Metallfärberhelfer",447,2347
+"KldB88","de","2349","andere Galvaniseure",448,2349
+"KldB88","de","2350","Metalloberflächenveredler, o.n.A.",449,2350
+"KldB88","de","2351","Emaillierer",450,2351
+"KldB88","de","2352","Metallschmelztaucher",451,2352
+"KldB88","de","2353","Metallspritzer",452,2353
+"KldB88","de","2354","Metallplattierer",453,2354
+"KldB88","de","2355","Emailschriftenmaler",454,2355
+"KldB88","de","2357","Metalloberflächenveredlerhelfer",455,2357
+"KldB88","de","2359","andere Metalloberflächenveredler",456,2359
+"KldB88","de","2410","Schweißer, allgemein",457,2410
+"KldB88","de","2411","Preßschweißer",458,2411
+"KldB88","de","2412","Schmelzschweißer",459,2412
+"KldB88","de","2413","Gasschweißer",460,2413
+"KldB88","de","2414","Elektroschweißer",461,2414
+"KldB88","de","2415","Brennschneider",462,2415
+"KldB88","de","2417","Schweißer-, Brennschneiderhelfer",463,2417
+"KldB88","de","2419","andere Schweißer",464,2419
+"KldB88","de","2420","Löter, o.n.A.",465,2420
+"KldB88","de","2421","Hartlöter",466,2421
+"KldB88","de","2422","Weichlöter",467,2422
+"KldB88","de","2423","Bleilöter",468,2423
+"KldB88","de","2427","Löterhelfer",469,2427
+"KldB88","de","2429","andere Löter",470,2429
+"KldB88","de","2430","Nieter, allgemein",471,2430
+"KldB88","de","2431","Kleinnieter",472,2431
+"KldB88","de","2437","Nieterhelfer",473,2437
+"KldB88","de","2439","andere Nieter",474,2439
+"KldB88","de","2440","Metallverbinder, o.n.A.",475,2440
+"KldB88","de","2441","Metallkleber",476,2441
+"KldB88","de","2449","andere Metallverbinder",477,2449
+"KldB88","de","2510","Stahlschmiede, allgemein",478,2510
+"KldB88","de","2511","Hammerschmiede",479,2511
+"KldB88","de","2512","Kunstschmiede",480,2512
+"KldB88","de","2513","Huf-, Wagenschmiede",481,2513
+"KldB88","de","2514","Gesenkschmiede",482,2514
+"KldB88","de","2515","Federmacher",483,2515
+"KldB88","de","2516","Messerschmiede",484,2516
+"KldB88","de","2517","Schmiedehelfer",485,2517
+"KldB88","de","2518","Schmiedepresser (Warmpresser)",486,2518
+"KldB88","de","2519","andere Stahlschmiede",487,2519
+"KldB88","de","2520","Behälterbauer und Kupferschmiede, o.n.A.",488,2520
+"KldB88","de","2521","Kessel-, Behälterbauer",489,2521
+"KldB88","de","2522","Kupferschmiede",490,2522
+"KldB88","de","2523","Schalenschmiede, Kupferhammerschmiede",491,2523
+"KldB88","de","2527","Behälterbauer-, Kupferschmiedehelfer",492,2527
+"KldB88","de","2529","andere Behälterbauer, Kupferschmiede und verwandte Berufe",493,2529
+"KldB88","de","2610","Feinblechner (Klempner)",494,2610
+"KldB88","de","2611","Bauklempner",495,2611
+"KldB88","de","2612","Geräte-, Maschinenklempner",496,2612
+"KldB88","de","2613","Blechkarosseriebauer",497,2613
+"KldB88","de","2614","Metallflugzeugbauer (Zellen- und Flügelbau)",498,2614
+"KldB88","de","2615","Lüftungsfeinblechner",499,2615
+"KldB88","de","2616","Kühlerklempner",500,2616
+"KldB88","de","2617","Feinblechnerhelfer",501,2617
+"KldB88","de","2618","Blitzableiterbauer (Klempner)",502,2618
+"KldB88","de","2619","andere Feinblechner",503,2619
+"KldB88","de","2620","Rohrinstallateure, allgemein",504,2620
+"KldB88","de","2621","Gas-, Wasserinstallateure",505,2621
+"KldB88","de","2622","Zentralheizungs-, Lüftungsinstallateure",506,2622
+"KldB88","de","2623","Kühlanlageninstallateure",507,2623
+"KldB88","de","2624","Installateure und Klempner",508,2624
+"KldB88","de","2627","Rohrinstallateurhelfer",509,2627
+"KldB88","de","2629","andere Rohrinstallateure",510,2629
+"KldB88","de","2630","Rohrnetzbauer und -schlosser, o.n.A.",511,2630
+"KldB88","de","2631","Rohrnetzbauer",512,2631
+"KldB88","de","2632","Rohrleitungsbauer",513,2632
+"KldB88","de","2633","Hochdruckrohrschlosser",514,2633
+"KldB88","de","2637","Rohrnetzbauer-, Rohrschlosserhelfer",515,2637
+"KldB88","de","2700","Schlosser, o.n.A.",516,2700
+"KldB88","de","2707","Schlosserhelfer, o.n.A.",517,2707
+"KldB88","de","2710","Bauschlosser, allgemein",518,2710
+"KldB88","de","2711","Kunstschlosser",519,2711
+"KldB88","de","2712","Aufzugschlosser",520,2712
+"KldB88","de","2714","Modellschlosser",521,2714
+"KldB88","de","2715","Rolladen-, Jalousieschlosser (Metall)",522,2715
+"KldB88","de","2716","Blitzableiterbauer (Schlosser)",523,2716
+"KldB88","de","2717","Bauschlosserhelfer",524,2717
+"KldB88","de","2719","andere Bauschlosser",525,2719
+"KldB88","de","2721","Blechschlosser",526,2721
+"KldB88","de","2722","Kunststoffschlosser",527,2722
+"KldB88","de","2723","Stahlmöbelschlosser",528,2723
+"KldB88","de","2724","Kesselschlosser",529,2724
+"KldB88","de","2725","Rolladen-, Jalousieschlosser (Kunststoff)",530,2725
+"KldB88","de","2727","Blech-, Kunststoffschlosserhelfer",531,2727
+"KldB88","de","2729","andere Blech-, Kunststoffschlosser",532,2729
+"KldB88","de","2730","Maschinenschlosser, allgemein",533,2730
+"KldB88","de","2731","Motorenschlosser",534,2731
+"KldB88","de","2732","Getriebeschlosser",535,2732
+"KldB88","de","2733","Turbinenschlosser",536,2733
+"KldB88","de","2734","Apparateschlosser",537,2734
+"KldB88","de","2735","Maschinenbaumechaniker",538,2735
+"KldB88","de","2736","Lokomotivschlosser",539,2736
+"KldB88","de","2737","Maschinenschlosserhelfer",540,2737
+"KldB88","de","2738","Kraftfahrzeugschlosser (nicht Instandsetzung)",541,2738
+"KldB88","de","2739","andere Maschinenschlosser",542,2739
+"KldB88","de","2740","Betriebs-, Reparaturschlosser, allgemein",543,2740
+"KldB88","de","2741","Bahnbetriebsschlosser",544,2741
+"KldB88","de","2742","Grubenschlosser",545,2742
+"KldB88","de","2743","Schiffsbetriebsschlosser",546,2743
+"KldB88","de","2747","Betriebs-, Reparaturschlosserhelfer",547,2747
+"KldB88","de","2750","Stahlbauschlosser und Eisenschiffbauer, o.n.A.",548,2750
+"KldB88","de","2751","Stahlbauschlosser",549,2751
+"KldB88","de","2752","Eisenschiffbauer",550,2752
+"KldB88","de","2753","Kranbauschlosser",551,2753
+"KldB88","de","2757","Stahlbauschlosserhelfer, Werftarbeiter",552,2757
+"KldB88","de","2759","andere Stahlbau-, Eisenschiffbauer",553,2759
+"KldB88","de","2810","Kraftfahrzeuginstandsetzer (nicht Maschinenschlosser)",554,2810
+"KldB88","de","2817","Kraftfahrzeuginstandsetzerhelfer",555,2817
+"KldB88","de","2820","Landmaschinenmechaniker, allgemein",556,2820
+"KldB88","de","2827","Landmaschinenmechanikerhelfer",557,2827
+"KldB88","de","2830","Flugzeugmechaniker, allgemein",558,2830
+"KldB88","de","2833","Flugtriebwerkmechaniker",559,2833
+"KldB88","de","2837","Flugzeugmechanikerhelfer",560,2837
+"KldB88","de","2839","andere Flugzeugmechaniker",561,2839
+"KldB88","de","2840","Feinmechaniker, allgemein",562,2840
+"KldB88","de","2841","Optikgerätemechaniker",563,2841
+"KldB88","de","2842","Orthopädiemechaniker",564,2842
+"KldB88","de","2843","Chirugiemechaniker",565,2843
+"KldB88","de","2844","Meßgeräte-, Zählerbauer",566,2844
+"KldB88","de","2845","Büchsen-, Systemmacher",567,2845
+"KldB88","de","2847","Feinmechanikerhelfer",568,2847
+"KldB88","de","2849","andere Feinmechaniker",569,2849
+"KldB88","de","2850","Mechaniker, allgemein",570,2850
+"KldB88","de","2851","Nähmaschinenmechaniker",571,2851
+"KldB88","de","2852","Büromaschinenmechaniker",572,2852
+"KldB88","de","2853","Zweiradmechaniker",573,2853
+"KldB88","de","2854","Kältemechaniker",574,2854
+"KldB88","de","2855","Automatenmechaniker",575,2855
+"KldB88","de","2856","Geräte-, Maschinenzusammensetzer",576,2856
+"KldB88","de","2857","Mechanikerhelfer",577,2857
+"KldB88","de","2858","Teilezurichter",578,2858
+"KldB88","de","2859","andere Mechaniker",579,2859
+"KldB88","de","2860","Uhrmacher, allgemein",580,2860
+"KldB88","de","2861","Spezialuhrenmacher",581,2861
+"KldB88","de","2862","Remonteure, Uhrenprüfer",582,2862
+"KldB88","de","2863","Uhrteilemacher, -setzer",583,2863
+"KldB88","de","2864","Uhrenreparateure",584,2864
+"KldB88","de","2867","Uhrmacherhelfer",585,2867
+"KldB88","de","2869","andere Uhrmacher",586,2869
+"KldB88","de","2910","Werkzeugmacher, allgemein",587,2910
+"KldB88","de","2911","Schnitt-, Stanz-, Ziehwerkzeugmacher",588,2911
+"KldB88","de","2912","Stahlformenbauer",589,2912
+"KldB88","de","2913","Matrizen-, Schablonenbauer",590,2913
+"KldB88","de","2914","Stahlgraveure",591,2914
+"KldB88","de","2915","Prägewalzengraveure",592,2915
+"KldB88","de","2916","Meßwerkzeugbauer",593,2916
+"KldB88","de","2917","Werkzeugmacherhelfer",594,2917
+"KldB88","de","2919","andere Werkzeugmacher",595,2919
+"KldB88","de","3010","Metallfeinbauer, o.n.A.",596,3010
+"KldB88","de","3011","Gürtler",597,3011
+"KldB88","de","3012","Metallfeinwerkzeugbauer",598,3012
+"KldB88","de","3013","Scherenmonteure",599,3013
+"KldB88","de","3014","Besteckmacher",600,3014
+"KldB88","de","3015","Uhrbestandteilmacher",601,3015
+"KldB88","de","3016","Brillengestellmacher (Metall)",602,3016
+"KldB88","de","3017","Metallfeinbauerhelfer",603,3017
+"KldB88","de","3018","Finierer",604,3018
+"KldB88","de","3019","andere Metallfeinbauer",605,3019
+"KldB88","de","3020","Edelmetallschmiede, o.n.A.",606,3020
+"KldB88","de","3021","Goldschmiede",607,3021
+"KldB88","de","3022","Juwelengoldschmiede",608,3022
+"KldB88","de","3023","Silberschmiede",609,3023
+"KldB88","de","3024","Schmucksteinfasser",610,3024
+"KldB88","de","3025","Gold-, Silber- und Aluminiumschläger",611,3025
+"KldB88","de","3031","Zahntechniker",612,3031
+"KldB88","de","3037","Zahntechnikerhelfer",613,3037
+"KldB88","de","3041","Augenoptiker",614,3041
+"KldB88","de","3050","Musikinstrumentenbauer, allgemein",615,3050
+"KldB88","de","3051","Klavier- und Cembalobauer",616,3051
+"KldB88","de","3052","Orgel- und Harmoniumbauer",617,3052
+"KldB88","de","3053","Metallblasintrumenten- und Schlagzeugmacher",618,3053
+"KldB88","de","3054","Geigenbauer",619,3054
+"KldB88","de","3055","Zupfinstrumentenmacher",620,3055
+"KldB88","de","3056","Holzblasinstrumentenmacher",621,3056
+"KldB88","de","3057","Musikinstrumentenbauerhelfer",622,3057
+"KldB88","de","3058","Handzuginstrumentenmacher",623,3058
+"KldB88","de","3059","andere Musikinstrumentenbauer",624,3059
+"KldB88","de","3061","Puppen-, Spieltiermacher",625,3061
+"KldB88","de","3062","Werbefigurenmacher",626,3062
+"KldB88","de","3063","Biologiemodellmacher",627,3063
+"KldB88","de","3065","Präparatoren",628,3065
+"KldB88","de","3067","Puppenmacher-, Modellbauer-, Präparatorenhelfer",629,3067
+"KldB88","de","3068","Kunstgewerbler, a.n.g.",630,3068
+"KldB88","de","3069","andere Modellbauer",631,3069
+"KldB88","de","3110","Elektroinstallateure, -monteure, allgemein",632,3110
+"KldB88","de","3111","Industrieelektroniker - Fachrichtung Produktionstechnik",633,3111
+"KldB88","de","3112","Elektroanlageninstallateure",634,3112
+"KldB88","de","3113","Energieanlagenelektroniker",635,3113
+"KldB88","de","3114","Kraftfahrzeugelektriker",636,3114
+"KldB88","de","3115","Betriebselektriker",637,3115
+"KldB88","de","3116","Prüffeld- und Schaltanlagenmonteure",638,3116
+"KldB88","de","3117","Elektrikerhelfer",639,3117
+"KldB88","de","3118","Kabel- und Leitungsmonteure",640,3118
+"KldB88","de","3119","andere Elektroinstallateure, -monteure",641,3119
+"KldB88","de","3120","Fernmeldemonteure, -handwerker, allgemein",642,3120
+"KldB88","de","3121","Fernmeldehandwerker (Post)",643,3121
+"KldB88","de","3122","Fernmeldeinstallateure (Industrie)",644,3122
+"KldB88","de","3123","Fernmeldeelektroniker (Industrie)",645,3123
+"KldB88","de","3124","Fernmeldemechaniker (Handwerk)",646,3124
+"KldB88","de","3127","Fernmeldemonteurhelfer",647,3127
+"KldB88","de","3130","Elektromaschinen- und Transformatorenbauer, allgemein",648,3130
+"KldB88","de","3131","Elektromaschinenbauer",649,3131
+"KldB88","de","3132","Elektromaschinenmonteure",650,3132
+"KldB88","de","3133","Elektromaschinenwickler",651,3133
+"KldB88","de","3137","Elektromaschinenbauerhelfer",652,3137
+"KldB88","de","3140","Elektrogerätebauer, Elektroniker, allgemein",653,3140
+"KldB88","de","3141","Elektromechaniker",654,3141
+"KldB88","de","3142","Elektrogerätemechaniker",655,3142
+"KldB88","de","3143","Energiegeräteelektroniker",656,3143
+"KldB88","de","3144","Nachrichtengerätemechaniker",657,3144
+"KldB88","de","3145","Feingeräteelektroniker",658,3145
+"KldB88","de","3146","Informationselektroniker",659,3146
+"KldB88","de","3147","Elektrogerätebauerhelfer",660,3147
+"KldB88","de","3148","Elektrogeräteprüfer",661,3148
+"KldB88","de","3149","andere Elektrogerätebauer",662,3149
+"KldB88","de","3151","Radio-, Fernsehmechaniker",663,3151
+"KldB88","de","3152","Phonogerätemechaniker",664,3152
+"KldB88","de","3153","Funkmechaniker, -elektroniker",665,3153
+"KldB88","de","3154","Antennenbauer",666,3154
+"KldB88","de","3155","Hörgeräteakustiker",667,3155
+"KldB88","de","3157","Funk-, Tongerätemechanikerhelfer",668,3157
+"KldB88","de","3159","andere Funk-, Tongerätemechaniker",669,3159
+"KldB88","de","3217","Elektrogeräte-, Elektroteilemontiererhelfer",670,3217
+"KldB88","de","3220","sonstige Montierer, o.n.A.",671,3220
+"KldB88","de","3227","sonstige Montiererhelfer",672,3227
+"KldB88","de","3229","andere sonstige Montierer",673,3229
+"KldB88","de","3230","Metallarbeiter, o.n.A.",674,3230
+"KldB88","de","3237","Metallhilfsarbeiter, o.n.A.",675,3237
+"KldB88","de","3310","Spinner, o.n.A.",676,3310
+"KldB88","de","3311","Spinnfaservorbereiter",677,3311
+"KldB88","de","3312","Kämmer, Strecker",678,3312
+"KldB88","de","3313","Vorspinner",679,3313
+"KldB88","de","3314","Feinspinner",680,3314
+"KldB88","de","3315","Textilmaschinenführer (Spinner)",681,3315
+"KldB88","de","3316","Textilmechaniker (Spinner)",682,3316
+"KldB88","de","3317","Spinnerhelfer",683,3317
+"KldB88","de","3319","andere Spinnberufe",684,3319
+"KldB88","de","3320","Seiler, allgemein",685,3320
+"KldB88","de","3321","Garnspuler",686,3321
+"KldB88","de","3322","Garnstrangmacher",687,3322
+"KldB88","de","3323","Zwirner",688,3323
+"KldB88","de","3327","Spuler-, Zwirner-, Seilerhelfer",689,3327
+"KldB88","de","3329","andere Seilerberufe",690,3329
+"KldB88","de","3410","Webvorbereiter, o.n.A.",691,3410
+"KldB88","de","3411","Zettler, Schärer",692,3411
+"KldB88","de","3412","Geschirrmacher, Harnischmacher, Einzieher",693,3412
+"KldB88","de","3413","Anknüpfer, Andreher",694,3413
+"KldB88","de","3414","Musterprogrammierer",695,3414
+"KldB88","de","3417","Webvorbereiterhelfer",696,3417
+"KldB88","de","3419","andere Webvorbereiter",697,3419
+"KldB88","de","3420","Weber, allgemein",698,3420
+"KldB88","de","3421","Textilmaschinenführer (Weber)",699,3421
+"KldB88","de","3422","Textilmechaniker-Bandweberei",700,3422
+"KldB88","de","3423","Textilmechaniker-Weberei",701,3423
+"KldB88","de","3424","Textilstopfer",702,3424
+"KldB88","de","3425","Webgutnacharbeiter, Repassierer",703,3425
+"KldB88","de","3427","Weberhelfer",704,3427
+"KldB88","de","3428","Handweber, Teppichknüpfer",705,3428
+"KldB88","de","3429","andere Weber",706,3429
+"KldB88","de","3431","Tuftingwarenhersteller",707,3431
+"KldB88","de","3432","Tuftingwarennacharbeiter",708,3432
+"KldB88","de","3433","Textilmechaniker - Tufting",709,3433
+"KldB88","de","3437","Tuftingwarenmacherhelfer",710,3437
+"KldB88","de","3440","Maschenwarenfertiger, Stricker, allgemein",711,3440
+"KldB88","de","3441","Textilmaschinenführer (Maschenwarenfertiger)",712,3441
+"KldB88","de","3442","Textilmechaniker-Strickerei und Wirkerei",713,3442
+"KldB88","de","3443","Textilmechaniker-Strumpf- und Feinstrumpfrundstrickerei",714,3443
+"KldB88","de","3444","Textilmechaniker (Ketten- und Raschelwirkerei)",715,3444
+"KldB88","de","3445","Gummistrumpfstricker",716,3445
+"KldB88","de","3446","Maschenwarennacharbeiter, Repassierer",717,3446
+"KldB88","de","3447","Maschenwarenfertigerhelfer",718,3447
+"KldB88","de","3448","Handstricker",719,3448
+"KldB88","de","3449","andere Maschenwarenfertiger",720,3449
+"KldB88","de","3451","Filzmacher",721,3451
+"KldB88","de","3452","Hutstumpenmacher",722,3452
+"KldB88","de","3453","Textilmaschinenführer - Vliesstoff",723,3453
+"KldB88","de","3454","Textilmechaniker - Vliesstoff",724,3454
+"KldB88","de","3457","Filz-, Hutstumpenmacherhelfer",725,3457
+"KldB88","de","3460","Textilverflechter, o.n.A.",726,3460
+"KldB88","de","3461","Netzmacher, Takler",727,3461
+"KldB88","de","3462","Schmucktextilienhersteller",728,3462
+"KldB88","de","3463","Litzenflechter",729,3463
+"KldB88","de","3464","Posamentenmacher",730,3464
+"KldB88","de","3465","Klöppler",731,3465
+"KldB88","de","3467","Textilverflechterhelfer",732,3467
+"KldB88","de","3469","andere Textilverflechter",733,3469
+"KldB88","de","3510","Schneider, o.n.A.",734,3510
+"KldB88","de","3511","Bekleidungsschneider",735,3511
+"KldB88","de","3512","Herrenschneider",736,3512
+"KldB88","de","3513","Damenschneider",737,3513
+"KldB88","de","3514","Berufskleidungs-, Uniform-, Theater-, Trachtenschneider",738,3514
+"KldB88","de","3515","Modedirektricen, Modellschneider",739,3515
+"KldB88","de","3516","Änderungsschneider",740,3516
+"KldB88","de","3517","Schneiderhelfer",741,3517
+"KldB88","de","3518","Zuschneider",742,3518
+"KldB88","de","3519","andere Schneider",743,3519
+"KldB88","de","3520","Oberbekleidungsnäher, Bekleidungsfertiger, allgemein",744,3520
+"KldB88","de","3522","Bekleidungsnäher",745,3522
+"KldB88","de","3523","Näher von Mänteln, Kostümen, Anzügen",746,3523
+"KldB88","de","3524","Näher von Kleidern, Röcken, Blusen",747,3524
+"KldB88","de","3525","Berufskleidungsnäher",748,3525
+"KldB88","de","3526","Änderungsnäher",749,3526
+"KldB88","de","3527","Oberbekleidungsnäherhelfer",750,3527
+"KldB88","de","3528","Herausschneider",751,3528
+"KldB88","de","3529","andere Oberbekleidungsnäher",752,3529
+"KldB88","de","3530","Wäscheschneider, -näher, allgemein",753,3530
+"KldB88","de","3531","Wäschezuschneider",754,3531
+"KldB88","de","3532","Wäschenäher",755,3532
+"KldB88","de","3533","Trikotagennäher",756,3533
+"KldB88","de","3534","Oberhemdennäher",757,3534
+"KldB88","de","3535","Miederwarennäher",758,3535
+"KldB88","de","3536","Schürzennäher",759,3536
+"KldB88","de","3537","Wäscheschneider-, -näherhelfer",760,3537
+"KldB88","de","3538","Wäscheausbesserer",761,3538
+"KldB88","de","3539","andere Wäscheschneider, -näher",762,3539
+"KldB88","de","3540","Sticker, allgemein",763,3540
+"KldB88","de","3541","Sticker in der Kleinmaschinenstickerei",764,3541
+"KldB88","de","3542","Maschinenstickerinnen",765,3542
+"KldB88","de","3543","Tapisseristinnen",766,3543
+"KldB88","de","3544","Ausbesserer, Ausschneider",767,3544
+"KldB88","de","3547","Stickerhelfer",768,3547
+"KldB88","de","3549","andere Sticker",769,3549
+"KldB88","de","3550","Hut- und Mützenmacher, allgemein",770,3550
+"KldB88","de","3551","Modistinnen",771,3551
+"KldB88","de","3553","Mützenmacher",772,3553
+"KldB88","de","3554","Mützennäherinnen, -stepperinnen, a.n.g.",773,3554
+"KldB88","de","3556","Hut- und Mützengarniererinnen",774,3556
+"KldB88","de","3557","Hut- und Mützenmacherhelfer",775,3557
+"KldB88","de","3558","Strohhutmacher",776,3558
+"KldB88","de","3559","andere Hut- und Mützenmacher",777,3559
+"KldB88","de","3560","Näher, o.n.A.",778,3560
+"KldB88","de","3561","Krawattennäherinnen",779,3561
+"KldB88","de","3562","Gardinennäher",780,3562
+"KldB88","de","3563","Segelmacher",781,3563
+"KldB88","de","3564","Zeltmacher",782,3564
+"KldB88","de","3565","Schirmnäherinnen",783,3565
+"KldB88","de","3566","Knopf-, Knopflochnäher",784,3566
+"KldB88","de","3568","Strumpfnäher",785,3568
+"KldB88","de","3569","andere Textilnäher, a.n.g.",786,3569
+"KldB88","de","3571","Polsternäher, a.n.g.",787,3571
+"KldB88","de","3573","Textilschmuckmacher und verwandte Berufe",788,3573
+"KldB88","de","3577","Textilverarbeiterhelfer, a.n.g.",789,3577
+"KldB88","de","3579","andere Textilverarbeiter, a.n.g.",790,3579
+"KldB88","de","3610","Textilfärber, allgemein",791,3610
+"KldB88","de","3611","Farbkochmeister, Koloristen",792,3611
+"KldB88","de","3617","Textilfärberhelfer",793,3617
+"KldB88","de","3619","andere Textilfärber",794,3619
+"KldB88","de","3620","Textilausrüster, allgemein",795,3620
+"KldB88","de","3621","Textilveredler-Appretur",796,3621
+"KldB88","de","3622","Textilveredler-Beschichtung",797,3622
+"KldB88","de","3623","Wäscher, Bleicher",798,3623
+"KldB88","de","3624","Plisseebrenner",799,3624
+"KldB88","de","3625","Textilscherer, -brenner, -rauher",800,3625
+"KldB88","de","3626","Textilformer",801,3626
+"KldB88","de","3627","Textilausrüsterhelfer",802,3627
+"KldB88","de","3628","Textilschlichter, -leimer",803,3628
+"KldB88","de","3629","andere Textilausrüster",804,3629
+"KldB88","de","3711","Gerber",805,3711
+"KldB88","de","3712","Lederzurichter",806,3712
+"KldB88","de","3713","Lederfärber",807,3713
+"KldB88","de","3714","Darmsaitenmacher",808,3714
+"KldB88","de","3717","Lederherstellerhelfer",809,3717
+"KldB88","de","3719","andere Lederhersteller",810,3719
+"KldB88","de","3720","Schuhmacher, allgemein",811,3720
+"KldB88","de","3721","Maßschuhmacher",812,3721
+"KldB88","de","3722","Orthopädieschuhmacher",813,3722
+"KldB88","de","3723","Schäftemacher",814,3723
+"KldB88","de","3724","Schuhmodelleure",815,3724
+"KldB88","de","3727","Schuhmacherhelfer",816,3727
+"KldB88","de","3729","andere Schuhmacher",817,3729
+"KldB88","de","3730","Schuhwarenhersteller, Schuhfertiger, allgemein",818,3730
+"KldB88","de","3731","Oberlederzuschneider, Stanzer",819,3731
+"KldB88","de","3732","Bodenlederstanzer",820,3732
+"KldB88","de","3733","Schnittfräser",821,3733
+"KldB88","de","3734","Überholer",822,3734
+"KldB88","de","3735","Schuhstepper, -näher",823,3735
+"KldB88","de","3736","Bugger",824,3736
+"KldB88","de","3737","Schuhfabrikarbeiter",825,3737
+"KldB88","de","3738","Zwicker",826,3738
+"KldB88","de","3739","andere Schuhwarenhersteller",827,3739
+"KldB88","de","3740","Groblederwarenhersteller, allgemein",828,3740
+"KldB88","de","3741","Grobsattler",829,3741
+"KldB88","de","3742","Feinsattler",830,3742
+"KldB88","de","3743","Fahrzeugsattler",831,3743
+"KldB88","de","3744","Bandagisten",832,3744
+"KldB88","de","3747","Sattler-, Bandagistenhelfer",833,3747
+"KldB88","de","3749","andere Groblederwarenhersteller",834,3749
+"KldB88","de","3750","Feinlederwarenhersteller, o.n.A.",835,3750
+"KldB88","de","3751","Feintäschner (Portefeullier)",836,3751
+"KldB88","de","3757","Feinlederwarenherstellerhelfer",837,3757
+"KldB88","de","3759","andere Feinlederwarenhersteller",838,3759
+"KldB88","de","3761","Lederbekleidungshersteller",839,3761
+"KldB88","de","3762","Lederzuschneider, a.n.g.",840,3762
+"KldB88","de","3763","Lederstanzer",841,3763
+"KldB88","de","3764","Lederwarenzurichter",842,3764
+"KldB88","de","3765","Lederstepper, -näher, a.n.g.",843,3765
+"KldB88","de","3766","Lederkleber, -nieter",844,3766
+"KldB88","de","3767","Lederverarbeiterhelfer",845,3767
+"KldB88","de","3768","Lederschärfer",846,3768
+"KldB88","de","3769","andere Lederverarbeiter",847,3769
+"KldB88","de","3770","Handschuhmacher, allgemein",848,3770
+"KldB88","de","3771","Handschuhzuschneider",849,3771
+"KldB88","de","3772","Handschuhstepper, -näher",850,3772
+"KldB88","de","3777","Handschuhmacherhelfer",851,3777
+"KldB88","de","3779","andere Handschuhmacher und verwandte Berufe",852,3779
+"KldB88","de","3780","Fellverarbeiter, o.n.A.",853,3780
+"KldB88","de","3781","Fellschneider",854,3781
+"KldB88","de","3782","Rauchwarenzurichter",855,3782
+"KldB88","de","3783","Rauchwarenfärber",856,3783
+"KldB88","de","3784","Pelznäher",857,3784
+"KldB88","de","3785","Pelzwerker",858,3785
+"KldB88","de","3786","Kürschner",859,3786
+"KldB88","de","3787","Fellverarbeiterhelfer",860,3787
+"KldB88","de","3789","andere Fellverarbeiter",861,3789
+"KldB88","de","3910","Backwarenhersteller, o.n.A.",862,3910
+"KldB88","de","3911","Bäcker",863,3911
+"KldB88","de","3912","Bäcker und Gastwirte",864,3912
+"KldB88","de","3913","Dauerbackwaren-, Feinbäcker",865,3913
+"KldB88","de","3914","Brotbäcker",866,3914
+"KldB88","de","3915","Ofenführer",867,3915
+"KldB88","de","3916","Bäckereimaschinenführer",868,3916
+"KldB88","de","3917","Bäckerhelfer",869,3917
+"KldB88","de","3919","andere Backwarenhersteller",870,3919
+"KldB88","de","3920","Konditoren, allgemein",871,3920
+"KldB88","de","3921","Konditoren und Bäcker",872,3921
+"KldB88","de","3922","Patissiers (Kochkonditoren)",873,3922
+"KldB88","de","3927","Konditorhelfer",874,3927
+"KldB88","de","3929","andere Konditoren",875,3929
+"KldB88","de","4010","Fleischer, allgemein",876,4010
+"KldB88","de","4011","Kopfschlächter",877,4011
+"KldB88","de","4012","Blockgesellen",878,4012
+"KldB88","de","4013","Fleischer und Gastwirte",879,4013
+"KldB88","de","4017","Fleischerhelfer",880,4017
+"KldB88","de","4019","andere Fleischer",881,4019
+"KldB88","de","4020","Fleisch-, Wurstwarenhersteller, o.n.A.",882,4020
+"KldB88","de","4021","Fleischzerleger, Kuttler",883,4021
+"KldB88","de","4022","Fleischkocher, -dämpfer, -brüher, -brater",884,4022
+"KldB88","de","4023","Wurstmacher, -spritzer",885,4023
+"KldB88","de","4024","Fleischpökler, -räucherer, -froster",886,4024
+"KldB88","de","4025","Geflügelschlächter",887,4025
+"KldB88","de","4027","Fleischwarenmacherhelfer",888,4027
+"KldB88","de","4029","andere Fleisch-, Wurstwarenhersteller",889,4029
+"KldB88","de","4030","Fischverarbeiter, -werker, allgemein",890,4030
+"KldB88","de","4031","Fischfiletierer",891,4031
+"KldB88","de","4033","Fischkonservierer, -brater",892,4033
+"KldB88","de","4037","Fischverarbeiterhelfer",893,4037
+"KldB88","de","4039","andere Fischverarbeiter",894,4039
+"KldB88","de","4110","Köche, allgemein",895,4110
+"KldB88","de","4111","Pfannen-, Grill-, Bratenköche",896,4111
+"KldB88","de","4112","Suppen-, Saucen-, Beilagenköche",897,4112
+"KldB88","de","4113","Vor-, Kalt-, Süßspeisenköche",898,4113
+"KldB88","de","4114","Großküchenköche",899,4114
+"KldB88","de","4115","Diätköche",900,4115
+"KldB88","de","4116","Partie-, Beiköche",901,4116
+"KldB88","de","4117","Kochhelfer",902,4117
+"KldB88","de","4118","Schiffsköche",903,4118
+"KldB88","de","4119","andere Köche",904,4119
+"KldB88","de","4120","Fertiggerichte-, Obst- und Gemüsekonservierer, allgemein",905,4120
+"KldB88","de","4121","Konservierungsgutzurichter, -bereiter",906,4121
+"KldB88","de","4122","Konservierungsgutkocher",907,4122
+"KldB88","de","4123","Konservierungsguttrockner, -erhitzer",908,4123
+"KldB88","de","4124","Konservierungsgutfroster",909,4124
+"KldB88","de","4127","Konservierungshelfer",910,4127
+"KldB88","de","4210","Weinküfer, allgemein",911,4210
+"KldB88","de","4211","Weinhandelsküfer",912,4211
+"KldB88","de","4212","Schaumweinküfer",913,4212
+"KldB88","de","4217","Weinküferhelfer",914,4217
+"KldB88","de","4220","Brauer und Mälzer, allgemein",915,4220
+"KldB88","de","4221","Malzdarrer",916,4221
+"KldB88","de","4222","Mälzer",917,4222
+"KldB88","de","4223","Maischer, Sudmeister",918,4223
+"KldB88","de","4224","Gärführer",919,4224
+"KldB88","de","4227","Brauer-, Mälzerhelfer",920,4227
+"KldB88","de","4229","andere Brauer, Mälzer",921,4229
+"KldB88","de","4230","Getränkehersteller, o.n.A.",922,4230
+"KldB88","de","4231","Brenner, Destillateure",923,4231
+"KldB88","de","4232","Süßmoster",924,4232
+"KldB88","de","4233","Limonaden- und Mineralwasserbereiter",925,4233
+"KldB88","de","4234","Kaffeemüller",926,4234
+"KldB88","de","4235","Nahrungs- und Genußmittelkoster",927,4235
+"KldB88","de","4237","Getränkeherstellerhelfer",928,4237
+"KldB88","de","4239","andere Getränkehersteller",929,4239
+"KldB88","de","4240","Tabakwarenmacher, o.n.A.",930,4240
+"KldB88","de","4241","Tabakfermentierer",931,4241
+"KldB88","de","4242","Zigarrenmacher",932,4242
+"KldB88","de","4243","Zigarrenroller",933,4243
+"KldB88","de","4244","Zigarrenwickelmacher",934,4244
+"KldB88","de","4245","Zigarettenmacher",935,4245
+"KldB88","de","4247","Tabakwarenmacherhelfer",936,4247
+"KldB88","de","4249","andere Tabakwarenmacher",937,4249
+"KldB88","de","4311","Molkereifachleute",938,4311
+"KldB88","de","4312","Milchverarbeiter",939,4312
+"KldB88","de","4313","Butterbereiter",940,4313
+"KldB88","de","4314","Käsereifachleute",941,4314
+"KldB88","de","4315","Magarine-, Schmalzhersteller",942,4315
+"KldB88","de","4316","Ölraffinierer",943,4316
+"KldB88","de","4317","Molkereiarbeiter",944,4317
+"KldB88","de","4318","Milch-, Fettverarbeitungsmaschinensteuerer",945,4318
+"KldB88","de","4319","andere Milch-, Fettverarbeiter",946,4319
+"KldB88","de","4320","Müller, o.n.A.",947,4320
+"KldB88","de","4321","Getreidemüller",948,4321
+"KldB88","de","4322","Futtermittelmüller",949,4322
+"KldB88","de","4324","Nährmittelhersteller",950,4324
+"KldB88","de","4327","Mehl-, Nährmittelherstellerhelfer",951,4327
+"KldB88","de","4328","Nährmittelmaschinensteuerer",952,4328
+"KldB88","de","4329","andere Mehl-, Nährmittelhersteller",953,4329
+"KldB88","de","4331","Fachkräfte für Süßwarentechnik",954,4331
+"KldB88","de","4332","Schokoladenmacher",955,4332
+"KldB88","de","4333","Eiskremhersteller",956,4333
+"KldB88","de","4334","Zuckerhersteller",957,4334
+"KldB88","de","4337","Zucker-, Süßwarenherstellerhelfer",958,4337
+"KldB88","de","4338","Zucker-, Süßwarenmaschinensteuerer",959,4338
+"KldB88","de","4339","andere Süßwarenhersteller",960,4339
+"KldB88","de","4410","Maurer, allgemein",961,4410
+"KldB88","de","4411","Fassadenmaurer",962,4411
+"KldB88","de","4413","Feuerungs-, Schornsteinbauer",963,4413
+"KldB88","de","4414","Kanal-, Sielmaurer",964,4414
+"KldB88","de","4415","Verfuger",965,4415
+"KldB88","de","4417","Maurerhelfer",966,4417
+"KldB88","de","4419","andere Maurer",967,4419
+"KldB88","de","4420","Beton-, Stahlbetonbauer, allgemein",968,4420
+"KldB88","de","4421","Einschaler",969,4421
+"KldB88","de","4422","Eisenbieger, -flechter, -verleger",970,4422
+"KldB88","de","4423","Betonierer",971,4423
+"KldB88","de","4424","Betonmontierer",972,4424
+"KldB88","de","4427","Betonbauerhelfer",973,4427
+"KldB88","de","4429","andere Betonbauer",974,4429
+"KldB88","de","4510","Zimmerer, allgemein",975,4510
+"KldB88","de","4511","Bauzimmerer",976,4511
+"KldB88","de","4512","Schiffszimmerer",977,4512
+"KldB88","de","4513","Holzfertigteilbauer, -montierer",978,4513
+"KldB88","de","4517","Zimmererhelfer",979,4517
+"KldB88","de","4519","andere Zimmerer",980,4519
+"KldB88","de","4520","Dachdecker, allgemein",981,4520
+"KldB88","de","4521","Ziegel-, Schieferdecker",982,4521
+"KldB88","de","4522","Pappdachdecker",983,4522
+"KldB88","de","4523","Strohdachdecker",984,4523
+"KldB88","de","4524","Dachdecker und Klempner",985,4524
+"KldB88","de","4527","Dachdeckerhelfer",986,4527
+"KldB88","de","4529","andere Dachdecker",987,4529
+"KldB88","de","4531","Gerüstbauer",988,4531
+"KldB88","de","4537","Gerüstbauerhelfer",989,4537
+"KldB88","de","4539","andere Gerüstbauer",990,4539
+"KldB88","de","4610","Straßenpflasterer, Steinsetzer, o.n.A.",991,4610
+"KldB88","de","4612","Plattenleger (nicht Fliesenleger)",992,4612
+"KldB88","de","4613","Pflasterrammer",993,4613
+"KldB88","de","4617","Pflasterer-, Steinsetzerhelfer",994,4617
+"KldB88","de","4619","andere Pflasterer, Steinsetzer",995,4619
+"KldB88","de","4620","Straßenbauer, allgemein",996,4620
+"KldB88","de","4621","Betonstraßenbauer",997,4621
+"KldB88","de","4622","Schwarzstraßenbauer",998,4622
+"KldB88","de","4623","Straßenunterhaltungsarbeiter",999,4623
+"KldB88","de","4627","Straßenbauerhelfer",1000,4627
+"KldB88","de","4629","andere Straßenbauer",1001,4629
+"KldB88","de","4630","Gleisbauer, allgemein",1002,4630
+"KldB88","de","4637","Gleisbauerhelfer",1003,4637
+"KldB88","de","4639","andere Gleisbauer",1004,4639
+"KldB88","de","4640","Sprengmeister, allgemein",1005,4640
+"KldB88","de","4647","Sprengmeisterhelfer",1006,4647
+"KldB88","de","4649","andere Sprengmeister",1007,4649
+"KldB88","de","4650","Kultur-, Wasserbauwerker, o.n.A.",1008,4650
+"KldB88","de","4651","Kulturbauwerker",1009,4651
+"KldB88","de","4652","Wasserbauwerker",1010,4652
+"KldB88","de","4653","Deichbauer",1011,4653
+"KldB88","de","4657","Kultur-, Wasserbauhelfer",1012,4657
+"KldB88","de","4659","andere Kultur-, Wasserbauwerker",1013,4659
+"KldB88","de","4660","Sonstige Tiefbauer, o.n.A.",1014,4660
+"KldB88","de","4661","Mineure, Schachtbauer",1015,4661
+"KldB88","de","4662","Brunnenbauer",1016,4662
+"KldB88","de","4663","Kanal-, Kanalisationsbauer",1017,4663
+"KldB88","de","4664","Rammer",1018,4664
+"KldB88","de","4667","Tiefbauerhelfer",1019,4667
+"KldB88","de","4669","andere Tiefbauer",1020,4669
+"KldB88","de","4711","Friedhofsarbeiter (nicht Gartenarbeiter)",1021,4711
+"KldB88","de","4717","Erdbewegungsarbeiter",1022,4717
+"KldB88","de","4721","Werker, o.n.A",1023,4721
+"KldB88","de","4722","Bauwerker",1024,4722
+"KldB88","de","4727","Bauhilfsarbeiter, Bauhelfer, a.n.g.",1025,4727
+"KldB88","de","4810","Stuckateure, Gipser, allgemein",1026,4810
+"KldB88","de","4811","Gipsplattenverleger",1027,4811
+"KldB88","de","4813","Verputzer",1028,4813
+"KldB88","de","4817","Stuckateur-, Verputzerhelfer",1029,4817
+"KldB88","de","4819","andere Stuckateure",1030,4819
+"KldB88","de","4820","Isolierer, Isoliermonteure, allgemein",1031,4820
+"KldB88","de","4821","Akustik-, Schallschutz-, Trockenbaumonteure",1032,4821
+"KldB88","de","4822","Kälte-, Wärmeisolierer",1033,4822
+"KldB88","de","4823","Gebäudeisolierer, Klebeabdichter",1034,4823
+"KldB88","de","4824","Behälterisolierer",1035,4824
+"KldB88","de","4825","Rohrisolierer, Apparate-, Maschinenisolierer",1036,4825
+"KldB88","de","4827","Isoliererhelfer",1037,4827
+"KldB88","de","4829","andere Isolierer, Abdichter",1038,4829
+"KldB88","de","4830","Fliesen-, Platten- und Mosaikleger, allgemein",1039,4830
+"KldB88","de","4831","Fliesen-, Plattenleger",1040,4831
+"KldB88","de","4832","Mosaikleger",1041,4832
+"KldB88","de","4837","Fliesenlegerhelfer",1042,4837
+"KldB88","de","4840","Ofensetzer, Kachelofen- und Luftheizungsbauer, allgemein",1043,4840
+"KldB88","de","4841","Kachelofensetzer",1044,4841
+"KldB88","de","4842","Luftheizungsbauer",1045,4842
+"KldB88","de","4847","Ofensetzerhelfer",1046,4847
+"KldB88","de","4850","Glaser, allgemein",1047,4850
+"KldB88","de","4851","Bauglaser",1048,4851
+"KldB88","de","4852","Kunstglaser",1049,4852
+"KldB88","de","4854","Glasdachmonteure",1050,4854
+"KldB88","de","4855","Fahrzeugglaser",1051,4855
+"KldB88","de","4857","Glaserhelfer",1052,4857
+"KldB88","de","4859","andere Glaser",1053,4859
+"KldB88","de","4860","Estrich-, Terrazzoleger, o.n.A.",1054,4860
+"KldB88","de","4861","Estrichleger (Stein)",1055,4861
+"KldB88","de","4862","Terrazzoleger",1056,4862
+"KldB88","de","4863","Treppenbauer (Stein)",1057,4863
+"KldB88","de","4867","Estrich-, Terrazzolegerhelfer",1058,4867
+"KldB88","de","4869","andere Estrich-, Terrazzoleger",1059,4869
+"KldB88","de","4910","Raumaustatter, allgemein",1060,4910
+"KldB88","de","4911","Dekorateure",1061,4911
+"KldB88","de","4912","Fußbodenbelagsverleger",1062,4912
+"KldB88","de","4913","Parkettleger",1063,4913
+"KldB88","de","4914","Tapetenkleber",1064,4914
+"KldB88","de","4917","Raumausstatterhelfer",1065,4917
+"KldB88","de","4919","andere Raumausstatter",1066,4919
+"KldB88","de","4920","Polsterer, allgemein",1067,4920
+"KldB88","de","4921","Möbelpolsterer",1068,4921
+"KldB88","de","4922","Fahrzeugpolsterer",1069,4922
+"KldB88","de","4923","Matratzenhersteller",1070,4923
+"KldB88","de","4924","Polster- und Dekorationsnäher",1071,4924
+"KldB88","de","4927","Polstererhelfer",1072,4927
+"KldB88","de","4929","andere Polsterer",1073,4929
+"KldB88","de","5010","Tischler, Holzmechaniker, allgemein",1074,5010
+"KldB88","de","5011","Bau- und Möbeltischler",1075,5011
+"KldB88","de","5012","Bautischler",1076,5012
+"KldB88","de","5013","Möbeltischler",1077,5013
+"KldB88","de","5014","Stuhl-, Polstergestellbauer",1078,5014
+"KldB88","de","5017","Tischlerhelfer",1079,5017
+"KldB88","de","5019","andere Tischler",1080,5019
+"KldB88","de","5020","Modell- und Formentischler, o.n.A.",1081,5020
+"KldB88","de","5021","Modelltischler, -bauer",1082,5021
+"KldB88","de","5022","Formentischler",1083,5022
+"KldB88","de","5027","Modell-, Formentischlerhelfer",1084,5027
+"KldB88","de","5029","andere Modell-, Formentischler",1085,5029
+"KldB88","de","5031","Fahrzeugstellmacher, Wagner",1086,5031
+"KldB88","de","5033","Böttcher",1087,5033
+"KldB88","de","5037","Stellmacher-, Böttcherhelfer",1088,5037
+"KldB88","de","5039","andere Stellmacherberufe",1089,5039
+"KldB88","de","5041","Bootsbauer",1090,5041
+"KldB88","de","5042","Schiffbauer (nicht Eisenschiff)",1091,5042
+"KldB88","de","5044","Holz-, Segelflugzeugbauer",1092,5044
+"KldB88","de","5045","Sportgerätebauer",1093,5045
+"KldB88","de","5046","Rolladen- und Jalousiebauer",1094,5046
+"KldB88","de","5047","Holz-, Sportgerätebauerhelfer",1095,5047
+"KldB88","de","5049","andere Holz-, Sportgerätebauer",1096,5049
+"KldB88","de","5110","Maler und Lackierer (Ausbau)",1097,5110
+"KldB88","de","5112","Lackierer (Ausbau)",1098,5112
+"KldB88","de","5113","Anstreicher",1099,5113
+"KldB88","de","5114","Maler und Tapetenkleber",1100,5114
+"KldB88","de","5115","Entroster",1101,5115
+"KldB88","de","5116","Fachberater für Farben, Lacke und Kunststoffe",1102,5116
+"KldB88","de","5117","Maler-, Lackiererhelfer",1103,5117
+"KldB88","de","5119","andere Maler (Ausbau)",1104,5119
+"KldB88","de","5120","Warenlackierer (Holz und Metall)",1105,5120
+"KldB88","de","5122","Warenspritzlackierer",1106,5122
+"KldB88","de","5123","Warentauchlackierer",1107,5123
+"KldB88","de","5125","Auto-, Fahrzeuglackierer",1108,5125
+"KldB88","de","5127","Warenmaler-, -lackiererhelfer",1109,5127
+"KldB88","de","5128","Spielwarenlackierer",1110,5128
+"KldB88","de","5129","andere Warenmaler, -lackierer",1111,5129
+"KldB88","de","5130","Holzoberflächenveredler, o.n.A.",1112,5130
+"KldB88","de","5131","Beizer, Polierer",1113,5131
+"KldB88","de","5132","Furnierer",1114,5132
+"KldB88","de","5133","Vergolder (Holz)",1115,5133
+"KldB88","de","5137","Beizer-, Polierer-, Furniererhelfer",1116,5137
+"KldB88","de","5139","andere Holzoberflächenveredler",1117,5139
+"KldB88","de","5140","Keram-, Glas- und Porzellanmaler, allgemein",1118,5140
+"KldB88","de","5141","Kerammaler",1119,5141
+"KldB88","de","5142","Porzellanmaler",1120,5142
+"KldB88","de","5143","Glasmaler",1121,5143
+"KldB88","de","5144","Keram-, Glasbedrucker",1122,5144
+"KldB88","de","5145","Keramgravierer, -ätzer",1123,5145
+"KldB88","de","5146","Keram-, Glasspritzmaler",1124,5146
+"KldB88","de","5147","Keram-, Glasmalerhelfer",1125,5147
+"KldB88","de","5149","andere Keram-, Glasmaler",1126,5149
+"KldB88","de","5211","Warenprüfer, a.n.g.",1127,5211
+"KldB88","de","5212","Güteprüfer",1128,5212
+"KldB88","de","5213","Warensortierer",1129,5213
+"KldB88","de","5220","Warenaufmacher, Versandfertigmacher, o.n.A.",1130,5220
+"KldB88","de","5221","Handelsfachpacker",1131,5221
+"KldB88","de","5222","Lagerfachhelfer",1132,5222
+"KldB88","de","5224","Warenpacker, -abfüller",1133,5224
+"KldB88","de","5225","Warenabwieger, -abzähler",1134,5225
+"KldB88","de","5226","Warenkennzeichner",1135,5226
+"KldB88","de","5229","andere Warenaufmacher, Versandfertigmacher",1136,5229
+"KldB88","de","5317","Hilfsarbeiter ohne nähere Tätigkeitsangabe",1137,5317
+"KldB88","de","5410","Energiemaschinisten, o.n.A.",1138,5410
+"KldB88","de","5411","Dampfkraftwerk-, Dampfmaschinenmaschinisten",1139,5411
+"KldB88","de","5412","Wasserkraftwerkmaschinisten",1140,5412
+"KldB88","de","5413","Elektromaschinisten",1141,5413
+"KldB88","de","5419","andere Energiemaschinisten",1142,5419
+"KldB88","de","5421","Fördermaschinisten",1143,5421
+"KldB88","de","5422","Seilbahnmaschinisten",1144,5422
+"KldB88","de","5430","Maschinisten, o.n.A.",1145,5430
+"KldB88","de","5431","Pumpenmaschinisten",1146,5431
+"KldB88","de","5432","Kompressormaschinisten",1147,5432
+"KldB88","de","5433","Klima-, Lüftungsanlagenmaschinisten",1148,5433
+"KldB88","de","5435","Bühnen (Theater)",1149,5435
+"KldB88","de","5436","Fließbandmaschinisten",1150,5436
+"KldB88","de","5438","Bohrmaschinisten",1151,5438
+"KldB88","de","5439","andere Maschinisten",1152,5439
+"KldB88","de","5440","Kranführer, o.n.A.",1153,5440
+"KldB88","de","5441","Portalkranführer",1154,5441
+"KldB88","de","5442","Brückenkranführer",1155,5442
+"KldB88","de","5443","Schwimmkranmaschinisten",1156,5443
+"KldB88","de","5444","Drehkranführer (nicht Theater)",1157,5444
+"KldB88","de","5445","Baukranführer, a.n.g.",1158,5445
+"KldB88","de","5449","andere Kranführer",1159,5449
+"KldB88","de","5451","Planierraupenführer",1160,5451
+"KldB88","de","5452","Baggerführer",1161,5452
+"KldB88","de","5460","Baumaschinenführer, o.n.A.",1162,5460
+"KldB88","de","5461","Straßenbaumaschinen-, Straßenwalzenführer",1163,5461
+"KldB88","de","5462","Rammaschinenführer",1164,5462
+"KldB88","de","5463","Preßluftmeißelführer",1165,5463
+"KldB88","de","5464","Betoniermaschinenführer",1166,5464
+"KldB88","de","5465","Bauaufzugführer",1167,5465
+"KldB88","de","5470","Maschinenwarte, o.n.A.",1168,5470
+"KldB88","de","5471","Kraftmaschinenwärter",1169,5471
+"KldB88","de","5472","Pumpenwärter",1170,5472
+"KldB88","de","5473","Lüftungs-, Klimaanlagen-, Wasserwärter",1171,5473
+"KldB88","de","5474","Schiffsmaschinenwärter",1172,5474
+"KldB88","de","5475","Schaltanlagenwärter",1173,5475
+"KldB88","de","5476","Bandaufseher",1174,5476
+"KldB88","de","5477","Maschinistenhelfer",1175,5477
+"KldB88","de","5478","Kesselwärter",1176,5478
+"KldB88","de","5479","andere Maschinenwärter",1177,5479
+"KldB88","de","5481","Heizer, Heizanlagenwärter",1178,5481
+"KldB88","de","5487","Heizerhelfer",1179,5487
+"KldB88","de","5490","Maschineneinrichter, o.n.A.",1180,5490
+"KldB88","de","5491","Automateneinrichter",1181,5491
+"KldB88","de","5499","andere Maschineneinrichter",1182,5499
+"KldB88","de","6010","Maschinenbau",1183,6010
+"KldB88","de","6011","Konstruktions-, Schweißfachingenieure",1184,6011
+"KldB88","de","6012","Produktions-, Fertigungsingenieure",1185,6012
+"KldB88","de","6013","Ingenieure für Fahrzeugbautechnik",1186,6013
+"KldB88","de","6014","Ingenieure für Schiffbautechnik",1187,6014
+"KldB88","de","6015","Ingenieure für Luft- und Raumfahrttechnik",1188,6015
+"KldB88","de","6016","Ingenieure Feinwerktechnik",1189,6016
+"KldB88","de","6018","Ingenieure für Versorgungstechnik",1190,6018
+"KldB88","de","6019","andere Ingenieure des Maschinen- und Fahrzeugbaues",1191,6019
+"KldB88","de","6020","Elektroingenieure, allgemein",1192,6020
+"KldB88","de","6021","Ingenieure für Energietechnik",1193,6021
+"KldB88","de","6022","Ingenieure für Nachrichten- und Fernmeldetechnik",1194,6022
+"KldB88","de","6023","Elektronikingenieure, o.n.A.",1195,6023
+"KldB88","de","6024","Elektronikingenieure für digitale Informationstechnik",1196,6024
+"KldB88","de","6025","Ing. Hochfrequenztechnik (drahtlose Nachrichtentechnik)",1197,6025
+"KldB88","de","6028","Ingenieure f. Konstruktions-, Fertigungs-, Montagetechnik,",1198,6028
+"KldB88","de","6029","andere Elektroingenieure",1199,6029
+"KldB88","de","6030","Bauingenieure, allgemein",1200,6030
+"KldB88","de","6031","Architekten",1201,6031
+"KldB88","de","6032","Stadt- und Regionalplaner, Denkmalspfleger",1202,6032
+"KldB88","de","6033","Bauingenieure für konstruktiven Ingenieurbau",1203,6033
+"KldB88","de","6034","Hochbauingenieure",1204,6034
+"KldB88","de","6035","Wasser- und Kulturbauingenieure",1205,6035
+"KldB88","de","6036","Ingenieure für Straßenbau und Verkehrswesen",1206,6036
+"KldB88","de","6038","Statiker",1207,6038
+"KldB88","de","6039","Andere Bauingenieure",1208,6039
+"KldB88","de","6040","Vermessungsingenieure, allgemein",1209,6040
+"KldB88","de","6041","Vermessungsingenieure (öffentlicher Dienst, verw. Beruf)",1210,6041
+"KldB88","de","6042","Bergbauvermessungsingenieure",1211,6042
+"KldB88","de","6043","Land-, Seevermessungsingenieure",1212,6043
+"KldB88","de","6049","andere Vermessungsingenieure",1213,6049
+"KldB88","de","6050","Bergbauingenieure, o.n.A.",1214,6050
+"KldB88","de","6051","Ingenieure der Bergverwaltung, Bergbausicherheitsingenieure",1215,6051
+"KldB88","de","6052","Tiefbohr-, Erdölingenieure",1216,6052
+"KldB88","de","6053","Hütten-, Kokereiingenieure",1217,6053
+"KldB88","de","6054","Gießerei-, Walzwerksingenieure",1218,6054
+"KldB88","de","6055","Ingenieure für Metallveredlung und Werkstoffkunde",1219,6055
+"KldB88","de","6058","Wirtschafts- und Betriebsingenieure, a.n.g.",1220,6058
+"KldB88","de","6059","andere Bergbau-, Hütten-, Gießereiingenieure",1221,6059
+"KldB88","de","6060","Produktions-, Fertigungsingenieure, o.n.A.",1222,6060
+"KldB88","de","6061","Nahrungsmittelingenieure",1223,6061
+"KldB88","de","6062","Brauerei-, Brennereiingenieure",1224,6062
+"KldB88","de","6063","Textil-, Bekleidungsingenieure",1225,6063
+"KldB88","de","6064","Holz-, Papieringenieure",1226,6064
+"KldB88","de","6065","Ingenieure für Steine und Erden, Glas, Keramik",1227,6065
+"KldB88","de","6066","Ingenieure für Farben, Lacke, Kunststoffe",1228,6066
+"KldB88","de","6068","Ingenieure für Druckereitechnik",1229,6068
+"KldB88","de","6069","andere Fertigungsingenieure",1230,6069
+"KldB88","de","6070","Ingenieure, o.n.A.",1231,6070
+"KldB88","de","6071","Wirtschaftsingenieure, a.n.g.",1232,6071
+"KldB88","de","6072","REFA-Ingenieure",1233,6072
+"KldB88","de","6073","Technische Betriebsleiter, a.n.g.",1234,6073
+"KldB88","de","6074","Betriebs-, Verkehrsingenieure, a.n.g.",1235,6074
+"KldB88","de","6075","Überprüfungsingenieure, a.n.g., Technische Aufsichtsbeamte",1236,6075
+"KldB88","de","6076","Ing. im technischen Gesundheitswesen, Umweltschutzingenieure",1237,6076
+"KldB88","de","6079","andere Ingenieure",1238,6079
+"KldB88","de","6110","Chemiker, allgemein",1239,6110
+"KldB88","de","6111","Organiker",1240,6111
+"KldB88","de","6112","Anorganiker",1241,6112
+"KldB88","de","6113","Biochemiker",1242,6113
+"KldB88","de","6114","Lebensmittelchemiker",1243,6114
+"KldB88","de","6115","Physikochemiker",1244,6115
+"KldB88","de","6116","Analytiker",1245,6116
+"KldB88","de","6118","Chemieingenieure",1246,6118
+"KldB88","de","6119","andere Chemiker und Chemieingenieure",1247,6119
+"KldB88","de","6121","Physiker",1248,6121
+"KldB88","de","6122","Physikingenieure",1249,6122
+"KldB88","de","6123","Mathematiker",1250,6123
+"KldB88","de","6124","Kybernetiker",1251,6124
+"KldB88","de","6125","Atom-, Kernphysiker",1252,6125
+"KldB88","de","6129","andere Physiker und Physikingenieure",1253,6129
+"KldB88","de","6210","Maschinenbautechniker, allgemein",1254,6210
+"KldB88","de","6211","Konstruktions-, Schweißtechniker",1255,6211
+"KldB88","de","6212","Fertigungs-, Betriebstechniker",1256,6212
+"KldB88","de","6213","Karosserie- und Fahrzeugbautechniker",1257,6213
+"KldB88","de","6214","Flugzeug-, Schiffbautechniker",1258,6214
+"KldB88","de","6215","Blechverarbeitungstechniker",1259,6215
+"KldB88","de","6216","Feinwerktechniker, Meß- und Prüftechniker",1260,6216
+"KldB88","de","6218","Versorgungstechniker",1261,6218
+"KldB88","de","6219","andere Maschinenbautechniker",1262,6219
+"KldB88","de","6220","Elektrotechniker, allgemein",1263,6220
+"KldB88","de","6221","Energietechniker",1264,6221
+"KldB88","de","6222","Nachrichten- und Fernmeldetechniker",1265,6222
+"KldB88","de","6223","Elektroniktechniker",1266,6223
+"KldB88","de","6224","Meß- und Regeltechniker, Prüffeldmeßtechniker",1267,6224
+"KldB88","de","6225","Hochfrequenztechniker, Funktechniker (allgemein)",1268,6225
+"KldB88","de","6226","Radio- und Fernsehtechniker",1269,6226
+"KldB88","de","6228","Konstruktions-, Fertigungs- und Montagetechniker, a.n.g.",1270,6228
+"KldB88","de","6229","andere Techniker des Elektrofaches",1271,6229
+"KldB88","de","6230","Bautechniker, allgemein",1272,6230
+"KldB88","de","6231","Bauführer, Baustellentechniker",1273,6231
+"KldB88","de","6232","Techniker für konstruktiven Ingenieurbau",1274,6232
+"KldB88","de","6233","Hochbautechniker",1275,6233
+"KldB88","de","6234","Kulturbautechniker",1276,6234
+"KldB88","de","6235","Bautechniker in der Wasserwirtschaftsverwaltung",1277,6235
+"KldB88","de","6236","Straßenbautechniker",1278,6236
+"KldB88","de","6239","andere Bautechniker",1279,6239
+"KldB88","de","6240","Vermessungstechniker, allgemein",1280,6240
+"KldB88","de","6241","Vermessungsgehilfen, o.n.A.",1281,6241
+"KldB88","de","6242","Vermessungsassistenten, -sekretäre, o.n.A.",1282,6242
+"KldB88","de","6243","Bergvermessungstechniker",1283,6243
+"KldB88","de","6244","Landvermessungs-, Katastertechniker",1284,6244
+"KldB88","de","6245","Landkartentechniker (nicht Kartographen)",1285,6245
+"KldB88","de","6249","andere Vermessungstechniker",1286,6249
+"KldB88","de","6250","Bergbautechniker, Steiger, o.n.A.",1287,6250
+"KldB88","de","6251","Fahrsteiger, Bergbaubetiebsführer",1288,6251
+"KldB88","de","6252","Bergbaumaschinentechniker, Maschinenfahrsteiger",1289,6252
+"KldB88","de","6253","Bergbauelektrotechniker, Elektrofahrsteiger",1290,6253
+"KldB88","de","6254","Aufbereitungsfahr-, Kokereisteiger",1291,6254
+"KldB88","de","6255","Bergbausicherheitstechniker, Schießfahrsteiger",1292,6255
+"KldB88","de","6256","Bohr-, Erdöltechniker",1293,6256
+"KldB88","de","6258","Hütten-, Gießereitechniker",1294,6258
+"KldB88","de","6259","andere Bergbau-, Hütten-, Gießereitechniker",1295,6259
+"KldB88","de","6260","Chemie-, Physikotechniker, o.n.A.",1296,6260
+"KldB88","de","6261","Chemotechniker",1297,6261
+"KldB88","de","6262","Lack-, Farbentechniker",1298,6262
+"KldB88","de","6263","Galvanotechniker",1299,6263
+"KldB88","de","6264","Physikotechniker",1300,6264
+"KldB88","de","6265","Werkstofftechniker",1301,6265
+"KldB88","de","6266","Atom-, Kerntechniker",1302,6266
+"KldB88","de","6268","Wetterdiensttechniker (mittlerer und gehobener Dienst)",1303,6268
+"KldB88","de","6269","andere Chemie-, Physikotechniker",1304,6269
+"KldB88","de","6270","Produktions-, Fertigungstechniker, o.n.A.",1305,6270
+"KldB88","de","6271","Nahrungsmitteltechniker",1306,6271
+"KldB88","de","6272","Brauerei-, Brennereitechniker",1307,6272
+"KldB88","de","6273","Textil-, Bekleidungs-, Ledertechniker",1308,6273
+"KldB88","de","6274","Holz-, Papiertechniker",1309,6274
+"KldB88","de","6275","Glas-, Keramik-, Steintechniker",1310,6275
+"KldB88","de","6276","Kunststoff-, Kautschuktechniker",1311,6276
+"KldB88","de","6278","Druckereitechniker",1312,6278
+"KldB88","de","6279","andere Fertigungstechniker",1313,6279
+"KldB88","de","6280","Techniker, o.n.A.",1314,6280
+"KldB88","de","6281","Wirtschaftstechniker",1315,6281
+"KldB88","de","6282","REFA-Techniker",1316,6282
+"KldB88","de","6283","Techniker im öffentlichen Dienst, a.n.g.",1317,6283
+"KldB88","de","6284","Betriebstechniker, Technische Betriebsassistenten, a.n.g.",1318,6284
+"KldB88","de","6285","Werkführer, o.n.A.",1319,6285
+"KldB88","de","6288","Gesundheits-, Umweltschutz-, Sicherheitstechniker",1320,6288
+"KldB88","de","6289","andere Techniker",1321,6289
+"KldB88","de","6290","Industrie-, Werkmeister, o.n.A.",1322,6290
+"KldB88","de","6291","Ausbildungsmeister, -leiter",1323,6291
+"KldB88","de","6292","Industrie-, Werkmeister (Rohstofferzeugung)",1324,6292
+"KldB88","de","6293","Industrie-, Werkmeister (Chemie, Keramik, Glas, Nahrungsm.i)",1325,6293
+"KldB88","de","6294","Industrie-, Werkmeister (Metall, Fahrzeuge)",1326,6294
+"KldB88","de","6295","Industrie-, Werkmeister Elekt./Feinmech./Instrumente/Schmuck",1327,6295
+"KldB88","de","6296","Industrie-, Werkmeister (Holz, Papier, Bekleidung)",1328,6296
+"KldB88","de","6298","Industrie-, Werkmeister (Baugewerbe)",1329,6298
+"KldB88","de","6299","andere Industrie-, Werkmeister",1330,6299
+"KldB88","de","6310","Biologisch-technische Sonderfachkräfte, allgemein",1331,6310
+"KldB88","de","6311","Biologielaboranten",1332,6311
+"KldB88","de","6312","Landwirtschaftlich-technische Sonderfachkräfte",1333,6312
+"KldB88","de","6313","Biologisch-techn. Sonderfachkräfte-Botanik, Agrikulturchemie",1334,6313
+"KldB88","de","6314","Biologisch-tech. Sonderfachkräfte-d. Zoologie (nicht milchw.",1335,6314
+"KldB88","de","6315","Milchwirtschaftliche Laboranten",1336,6315
+"KldB88","de","6316","sonstige milchwirtschaftlich-technische Sonderfachkräfte",1337,6316
+"KldB88","de","6319","andere biologisch-technische Sonderfachkräfte",1338,6319
+"KldB88","de","6321","Physiklaboranten",1339,6321
+"KldB88","de","6322","Mathematisch-technische Assistenten",1340,6322
+"KldB88","de","6323","Werkstoffprüfer (Physik)",1341,6323
+"KldB88","de","6324","Meß- und Regelmechaniker",1342,6324
+"KldB88","de","6325","Justierer (Glasmeßgeräte)",1343,6325
+"KldB88","de","6326","Elektroassistenten",1344,6326
+"KldB88","de","6328","Geologielaboranten",1345,6328
+"KldB88","de","6329","Andere physikalisch-, mathematisch-techn. Sonderfachkräfte",1346,6329
+"KldB88","de","6330","Chemielaboranten, allgemein",1347,6330
+"KldB88","de","6331","Stoffprüfer (Chemie)",1348,6331
+"KldB88","de","6332","Lacklaboranten",1349,6332
+"KldB88","de","6333","Metallprüfer (Chemie)",1350,6333
+"KldB88","de","6334","Textillaboranten",1351,6334
+"KldB88","de","6335","Baustoffprüfer",1352,6335
+"KldB88","de","6336","Apothekenlaboranten",1353,6336
+"KldB88","de","6339","andere Chemielaboranten",1354,6339
+"KldB88","de","6340","Photolaboranten, allgemein",1355,6340
+"KldB88","de","6341","Filmkopienfertiger",1356,6341
+"KldB88","de","6349","andere Photolaboranten",1357,6349
+"KldB88","de","6350","Technische Zeichner, allgemein",1358,6350
+"KldB88","de","6351","Konstruktionszeichner",1359,6351
+"KldB88","de","6352","Bauzeichner",1360,6352
+"KldB88","de","6353","Teilzeichner",1361,6353
+"KldB88","de","6354","Kartographen (nicht Wissenschaftler)",1362,6354
+"KldB88","de","6355","Flurbereinigungstechniker",1363,6355
+"KldB88","de","6356","Vermessungszeichner",1364,6356
+"KldB88","de","6358","Zeichner in der Wasserwirtschaftsverwaltung",1365,6358
+"KldB88","de","6359","andere technische Zeichner",1366,6359
+"KldB88","de","6810","Handelskaufleute, allgemein",1367,6810
+"KldB88","de","6811","Kaufleute im Groß- und Außenhandel",1368,6811
+"KldB88","de","6812","Einzelhandelskaufleute",1369,6812
+"KldB88","de","6813","Einkäufer",1370,6813
+"KldB88","de","6814","Verkaufsleiter",1371,6814
+"KldB88","de","6815","Filialleiter (Verkaufsstellenleiter)",1372,6815
+"KldB88","de","6816","Verkaufssachbearbeiter, Verkaufstrainer",1373,6816
+"KldB88","de","6818","Fachkaufleute im Radiohandel",1374,6818
+"KldB88","de","6819","andere Groß- und Einzelhandelskaufleute",1375,6819
+"KldB88","de","6820","Verkäufer, allgemein",1376,6820
+"KldB88","de","6821","Verkäuferinnen im Lebens-/Nahrungsmittelhandwerk",1377,6821
+"KldB88","de","6822","Textilverkäufer",1378,6822
+"KldB88","de","6823","Hausrat- und Möbelverkäufer",1379,6823
+"KldB88","de","6824","Verkaufsaufsichten, Verkaufsberater",1380,6824
+"KldB88","de","6825","Verkaufsfahrer",1381,6825
+"KldB88","de","6826","Büfett-, Kiosk-, Kantinenverkäufer",1382,6826
+"KldB88","de","6827","Verkaufshilfen",1383,6827
+"KldB88","de","6828","Gewerbegehilfinnen im Färber- und Chemischreinigerhandwerk",1384,6828
+"KldB88","de","6829","andere Verkäufer",1385,6829
+"KldB88","de","6830","Verleger, Verlagskaufleute, allgemein",1386,6830
+"KldB88","de","6831","Zeitungs- und Zeitschriftenverleger",1387,6831
+"KldB88","de","6832","Kaufleute im Zeitungs- und Zeitschriftenverlag",1388,6832
+"KldB88","de","6833","Buchverleger, -verlagskaufleute",1389,6833
+"KldB88","de","6834","Buchhändler",1390,6834
+"KldB88","de","6835","Musikverleger, -verlagskaufleute",1391,6835
+"KldB88","de","6836","Musikalienhändler",1392,6836
+"KldB88","de","6838","Kunst- und Bilderverleger, -verlagskaufleute",1393,6838
+"KldB88","de","6839","andere Verleger, Verlagskaufleute",1394,6839
+"KldB88","de","6841","Drogisten",1395,6841
+"KldB88","de","6851","Apothekenhelferinnen",1396,6851
+"KldB88","de","6861","Tankwarte",1397,6861
+"KldB88","de","6871","Handelsvertreter",1398,6871
+"KldB88","de","6872","Reisende, Vertreter",1399,6872
+"KldB88","de","6873","Vertriebspropagandisten",1400,6873
+"KldB88","de","6874","Pharmaberater",1401,6874
+"KldB88","de","6881","Ambulante Händler",1402,6881
+"KldB88","de","6910","Bankfachleute, allgemein",1403,6910
+"KldB88","de","6911","Devisenfachleute",1404,6911
+"KldB88","de","6912","Kreditfachleute",1405,6912
+"KldB88","de","6913","Geldanlageberater",1406,6913
+"KldB88","de","6914","Gelddisponenten, Börsenvertreter",1407,6914
+"KldB88","de","6915","Bankrevisoren, -prüfer",1408,6915
+"KldB88","de","6916","sonstige Banksachbearbeiter",1409,6916
+"KldB88","de","6918","Sparkassenfachleute",1410,6918
+"KldB88","de","6919","andere Bankfachleute",1411,6919
+"KldB88","de","6920","Bausparkassenfachleute, allgemein",1412,6920
+"KldB88","de","6921","Bausparkassenvertragswerber",1413,6921
+"KldB88","de","6922","Bausparkassensachbearbeiter",1414,6922
+"KldB88","de","6925","Bausparkassenrevisoren, -prüfer",1415,6925
+"KldB88","de","6930","Krankenversicherungsfachleute, allgemein",1416,6930
+"KldB88","de","6931","Krankenkassenvertragswerber",1417,6931
+"KldB88","de","6932","Krankenversicherungssachbearbeiter",1418,6932
+"KldB88","de","6935","Krankenversicherungsrevisoren, -prüfer",1419,6935
+"KldB88","de","6940","Lebens-, Sachversicherungsfachleute, allgemein",1420,6940
+"KldB88","de","6941","Versicherungswerber",1421,6941
+"KldB88","de","6942","Versicherungssachbearbeiter",1422,6942
+"KldB88","de","6945","Versicherungsrevisoren, -prüfer",1423,6945
+"KldB88","de","6949","andere Lebens-, Sachversicherungsfachleute",1424,6949
+"KldB88","de","7010","Spediteure, Speditionskaufleute, allgemein",1425,7010
+"KldB88","de","7011","Lagereikaufleute",1426,7011
+"KldB88","de","7012","Reeder",1427,7012
+"KldB88","de","7013","Schiffahrtskaufleute",1428,7013
+"KldB88","de","7014","Seegüterkontrolleure",1429,7014
+"KldB88","de","7016","Luftverkehrskaufleute",1430,7016
+"KldB88","de","7019","andere Speditionskaufleute",1431,7019
+"KldB88","de","7020","Fremdenverkehrsfachleute, allgemein",1432,7020
+"KldB88","de","7021","Kurverwaltungs-, Verkehrsamtsfachleute",1433,7021
+"KldB88","de","7022","Reiseverkehrskaufleute",1434,7022
+"KldB88","de","7025","Reiseleiter, Fremdenführer",1435,7025
+"KldB88","de","7026","Bodenstewardessen, Verkehrslotsen",1436,7026
+"KldB88","de","7029","andere Fremdenverkehrsfachleute",1437,7029
+"KldB88","de","7030","Werbefachleute, allgemein",1438,7030
+"KldB88","de","7031","Werbekaufleute",1439,7031
+"KldB88","de","7032","Kontakter, Verkaufsförderer",1440,7032
+"KldB88","de","7033","Public-Relations-Fachleute",1441,7033
+"KldB88","de","7034","Media-Fachleute",1442,7034
+"KldB88","de","7035","Kreativ-Fachleute",1443,7035
+"KldB88","de","7036","Texter",1444,7036
+"KldB88","de","7038","Designer, Layouter",1445,7038
+"KldB88","de","7039","andere Werbefachleute",1446,7039
+"KldB88","de","7040","Makler, o.n.A.",1447,7040
+"KldB88","de","7041","Finanzmakler",1448,7041
+"KldB88","de","7042","Börsenmakler",1449,7042
+"KldB88","de","7043","Schiffsmakler",1450,7043
+"KldB88","de","7044","Warenmakler",1451,7044
+"KldB88","de","7045","Immobilienmakler, -verwalter (selbständig)",1452,7045
+"KldB88","de","7048","Versicherungsmakler",1453,7048
+"KldB88","de","7049","andere Makler",1454,7049
+"KldB88","de","7051","Vermieter, Verleiher",1455,7051
+"KldB88","de","7052","Vermittler (nicht Arbeitsvermittler der BA)",1456,7052
+"KldB88","de","7053","Künstlervermittler, u.ä. (privat, nicht BA)",1457,7053
+"KldB88","de","7054","Wett- und Lotterieannehmer",1458,7054
+"KldB88","de","7055","Schausteller",1459,7055
+"KldB88","de","7056","Croupiers",1460,7056
+"KldB88","de","7058","Versteigerer, Taxatoren",1461,7058
+"KldB88","de","7059","andere Vermieter, Vermittler, Versteigerer",1462,7059
+"KldB88","de","7061","Geldeinnehmer, -auszahler",1463,7061
+"KldB88","de","7063","Kartenverkäufer",1464,7063
+"KldB88","de","7064","Kartenkontrolleure",1465,7064
+"KldB88","de","7065","Zählerableser",1466,7065
+"KldB88","de","7110","Schienenfahrzeugführer, o.n.A.",1467,7110
+"KldB88","de","7111","Lokomotivführer, -heizer",1468,7111
+"KldB88","de","7112","Schienenfahrzeugführer im Stadtverkehr",1469,7112
+"KldB88","de","7119","andere Schienenfahrzeugführer",1470,7119
+"KldB88","de","7121","Eisenbahnbetriebsregler",1471,7121
+"KldB88","de","7122","Zugführer, -schaffner, -abfertiger",1472,7122
+"KldB88","de","7123","Kaufleute im Eisenbahn- und Straßenverkehr",1473,7123
+"KldB88","de","7127","Eisenbahnbetriebsreglerhelfer",1474,7127
+"KldB88","de","7130","Fahrbetriebsregler, o.n.A. (nicht Eisenbahn)",1475,7130
+"KldB88","de","7131","Seilbahnbetriebsregler",1476,7131
+"KldB88","de","7132","Fuhrparkleiter",1477,7132
+"KldB88","de","7133","Ladebetriebsleiter",1478,7133
+"KldB88","de","7134","Schaffner (nicht Eisenbahn)",1479,7134
+"KldB88","de","7139","andere Fahrbetriebsregler",1480,7139
+"KldB88","de","7140","Kraftfahrzeugführer, o.n.A.",1481,7140
+"KldB88","de","7141","Fuhrunternehmer",1482,7141
+"KldB88","de","7142","Berufskraftfahrer (Personenverkehr)",1483,7142
+"KldB88","de","7143","Omnibusführer",1484,7143
+"KldB88","de","7144","Berufskraftfahrer (Güterverkehr)",1485,7144
+"KldB88","de","7145","Zugmaschinen-, Sonderfahrzeugführer",1486,7145
+"KldB88","de","7146","Beifahrer (Kraftfahrer)",1487,7146
+"KldB88","de","7149","andere Kraftfahrzeugführer",1488,7149
+"KldB88","de","7151","Kutscher",1489,7151
+"KldB88","de","7161","Straßenwärter",1490,7161
+"KldB88","de","7162","Brückenwärter",1491,7162
+"KldB88","de","7169","andere Straßenwarte",1492,7169
+"KldB88","de","7210","Nautiker, o.n.A.",1493,7210
+"KldB88","de","7211","nautische Schiffsoffiziere auf Großer Fahrt",1494,7211
+"KldB88","de","7212","Nautische/r Schiffsoffizier/in - Auf Mittlerer Fahrt",1495,7212
+"KldB88","de","7213","Nautische/r Schiffsoffizier/in - Auf Kleiner Fahrt",1496,7213
+"KldB88","de","7214","nautische Schiffsoffiziere in der Großen Hochseefischerei",1497,7214
+"KldB88","de","7215","nautische Schiffsoffiziere in der Kleinen Hochseefischerei",1498,7215
+"KldB88","de","7216","Seeschiffer",1499,7216
+"KldB88","de","7218","Lotsen",1500,7218
+"KldB88","de","7219","andere Nautiker",1501,7219
+"KldB88","de","7221","Schiffsingenieure",1502,7221
+"KldB88","de","7222","maschinentechnische Offiziersassistenten",1503,7222
+"KldB88","de","7223","Schiffsbetriebstechniker",1504,7223
+"KldB88","de","7224","Schiffsbetriebsmeister",1505,7224
+"KldB88","de","7225","Schiffsmaschinisten",1506,7225
+"KldB88","de","7229","andere technische Schiffsoffiziere, Schiffsmaschinisten",1507,7229
+"KldB88","de","7230","Seeleute, o.n.A.",1508,7230
+"KldB88","de","7231","Bootsleute",1509,7231
+"KldB88","de","7232","Matrosen",1510,7232
+"KldB88","de","7233","Junggrade",1511,7233
+"KldB88","de","7237","Deckshelfer",1512,7237
+"KldB88","de","7240","Binnenschiffer, o.n.A.",1513,7240
+"KldB88","de","7241","Hafenschiffer",1514,7241
+"KldB88","de","7242","Ewer- und ähnliche Schiffer",1515,7242
+"KldB88","de","7243","Schiffskapitäne, -steuerleute (Binnenschiffer)",1516,7243
+"KldB88","de","7244","Bootsführer",1517,7244
+"KldB88","de","7245","Matrosen (Binnenschiffer)",1518,7245
+"KldB88","de","7249","andere Binnenschiffer",1519,7249
+"KldB88","de","7251","Fährleute",1520,7251
+"KldB88","de","7252","Wasserstraßenverkehrswarte",1521,7252
+"KldB88","de","7253","Hafenaufseher, Schleusenwärter",1522,7253
+"KldB88","de","7254","Küstenwächter",1523,7254
+"KldB88","de","7257","Wasserverkehrshelfer",1524,7257
+"KldB88","de","7259","andere Wasserverkehrsberufe",1525,7259
+"KldB88","de","7261","Flugzeugführer, Co-Piloten",1526,7261
+"KldB88","de","7262","Flugingenieure, Flugdiensttechniker (Bord)",1527,7262
+"KldB88","de","7263","Flugzeugwartungsingenieure, -techniker (stationär)",1528,7263
+"KldB88","de","7264","Flugbetriebsleiter, -lotsen",1529,7264
+"KldB88","de","7265","Flugdienstregler",1530,7265
+"KldB88","de","7269","andere Luftverkehrsberufe",1531,7269
+"KldB88","de","7311","Posthalter",1532,7311
+"KldB88","de","7321","Postfachkräfte",1533,7321
+"KldB88","de","7327","Posthelfer",1534,7327
+"KldB88","de","7330","Funker, allgemein",1535,7330
+"KldB88","de","7331","Schiffsfunker",1536,7331
+"KldB88","de","7332","Bordfunker (Luftfahrt)",1537,7332
+"KldB88","de","7333","Telegraphisten",1538,7333
+"KldB88","de","7341","Telefonisten",1539,7341
+"KldB88","de","7410","Lagerverwalter, Magaziner, o.n.A.",1540,7410
+"KldB88","de","7411","Siloverwalter, Kühlhausverwalter",1541,7411
+"KldB88","de","7412","Zahnlagerverwalter",1542,7412
+"KldB88","de","7413","Bauhofverwalter",1543,7413
+"KldB88","de","7414","Theaterfundusverwalter",1544,7414
+"KldB88","de","7415","Werkzeuglagerverwalter",1545,7415
+"KldB88","de","7416","Waren-, Gerätelagerverwalter",1546,7416
+"KldB88","de","7417","Lagerverwalter-, Magazinerhelfer",1547,7417
+"KldB88","de","7418","Hafenlagerverwalter",1548,7418
+"KldB88","de","7419","andere Lagerverwalter, Magaziner",1549,7419
+"KldB88","de","7420","Transportgeräteführer, o.n.A.",1550,7420
+"KldB88","de","7421","Flurtransportgeräte-, Karrenfahrer",1551,7421
+"KldB88","de","7422","Förderbandbediener",1552,7422
+"KldB88","de","7423","Fahrstuhlführer",1553,7423
+"KldB88","de","7429","andere Transportgeräteführer",1554,7429
+"KldB88","de","7431","Stauer",1555,7431
+"KldB88","de","7432","Möbelpacker, -transporteure",1556,7432
+"KldB88","de","7440","Lager-, Transportarbeiter, o.n.A.",1557,7440
+"KldB88","de","7442","Dienstmänner, Boten",1558,7442
+"KldB88","de","7443","Beifahrer, Begleiter (Transportarbeiter)",1559,7443
+"KldB88","de","7444","Güterbodenschaffner",1560,7444
+"KldB88","de","7445","Verlader",1561,7445
+"KldB88","de","7446","Gütertransporteure",1562,7446
+"KldB88","de","7447","Lager-, Versand- und Transporthelfer",1563,7447
+"KldB88","de","7449","andere Lager-, Transportarbeiter",1564,7449
+"KldB88","de","7511","Unternehmer, Geschäftsführer",1565,7511
+"KldB88","de","7512","Geschäftsbereichsleiter, o.n.A.",1566,7512
+"KldB88","de","7513","Vertriebsleiter",1567,7513
+"KldB88","de","7514","Verwaltungsleiter (nicht öffentlicher Dienst)",1568,7514
+"KldB88","de","7515","Personalleiter",1569,7515
+"KldB88","de","7516","Produktionsleiter",1570,7516
+"KldB88","de","7518","Direktionsassistenten",1571,7518
+"KldB88","de","7519","andere Geschäftsbereichsleiter",1572,7519
+"KldB88","de","7520","Unternehmensberater, allgemein",1573,7520
+"KldB88","de","7521","Vertriebsberater",1574,7521
+"KldB88","de","7522","Finanzberater",1575,7522
+"KldB88","de","7523","Organisatoren",1576,7523
+"KldB88","de","7524","Personalberater",1577,7524
+"KldB88","de","7528","Treuhänder",1578,7528
+"KldB88","de","7529","andere Unternehmensberater",1579,7529
+"KldB88","de","7531","Wirtschaftsprüfer",1580,7531
+"KldB88","de","7532","Steuerberater",1581,7532
+"KldB88","de","7533","Steuerbevollmächtigte",1582,7533
+"KldB88","de","7534","Gehilfen in steuer- und wirtschaftsberatenden Berufen",1583,7534
+"KldB88","de","7539","andere Steuerfachleute und verwandte Berufe",1584,7539
+"KldB88","de","7611","Abgeordnete",1585,7611
+"KldB88","de","7612","Präsidenten, Minister, Senatoren",1586,7612
+"KldB88","de","7613","Wahlbeamte, politische Beamte",1587,7613
+"KldB88","de","7621","Leitende, administrativ entscheidende Verwaltungsfachleute",1588,7621
+"KldB88","de","7631","Verbandsleiter, -geschäftsführer",1589,7631
+"KldB88","de","7632","Funktionäre, Verbandssekretäre",1590,7632
+"KldB88","de","7711","Kalkulatoren",1591,7711
+"KldB88","de","7712","Abrechner, Berechner",1592,7712
+"KldB88","de","7713","Rechnungsfachleute, Fakturisten",1593,7713
+"KldB88","de","7720","Buchhalter, allgemein",1594,7720
+"KldB88","de","7721","Bilanzbuchhalter",1595,7721
+"KldB88","de","7722","Kontokorrentbuchhalter",1596,7722
+"KldB88","de","7723","Lohnbuchhalter",1597,7723
+"KldB88","de","7726","Bank-, Sparkassen-, Versicherungsbuchhalter",1598,7726
+"KldB88","de","7728","Landwirtschaftsbuchhalter",1599,7728
+"KldB88","de","7729","andere Buchhalter",1600,7729
+"KldB88","de","7730","Kassierer, allgemein",1601,7730
+"KldB88","de","7731","Kassierer (Laden, Kaufhaus)",1602,7731
+"KldB88","de","7732","Kassierer (Bank, Sparkasse)",1603,7732
+"KldB88","de","7734","Kassenangestellte, -beamte (öffentlicher Dienst)",1604,7734
+"KldB88","de","7739","andere Kassierer",1605,7739
+"KldB88","de","7740","Datenverarbeitungsfachleute, o.n.A.",1606,7740
+"KldB88","de","7741","Systemanalytiker, Organisatoren",1607,7741
+"KldB88","de","7742","Anwendungsprogrammierer",1608,7742
+"KldB88","de","7743","Systemprogrammierer",1609,7743
+"KldB88","de","7744","Rechenzentrumsfachleute",1610,7744
+"KldB88","de","7745","Vertriebsfachleute (EDV)",1611,7745
+"KldB88","de","7746","Datenverarbeitungskaufleute",1612,7746
+"KldB88","de","7748","Informatiker (EDV)",1613,7748
+"KldB88","de","7749","andere Datenverarbeitungsfachleute",1614,7749
+"KldB88","de","7810","Bürofachkräfte, allgemein",1615,7810
+"KldB88","de","7811","Verwaltungsfachkräfte (öffentlicher Dienst)",1616,7811
+"KldB88","de","7812","Rechtsanwalts- und Notargehilfen",1617,7812
+"KldB88","de","7813","Industriekaufleute",1618,7813
+"KldB88","de","7814","Personalkaufleute (Sachbearbeitung)",1619,7814
+"KldB88","de","7815","Korrespondenten, Sekretäre (nicht öffentlicher Dienst)",1620,7815
+"KldB88","de","7816","sonstige Sachbearbeiter (auch Immobilien)",1621,7816
+"KldB88","de","7818","Karteikräfte, Listenführer, Registratoren",1622,7818
+"KldB88","de","7819","andere Bürofachkräfte",1623,7819
+"KldB88","de","7821","Stenographen, Stenotypisten",1624,7821
+"KldB88","de","7822","Parlaments-, Regierungsstenographen",1625,7822
+"KldB88","de","7823","Stenokontoristen",1626,7823
+"KldB88","de","7824","Fremdsprachenschreibkräfte",1627,7824
+"KldB88","de","7825","Sekretärinnen",1628,7825
+"KldB88","de","7826","Phonotypisten, Maschinenschreiber",1629,7826
+"KldB88","de","7828","Fernschreiber",1630,7828
+"KldB88","de","7831","Datentypisten",1631,7831
+"KldB88","de","7832","Datenträgerprüfer",1632,7832
+"KldB88","de","7833","Lochkartensaalleiterinnen",1633,7833
+"KldB88","de","7840","Bürohilfskräfte, o.n.A.",1634,7840
+"KldB88","de","7841","Schreiber (nicht Maschine)",1635,7841
+"KldB88","de","7842","Rechner (nicht Abrechner)",1636,7842
+"KldB88","de","7843","Büro-, Amtsboten",1637,7843
+"KldB88","de","7844","Amtsgehilfen, Wachtmeister",1638,7844
+"KldB88","de","7845","Belegsortierer und ähnliche Berufe",1639,7845
+"KldB88","de","7849","andere Bürohilfskräfte",1640,7849
+"KldB88","de","7911","Werkschutzleute",1641,7911
+"KldB88","de","7912","Hotel-, Warenhausdetektive",1642,7912
+"KldB88","de","7913","Detektive",1643,7913
+"KldB88","de","7920","Wächter, Aufseher, o.n.A.",1644,7920
+"KldB88","de","7921","Parkanlagen-, Flurwächter",1645,7921
+"KldB88","de","7922","Fahrzeugwächter, Garagenwarte",1646,7922
+"KldB88","de","7923","Gebäude-, Grundstückswächter",1647,7923
+"KldB88","de","7924","Sammlungs- und ähnliche Aufseher",1648,7924
+"KldB88","de","7925","Ordner, Platzanweiser",1649,7925
+"KldB88","de","7926","Garderoben-, Toilettenwärter",1650,7926
+"KldB88","de","7928","Badewärter",1651,7928
+"KldB88","de","7929","andere Wächter, Aufseher",1652,7929
+"KldB88","de","7931","Pförtner",1653,7931
+"KldB88","de","7932","Werkspförtner und ähnliche Berufe",1654,7932
+"KldB88","de","7933","Hauswarte",1655,7933
+"KldB88","de","7934","Schulhausmeister",1656,7934
+"KldB88","de","7941","Hoteldiener, -burschen",1657,7941
+"KldB88","de","7942","Institutsdiener",1658,7942
+"KldB88","de","7943","Gewerbediener",1659,7943
+"KldB88","de","7944","Theater-, Saaldiener",1660,7944
+"KldB88","de","7945","Platz-, Gerätewarte",1661,7945
+"KldB88","de","7949","andere Haus-, Gewerbediener",1662,7949
+"KldB88","de","8011","Soldaten, Grenzschutz-, Polizeibedienstete",1663,8011
+"KldB88","de","8021","Berufsfeuerwehrleute",1664,8021
+"KldB88","de","8030","Sicherheitskontrolleure, o.n.A.",1665,8030
+"KldB88","de","8031","Gewerbeaufseher",1666,8031
+"KldB88","de","8032","Eichbeamte",1667,8032
+"KldB88","de","8033","Baukontrolleure",1668,8033
+"KldB88","de","8034","Umweltschutzbeauftragte",1669,8034
+"KldB88","de","8035","Taucher",1670,8035
+"KldB88","de","8037","Sicherheitskontrolleurhelfer",1671,8037
+"KldB88","de","8041","Bezirksschornsteinfeger",1672,8041
+"KldB88","de","8042","Schornsteinfeger",1673,8042
+"KldB88","de","8051","Desinfektoren, Schädlingsbekämpfer",1674,8051
+"KldB88","de","8052","Fleischbeschauer",1675,8052
+"KldB88","de","8053","Tierkörperverwerter",1676,8053
+"KldB88","de","8054","Anatomiegehilfen",1677,8054
+"KldB88","de","8055","Leichenbestatter",1678,8055
+"KldB88","de","8059","andere gesundheitssichernde Berufe",1679,8059
+"KldB88","de","8111","Richter, Staatsanwälte",1680,8111
+"KldB88","de","8121","Rechtspfleger",1681,8121
+"KldB88","de","8130","Juristen, o.n.A.",1682,8130
+"KldB88","de","8131","Rechtsanwälte",1683,8131
+"KldB88","de","8132","Notare",1684,8132
+"KldB88","de","8133","Rechtsanwälte und Notare",1685,8133
+"KldB88","de","8134","Justitiare, Syndizi",1686,8134
+"KldB88","de","8135","Patentanwälte, -ingenieure",1687,8135
+"KldB88","de","8136","Rechtsbeistände",1688,8136
+"KldB88","de","8138","Datenschutzbeauftragte",1689,8138
+"KldB88","de","8139","andere Rechtsvertreter, -berater",1690,8139
+"KldB88","de","8141","Vollstreckungsbeamte",1691,8141
+"KldB88","de","8142","Vollzugsbeamte",1692,8142
+"KldB88","de","8211","Schriftsteller",1693,8211
+"KldB88","de","8212","Dramaturgen",1694,8212
+"KldB88","de","8213","Lektoren",1695,8213
+"KldB88","de","8214","Redakteure",1696,8214
+"KldB88","de","8215","Journalisten",1697,8215
+"KldB88","de","8216","Rundfunk-, Fernsehsprecher",1698,8216
+"KldB88","de","8219","andere Publizisten",1699,8219
+"KldB88","de","8221","Dolmetscher",1700,8221
+"KldB88","de","8222","Übersetzer",1701,8222
+"KldB88","de","8223","fremdsprachliche Rundfunkauswerter",1702,8223
+"KldB88","de","8231","wissenschaftliche Bibliothekare",1703,8231
+"KldB88","de","8232","Büchereifachleute, Bibliotheksassi. (nicht Wissenschaftler)",1704,8232
+"KldB88","de","8233","wissenschaftliche Archivare, Dokumentare",1705,8233
+"KldB88","de","8234","Archiv-, Dokumentarfachleute (nicht Wissenschaftler)",1706,8234
+"KldB88","de","8235","Museumsfachleute",1707,8235
+"KldB88","de","8237","Bücherei-, Archivhelfer",1708,8237
+"KldB88","de","8311","Komponisten",1709,8311
+"KldB88","de","8312","Dirigenten",1710,8312
+"KldB88","de","8313","Chorleiter",1711,8313
+"KldB88","de","8314","Instrumental-, Orchestermusiker",1712,8314
+"KldB88","de","8319","andere Musiker",1713,8319
+"KldB88","de","8321","Bühnenleiter",1714,8321
+"KldB88","de","8322","Regisseure",1715,8322
+"KldB88","de","8323","Ballettvorstände",1716,8323
+"KldB88","de","8324","Sänger",1717,8324
+"KldB88","de","8325","Tänzer",1718,8325
+"KldB88","de","8326","Schauspieler",1719,8326
+"KldB88","de","8327","künstlerische Bühnen- und Studiohilfsberufe",1720,8327
+"KldB88","de","8328","Vortragskünstler",1721,8328
+"KldB88","de","8329","andere darstellende Künstler",1722,8329
+"KldB88","de","8331","Bildhauer, Modelleure",1723,8331
+"KldB88","de","8332","Kunstmaler, -zeichner",1724,8332
+"KldB88","de","8333","Graphiker",1725,8333
+"KldB88","de","8334","Designer, Layouter",1726,8334
+"KldB88","de","8335","Textilmustergestalter",1727,8335
+"KldB88","de","8336","Restauratoren (Bilder)",1728,8336
+"KldB88","de","8338","Photogravurzeichner",1729,8338
+"KldB88","de","8339","andere bildende Künstler",1730,8339
+"KldB88","de","8341","Dekorationenmaler",1731,8341
+"KldB88","de","8342","Schilder- und Lichtreklamehersteller",1732,8342
+"KldB88","de","8347","Dekorationen-, Schildermalerhelfer",1733,8347
+"KldB88","de","8351","Bühnen-, Filmausstatter",1734,8351
+"KldB88","de","8352","technische Bühnenleiter, -inspektoren",1735,8352
+"KldB88","de","8353","Toningenieure, -techniker",1736,8353
+"KldB88","de","8354","Bildingenieure, -techniker",1737,8354
+"KldB88","de","8355","Beleuchter",1738,8355
+"KldB88","de","8356","Cutter",1739,8356
+"KldB88","de","8357","technische Bühnen- und Studiohilfsberufe",1740,8357
+"KldB88","de","8358","Filmvorführer",1741,8358
+"KldB88","de","8359","andere technische Bühnen- und Studioberufe",1742,8359
+"KldB88","de","8361","Schauwerbegestalter",1743,8361
+"KldB88","de","8362","Innenarchitekten",1744,8362
+"KldB88","de","8369","andere Raum-, Schauwerbegestalter",1745,8369
+"KldB88","de","8370","Photographen, allgemein",1746,8370
+"KldB88","de","8371","Werbe-, Industriephotographen",1747,8371
+"KldB88","de","8372","Reproduktionsphotographen",1748,8372
+"KldB88","de","8373","Kameraleute",1749,8373
+"KldB88","de","8374","Bildberichterstatter",1750,8374
+"KldB88","de","8375","Lichtdruckretuscheure",1751,8375
+"KldB88","de","8376","sonstige Retuscheure",1752,8376
+"KldB88","de","8379","andere Photographen",1753,8379
+"KldB88","de","8381","Artisten",1754,8381
+"KldB88","de","8382","Pferdewirte, Jockeys und verwandte Berufe",1755,8382
+"KldB88","de","8383","Berufsfußballspieler",1756,8383
+"KldB88","de","8384","Bergführer",1757,8384
+"KldB88","de","8385","sonstige Berufssportler",1758,8385
+"KldB88","de","8386","Kleindarsteller, Statisten, Komparsen",1759,8386
+"KldB88","de","8388","Mannequins, Dressmen, Photomodelle",1760,8388
+"KldB88","de","8389","andere künstlerische Hilfsberufe",1761,8389
+"KldB88","de","8410","Praktische Ärzte, Ärzte, o.n.A.",1762,8410
+"KldB88","de","8411","Allgemein-(fach)-,Kinderärzte, Internisten",1763,8411
+"KldB88","de","8412","Chirurgen, Orthopäden",1764,8412
+"KldB88","de","8413","Hals-, Nasen- und Ohrenärzte",1765,8413
+"KldB88","de","8414","Augenärzte",1766,8414
+"KldB88","de","8415","Frauenärzte",1767,8415
+"KldB88","de","8416","Radiologen",1768,8416
+"KldB88","de","8418","Neurologen, Psychiater, Psychotherapeuten (Ärzte)",1769,8418
+"KldB88","de","8419","andere Fachärzte",1770,8419
+"KldB88","de","8421","Zahnärzte",1771,8421
+"KldB88","de","8422","Fachzahnärzte",1772,8422
+"KldB88","de","8431","Tierärzte",1773,8431
+"KldB88","de","8441","Apotheker",1774,8441
+"KldB88","de","8511","Heilpraktiker",1775,8511
+"KldB88","de","8512","Psychotherapeuten (nicht Ärzte)",1776,8512
+"KldB88","de","8520","Masseure und medizinische Bademeister, o.n.A.",1777,8520
+"KldB88","de","8521","Masseure",1778,8521
+"KldB88","de","8522","medizinische Bademeister",1779,8522
+"KldB88","de","8523","Krankengymnasten",1780,8523
+"KldB88","de","8524","Bewegungstherapeuten",1781,8524
+"KldB88","de","8525","Therapeuten für Sprech- und Hörstörungen",1782,8525
+"KldB88","de","8526","Therapeuten für Sehstörungen",1783,8526
+"KldB88","de","8528","Beschäftigungs-, Kunsttherapeuten",1784,8528
+"KldB88","de","8529","andere Therapeuten",1785,8529
+"KldB88","de","8530","Krankenschwestern, -pfleger, allgemein",1786,8530
+"KldB88","de","8531","Unterrichtsschwestern, -pfleger, Lehrhebammen",1787,8531
+"KldB88","de","8532","Säuglings-, Kinderkrankenschwestern",1788,8532
+"KldB88","de","8533","Psychiatrieschwestern, -pfleger",1789,8533
+"KldB88","de","8534","Operationsschwestern, -pfleger",1790,8534
+"KldB88","de","8535","Anästhesieschwestern, -pfleger",1791,8535
+"KldB88","de","8536","Hebammen",1792,8536
+"KldB88","de","8538","Gemeindeschwestern, -pfleger und ähnliche Berufe",1793,8538
+"KldB88","de","8539","andere Funktionskrankenschwestern, -pfleger",1794,8539
+"KldB88","de","8541","Krankenpflegehelfer",1795,8541
+"KldB88","de","8542","Sanitäter",1796,8542
+"KldB88","de","8543","Wochenpflegerinnen",1797,8543
+"KldB88","de","8551","Diätassistenten",1798,8551
+"KldB88","de","8552","Ernährungsberater",1799,8552
+"KldB88","de","8553","Pharmazeutisch-technische Assistenten",1800,8553
+"KldB88","de","8560","Sprechstundenhelfer, o.n.A.",1801,8560
+"KldB88","de","8561","Arzthelferinnen",1802,8561
+"KldB88","de","8562","Zahnarzthelferinnen",1803,8562
+"KldB88","de","8563","Tierarzthelferinnen",1804,8563
+"KldB88","de","8564","Arztsekretärinnen",1805,8564
+"KldB88","de","8571","Medizinisch-technische Assistenten, medizinische Laboranten",1806,8571
+"KldB88","de","8572","Röntgenassistenten",1807,8572
+"KldB88","de","8573","Veterinärmedizinisch-technische Assistenten",1808,8573
+"KldB88","de","8574","Psychologisch-technische Assistenten",1809,8574
+"KldB88","de","8575","Zahnmedizinisch-technische Laboranten",1810,8575
+"KldB88","de","8579","andere Medizinallaboranten",1811,8579
+"KldB88","de","8610","Sozialarbeiter, Fürsorger, Wohlfahrtspfleger, o.n.A.",1812,8610
+"KldB88","de","8611","Gesundheitsaufseher, -fürsorger",1813,8611
+"KldB88","de","8612","Ehe-, Erziehungsberater",1814,8612
+"KldB88","de","8613","Jugendpfleger, -fürsorger",1815,8613
+"KldB88","de","8614","Altenpfleger",1816,8614
+"KldB88","de","8615","Haus-, Familienpfleger",1817,8615
+"KldB88","de","8616","Sozialpflegerische Berufe, a.n.g.",1818,8616
+"KldB88","de","8619","andere Sozialarbeiter, -pfleger",1819,8619
+"KldB88","de","8621","Jugendheimleiter",1820,8621
+"KldB88","de","8622","Erwachsenenheimleiter",1821,8622
+"KldB88","de","8623","Heimerzieher (nicht Kindergärtnerinnen)",1822,8623
+"KldB88","de","8624","Sozialpädagogen",1823,8624
+"KldB88","de","8625","Heimlehrer",1824,8625
+"KldB88","de","8627","Sozialpädagogenhelfer",1825,8627
+"KldB88","de","8628","Diakone",1826,8628
+"KldB88","de","8629","andere Heimleiter, Sozialpädagogen",1827,8629
+"KldB88","de","8631","Arbeitsberater und -vermittler",1828,8631
+"KldB88","de","8632","Berufsberater",1829,8632
+"KldB88","de","8633","Bildungs-, Studienberater",1830,8633
+"KldB88","de","8634","Beratungslehrer, Schulberater",1831,8634
+"KldB88","de","8641","Erzieherinnen, a.n.g.",1832,8641
+"KldB88","de","8642","Kindergartenleiterinnen",1833,8642
+"KldB88","de","8643","Säuglings-, Kinderpflegerinnen (nicht Kinderkrankenschw. ..)",1834,8643
+"KldB88","de","8647","Kindergarten-, Kinderpflegehelferinnen",1835,8647
+"KldB88","de","8710","Hochschullehrer, Dozenten an höheren FS, Akademien, o.n.A.",1836,8710
+"KldB88","de","8711","Hochschullehrer",1837,8711
+"KldB88","de","8712","wissenschaftliche Assistenten und verwandte Berufe",1838,8712
+"KldB88","de","8713","Fachhochschullehrer",1839,8713
+"KldB88","de","8714","Dozenten an höheren Fachschulen und Akademien",1840,8714
+"KldB88","de","8721","Gymnasiallehrer",1841,8721
+"KldB88","de","8730","Real-, Volks-, Sonderschullehrer, o.n.A.",1842,8730
+"KldB88","de","8731","Realschullehrer",1843,8731
+"KldB88","de","8732","Grund- und Hauptschullehrer",1844,8732
+"KldB88","de","8733","Sonderschullehrer",1845,8733
+"KldB88","de","8734","Fachlehrer an allgemeinbildenden Schulen",1846,8734
+"KldB88","de","8735","Schulassistenten",1847,8735
+"KldB88","de","8740","Fach-, Fachschul-, Berufsschullehrer, o.n.A.",1848,8740
+"KldB88","de","8741","Lehrer an beruflichen Schulen (gewerblich-technisch)",1849,8741
+"KldB88","de","8742","Lehrer an beruflichen Schulen (kaufmännisch)",1850,8742
+"KldB88","de","8743","Lehrer an beruflichen Schulen (Hauswirtschaft)",1851,8743
+"KldB88","de","8744","Lehrer an beruflichen Schulen (Landwirtschaft)",1852,8744
+"KldB88","de","8745","Lehrer für Fachpraxis an beruflichen Schulen",1853,8745
+"KldB88","de","8746","Fachlehrer für Seefahrt",1854,8746
+"KldB88","de","8748","Pädagogische Assistenten",1855,8748
+"KldB88","de","8749","andere Fachlehrer",1856,8749
+"KldB88","de","8751","Kunst-, Zeichenlehrer, a.n.g.",1857,8751
+"KldB88","de","8752","Musik-, Gesanglehrer, a.n.g.",1858,8752
+"KldB88","de","8760","Sportlehrer, allgemein",1859,8760
+"KldB88","de","8761","Fußballtrainer, -lehrer",1860,8761
+"KldB88","de","8762","Wassersportlehrer",1861,8762
+"KldB88","de","8763","Skilehrer",1862,8763
+"KldB88","de","8764","Tanzlehrer",1863,8764
+"KldB88","de","8765","Gymnastiklehrer",1864,8765
+"KldB88","de","8766","Reit- und Fahrlehrer",1865,8766
+"KldB88","de","8768","Tennislehrer",1866,8768
+"KldB88","de","8769","andere Sportlehrer",1867,8769
+"KldB88","de","8771","Fahrlehrer",1868,8771
+"KldB88","de","8772","Fluglehrer",1869,8772
+"KldB88","de","8773","Freizeitlehrer",1870,8773
+"KldB88","de","8774","Lehrer im Gesundheitsbereich",1871,8774
+"KldB88","de","8775","Lehrlingsausbilder, (nicht Ausbildungsmeister)",1872,8775
+"KldB88","de","8776","Lehrer in der Erwachsenenbildung, a.n.g.",1873,8776
+"KldB88","de","8778","Privatstundenlehrer, a.n.g.",1874,8778
+"KldB88","de","8779","andere sonstige Lehrer",1875,8779
+"KldB88","de","8811","Volkswirte und verwandte Berufe",1876,8811
+"KldB88","de","8812","Betriebswirte",1877,8812
+"KldB88","de","8813","sonstige Betriebswirte, o.n.A.",1878,8813
+"KldB88","de","8814","Marktforscher, Statistiker",1879,8814
+"KldB88","de","8815","Psychologen",1880,8815
+"KldB88","de","8816","Soziologen",1881,8816
+"KldB88","de","8818","Politologen",1882,8818
+"KldB88","de","8819","andere Wirtschafts- und Sozialwissenschaftler",1883,8819
+"KldB88","de","8821","Germanisten und verwandte Berufe",1884,8821
+"KldB88","de","8822","Romanisten",1885,8822
+"KldB88","de","8823","sonstige Philologen, Sprachforscher",1886,8823
+"KldB88","de","8824","Philosophen, Religionswissenschaftler",1887,8824
+"KldB88","de","8825","Historiker, Archäologen, Völkerkundler",1888,8825
+"KldB88","de","8826","Musik-, Theaterwissenschaftler",1889,8826
+"KldB88","de","8828","Pädagogen, a.n.g.",1890,8828
+"KldB88","de","8829","andere Geisteswissenschaftler",1891,8829
+"KldB88","de","8831","Biologen",1892,8831
+"KldB88","de","8832","Agrarwissenschaftler",1893,8832
+"KldB88","de","8833","sonstige Biologen",1894,8833
+"KldB88","de","8834","Geographen",1895,8834
+"KldB88","de","8835","Geowissenschaftler",1896,8835
+"KldB88","de","8836","Geophysiker, Astronomen",1897,8836
+"KldB88","de","8838","Meteorologen",1898,8838
+"KldB88","de","8839","andere Naturwissenschaftler",1899,8839
+"KldB88","de","8911","Seelsorger",1900,8911
+"KldB88","de","8921","Angehörige geistl. Orden, Mutterhäuser ohne Beruf",1901,8921
+"KldB88","de","8931","Seelsorge-, Kulthelfer",1902,8931
+"KldB88","de","9010","Friseure, o.n.A.",1903,9010
+"KldB88","de","9011","Damenfriseure",1904,9011
+"KldB88","de","9012","Herrenfriseure",1905,9012
+"KldB88","de","9013","Perückenmacher",1906,9013
+"KldB88","de","9014","Theaterfriseure",1907,9014
+"KldB88","de","9021","Kosmetikerinnen",1908,9021
+"KldB88","de","9022","Handpfleger",1909,9022
+"KldB88","de","9023","Fußpfleger",1910,9023
+"KldB88","de","9029","andere Körperpfleger",1911,9029
+"KldB88","de","9111","Hoteliers, Gaststättenbesitzer, -pächter",1912,9111
+"KldB88","de","9112","Hotel-, Gaststättengeschäftsführer",1913,9112
+"KldB88","de","9113","Hotel-, Gaststättenkaufleute",1914,9113
+"KldB88","de","9114","Hotelfachleute",1915,9114
+"KldB88","de","9115","Hotel-, Gaststättenempfangspersonal",1916,9115
+"KldB88","de","9119","andere Gästebetreuer",1917,9119
+"KldB88","de","9121","Oberkellner, Chefstewards",1918,9121
+"KldB88","de","9122","Restaurantfachleute, Kellner",1919,9122
+"KldB88","de","9123","Stewards (Flugzeug)",1920,9123
+"KldB88","de","9124","Stewards (Schiff)",1921,9124
+"KldB88","de","9127","Kellnerhilfskräfte",1922,9127
+"KldB88","de","9129","andere Kellner, Stewards",1923,9129
+"KldB88","de","9130","Hotelangestellte, o.n.A.",1924,9130
+"KldB88","de","9131","Speisen- und Getränkeausgeber",1925,9131
+"KldB88","de","9132","Getränkemixer",1926,9132
+"KldB88","de","9133","Hotel- und Gaststättengehilfinnen",1927,9133
+"KldB88","de","9134","Fachgehilfen im Gastgewerbe",1928,9134
+"KldB88","de","9135","Hallengehilfen",1929,9135
+"KldB88","de","9136","Hotel-, Gaststättenportiers",1930,9136
+"KldB88","de","9139","andere Gästebetreuer",1931,9139
+"KldB88","de","9210","Hauswirtschaftsverwalter, o.n.A.",1932,9210
+"KldB88","de","9211","Hauswirtschaftsleiterinnen",1933,9211
+"KldB88","de","9212","Hauswirtschafterinnen",1934,9212
+"KldB88","de","9213","Haus- und Ernährungswirtschaftler",1935,9213
+"KldB88","de","9214","Beschließerinnen",1936,9214
+"KldB88","de","9215","Hausdamen",1937,9215
+"KldB88","de","9219","andere Hauswirtschaftsverwalter",1938,9219
+"KldB88","de","9220","Verbraucherberater, allgemein",1939,9220
+"KldB88","de","9221","Hauswirtschaftsberater",1940,9221
+"KldB88","de","9222","Energieberater",1941,9222
+"KldB88","de","9229","andere Verbraucherberater",1942,9229
+"KldB88","de","9230","Hauswirtschaftliche Betreuer, o.n.A.",1943,9230
+"KldB88","de","9231","Hauswirtschaftsgehilfinnen",1944,9231
+"KldB88","de","9232","Hauswirtschafts-technische Helfer",1945,9232
+"KldB88","de","9233","Zimmermädchen",1946,9233
+"KldB88","de","9234","Schlafwagenschaffner",1947,9234
+"KldB88","de","9235","Kajütstewards",1948,9235
+"KldB88","de","9236","Diener, Zofen, Ankleiderinnen",1949,9236
+"KldB88","de","9237","Hauswirtschaftliche Helfer",1950,9237
+"KldB88","de","9238","Kindermädchen (nicht Kindergärtnerinnen, Erzieherinnen)",1951,9238
+"KldB88","de","9239","andere hauswirtschaftliche Betreuer",1952,9239
+"KldB88","de","9310","Wäscher und Plätter, allgemein",1953,9310
+"KldB88","de","9311","Büglerinnen im Färber- und Chemischreinigerhandwerk",1954,9311
+"KldB88","de","9312","sonstige Bügler",1955,9312
+"KldB88","de","9313","Wäscher",1956,9313
+"KldB88","de","9317","Wäscher-, Plätterhelfer",1957,9317
+"KldB88","de","9319","andere Wäscher, Plätter",1958,9319
+"KldB88","de","9320","Färber und Chemischreiniger, allgemein",1959,9320
+"KldB88","de","9321","Chemischreiniger",1960,9321
+"KldB88","de","9322","Färber (in der chemischen Reinigung)",1961,9322
+"KldB88","de","9327","Textilreiniger-, Färberhelfer",1962,9327
+"KldB88","de","9329","andere Textilreiniger",1963,9329
+"KldB88","de","9331","Raumpfleger, -reiniger",1964,9331
+"KldB88","de","9332","Geschirr-, Besteckreiniger",1965,9332
+"KldB88","de","9339","andere Raum- und Hausratreiniger",1966,9339
+"KldB88","de","9341","Glasreiniger",1967,9341
+"KldB88","de","9342","Gebäudereiniger",1968,9342
+"KldB88","de","9343","Fassadenreiniger",1969,9343
+"KldB88","de","9349","andere Glas-, Gebäudereiniger",1970,9349
+"KldB88","de","9350","Straßenreiniger, Abfallbeseitiger, allgemein",1971,9350
+"KldB88","de","9351","Straßenreiniger",1972,9351
+"KldB88","de","9352","Müllarbeiter",1973,9352
+"KldB88","de","9353","Kanalisationsreiniger",1974,9353
+"KldB88","de","9354","Kläranlagenwärter",1975,9354
+"KldB88","de","9359","andere Staßenreiniger, Abfallbeseitiger",1976,9359
+"KldB88","de","9360","Fahrzeugreiniger, -pfleger, o.n.A.",1977,9360
+"KldB88","de","9361","Autowäscher, -pfleger",1978,9361
+"KldB88","de","9362","Schienenfahrzeugreiniger",1979,9362
+"KldB88","de","9363","Schiffs(wand)reiniger",1980,9363
+"KldB88","de","9369","andere Fahrzeugreiniger, -pfleger",1981,9369
+"KldB88","de","9371","Maschinen-, Anlagenreiniger und Schmierer",1982,9371
+"KldB88","de","9372","Behälter-, Rohrreiniger",1983,9372
+"KldB88","de","9373","Getränkeleitungs-, Flaschenreiniger",1984,9373
+"KldB88","de","9379","andere Maschinen-, Behälterreiniger",1985,9379
+"KldB88","de","9711","Mithelfende Familienangehörige außerhalb d. Landwirtschaft",1986,9711
+"KldB88","de","9811","Auszubildende mit noch nicht feststehendem Ausbildungsberuf",1987,9811
+"KldB88","de","9821","Praktikanten, Volontäre mit noch nicht feststehendem Beruf",1988,9821
+"KldB88","de","9831","Schulentlassene (arbeitsuchend)",1989,9831
+"KldB88","de","9832","Sonstige Arbeitskräfte (arbeitsuchend)",1990,9832
+"KldB88","de","9911","Arbeitskräfte ohne nähere Tätigkeitsangabe",1991,9911
