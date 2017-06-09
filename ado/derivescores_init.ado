@@ -27,7 +27,8 @@ program define derivescores_init , nclass
 	}
 	else local declarationfile `"`r(fn)'"'
 	// read main CSV file with table declarations; save all metadata as globals
-	preserve
+	quietly : snapshot save
+	local snapshotnum `r(snapshot)'
 	if (`"`verbose'"'=="verbose") noisily : display as text in smcl `"reading table declarations from file {result}{it:`declarationfile'}{text}"'
 	quietly : import delimited `"`declarationfile'"' , clear varnames(1) case(preserve) encoding("utf-8")
 	local total `c(N)'
@@ -71,7 +72,8 @@ program define derivescores_init , nclass
 		quietly : save `"${DERIVESCORES_dec`counter'file}"'
 		if (`"`verbose'"'=="verbose") noisily : display as text in smcl `"saved classification table for declaration {result}{it:${DERIVESCORES_dec`counter'shortname}}{text} to {result}{it:${DERIVESCORES_dec`counter'file}}{text}"'
 	}
-	restore
+	snapshot restore `snapshotnum'
+	snapshot erase `snapshotnum'
 	// save global marking everything as initialized
 	global DERIVESCORES_initialized 1
 	// success message
