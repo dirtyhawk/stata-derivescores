@@ -20,6 +20,8 @@ f ado/derivescores.sthlp
 F tables/ConceptSchemes_Correspondences.csv
 F tables/EGP_Ganzeboom.csv
 F tables/ISCO-08_Ganzeboom.csv
+F tables/ISCO-08_ILO.csv
+F tables/ISCO-08_ILO--ISCO-08_Ganzeboom.csv
 F tables/ISCO-68_Ganzeboom.csv
 F tables/ISCO-68_Ganzeboom--ISEI.csv
 F tables/ISCO-68_ILO.csv
@@ -29,9 +31,11 @@ F tables/ISCO-68_SOEPdepr--ISCO-68_ILO.csv
 F tables/ISCO-88_COM.csv
 F tables/ISCO-88_COM--ISCO-88_ILO.csv
 F tables/ISCO-88_Ganzeboom.csv
+F tables/ISCO-88_Ganzeboom--EGP_Ganzeboom.csv
 F tables/ISCO-88_Ganzeboom--ISEI.csv
 F tables/ISCO-88_ILO.csv
 F tables/ISCO-88_ILO--ISCO-88_Ganzeboom.csv
 F tables/ISEI.csv
+F tables/KldB2010.csv
 e
 * EOF
