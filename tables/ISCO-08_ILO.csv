@@ -618,3 +618,622 @@
 "ISCO-08_ILO","en","03","Armed Forces Occupations, Other Ranks",617,300
 "ISCO-08_ILO","en","031","Armed Forces Occupations, Other Ranks",618,310
 "ISCO-08_ILO","en","0310","Armed Forces Occupations, Other Ranks",619,310
+"ISCO-08_ILO","de","1","Führungskräfte",1,1000
+"ISCO-08_ILO","de","11","Geschäftsführer, Vorstände, leitende Verwaltungsbedienstete und Angehörige gesetzgebender Körperschaften",2,1100
+"ISCO-08_ILO","de","111","Angehörige gesetzgebender Körperschaften und leitende Verwaltungsbedienstete",3,1110
+"ISCO-08_ILO","de","1111","Angehörige gesetzgebender Körperschaften",4,1111
+"ISCO-08_ILO","de","1112","Leitende Verwaltungsbedienstete",5,1112
+"ISCO-08_ILO","de","1113","Traditionelle Dorf- und Stammeshäuptlinge",6,1113
+"ISCO-08_ILO","de","1114","Leitende Bedienstete von Interessenorganisationen",7,1114
+"ISCO-08_ILO","de","112","Geschäftsführer und Vorstände",8,1120
+"ISCO-08_ILO","de","1120","Geschäftsführer und Vorstände",9,1120
+"ISCO-08_ILO","de","12","Führungskräfte im kaufmännischen Bereich",10,1200
+"ISCO-08_ILO","de","121","Führungskräfte in der betrieblichen Verwaltung und in unternehmensbezogenen Dienstleistungen",11,1210
+"ISCO-08_ILO","de","1211","Führungskräfte im Bereich Finanzen",12,1211
+"ISCO-08_ILO","de","1212","Führungskräfte im Personalwesen",13,1212
+"ISCO-08_ILO","de","1213","Führungskräfte in Unternehmenspolitik und -planung",14,1213
+"ISCO-08_ILO","de","1219","Führungskräfte in der betrieblichen Verwaltung und in unternehmensbezogenen Dienstleistungen, anderweitig nicht genannt",15,1219
+"ISCO-08_ILO","de","122","Führungskräfte in Vertrieb, Marketing und Entwicklung",16,1220
+"ISCO-08_ILO","de","1221","Führungskräfte in Vertrieb und Marketing",17,1221
+"ISCO-08_ILO","de","1222","Führungskräfte in Werbung und Öffentlichkeitsarbeit",18,1222
+"ISCO-08_ILO","de","1223","Führungskräfte in Forschung und Entwicklung",19,1223
+"ISCO-08_ILO","de","13","Führungskräfte in der Produktion und bei speziellen Dienstleistungen",20,1300
+"ISCO-08_ILO","de","131","Führungskräfte in der Produktion in Land- und Forstwirtschaft und Fischerei",21,1310
+"ISCO-08_ILO","de","1311","Führungskräfte in der Produktion in Land- und Forstwirtschaft",22,1311
+"ISCO-08_ILO","de","1312","Führungskräfte in der Produktion in Aquakultur und Fischerei",23,1312
+"ISCO-08_ILO","de","132","Führungskräfte in der Produktion bei der Herstellung von Waren, im Bergbau und im Bau sowie in der Logistik",24,1320
+"ISCO-08_ILO","de","1321","Führungskräfte in der Produktion bei der Herstellung von Waren",25,1321
+"ISCO-08_ILO","de","1322","Führungskräfte in der Produktion im Bergbau",26,1322
+"ISCO-08_ILO","de","1323","Führungskräfte in der Produktion im Bau",27,1323
+"ISCO-08_ILO","de","1324","Führungskräfte in der Beschaffung, Logistik und in verwandten Bereichen",28,1324
+"ISCO-08_ILO","de","133","Führungskräfte in der Erbringung von Dienstleistungen im Bereich Informations- und Kommunikationstechnologie",29,1330
+"ISCO-08_ILO","de","1330","Führungskräfte in der Erbringung von Dienstleistungen im Bereich Informations- und Kommunikationstechnologie",30,1330
+"ISCO-08_ILO","de","134","Führungskräfte in der Erbringung von speziellen Dienstleistungen",31,1340
+"ISCO-08_ILO","de","1341","Führungskräfte in der Erbringung von Dienstleistungen der Kinderbetreuung",32,1341
+"ISCO-08_ILO","de","1342","Führungskräfte in der Erbringung von Dienstleistungen im Gesundheitswesen",33,1342
+"ISCO-08_ILO","de","1343","Führungskräfte in der Erbringung von Dienstleistungen der Altenbetreuung",34,1343
+"ISCO-08_ILO","de","1344","Führungskräfte in der Erbringung von Dienstleistungen der Sozialfürsorge",35,1344
+"ISCO-08_ILO","de","1345","Führungskräfte in der Erbringung von Dienstleistungen des Bildungswesens",36,1345
+"ISCO-08_ILO","de","1346","Führungskräfte auf Filialebene in der Erbringung von Finanz- und Versicherungsdienstleistungen",37,1346
+"ISCO-08_ILO","de","1349","Führungskräfte in der Erbringung von speziellen Dienstleistungen, anderweitig nicht genannt",38,1349
+"ISCO-08_ILO","de","14","Führungskräfte in Hotels und Restaurants, im Handel und in der Erbringung sonstiger Dienstleistungen",39,1400
+"ISCO-08_ILO","de","141","Führungskräfte in Hotels und Restaurants",40,1410
+"ISCO-08_ILO","de","1411","Führungskräfte in Hotels",41,1411
+"ISCO-08_ILO","de","1412","Führungskräfte in Restaurants",42,1412
+"ISCO-08_ILO","de","142","Führungskräfte in Groß- und Einzelhandel",43,1420
+"ISCO-08_ILO","de","1420","Führungskräfte in Groß- und Einzelhandel",44,1420
+"ISCO-08_ILO","de","143","Führungskräfte in der Erbringung sonstiger Dienstleistungen",45,1430
+"ISCO-08_ILO","de","1431","Führungskräfte in der Erbringung von Dienstleistungen im Bereich Sport, Erholung und Kultur",46,1431
+"ISCO-08_ILO","de","1439","Führungskräfte in der Erbringung von Dienstleistungen, anderweitig nicht genannt",47,1439
+"ISCO-08_ILO","de","2","Akademische Berufe",48,2000
+"ISCO-08_ILO","de","21","Naturwissenschaftler, Mathematiker und Ingenieure",49,2100
+"ISCO-08_ILO","de","211","Physiker, Chemiker, Geologen und verwandte Berufe",50,2110
+"ISCO-08_ILO","de","2111","Physiker und Astronomen",51,2111
+"ISCO-08_ILO","de","2112","Meteorologen",52,2112
+"ISCO-08_ILO","de","2113","Chemiker",53,2113
+"ISCO-08_ILO","de","2114","Geologen und Geophysiker",54,2114
+"ISCO-08_ILO","de","212","Mathematiker, Versicherungsmathematiker und Statistiker",55,2120
+"ISCO-08_ILO","de","2120","Mathematiker, Versicherungsmathematiker und Statistiker",56,2120
+"ISCO-08_ILO","de","213","Biowissenschaftler",57,2130
+"ISCO-08_ILO","de","2131","Biologen, Botaniker, Zoologen und verwandte Berufe",58,2131
+"ISCO-08_ILO","de","2132","Agrar-, Forst- und Fischereiwissenschaftler und -berater",59,2132
+"ISCO-08_ILO","de","2133","Umweltwissenschaftler",60,2133
+"ISCO-08_ILO","de","214","Ingenieurwissenschaftler (ohne Elektrotechnik, Elektronik und Telekommunikation)",61,2140
+"ISCO-08_ILO","de","2141","Wirtschafts- und Produktionsingenieure",62,2141
+"ISCO-08_ILO","de","2142","Bauingenieure",63,2142
+"ISCO-08_ILO","de","2143","Umweltschutzingenieure",64,2143
+"ISCO-08_ILO","de","2144","Maschinenbauingenieure",65,2144
+"ISCO-08_ILO","de","2145","Chemieingenieure",66,2145
+"ISCO-08_ILO","de","2146","Bergbauingenieure, Metallurgen und verwandte Berufe",67,2146
+"ISCO-08_ILO","de","2149","Ingenieure, anderweitig nicht genannt",68,2149
+"ISCO-08_ILO","de","215","Ingenieure in den Bereichen Elektrotechnik, Elektronik und Telekommunikationstechnik",69,2150
+"ISCO-08_ILO","de","2151","Ingenieure im Bereich Elektrotechnik",70,2151
+"ISCO-08_ILO","de","2152","Ingenieure im Bereich Elektronik",71,2152
+"ISCO-08_ILO","de","2153","Ingenieure im Bereich Telekommunikationstechnik",72,2153
+"ISCO-08_ILO","de","216","Architekten, Raum-, Stadt- und Verkehrsplaner, Vermessungsingenieure und Designer",73,2160
+"ISCO-08_ILO","de","2161","Architekten",74,2161
+"ISCO-08_ILO","de","2162","Landschaftsarchitekten",75,2162
+"ISCO-08_ILO","de","2163","Produkt- und Textildesigner",76,2163
+"ISCO-08_ILO","de","2164","Raum-, Stadt- und Verkehrsplaner",77,2164
+"ISCO-08_ILO","de","2165","Kartografen und Vermessungsingenieure",78,2165
+"ISCO-08_ILO","de","2166","Grafik- und Multimediadesigner",79,2166
+"ISCO-08_ILO","de","22","Akademische und verwandte Gesundheitsberufe",80,2200
+"ISCO-08_ILO","de","221","Ärzte",81,2210
+"ISCO-08_ILO","de","2211","Allgemeinärzte",82,2211
+"ISCO-08_ILO","de","2212","Fachärzte",83,2212
+"ISCO-08_ILO","de","222","Akademische und vergleichbare Krankenpflege- und Geburtshilfefachkräfte",84,2220
+"ISCO-08_ILO","de","2221","Akademische und vergleichbare Krankenpflegefachkräfte",85,2221
+"ISCO-08_ILO","de","2222","Akademische und vergleichbare Geburtshilfefachkräfte",86,2222
+"ISCO-08_ILO","de","223","Akademische und vergleichbare Fachkräfte in der traditionellen und komplementären Medizin",87,2230
+"ISCO-08_ILO","de","2230","Akademische und vergleichbare Fachkräfte in der traditionellen und komplementären Medizin",88,2230
+"ISCO-08_ILO","de","224","Feldscher und vergleichbare paramedizinische Praktiker",89,2240
+"ISCO-08_ILO","de","2240","Feldscher und vergleichbare paramedizinische Praktiker",90,2240
+"ISCO-08_ILO","de","225","Tierärzte",91,2250
+"ISCO-08_ILO","de","2250","Tierärzte",92,2250
+"ISCO-08_ILO","de","226","Sonstige akademische und verwandte Gesundheitsberufe",93,2260
+"ISCO-08_ILO","de","2261","Zahnärzte",94,2261
+"ISCO-08_ILO","de","2262","Apotheker",95,2262
+"ISCO-08_ILO","de","2263","Akademische und vergleichbare Fachkräfte in den Bereichen Umwelt- und Arbeitsmedizin sowie Hygiene",96,2263
+"ISCO-08_ILO","de","2264","Physiotherapeuten",97,2264
+"ISCO-08_ILO","de","2265","Diätologen und Ernährungsberater",98,2265
+"ISCO-08_ILO","de","2266","Audiologen und Sprachtherapeuten",99,2266
+"ISCO-08_ILO","de","2267","Optometristen und Orthoptisten",100,2267
+"ISCO-08_ILO","de","2269","Akademische und verwandte Gesundheitsberufe, anderweitig nicht genannt",101,2269
+"ISCO-08_ILO","de","23","Lehrkräfte",102,2300
+"ISCO-08_ILO","de","231","Universitäts- und Hochschullehrer",103,2310
+"ISCO-08_ILO","de","2310","Universitäts- und Hochschullehrer",104,2310
+"ISCO-08_ILO","de","232","Lehrkräfte im Bereich Berufsbildung",105,2320
+"ISCO-08_ILO","de","2320","Lehrkräfte im Bereich Berufsbildung",106,2320
+"ISCO-08_ILO","de","233","Lehrkräfte im Sekundarbereich",107,2330
+"ISCO-08_ILO","de","2330","Lehrkräfte im Sekundarbereich",108,2330
+"ISCO-08_ILO","de","234","Lehrkräfte im Primar- und Vorschulbereich",109,2340
+"ISCO-08_ILO","de","2341","Lehrkräfte im Primarbereich",110,2341
+"ISCO-08_ILO","de","2342","Lehrkräfte und Erzieher im Vorschulbereich",111,2342
+"ISCO-08_ILO","de","235","Sonstige Lehrkräfte",112,2350
+"ISCO-08_ILO","de","2351","Pädagogik- und Didaktikspezialisten",113,2351
+"ISCO-08_ILO","de","2352","Lehrkräfte im Bereich Sonderpädagogik",114,2352
+"ISCO-08_ILO","de","2353","Sonstige Sprachlehrer",115,2353
+"ISCO-08_ILO","de","2354","Sonstige Musiklehrer",116,2354
+"ISCO-08_ILO","de","2355","Sonstige Kunstlehrer",117,2355
+"ISCO-08_ILO","de","2356","Ausbilder im Bereich Informationstechnologie",118,2356
+"ISCO-08_ILO","de","2359","Lehrkräfte, anderweitig nicht genannt",119,2359
+"ISCO-08_ILO","de","24","Betriebswirte und vergleichbare akademische Berufe",120,2400
+"ISCO-08_ILO","de","241","Akademische und vergleichbare Fachkräfte im Bereich Finanzen",121,2410
+"ISCO-08_ILO","de","2411","Wirtschaftsprüfer, Steuerberater und verwandte Berufe",122,2411
+"ISCO-08_ILO","de","2412","Finanz- und Anlageberater",123,2412
+"ISCO-08_ILO","de","2413","Finanzanalysten",124,2413
+"ISCO-08_ILO","de","242","Akademische und vergleichbare Fachkräfte in der betrieblichen Verwaltung",125,2420
+"ISCO-08_ILO","de","2421","Akademische und vergleichbare Fachkräfte im Bereich Management- und Organisationsanalyse",126,2421
+"ISCO-08_ILO","de","2422","Akademische und vergleichbare Fachkräfte in der strategischen Planung in Politik und Wirtschaft",127,2422
+"ISCO-08_ILO","de","2423","Berufsberater und -analytiker und akademische und vergleichbare Personalfachleute",128,2423
+"ISCO-08_ILO","de","2424","Fachkräfte in Personalschulung und -entwicklung",129,2424
+"ISCO-08_ILO","de","243","Akademische und vergleichbare Fachkräfte in Vertrieb, Marketing und Öffentlichkeitsarbeit",130,2430
+"ISCO-08_ILO","de","2431","Akademische und vergleichbare Fachkräfte in Werbung und Marketing",131,2431
+"ISCO-08_ILO","de","2432","Akademische und vergleichbare Fachkräfte in der Öffentlichkeitsarbeit",132,2432
+"ISCO-08_ILO","de","2433","Akademische und vergleichbare Fachkräfte im Bereich Vertrieb (Technik und Medizin, ohne Informations-und Kommunikationstechnologie)",133,2433
+"ISCO-08_ILO","de","2434","Akademische und vergleichbare Fachkräfte im Vertrieb von Informations- und Kommunikationstechnologie",134,2434
+"ISCO-08_ILO","de","25","Akademische und vergleichbare Fachkräfte in der Informations- und Kommunikationstechnologie",135,2500
+"ISCO-08_ILO","de","251","Entwickler und Analytiker von Software und Anwendungen",136,2510
+"ISCO-08_ILO","de","2511","Systemanalytiker",137,2511
+"ISCO-08_ILO","de","2512","Softwareentwickler",138,2512
+"ISCO-08_ILO","de","2513","Web- und Multimediaentwickler",139,2513
+"ISCO-08_ILO","de","2514","Anwendungsprogrammierer",140,2514
+"ISCO-08_ILO","de","2519","Entwickler und Analytiker von Software und Anwendungen, anderweitig nicht genannt",141,2519
+"ISCO-08_ILO","de","252","Akademische und vergleichbare Fachkräfte für Datenbanken und Netzwerke",142,2520
+"ISCO-08_ILO","de","2521","Datenbankentwickler und -administratoren",143,2521
+"ISCO-08_ILO","de","2522","Systemadministratoren",144,2522
+"ISCO-08_ILO","de","2523","Akademische und vergleichbare Fachkräfte für Computernetzwerke",145,2523
+"ISCO-08_ILO","de","2529","Akademische und vergleichbare Fachkräfte für Datenbanken und Netzwerke, anderweitig nicht genannt",146,2529
+"ISCO-08_ILO","de","26","Juristen, Sozialwissenschaftler und Kulturberufe",147,2600
+"ISCO-08_ILO","de","261","Juristen",148,2610
+"ISCO-08_ILO","de","2611","Anwälte",149,2611
+"ISCO-08_ILO","de","2612","Richter",150,2612
+"ISCO-08_ILO","de","2619","Juristen, anderweitig nicht genannt",151,2619
+"ISCO-08_ILO","de","262","Archiv-, Bibliotheks- und Museumswissenschaftler",152,2620
+"ISCO-08_ILO","de","2621","Archiv- und Museumswissenschaftler",153,2621
+"ISCO-08_ILO","de","2622","Bibliothekswissenschaftler und verwandte Informationswissenschaftler",154,2622
+"ISCO-08_ILO","de","263","Sozialwissenschaftler, Geistliche und Seelsorger",155,2630
+"ISCO-08_ILO","de","2631","Volkswirtschaftler",156,2631
+"ISCO-08_ILO","de","2632","Soziologen, Anthropologen und verwandte Wissenschaftler",157,2632
+"ISCO-08_ILO","de","2633","Philosophen, Historiker und Politologen",158,2633
+"ISCO-08_ILO","de","2634","Psychologen",159,2634
+"ISCO-08_ILO","de","2635","Sozialarbeiter",160,2635
+"ISCO-08_ILO","de","2636","Geistliche Seelsorger",161,2636
+"ISCO-08_ILO","de","264","Autoren, Journalisten und Linguisten",162,2640
+"ISCO-08_ILO","de","2641","Autoren und verwandte schriftstellerische Berufe",163,2641
+"ISCO-08_ILO","de","2642","Journalisten",164,2642
+"ISCO-08_ILO","de","2643","Übersetzer, Dolmetscher und andere Linguisten",165,2643
+"ISCO-08_ILO","de","265","Bildende und darstellende Künstler",166,2650
+"ISCO-08_ILO","de","2651","Bildende Künstler",167,2651
+"ISCO-08_ILO","de","2652","Musiker, Sänger und Komponisten",168,2652
+"ISCO-08_ILO","de","2653","Tänzer und Choreografen",169,2653
+"ISCO-08_ILO","de","2654","Regisseure und Produzenten im Film- und Bühnenbereich sowie in verwandten Bereichen",170,2654
+"ISCO-08_ILO","de","2655","Schauspieler",171,2655
+"ISCO-08_ILO","de","2656","Sprecher im Rundfunk, Fernsehen und sonstigen Medien",172,2656
+"ISCO-08_ILO","de","2659","Bildende und darstellende Künstler, anderweitig nicht genannt",173,2659
+"ISCO-08_ILO","de","3","Techniker und gleichrangige nichttechnische Berufe",174,3000
+"ISCO-08_ILO","de","31","Ingenieurtechnische und vergleichbare Fachkräfte",175,3100
+"ISCO-08_ILO","de","311","Material- und ingenieurtechnische Fachkräfte",176,3110
+"ISCO-08_ILO","de","3111","Chemo- und Physikotechniker",177,3111
+"ISCO-08_ILO","de","3112","Bautechniker",178,3112
+"ISCO-08_ILO","de","3113","Elektrotechniker",179,3113
+"ISCO-08_ILO","de","3114","Techniker im Bereich Elektronik",180,3114
+"ISCO-08_ILO","de","3115","Maschinenbautechniker",181,3115
+"ISCO-08_ILO","de","3116","Chemiebetriebs- und Verfahrenstechniker",182,3116
+"ISCO-08_ILO","de","3117","Bergbau- und Hüttentechniker",183,3117
+"ISCO-08_ILO","de","3118","Technische Zeichner",184,3118
+"ISCO-08_ILO","de","3119","Material- und ingenieurtechnische Fachkräfte, anderweitig nicht genannt",185,3119
+"ISCO-08_ILO","de","312","Produktionsleiter im Bergbau, bei der Herstellung von Waren und im Bau",186,3120
+"ISCO-08_ILO","de","3121","Produktionsleiter im Bergbau",187,3121
+"ISCO-08_ILO","de","3122","Produktionsleiter bei der Herstellung von Waren",188,3122
+"ISCO-08_ILO","de","3123","Bauleiter",189,3123
+"ISCO-08_ILO","de","313","Techniker in der Prozesssteuerung",190,3130
+"ISCO-08_ILO","de","3131","Steuerer von Energieerzeugungsanlagen",191,3131
+"ISCO-08_ILO","de","3132","Steuerer von Verbrennungs- und Wasserbehandlungsanlagen",192,3132
+"ISCO-08_ILO","de","3133","Steuerer von chemischen Verfahrensanlagen",193,3133
+"ISCO-08_ILO","de","3134","Steuerer von Erdöl- und Erdgasraffinationsanlagen",194,3134
+"ISCO-08_ILO","de","3135","Steuerer von Verfahren in der Metallerzeugung",195,3135
+"ISCO-08_ILO","de","3139","Techniker in der Prozesssteuerung, anderweitig nicht genannt",196,3139
+"ISCO-08_ILO","de","314","Biotechniker und verwandte technische Berufe",197,3140
+"ISCO-08_ILO","de","3141","Biotechniker (ohne medizinische Fachberufe)",198,3141
+"ISCO-08_ILO","de","3142","Agrartechniker",199,3142
+"ISCO-08_ILO","de","3143","Forsttechniker",200,3143
+"ISCO-08_ILO","de","315","Schiffsführer, Flugzeugführer und verwandte Berufe",201,3150
+"ISCO-08_ILO","de","3151","Technische Schiffsoffiziere",202,3151
+"ISCO-08_ILO","de","3152","Schiffsführer, nautische Schiffsoffiziere und Schiffslotsen",203,3152
+"ISCO-08_ILO","de","3153","Flugzeugführer und verwandte Berufe",204,3153
+"ISCO-08_ILO","de","3154","Flugverkehrslotsen",205,3154
+"ISCO-08_ILO","de","3155","Flugsicherungstechniker",206,3155
+"ISCO-08_ILO","de","32","Assistenzberufe im Gesundheitswesen",207,3200
+"ISCO-08_ILO","de","321","Medizinische und pharmazeutische Fachberufe",208,3210
+"ISCO-08_ILO","de","3211","Medizintechniker im Bereich bildgebende Verfahren und Therapiegeräte",209,3211
+"ISCO-08_ILO","de","3212","Medizintechniker im Bereich Labor und Pathologie",210,3212
+"ISCO-08_ILO","de","3213","Pharmazeutisch-technische Assistenten",211,3213
+"ISCO-08_ILO","de","3214","Medizinische und zahnmedizinische Prothetiktechniker",212,3214
+"ISCO-08_ILO","de","322","Nicht akademische Krankenpflege- und Geburtshilfefachkräfte",213,3220
+"ISCO-08_ILO","de","3221","Nicht akademische Krankenpflegefachkräfte",214,3221
+"ISCO-08_ILO","de","3222","Nicht akademische Geburtshilfefachkräfte",215,3222
+"ISCO-08_ILO","de","323","Nicht akademische Fachkräfte in traditioneller und komplementärer Medizin",216,3230
+"ISCO-08_ILO","de","3230","Nicht akademische Fachkräfte in traditioneller und komplementärer Medizin",217,3230
+"ISCO-08_ILO","de","324","Veterinärmedizinische Fachkräfte und Assistenten",218,3240
+"ISCO-08_ILO","de","3240","Veterinärmedizinische Fachkräfte und Assistenten",219,3240
+"ISCO-08_ILO","de","325","Sonstige Assistenzberufe im Gesundheitswesen",220,3250
+"ISCO-08_ILO","de","3251","Zahnmedizinische Assistenten und Dentalhygieniker",221,3251
+"ISCO-08_ILO","de","3252","Fachkräfte im Bereich medizinische Dokumentation und Information",222,3252
+"ISCO-08_ILO","de","3253","Fachkräfte in der öffentlichen Gesundheitsfürsorge",223,3253
+"ISCO-08_ILO","de","3254","Augenoptiker",224,3254
+"ISCO-08_ILO","de","3255","Physiotherapeutische Techniker und Assistenten",225,3255
+"ISCO-08_ILO","de","3256","Medizinische Assistenten",226,3256
+"ISCO-08_ILO","de","3257","Nicht akademische Kontrolleure und Beauftragte in den Bereichen Umwelt- und Arbeitsmedizin sowie verwandte Berufe",227,3257
+"ISCO-08_ILO","de","3258","Rettungsdienstpersonal",228,3258
+"ISCO-08_ILO","de","3259","Assistenzberufe im Gesundheitswesen, anderweitig nicht genannt",229,3259
+"ISCO-08_ILO","de","33","Nicht akademische betriebswirtschaftliche und kaufmännische Fachkräfte und Verwaltungsfachkräfte",230,3300
+"ISCO-08_ILO","de","331","Nicht akademische Fachkräfte im Bereich Finanzen und mathematische Verfahren",231,3310
+"ISCO-08_ILO","de","3311","Wertpapierhändler, -makler und Finanzmakler",232,3311
+"ISCO-08_ILO","de","3312","Kreditsachbearbeiter",233,3312
+"ISCO-08_ILO","de","3313","Nicht akademische Fachkräfte im Rechnungswesen",234,3313
+"ISCO-08_ILO","de","3314","Nicht akademische statistische, mathematische und verwandte Fachkräfte",235,3314
+"ISCO-08_ILO","de","3315","Schätzer und Schadensgutachter",236,3315
+"ISCO-08_ILO","de","332","Vertriebsagenten, Einkäufer und Handelsmakler",237,3320
+"ISCO-08_ILO","de","3321","Versicherungsvertreter",238,3321
+"ISCO-08_ILO","de","3322","Vertriebsagenten",239,3322
+"ISCO-08_ILO","de","3323","Einkäufer",240,3323
+"ISCO-08_ILO","de","3324","Handelsmakler",241,3324
+"ISCO-08_ILO","de","333","Fachkräfte für unternehmensbezogene Dienstleistungen",242,3330
+"ISCO-08_ILO","de","3331","Fachkräfte für Abrechnungs- und Speditionsdienstleistungen",243,3331
+"ISCO-08_ILO","de","3332","Konferenz- und Veranstaltungsplaner",244,3332
+"ISCO-08_ILO","de","3333","Arbeits- und Personalvermittler",245,3333
+"ISCO-08_ILO","de","3334","Immobilienmakler und -verwalter",246,3334
+"ISCO-08_ILO","de","3339","Fachkräfte für unternehmensbezogene Dienstleistungen, anderweitig nicht genannt",247,3339
+"ISCO-08_ILO","de","334","Sekretariatsfachkräfte",248,3340
+"ISCO-08_ILO","de","3341","Sekretariatsleiter",249,3341
+"ISCO-08_ILO","de","3342","Sekretariatsfachkräfte im juristischen Bereich",250,3342
+"ISCO-08_ILO","de","3343","Sekretariatsfachkräfte in Verwaltung und Geschäftsleitung",251,3343
+"ISCO-08_ILO","de","3344","Sekretariatsfachkräfte im Gesundheitswesen",252,3344
+"ISCO-08_ILO","de","335","Fachkräfte in der öffentlichen Verwaltung",253,3350
+"ISCO-08_ILO","de","3351","Fachkräfte im Zolldienst und Grenzschutz",254,3351
+"ISCO-08_ILO","de","3352","Fachkräfte in der Steuerverwaltung",255,3352
+"ISCO-08_ILO","de","3353","Fachkräfte in Sozialverwaltung und -versicherung",256,3353
+"ISCO-08_ILO","de","3354","Fachkräfte bei staatlichen Pass-, Lizenz- und Genehmigungsstellen",257,3354
+"ISCO-08_ILO","de","3355","Polizeikommissare und Kriminalbeamte",258,3355
+"ISCO-08_ILO","de","3359","Fachkräfte in der öffentlichen Verwaltung, anderweitig nicht genannt",259,3359
+"ISCO-08_ILO","de","34","Nicht akademische juristische, sozialpflegerische, kulturelle und verwandte Fachkräfte",260,3400
+"ISCO-08_ILO","de","341","Nicht akademische juristische, sozialpflegerische und religiöse Berufe",261,3410
+"ISCO-08_ILO","de","3411","Nicht akademische Fachkräfte für Rechts- und verwandte Angelegenheiten",262,3411
+"ISCO-08_ILO","de","3412","Nicht akademische sozialpflegerische Fachkräfte",263,3412
+"ISCO-08_ILO","de","3413","Ordensbrüder/-schwestern und Seelsorgehelfer",264,3413
+"ISCO-08_ILO","de","342","Fachkräfte im Bereich Sport und Fitness",265,3420
+"ISCO-08_ILO","de","3421","Athleten und Berufssportler",266,3421
+"ISCO-08_ILO","de","3422","Sportlehrer, Sporttrainer und Sportfunktionäre",267,3422
+"ISCO-08_ILO","de","3423","Trainer und Betreuer im Bereich Fitness und Erholung",268,3423
+"ISCO-08_ILO","de","343","Fachkräfte in Gestaltung und Kultur sowie Küchenchefs",269,3430
+"ISCO-08_ILO","de","3431","Fotografen",270,3431
+"ISCO-08_ILO","de","3432","Raumgestalter und Dekorateure",271,3432
+"ISCO-08_ILO","de","3433","Fachkräfte in Kunstgalerien, Museen und Bibliotheken",272,3433
+"ISCO-08_ILO","de","3434","Küchenchefs",273,3434
+"ISCO-08_ILO","de","3435","Sonstige Fachkräfte in Gestaltung und Kultur",274,3435
+"ISCO-08_ILO","de","35","Informations- und Kommunikationstechniker",275,3500
+"ISCO-08_ILO","de","351","Techniker für den Betrieb von Informations- und Kommunikationstechnologie und für die Anwenderbetreuung",276,3510
+"ISCO-08_ILO","de","3511","Techniker für den Betrieb von Informations- und Kommunikationstechnologie",277,3511
+"ISCO-08_ILO","de","3512","Techniker für die Anwenderbetreuung in der Informations- und Kommunikationstechnologie",278,3512
+"ISCO-08_ILO","de","3513","Techniker für Computernetzwerke und -systeme",279,3513
+"ISCO-08_ILO","de","3514","Webmaster",280,3514
+"ISCO-08_ILO","de","352","Telekommunikations- und Rundfunktechniker",281,3520
+"ISCO-08_ILO","de","3521","Techniker für Rundfunk und audiovisuelle Medien",282,3521
+"ISCO-08_ILO","de","3522","Telekommunikationstechniker",283,3522
+"ISCO-08_ILO","de","4","Bürokräfte und verwandte Berufe",284,4000
+"ISCO-08_ILO","de","41","Allgemeine Büro- und Sekretariatskräfte",285,4100
+"ISCO-08_ILO","de","411","Allgemeine Bürokräfte",286,4110
+"ISCO-08_ILO","de","4110","Allgemeine Bürokräfte",287,4110
+"ISCO-08_ILO","de","412","Sekretariatskräfte (allgemein)",288,4120
+"ISCO-08_ILO","de","4120","Sekretariatskräfte (allgemein)",289,4120
+"ISCO-08_ILO","de","413","Schreibkräfte und Datenerfasser",290,4130
+"ISCO-08_ILO","de","4131","Schreibkräfte und Bediener von Textverarbeitungsanlagen",291,4131
+"ISCO-08_ILO","de","4132","Datenerfasser",292,4132
+"ISCO-08_ILO","de","42","Bürokräfte mit Kundenkontakt",293,4200
+"ISCO-08_ILO","de","421","Schalterbedienstete, Inkassobeauftragte und verwandte Berufe",294,4210
+"ISCO-08_ILO","de","4211","Bank- und andere Schalterbedienstete",295,4211
+"ISCO-08_ILO","de","4212","Buchmacher, Croupiers und verwandte Berufe im Bereich Glücks- und Wettspiele",296,4212
+"ISCO-08_ILO","de","4213","Pfandleiher und Geldverleiher",297,4213
+"ISCO-08_ILO","de","4214","Inkassobeauftragte und verwandte Berufe",298,4214
+"ISCO-08_ILO","de","422","Berufe im Bereich Kundeninformation",299,4220
+"ISCO-08_ILO","de","4221","Reiseverkehrsfachkräfte",300,4221
+"ISCO-08_ILO","de","4222","Kundeninformationsfachkräfte in Call Centers",301,4222
+"ISCO-08_ILO","de","4223","Telefonisten",302,4223
+"ISCO-08_ILO","de","4224","Hotelrezeptionisten",303,4224
+"ISCO-08_ILO","de","4225","Auskunftspersonal",304,4225
+"ISCO-08_ILO","de","4226","Empfangskräfte (allgemein)",305,4226
+"ISCO-08_ILO","de","4227","Interviewer im Bereich Umfragen und Marktforschung",306,4227
+"ISCO-08_ILO","de","4229","Berufe im Bereich Kundeninformation, anderweitig nicht genannt",307,4229
+"ISCO-08_ILO","de","43","Bürokräfte im Finanz- und Rechnungswesen, in der Statistik und in der Materialwirtschaft",308,4300
+"ISCO-08_ILO","de","431","Bürokräfte im Finanz- und Rechnungswesen und in der Statistik",309,4310
+"ISCO-08_ILO","de","4311","Bürokräfte im Rechnungswesen und in der Buchhaltung",310,4311
+"ISCO-08_ILO","de","4312","Bürokräfte in der Statistik, im Finanz- und Versicherungswesen",311,4312
+"ISCO-08_ILO","de","4313","Bürokräfte in der Lohnbuchhaltung",312,4313
+"ISCO-08_ILO","de","432","Bürokräfte im Bereich Materialwirtschaft und Transport und verwandte Berufe",313,4320
+"ISCO-08_ILO","de","4321","Fachkräfte in der Lagerwirtschaft",314,4321
+"ISCO-08_ILO","de","4322","Bürokräfte in der Material- und Fertigungsplanung und verwandte Berufe",315,4322
+"ISCO-08_ILO","de","4323","Bürokräfte in der Transportwirtschaft und verwandte Berufe",316,4323
+"ISCO-08_ILO","de","44","Sonstige Bürokräfte und verwandte Berufe",317,4400
+"ISCO-08_ILO","de","441","Sonstige Bürokräfte und verwandte Berufe",318,4410
+"ISCO-08_ILO","de","4411","Bibliotheksassistenten",319,4411
+"ISCO-08_ILO","de","4412","Postverteiler und -sortierer",320,4412
+"ISCO-08_ILO","de","4413","Kodierer, Korrekturleser und verwandte Bürokräfte",321,4413
+"ISCO-08_ILO","de","4414","Schreiber und verwandte Arbeitskräfte",322,4414
+"ISCO-08_ILO","de","4415","Bürokräfte für Registratur und Dokumentation",323,4415
+"ISCO-08_ILO","de","4416","Bürokräfte im Personalwesen",324,4416
+"ISCO-08_ILO","de","4419","Bürokräfte und verwandte Berufe, anderweitig nicht genannt",325,4419
+"ISCO-08_ILO","de","5","Dienstleistungsberufe und Verkäufer",326,5000
+"ISCO-08_ILO","de","51","Berufe im Bereich personenbezogener Dienstleistungen",327,5100
+"ISCO-08_ILO","de","511","Reisebegleiter, Schaffner und Reiseleiter",328,5110
+"ISCO-08_ILO","de","5111","Reisebegleiter und Stewards",329,5111
+"ISCO-08_ILO","de","5112","Schaffner",330,5112
+"ISCO-08_ILO","de","5113","Reiseleiter/Fremdenführer",331,5113
+"ISCO-08_ILO","de","512","Köche",332,5120
+"ISCO-08_ILO","de","5120","Köche",333,5120
+"ISCO-08_ILO","de","513","Kellner und Barkeeper",334,5130
+"ISCO-08_ILO","de","5131","Kellner",335,5131
+"ISCO-08_ILO","de","5132","Barkeeper",336,5132
+"ISCO-08_ILO","de","514","Friseure, Kosmetiker und verwandte Berufe",337,5140
+"ISCO-08_ILO","de","5141","Friseure",338,5141
+"ISCO-08_ILO","de","5142","Kosmetiker und verwandte Berufe",339,5142
+"ISCO-08_ILO","de","515","Hauswarte und Hauswirtschaftsleiter",340,5150
+"ISCO-08_ILO","de","5151","Reinigungs- und Hauswirtschaftsleiter in Büros, Hotels und anderen Einrichtungen",341,5151
+"ISCO-08_ILO","de","5152","Hauswirtschafter in Privathaushalten",342,5152
+"ISCO-08_ILO","de","5153","Hauswarte",343,5153
+"ISCO-08_ILO","de","516","Sonstige Berufe im Bereich personenbezogener Dienstleistungen",344,5160
+"ISCO-08_ILO","de","5161","Astrologen, Wahrsager und verwandte Berufe",345,5161
+"ISCO-08_ILO","de","5162","Gesellschafter und Zofen/Kammerdiener",346,5162
+"ISCO-08_ILO","de","5163","Bestatter und Einbalsamierer",347,5163
+"ISCO-08_ILO","de","5164","Tierpfleger und -betreuer",348,5164
+"ISCO-08_ILO","de","5165","Fahrschullehrer",349,5165
+"ISCO-08_ILO","de","5169","Berufe im Bereich personenbezogener Dienstleistungen, anderweitig nicht genannt",350,5169
+"ISCO-08_ILO","de","52","Verkaufskräfte",351,5200
+"ISCO-08_ILO","de","521","Straßen- und Marktverkäufer",352,5210
+"ISCO-08_ILO","de","5211","Verkaufsstand- und Marktverkäufer",353,5211
+"ISCO-08_ILO","de","5212","Straßenverkäufer von Lebensmitteln",354,5212
+"ISCO-08_ILO","de","522","Verkaufskräfte in Handelsgeschäften",355,5220
+"ISCO-08_ILO","de","5221","Leiter eines Einzelhandelsgeschäftes",356,5221
+"ISCO-08_ILO","de","5222","Verkaufsaufsichtskräfte in Handelsgeschäften",357,5222
+"ISCO-08_ILO","de","5223","Verkäufer und Verkaufshilfskräfte in Handelsgeschäften",358,5223
+"ISCO-08_ILO","de","523","Kassierer und Kartenverkäufer",359,5230
+"ISCO-08_ILO","de","5230","Kassierer und Kartenverkäufer",360,5230
+"ISCO-08_ILO","de","524","Sonstige Verkaufskräfte",361,5240
+"ISCO-08_ILO","de","5241","Mannequins/Dressmen und sonstige Modelle",362,5241
+"ISCO-08_ILO","de","5242","Produktvorführer",363,5242
+"ISCO-08_ILO","de","5243","Haustürverkäufer",364,5243
+"ISCO-08_ILO","de","5244","Telefonverkäufer",365,5244
+"ISCO-08_ILO","de","5245","Tankwarte",366,5245
+"ISCO-08_ILO","de","5246","Imbissverkäufer",367,5246
+"ISCO-08_ILO","de","5249","Verkaufskräfte, anderweitig nicht genannt",368,5249
+"ISCO-08_ILO","de","53","Betreuungsberufe",369,5300
+"ISCO-08_ILO","de","531","Kinder- und Lernbetreuer",370,5310
+"ISCO-08_ILO","de","5311","Kinderbetreuer",371,5311
+"ISCO-08_ILO","de","5312","Lernbetreuer",372,5312
+"ISCO-08_ILO","de","532","Betreuungsberufe im Gesundheitswesen",373,5320
+"ISCO-08_ILO","de","5321","Pflegehelfer",374,5321
+"ISCO-08_ILO","de","5322","Haus- und Familienpfleger",375,5322
+"ISCO-08_ILO","de","5329","Betreuungsberufe im Gesundheitswesen, anderweitig nicht genannt",376,5329
+"ISCO-08_ILO","de","54","Schutzkräfte und Sicherheitsbedienstete",377,5400
+"ISCO-08_ILO","de","541","Schutzkräfte und Sicherheitsbedienstete",378,5410
+"ISCO-08_ILO","de","5411","Feuerwehrleute",379,5411
+"ISCO-08_ILO","de","5412","Polizisten (ohne Polizeikommissare)",380,5412
+"ISCO-08_ILO","de","5413","Gefängnisaufseher",381,5413
+"ISCO-08_ILO","de","5414","Sicherheitswachpersonal",382,5414
+"ISCO-08_ILO","de","5419","Schutzkräfte und Sicherheitsbedienstete, anderweitig nicht genannt",383,5419
+"ISCO-08_ILO","de","6","Fachkräfte in Land- und Forstwirtschaft und Fischerei",384,6000
+"ISCO-08_ILO","de","61","Fachkräfte in der Landwirtschaft",385,6100
+"ISCO-08_ILO","de","611","Gärtner und Ackerbauern",386,6110
+"ISCO-08_ILO","de","6111","Ackerbauern und Gemüseanbauer",387,6111
+"ISCO-08_ILO","de","6112","Baum- und Strauchfrüchteanbauer",388,6112
+"ISCO-08_ILO","de","6113","Gärtner, Saat- und Pflanzenzüchter",389,6113
+"ISCO-08_ILO","de","6114","Fachkräfte in der Mischkulturlandwirtschaft",390,6114
+"ISCO-08_ILO","de","612","Tierhalter",391,6120
+"ISCO-08_ILO","de","6121","Nutztierhalter (ohne Geflügel) und Milchproduzenten",392,6121
+"ISCO-08_ILO","de","6122","Geflügelhalter",393,6122
+"ISCO-08_ILO","de","6123","Imker und Seidenraupenzüchter",394,6123
+"ISCO-08_ILO","de","6129","Tierhalter, anderweitig nicht genannt",395,6129
+"ISCO-08_ILO","de","613","Landwirte mit Ackerbau und Tierhaltung (ohne ausgeprägten Schwerpunkt)",396,6130
+"ISCO-08_ILO","de","6130","Landwirte mit Ackerbau und Tierhaltung (ohne ausgeprägten Schwerpunkt)",397,6130
+"ISCO-08_ILO","de","62","Fachkräfte in Forstwirtschaft, Fischerei und Jagd — Marktproduktion",398,6200
+"ISCO-08_ILO","de","621","Forstarbeitskräfte und verwandte Berufe",399,6210
+"ISCO-08_ILO","de","6210","Forstarbeitskräfte und verwandte Berufe",400,6210
+"ISCO-08_ILO","de","622","Fischer, Jäger und Fallensteller",401,6220
+"ISCO-08_ILO","de","6221","Fachkräfte im Bereich Aquakultur",402,6221
+"ISCO-08_ILO","de","6222","Binnen- und Küstenfischer",403,6222
+"ISCO-08_ILO","de","6223","Hochseefischer",404,6223
+"ISCO-08_ILO","de","6224","Jäger und Fallensteller",405,6224
+"ISCO-08_ILO","de","63","Landwirte, Fischer, Jäger und Sammler für den Eigenbedarf",406,6300
+"ISCO-08_ILO","de","631","Ackerbauern für den Eigenbedarf",407,6310
+"ISCO-08_ILO","de","6310","Ackerbauern für den Eigenbedarf",408,6310
+"ISCO-08_ILO","de","632","Nutztierhalter für den Eigenbedarf",409,6320
+"ISCO-08_ILO","de","6320","Nutztierhalter für den Eigenbedarf",410,6320
+"ISCO-08_ILO","de","633","Ackerbauern und Nutztierhalter (ohne ausgeprägten Schwerpunkt) für den Eigenbedarf",411,6330
+"ISCO-08_ILO","de","6330","Ackerbauern und Nutztierhalter (ohne ausgeprägten Schwerpunkt) für den Eigenbedarf",412,6330
+"ISCO-08_ILO","de","634","Fischer, Jäger, Fallensteller und Sammler für den Eigenbedarf",413,6340
+"ISCO-08_ILO","de","6340","Fischer, Jäger, Fallensteller und Sammler für den Eigenbedarf",414,6340
+"ISCO-08_ILO","de","7","ndwerks- und verwandte Berufe",415,7000
+"ISCO-08_ILO","de","71","au- und Ausbaufachkräfte sowie verwandte Berufe, ausgenommen Elektriker",416,7100
+"ISCO-08_ILO","de","711","Baukonstruktions- und verwandte Berufe",417,7110
+"ISCO-08_ILO","de","7111","Rohbaufacharbeiter im Hochbau",418,7111
+"ISCO-08_ILO","de","7112","Maurer und verwandte Berufe",419,7112
+"ISCO-08_ILO","de","7113","Steinmetze, Steinspalter, -bearbeiter und Steinbildhauer",420,7113
+"ISCO-08_ILO","de","7114","Betonierer, Betonoberflächenfertiger und verwandte Berufe",421,7114
+"ISCO-08_ILO","de","7115","Zimmerleute und Bautischler",422,7115
+"ISCO-08_ILO","de","7119","Baukonstruktions- und verwandte Berufe, anderweitig nicht genannt",423,7119
+"ISCO-08_ILO","de","712","Ausbaufachkräfte und verwandte Berufe",424,7120
+"ISCO-08_ILO","de","7121","Dachdecker",425,7121
+"ISCO-08_ILO","de","7122","Boden- und Fliesenleger",426,7122
+"ISCO-08_ILO","de","7123","Stuckateure",427,7123
+"ISCO-08_ILO","de","7124","Isolierer",428,7124
+"ISCO-08_ILO","de","7125","Glaser",429,7125
+"ISCO-08_ILO","de","7126","Bauspengler und Sanitär- und Heizungsinstallateure",430,7126
+"ISCO-08_ILO","de","7127","Klima- und Kälteanlagenbauer",431,7127
+"ISCO-08_ILO","de","713","Maler, Gebäudereiniger und verwandte Berufe",432,7130
+"ISCO-08_ILO","de","7131","Maler und verwandte Berufe",433,7131
+"ISCO-08_ILO","de","7132","Lackierer und verwandte Berufe",434,7132
+"ISCO-08_ILO","de","7133","Fassadenreiniger und Schornsteinfeger/Rauchfangkehrer",435,7133
+"ISCO-08_ILO","de","72","Metallarbeiter, Mechaniker und verwandte Berufe",436,7200
+"ISCO-08_ILO","de","721","Blechkaltverformer, Baumetallverformer, Former (für Metallguss), Schweißer und verwandte Berufe",437,7210
+"ISCO-08_ILO","de","7211","Former und Kernmacher (für Metallguss)",438,7211
+"ISCO-08_ILO","de","7212","Schweißer und Brennschneider",439,7212
+"ISCO-08_ILO","de","7213","Blechkaltverformer",440,7213
+"ISCO-08_ILO","de","7214","Baumetallverformer und Metallbauer",441,7214
+"ISCO-08_ILO","de","7215","Verspannungsmonteure und Seilspleißer",442,7215
+"ISCO-08_ILO","de","722","Grobschmiede, Werkzeugmechaniker und verwandte Berufe",443,7220
+"ISCO-08_ILO","de","7221","Grobschmiede, Hammerschmiede und Schmiedepresser",444,7221
+"ISCO-08_ILO","de","7222","Werkzeugmechaniker und verwandte Berufe",445,7222
+"ISCO-08_ILO","de","7223","Werkzeugmaschineneinrichter und -bediener",446,7223
+"ISCO-08_ILO","de","7224","Metallpolierer, Rundschleifer und Werkzeugschärfer",447,7224
+"ISCO-08_ILO","de","723","Maschinenmechaniker und -schlosser",448,7230
+"ISCO-08_ILO","de","7231","Kraftfahrzeugmechaniker und -schlosser",449,7231
+"ISCO-08_ILO","de","7232","Flugmotorenmechaniker und -schlosser",450,7232
+"ISCO-08_ILO","de","7233","Landmaschinen- und Industriemaschinenmechaniker und -schlosser",451,7233
+"ISCO-08_ILO","de","7234","Fahrradmechaniker und verwandte Berufe",452,7234
+"ISCO-08_ILO","de","73","Präzisionshandwerker, Drucker und kunsthandwerkliche Berufe",453,7300
+"ISCO-08_ILO","de","731","Präzisionshandwerker und kunsthandwerkliche Berufe",454,7310
+"ISCO-08_ILO","de","7311","Präzisionsinstrumentenmacher und -instandsetzer",455,7311
+"ISCO-08_ILO","de","7312","Musikinstrumentenbauer und -stimmer",456,7312
+"ISCO-08_ILO","de","7313","Schmuckwarenhersteller und Edelmetallbearbeiter",457,7313
+"ISCO-08_ILO","de","7314","Keramiker und verwandte Berufe",458,7314
+"ISCO-08_ILO","de","7315","Glasmacher, -schneider, -schleifer und -veredler",459,7315
+"ISCO-08_ILO","de","7316","Schildermaler, Dekormaler, Graveure und Ätzer",460,7316
+"ISCO-08_ILO","de","7317","Kunsthandwerkliche Berufe für Holz, Korbwaren und verwandte Materialien",461,7317
+"ISCO-08_ILO","de","7318","Kunsthandwerkliche Berufe für Textilien, Leder und verwandte Materialien",462,7318
+"ISCO-08_ILO","de","7319","Kunsthandwerkliche Berufe, anderweitig nicht genannt",463,7319
+"ISCO-08_ILO","de","732","Druckhandwerker",464,7320
+"ISCO-08_ILO","de","7321","Techniker in der Druckvorstufe",465,7321
+"ISCO-08_ILO","de","7322","Drucker",466,7322
+"ISCO-08_ILO","de","7323","Berufe in der Druckweiterverarbeitung und Buchbinder",467,7323
+"ISCO-08_ILO","de","74","Elektriker- und Elektroniker",468,7400
+"ISCO-08_ILO","de","741","Elektroinstallateure und -mechaniker",469,7410
+"ISCO-08_ILO","de","7411","Bauelektriker und verwandte Berufe",470,7411
+"ISCO-08_ILO","de","7412","Elektromechaniker und verwandte Berufe",471,7412
+"ISCO-08_ILO","de","7413","Elektroleitungsinstallateure und Wartungspersonal",472,7413
+"ISCO-08_ILO","de","742","Installateure und Mechaniker für Elektronik und Telekommunikationstechnik",473,7420
+"ISCO-08_ILO","de","7421","Elektroniker und Elektronik-Servicetechniker",474,7421
+"ISCO-08_ILO","de","7422","Installateure und Servicetechniker im Bereich Informations- und Kommunikationstechnik",475,7422
+"ISCO-08_ILO","de","75","Berufe in der Nahrungsmittelverarbeitung, Holzverarbeitung und Bekleidungsherstellung und verwandte handwerkliche Fachkräfte",476,7500
+"ISCO-08_ILO","de","751","Berufe in der Nahrungsmittelverarbeitung und verwandte handwerkliche Fachkräfte",477,7510
+"ISCO-08_ILO","de","7511","Fleischer, Fischhändler und -verarbeiter und verwandte Berufe",478,7511
+"ISCO-08_ILO","de","7512","Bäcker, Konditoren und Konfektmacher",479,7512
+"ISCO-08_ILO","de","7513","Molkerei- und Käsereifachkräfte",480,7513
+"ISCO-08_ILO","de","7514","Obst- und Gemüsekonservierer und verwandte Berufe",481,7514
+"ISCO-08_ILO","de","7515","Nahrungsmittel- und Getränkekoster und -klassierer",482,7515
+"ISCO-08_ILO","de","7516","Tabakaufbereiter und Tabakwarenmacher",483,7516
+"ISCO-08_ILO","de","752","Holzbearbeiter, Möbeltischler und verwandte Berufe",484,7520
+"ISCO-08_ILO","de","7521","Holztrockner und -konservierer",485,7521
+"ISCO-08_ILO","de","7522","Möbeltischler und verwandte Berufe",486,7522
+"ISCO-08_ILO","de","7523","Einrichter und Bediener von Holzbearbeitungsmaschinen",487,7523
+"ISCO-08_ILO","de","753","Berufe der Bekleidungsherstellung und verwandte Berufe",488,7530
+"ISCO-08_ILO","de","7531","Herren- und Damenschneider, Kürschner und Hutmacher",489,7531
+"ISCO-08_ILO","de","7532","Schnittmustermacher und Zuschneider",490,7532
+"ISCO-08_ILO","de","7533","Näher, Sticker und verwandte Berufe",491,7533
+"ISCO-08_ILO","de","7534","Polsterer und verwandte Berufe",492,7534
+"ISCO-08_ILO","de","7535","Pelzveredler, Gerber und Fellzurichter",493,7535
+"ISCO-08_ILO","de","7536","Schuhmacher und verwandte Berufe",494,7536
+"ISCO-08_ILO","de","754","Sonstige Handwerks- und verwandte Berufe",495,7540
+"ISCO-08_ILO","de","7541","Taucher",496,7541
+"ISCO-08_ILO","de","7542","Sprengmeister und Sprengbeauftragte",497,7542
+"ISCO-08_ILO","de","7543","Produkttester und -klassierer (ohne Nahrungsmittel und Getränke)",498,7543
+"ISCO-08_ILO","de","7544","Kammerjäger und andere Schädlingsbekämpfungsberufe",499,7544
+"ISCO-08_ILO","de","7549","Handwerks- und verwandte Berufe, anderweitig nicht genannt",500,7549
+"ISCO-08_ILO","de","8","Bediener von Anlagen und Maschinen und Montageberufe",501,8000
+"ISCO-08_ILO","de","81","Bediener stationärer Anlagen und Maschinen",502,8100
+"ISCO-08_ILO","de","811","Bediener von Anlagen für den Bergbau und die Mineralaufbereitung",503,8110
+"ISCO-08_ILO","de","8111","Bergleute und Grubenarbeiter",504,8111
+"ISCO-08_ILO","de","8112","Bediener von Mineral- und Gesteinsaufbereitungsanlagen",505,8112
+"ISCO-08_ILO","de","8113","Tiefbohrer und verwandte Berufe",506,8113
+"ISCO-08_ILO","de","8114","Bediener von Maschinen zur Herstellung und Verarbeitung von Zement, Steinen und sonstigen Mineralien",507,8114
+"ISCO-08_ILO","de","812","Bediener von Anlagen in der Metallerzeugung, -umformung und -veredlung",508,8120
+"ISCO-08_ILO","de","8121","Bediener von Anlagen in der Metallerzeugung und -umformung",509,8121
+"ISCO-08_ILO","de","8122","Bediener von Anlagen zur Metallveredlung, Plattierung und Beschichtung von Metallen",510,8122
+"ISCO-08_ILO","de","813","Bediener von Anlagen und Maschinen für chemische und fotografische Erzeugnisse",511,8130
+"ISCO-08_ILO","de","8131","Bediener von Anlagen und Maschinen für chemische Erzeugnisse",512,8131
+"ISCO-08_ILO","de","8132","Bediener von Anlagen für fotografische Erzeugnisse",513,8132
+"ISCO-08_ILO","de","814","Bediener von Maschinen zur Herstellung von Gummi-, Kunststoff- und Papierwaren",514,8140
+"ISCO-08_ILO","de","8141","Bediener von Maschinen zur Herstellung von Gummiwaren",515,8141
+"ISCO-08_ILO","de","8142","Bediener von Maschinen zur Herstellung von Kunststoffwaren",516,8142
+"ISCO-08_ILO","de","8143","Bediener von Maschinen zur Herstellung von Papierwaren",517,8143
+"ISCO-08_ILO","de","815","Bediener von Maschinen zur Herstellung von Textil-, Pelz- und Lederwaren",518,8150
+"ISCO-08_ILO","de","8151","Bediener von Spinnstoffaufbereitungs-, Spinn- und Spulmaschinen",519,8151
+"ISCO-08_ILO","de","8152","Bediener von Web-, Strick- und Wirkmaschinen",520,8152
+"ISCO-08_ILO","de","8153","Bediener von Nähmaschinen",521,8153
+"ISCO-08_ILO","de","8154","Bediener von Bleich- und Färbemaschinen",522,8154
+"ISCO-08_ILO","de","8155","Bediener von Pelz- und Lederzurichtungs- und -vorbereitungsmaschinen",523,8155
+"ISCO-08_ILO","de","8156","Bediener von Maschinen zur Schuhherstellung und verwandte Berufe",524,8156
+"ISCO-08_ILO","de","8157","Bediener von Wäschereimaschinen",525,8157
+"ISCO-08_ILO","de","8159","Bediener von Maschinen zur Herstellung von Textil-, Pelz- und Lederwaren, anderweitig nicht genannt",526,8159
+"ISCO-08_ILO","de","816","Bediener von Maschinen zur Herstellung von Nahrungs- und Genussmitteln",527,8160
+"ISCO-08_ILO","de","8160","Bediener von Maschinen zur Herstellung von Nahrungs- und Genussmitteln",528,8160
+"ISCO-08_ILO","de","817","Bediener von Anlagen zur Holzaufbereitung und Papierherstellung",529,8170
+"ISCO-08_ILO","de","8171","Bediener von Anlagen zur Zellstoff- und Papierherstellung",530,8171
+"ISCO-08_ILO","de","8172","Bediener von Anlagen zur Holzaufbereitung",531,8172
+"ISCO-08_ILO","de","818","Bediener sonstiger stationärer Anlagen und Maschinen",532,8180
+"ISCO-08_ILO","de","8181","Bediener von Anlagen zur Glas- und Keramikherstellung",533,8181
+"ISCO-08_ILO","de","8182","Bediener von Dampfmaschinen und -kesseln",534,8182
+"ISCO-08_ILO","de","8183","Bediener von Verpackungs-, Abfüll- und Etikettiermaschinen",535,8183
+"ISCO-08_ILO","de","8189","Bediener stationärer Anlagen und Maschinen, anderweitig nicht genannt",536,8189
+"ISCO-08_ILO","de","82","Montageberufe",537,8200
+"ISCO-08_ILO","de","821","Montageberufe",538,8210
+"ISCO-08_ILO","de","8211","Berufe der Montage von mechanischen Bauteilen",539,8211
+"ISCO-08_ILO","de","8212","Berufe der Montage von elektrischen und elektronischen Geräten",540,8212
+"ISCO-08_ILO","de","8219","Montageberufe, anderweitig nicht genannt",541,8219
+"ISCO-08_ILO","de","83","Fahrzeugführer und Bediener mobiler Anlagen",542,8300
+"ISCO-08_ILO","de","831","Lokomotivführer und verwandte Berufe",543,8310
+"ISCO-08_ILO","de","8311","Lokomotivführer",544,8311
+"ISCO-08_ILO","de","8312","Bediener von Sicherungs-, Signal- und Leittechnik im Schienennetzbetrieb",545,8312
+"ISCO-08_ILO","de","832","Kraftfahrzeugführer",546,8320
+"ISCO-08_ILO","de","8321","Kraftradfahrer",547,8321
+"ISCO-08_ILO","de","8322","Personenkraftwagen-, Taxi-, Kleintransporter- und Kleinbusfahrer",548,8322
+"ISCO-08_ILO","de","833","Fahrer schwerer Lastkraftwagen und Busse",549,8330
+"ISCO-08_ILO","de","8331","Busfahrer und Straßenbahnführer",550,8331
+"ISCO-08_ILO","de","8332","Fahrer schwerer Lastkraftwagen",551,8332
+"ISCO-08_ILO","de","834","Bediener mobiler Anlagen",552,8340
+"ISCO-08_ILO","de","8341","Führer von mobilen land- und forstwirtschaftlichen Maschinen",553,8341
+"ISCO-08_ILO","de","8342","Führer von Erdbewegungs- und verwandten Maschinen",554,8342
+"ISCO-08_ILO","de","8343","Kranführer, Aufzugmaschinisten und Bediener verwandter Hebeeinrichtungen",555,8343
+"ISCO-08_ILO","de","8344","Gabelstaplerfahrer und verwandte Berufe",556,8344
+"ISCO-08_ILO","de","835","Deckspersonal auf Schiffen und verwandte Berufe",557,8350
+"ISCO-08_ILO","de","8350","Deckspersonal auf Schiffen und verwandte Berufe",558,8350
+"ISCO-08_ILO","de","9","Hilfsarbeitskräfte",559,9000
+"ISCO-08_ILO","de","91","Reinigungspersonal und Hilfskräfte",560,9100
+"ISCO-08_ILO","de","911","Reinigungspersonal und Hilfskräfte in Privathaushalten, Hotels und Büros",561,9110
+"ISCO-08_ILO","de","9111","Reinigungspersonal und Hilfskräfte in Privathaushalten",562,9111
+"ISCO-08_ILO","de","9112","Reinigungspersonal und Hilfskräfte in Büros, Hotels und anderen Einrichtungen",563,9112
+"ISCO-08_ILO","de","912","Reinigungspersonal für Fahrzeuge, Fenster, Wäsche und sonstige manuelle Reinigungsberufe",564,9120
+"ISCO-08_ILO","de","9121","Handwäscher und Handbügler",565,9121
+"ISCO-08_ILO","de","9122","Fahrzeugreiniger",566,9122
+"ISCO-08_ILO","de","9123","Fensterputzer",567,9123
+"ISCO-08_ILO","de","9129","Sonstiges Reinigungspersonal",568,9129
+"ISCO-08_ILO","de","92","Hilfsarbeiter in der Land- und Forstwirtschaft und Fischerei",569,9200
+"ISCO-08_ILO","de","921","Hilfsarbeiter in der Land- und Forstwirtschaft und Fischerei",570,9210
+"ISCO-08_ILO","de","9211","Hilfsarbeiter im Ackerbau",571,9211
+"ISCO-08_ILO","de","9212","Hilfsarbeiter in der Tierhaltung",572,9212
+"ISCO-08_ILO","de","9213","Hilfsarbeiter in Ackerbau und Tierhaltung (ohne ausgeprägten Schwerpunkt)",573,9213
+"ISCO-08_ILO","de","9214","Hilfsarbeiter im Gartenbau",574,9214
+"ISCO-08_ILO","de","9215","Hilfsarbeiter in der Forstwirtschaft",575,9215
+"ISCO-08_ILO","de","9216","Hilfsarbeiter in der Fischerei und Aquakultur",576,9216
+"ISCO-08_ILO","de","93","Hilfsarbeiter im Bergbau, im Bau, bei der Herstellung von Waren und im Transportwesen",577,9300
+"ISCO-08_ILO","de","931","Hilfsarbeiter im Bergbau und im Bau",578,9310
+"ISCO-08_ILO","de","9311","Hilfsarbeiter im Bergbau und in der Gewinnung von Steinen und Erden",579,9311
+"ISCO-08_ILO","de","9312","Hilfsarbeiter im Tiefbau",580,9312
+"ISCO-08_ILO","de","9313","Hilfsarbeiter im Hochbau",581,9313
+"ISCO-08_ILO","de","932","Hilfsarbeiter bei der Herstellung von Waren",582,9320
+"ISCO-08_ILO","de","9321","Verpacker",583,9321
+"ISCO-08_ILO","de","9329","Hilfsarbeiter bei der Herstellung von Waren, anderweitig nicht genannt",584,9329
+"ISCO-08_ILO","de","933","Hilfsarbeiter in Transport und Lagerei",585,9330
+"ISCO-08_ILO","de","9331","Führer von Handwagen und pedalbetriebenen Fahrzeugen",586,9331
+"ISCO-08_ILO","de","9332","Führer von Fahrzeugen und Maschinen mit Zugtierantrieb",587,9332
+"ISCO-08_ILO","de","9333","Frachtarbeiter und verwandte Berufe",588,9333
+"ISCO-08_ILO","de","9334","Regalbetreuer und -auffüller",589,9334
+"ISCO-08_ILO","de","94","Hilfskräfte in der Nahrungsmittelzubereitung",590,9400
+"ISCO-08_ILO","de","941","Hilfskräfte in der Nahrungsmittelzubereitung",591,9410
+"ISCO-08_ILO","de","9411","Zubereiter von Fast Food und anderen Imbissen",592,9411
+"ISCO-08_ILO","de","9412","Küchenhilfen",593,9412
+"ISCO-08_ILO","de","95","Straßenhändler und auf der Straße arbeitende Dienstleistungskräfte",594,9500
+"ISCO-08_ILO","de","951","Auf der Straße arbeitende Dienstleistungskräfte und verwandte Berufe",595,9510
+"ISCO-08_ILO","de","9510","Auf der Straße arbeitende Dienstleistungskräfte und verwandte Berufe",596,9510
+"ISCO-08_ILO","de","952","Straßenverkäufer (ohne Lebensmittel)",597,9520
+"ISCO-08_ILO","de","9520","Straßenverkäufer (ohne Lebensmittel)",598,9520
+"ISCO-08_ILO","de","96","Abfallentsorgungsarbeiter und sonstige Hilfsarbeitskräfte",599,9600
+"ISCO-08_ILO","de","961","Abfallentsorgungsarbeiter",600,9610
+"ISCO-08_ILO","de","9611","Arbeiter in der Abfall- und Wertstoffsammlung",601,9611
+"ISCO-08_ILO","de","9612","Arbeiter in der Abfallsortierung",602,9612
+"ISCO-08_ILO","de","9613","Straßenkehrer und verwandte Berufe",603,9613
+"ISCO-08_ILO","de","962","Sonstige Hilfsarbeitskräfte",604,9620
+"ISCO-08_ILO","de","9621","Boten, Paketauslieferer und Gepäckträger",605,9621
+"ISCO-08_ILO","de","9622","Gelegenheitsarbeiter",606,9622
+"ISCO-08_ILO","de","9623","Zählerableser, Automatenbefüller und -kassierer",607,9623
+"ISCO-08_ILO","de","9624","Wasserträger und Brennholzsammler",608,9624
+"ISCO-08_ILO","de","9629","Hilfsarbeitskräfte, anderweitig nicht genannt",609,9629
+"ISCO-08_ILO","de","0","Angehörige der regulären Streitkräfte",610,0
+"ISCO-08_ILO","de","01","Offiziere in regulären Streitkräften",611,100
+"ISCO-08_ILO","de","011","Offiziere in regulären Streitkräften",612,110
+"ISCO-08_ILO","de","0110","Offiziere in regulären Streitkräften",613,110
+"ISCO-08_ILO","de","02","Unteroffiziere in regulären Streitkräften",614,200
+"ISCO-08_ILO","de","021","Unteroffiziere in regulären Streitkräften",615,210
+"ISCO-08_ILO","de","0210","Unteroffiziere in regulären Streitkräften",616,210
+"ISCO-08_ILO","de","03","Angehörige der regulären Streitkräfte in sonstigen Rängen",617,300
+"ISCO-08_ILO","de","031","Angehörige der regulären Streitkräfte in sonstigen Rängen",618,310
+"ISCO-08_ILO","de","0310","Angehörige der regulären Streitkräfte in sonstigen Rängen.",619,310
