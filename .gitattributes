@@ -1,4 +1,4 @@
 *.ado linguist-language=Stata
 *.sthlp linguist-language=Stata
 *.do linguist-language=Stata
-
+*.sps linguist-language=SPSS
