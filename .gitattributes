@@ -1,4 +1,8 @@
 *.ado linguist-language=Stata
 *.sthlp linguist-language=Stata
 *.do linguist-language=Stata
+*.toc linguist-language=Stata
+*.pkg linguist-language=Stata
 *.sps linguist-language=SPSS
+create_tables/proprietary/* linguist-vendored
+
