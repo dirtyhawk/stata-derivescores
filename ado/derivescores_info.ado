@@ -18,7 +18,7 @@ program define derivescores_info , nclass
 	}
 	// if no declaration is explicitly queried, determine list of all declaration numbers
 	if (missing(`"`decnames'"') | inlist(`"`decnames'"',"*","_all")) {
-		quietly : numlist `"1/${DERIVESCORES_deccount}"'
+		quietly : numlist `"1/${DERIVESCORES_dec_count}"'
 		local decnums `r(numlist)'
 	}
 	// determine initialization number for given declaration(s)
@@ -26,8 +26,8 @@ program define derivescores_info , nclass
 		local decnums
 		foreach entry of local decnames {
 			local match 0
-			forvalues num=1/${DERIVESCORES_deccount} {
-				if (`"${DERIVESCORES_dec`num'shortname}"'==`"`entry'"') {
+			forvalues num=1/${DERIVESCORES_dec_count} {
+				if (`"${DERIVESCORES_dec`num'_shortname}"'==`"`entry'"') {
 					local decnums : list decnums | num
 					local match 1
 					continue , break
@@ -41,14 +41,14 @@ program define derivescores_info , nclass
 	}
 	// display information
 	foreach decnum of local decnums {
-		noisily : display as result in smcl `"{text} information about derivescores table declaration {result}[`decnum'] ${DERIVESCORES_dec`decnum'shortname}:"'
+		noisily : display as result in smcl `"{text} information about derivescores table declaration {result}[`decnum'] ${DERIVESCORES_dec`decnum'_shortname}:"'
 		// get maximum length of declaration keys for creating table structure
-		local keys : all globals `"DERIVESCORES_dec`decnum'*"'
+		local keys : all globals `"DERIVESCORES_dec`decnum'_*"'
 		local keys : list sort keys
 		if (`"`: list posof "`decnum'" in decnums'"'=="1") {
 			foreach key of local keys {
 				// display information per table declaration
-				local keyname : subinstr local key `"DERIVESCORES_dec`decnum'"' "" , all
+				local keyname : subinstr local key `"DERIVESCORES_dec`decnum'_"' "" , all
 				if (udstrlen(`"`keyname'"')>`maxnamelength') local maxnamelength=udstrlen(`"`keyname'"')+`tableoffset'+`tablespace'
 			}
 		}
@@ -57,7 +57,7 @@ program define derivescores_info , nclass
 		// display declaration's information per key
 		foreach key of local keys {
 			// display information per table declaration
-			local keyname : subinstr local key `"DERIVESCORES_dec`decnum'"' "" , all
+			local keyname : subinstr local key `"DERIVESCORES_dec`decnum'_"' "" , all
 			noisily : display as result in smcl `"{p2col:`keyname'}${`key'}{p_end}"'
 		}
 		noisily : display as result in smcl "{p2colreset}" _continue

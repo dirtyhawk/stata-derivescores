@@ -37,47 +37,47 @@ program define derivescores_init , nclass
 		local counter=`num'-`invalid'
 		local searchfilename
 		if (missing(`"`=Correspondence[`num']'"')) {
-			global DERIVESCORES_dec`counter'shortname=ConceptScheme[`num']
+			global DERIVESCORES_dec`counter'_shortname=ConceptScheme[`num']
 			local searchfilename=lower(ConceptScheme[`num'])+`".csv"'
-			global DERIVESCORES_dec`counter'type ConceptScheme
+			global DERIVESCORES_dec`counter'_type ConceptScheme
 		}
 		else {
-			global DERIVESCORES_dec`counter'shortname=ConceptScheme[`num']+`" 🡺 "'+Correspondence[`num']
+			global DERIVESCORES_dec`counter'_shortname=ConceptScheme[`num']+`" 🡺 "'+Correspondence[`num']
 			local searchfilename=lower(ConceptScheme[`num'])+`"--"'+lower(Correspondence[`num'])+`".csv"'
-			global DERIVESCORES_dec`counter'type Correspondence
+			global DERIVESCORES_dec`counter'_type Correspondence
 		}
-		global DERIVESCORES_dec`counter'file=ustrregexrf(`"`searchfilename'"',`"\.csv$"',`".dta"',.)
+		global DERIVESCORES_dec`counter'_file=ustrregexrf(`"`searchfilename'"',`"\.csv$"',`".dta"',.)
 		capture : findfile `"`searchfilename'"'
 		if (_rc!=0) {
-			noisily: display as error in smcl `"could not find table file for {result}{it:${DERIVESCORES_dec`counter'type}}{error} {result}{it:${DERIVESCORES_dec`num'shortname}}{error} ({result}{it:`searchfilename'}{error});"' _newline `"{tab}it will not be available, nor any crosswalks to or from it;"' _newline `"{tab}maybe your package installation is broken?"'
-			global DERIVESCORES_dec`counter'shortname
-			global DERIVESCORES_dec`counter'type
+			noisily: display as error in smcl `"could not find table file for {result}{it:${DERIVESCORES_dec`counter'_type}}{error} {result}{it:${DERIVESCORES_dec`num'_shortname}}{error} ({result}{it:`searchfilename'}{error});"' _newline `"{tab}it will not be available, nor any crosswalks to or from it;"' _newline `"{tab}maybe your package installation is broken?"'
+			global DERIVESCORES_dec`counter'_shortname
+			global DERIVESCORES_dec`counter'_type
 			local --total
 			local ++invalid
 		}
-		global DERIVESCORES_dec`counter'pkgfile `"`r(fn)'"'
-		global DERIVESCORES_dec`counter'label=prefLabel[`num']
-		global DERIVESCORES_dec`counter'note=coreContentNote[`num']
-		global DERIVESCORES_dec`counter'sourcelink=source_overview[`num']
-		global DERIVESCORES_dec`counter'deeplink=source_direct[`num']
+		global DERIVESCORES_dec`counter'_pkgfile `"`r(fn)'"'
+		global DERIVESCORES_dec`counter'_label=prefLabel[`num']
+		global DERIVESCORES_dec`counter'_note=coreContentNote[`num']
+		global DERIVESCORES_dec`counter'_sourcelink=source_overview[`num']
+		global DERIVESCORES_dec`counter'_deeplink=source_direct[`num']
 		
 	}
-	global DERIVESCORES_deccount `total'
+	global DERIVESCORES_dec_count `total'
 	clear
 	// open each table declaration file, check for consistency, save temporarily in the user's temp directory
 	quietly : mkdir `"`temppath'"'
 	forvalues counter=1/`total' {
-		global DERIVESCORES_dec`counter'file `"`temppath'/${DERIVESCORES_dec`counter'file}"'
-		quietly : import delimited using `"${DERIVESCORES_dec`counter'pkgfile}"' , clear varnames(1) case(preserve) encoding("utf-8")
-		quietly : save `"${DERIVESCORES_dec`counter'file}"'
-		if (`"`verbose'"'=="verbose") noisily : display as text in smcl `"saved classification table for declaration {result}{it:${DERIVESCORES_dec`counter'shortname}}{text} to {result}{it:${DERIVESCORES_dec`counter'file}}{text}"'
+		global DERIVESCORES_dec`counter'_file `"`temppath'/${DERIVESCORES_dec`counter'_file}"'
+		quietly : import delimited using `"${DERIVESCORES_dec`counter'_pkgfile}"' , clear varnames(1) case(preserve) encoding("utf-8")
+		quietly : save `"${DERIVESCORES_dec`counter'_file}"'
+		if (`"`verbose'"'=="verbose") noisily : display as text in smcl `"saved classification table for declaration {result}{it:${DERIVESCORES_dec`counter'_shortname}}{text} to {result}{it:${DERIVESCORES_dec`counter'_file}}{text}"'
 	}
 	snapshot restore `snapshotnum'
 	snapshot erase `snapshotnum'
 	// save global marking everything as initialized
 	global DERIVESCORES_initialized 1
 	// success message
-	noisily : display as result in smcl `"{text}successfully read {result}{it:${DERIVESCORES_deccount}}{text} table declarations"'
+	noisily : display as result in smcl `"{text}successfully read {result}{it:${DERIVESCORES_dec_count}}{text} table declarations"'
 	// quit
 	exit 0
 end

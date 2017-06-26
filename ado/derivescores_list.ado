@@ -18,14 +18,14 @@ program define derivescores_list , nclass
 		exit 459
 	}
 	// get maximum length of declaration names for creating table structure
-	forvalues num=1/${DERIVESCORES_deccount} {
-		if (udstrlen(`"[`num'] ${DERIVESCORES_dec`num'shortname}"')>`maxnamelength') local maxnamelength=udstrlen(`"[`num'] ${DERIVESCORES_dec`num'shortname}"')+`tableoffset'+`tablespace'
+	forvalues num=1/${DERIVESCORES_dec_count} {
+		if (udstrlen(`"[`num'] ${DERIVESCORES_dec`num'_shortname}"')>`maxnamelength') local maxnamelength=udstrlen(`"[`num'] ${DERIVESCORES_dec`num'_shortname}"')+`tableoffset'+`tablespace'
 	}
 	// build table displaying information
 	noisily : display as result in smcl _newline `"{p2colset `tableoffset' `maxnamelength' `=`maxnamelength'+`tablespace'' 0}{text}{p2col:`col1header'}`col2header'{p_end}"' _newline `"{p2line}"'
-	forvalues num=1/${DERIVESCORES_deccount} {
+	forvalues num=1/${DERIVESCORES_dec_count} {
 		// display information per table declaration
-		noisily : display as result in smcl `"{p2col:[`num'] ${DERIVESCORES_dec`num'shortname}}${DERIVESCORES_dec`num'label}"',,cond(missing(`"${DERIVESCORES_dec`num'label}"'),""," ("),,`"{stata derivescores info "${DERIVESCORES_dec`num'shortname}":more information}"',,cond(missing(`"${DERIVESCORES_dec`num'label}"'),"",")"),,`"{p_end}"'
+		noisily : display as result in smcl `"{p2col:[`num'] ${DERIVESCORES_dec`num'_shortname}}${DERIVESCORES_dec`num'_label}"',,cond(missing(`"${DERIVESCORES_dec`num'_label}"'),""," ("),,`"{stata derivescores info "${DERIVESCORES_dec`num'_shortname}":more information}"',,cond(missing(`"${DERIVESCORES_dec`num'_label}"'),"",")"),,`"{p_end}"'
 	}
 	noisily : display as result in smcl "{p2colreset}" _continue
 	// quit
