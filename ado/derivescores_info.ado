@@ -5,6 +5,12 @@
 program define derivescores_info , nclass
 	// syntax declaration and macros
 	syntax [anything(id="declaration name(s)" name=decnames everything equalok)] [, verbose ]
+	// set macros
+	local tableoffset 3 // offset for indenting the whole table
+	local tablespace 2 // space between the two table columns
+	local col1header `"key"' // column header for column 1
+	local col2header `"content"' // column header for column 2
+	local maxnamelength=udstrlen(`"`col1header'"') // initialization value for width of column 1
 	// abort if -derivescores init- has not been run previously
 	if (`"${DERIVESCORES_initialized}"'!="1") {
 		noisily : display as error in smcl `"It does not seem that {it:derivescores} has been initialized; maybe you should run {stata derivescores init} first?"'
@@ -35,8 +41,26 @@ program define derivescores_info , nclass
 	}
 	// display information
 	foreach decnum of local decnums {
-		noisily : display as result in smcl `"*TODO*display info for declaration ${DERIVESCORES_dec`decnum'shortname} here... *TODO*"'
-		*!TODO!*
+		noisily : display as result in smcl `"{text} information about derivescores table declaration {result}[`decnum'] ${DERIVESCORES_dec`decnum'shortname}:"'
+		// get maximum length of declaration keys for creating table structure
+		local keys : all globals `"DERIVESCORES_dec`decnum'*"'
+		local keys : list sort keys
+		if (`"`: list posof "`decnum'" in decnums'"'=="1") {
+			foreach key of local keys {
+				// display information per table declaration
+				local keyname : subinstr local key `"DERIVESCORES_dec`decnum'"' "" , all
+				if (udstrlen(`"`keyname'"')>`maxnamelength') local maxnamelength=udstrlen(`"`keyname'"')+`tableoffset'+`tablespace'
+			}
+		}
+		// build table displaying information
+		noisily : display as result in smcl _newline `"{p2colset `tableoffset' `maxnamelength' `=`maxnamelength'+`tablespace'' 0}{text}{p2col:`col1header'}`col2header'{p_end}"' _newline `"{p2line}"'
+		// display declaration's information per key
+		foreach key of local keys {
+			// display information per table declaration
+			local keyname : subinstr local key `"DERIVESCORES_dec`decnum'"' "" , all
+			noisily : display as result in smcl `"{p2col:`keyname'}${`key'}{p_end}"'
+		}
+		noisily : display as result in smcl "{p2colreset}" _continue
 	}
 	// quit
 	exit 0
