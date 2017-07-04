@@ -39,5 +39,8 @@ F tables/ISCO-88_ILO.csv
 F tables/ISCO-88_ILO--ISCO-88_Ganzeboom.csv
 F tables/ISEI.csv
 F tables/KldB2010.csv
+F tables/KldB2010--ISCO-08_ILO.csv
+F tables/KldB88.csv
+F tables/KldB88--KldB2010.csv
 e
 * EOF
