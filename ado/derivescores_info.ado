@@ -58,7 +58,7 @@ program define derivescores_info , nclass
 		foreach key of local keys {
 			// display information per table declaration
 			local keyname : subinstr local key `"DERIVESCORES_dec`decnum'_"' "" , all
-			noisily : display as result in smcl `"{p2col:`keyname'}${`key'}{p_end}"'
+			noisily : display as result in smcl `"{p2col:{text}`keyname'}{result}${`key'}{p_end}"'
 		}
 		noisily : display as result in smcl "{p2colreset}" _continue
 	}
