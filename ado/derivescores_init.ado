@@ -71,6 +71,11 @@ program define derivescores_init , nclass
 		quietly : import delimited using `"${DERIVESCORES_dec`counter'_pkgfile}"' , clear varnames(1) case(preserve) encoding("utf-8")
 		quietly : save `"${DERIVESCORES_dec`counter'_file}"'
 		if (`"`verbose'"'=="verbose") noisily : display as text in smcl `"saved classification table for declaration {result}{it:${DERIVESCORES_dec`counter'_shortname}}{text} to {result}{it:${DERIVESCORES_dec`counter'_file}}{text}"'
+		if ("${DERIVESCORES_dec`counter'_type}"'=="ConceptScheme") {
+			quietly : levelsof labelStyle , local(styles) clean separate(", ")
+			global DERIVESCORES_dec`counter'_labelStyles `"`styles'"'
+			global DERIVESCORES_dec`counter'_defaultStyle=labelStyle[1]
+		}
 	}
 	snapshot restore `snapshotnum'
 	snapshot erase `snapshotnum'
