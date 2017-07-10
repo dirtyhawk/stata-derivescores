@@ -49,7 +49,7 @@ program define derivescores_info , nclass
 			foreach key of local keys {
 				// display information per table declaration
 				local keyname : subinstr local key `"DERIVESCORES_dec`decnum'_"' "" , all
-				if (udstrlen(`"`keyname'"')>`maxnamelength') local maxnamelength=udstrlen(`"`keyname'"')+`tableoffset'+`tablespace'
+				if (udstrlen(`"`keyname'"')+`tableoffset'+`tablespace'>`maxnamelength') local maxnamelength=udstrlen(`"`keyname'"')+`tableoffset'+`tablespace'
 			}
 		}
 		// build table displaying information
