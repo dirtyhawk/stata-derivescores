@@ -29,7 +29,7 @@ program define derivescores_label , nclass
 	// check if given `style' (if any) is valid
 	if (missing(`"`style'"')) local style : copy global DERIVESCORES_dec`decnum'_defaultStyle
 	else {
-		if (`: list style in global(DERIVESCORES_dec`decnum'_labelStyles'==0) {
+		if (`: list style in global(DERIVESCORES_dec`decnum'_labelStyles)'==0) {
 			noisily : display as error in smcl `"style {it:`style'} is not an available {it:labelStyle} for declaration {it:${DERIVESCORES_dec`num'_shortname}}"'
 		}
 	}
