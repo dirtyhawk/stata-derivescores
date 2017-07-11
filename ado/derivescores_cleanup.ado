@@ -26,9 +26,10 @@ program define derivescores_cleanup , nclass
 		if (`"`verbose'"'=="verbose") noisily : display as text in smcl `"erasing directory {result}{it:`temppath'}{text}"'
 		rmdir `"`temppath'"'
 	}
-	// erase all globals from Stata's memory
+	// erase all globals from Stata's memory, and matrices from Mata
 	if (`"`verbose'"'=="verbose") noisily : display as text in smcl `"erasing global macros {result}{it:DERIVESCORES*}{text} from Stata's memory"'
 	macro drop DERIVESCORES*
+	mata : mata drop DERIVESCORES* DERIVESCORES*()
 	// quit
 	exit 0
 end
