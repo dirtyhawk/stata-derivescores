@@ -5,9 +5,7 @@
 */
 program define derivescores_label , nclass
 	// syntax declaration and macros
-	syntax varlist(numeric) , DEClaration(string) [, LABELname(name) Style(string) verbose ]
-	// set macros
-	*...
+	syntax varlist(numeric) , DEClaration(string) [, LABELname(name) Style(string) verbose replace ]
 	// abort if -derivescores init- has not been run previously
 	if (`"${DERIVESCORES_initialized}"'!="1") {
 		noisily : display as error in smcl `"It does not seem that {it:derivescores} has been initialized; maybe you should run {stata derivescores init} first?"'
@@ -26,6 +24,14 @@ program define derivescores_label , nclass
 		exit 198
 	}
 	if (missing(`"`labelname'"')) local labelname=ustrtoname(`"${DERIVESCORES_dec`decnum'_shortname}"',1)
+	// check if target label name is already present, abort if yes (and option -replace- is not specified)
+	if (`"`replace'"'!="replace") {
+		capture : label list `labelname'
+		if (_rc==0) {
+			noisily : display as error in smcl `"value label {it:`label'} already exists in data"'
+			exit 198
+		}
+	}
 	// check if given `style' (if any) is valid
 	if (missing(`"`style'"')) local style : copy global DERIVESCORES_dec`decnum'_defaultStyle
 	else {
