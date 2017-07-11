@@ -8,7 +8,7 @@ d This is the current version of the package.
 d
 d Requires: Stata version 14 or newer
 d
-d Distribution-Date: 20170420
+d Distribution-Date: 20170710
 d
 d Authors: Daniel Bela and Knut Wenzig
 d Support: {browse "https://github.com/dirtyhawk/stata-derivescores"}
@@ -17,6 +17,7 @@ f ado/derivescores_info.ado
 f ado/derivescores_init.ado
 f ado/derivescores_cleanup.ado
 f ado/derivescores_help.ado
+f ado/derivescores_label.ado
 f ado/derivescores_list.ado
 f ado/derivescores.sthlp
 F tables/ConceptSchemes_Correspondences.csv

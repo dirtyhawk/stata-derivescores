@@ -5,6 +5,8 @@ THE MAIN PROJECT PATH
 
 // drop clutter and initialise macros
 set more off
+clear all
+discard
 
 // create a new, empty PLUS-directory, install the current version of the package there
 local olddir `"`c(pwd)'"'
@@ -22,8 +24,9 @@ derivescores cleanup , verbose
 clear
 sysuse auto , clear
 drop make
-derivescores init , verbose
-derivescores list
+derivescores init
+*derivescores list
+derivescores label foreign , declaration("ISCO-08_ILO") labelname(test)
 
 *browse
 
