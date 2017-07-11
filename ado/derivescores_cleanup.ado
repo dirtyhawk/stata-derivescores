@@ -4,6 +4,7 @@
 		- all temporary files in the temporary directory
 		- the temporary directory itself
 		- all global macros in Stata's memory that start with the text "DERIVESCORES";
+		- all Mata matrixes, vectors, scalars and functions in Stata's memory that start with the text "DERIVESCORES";
 	this procedure is supposed to be executed after a session with -derivescores-
 	is finished, to make sure a new session can begin afterwards without
 	encountering conflicts in older or newer initialization info
