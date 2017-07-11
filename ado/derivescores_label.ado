@@ -1,7 +1,9 @@
 *! derivescores_label.ado: labels one or more variables with classification labels
 /*
 	This procedure reads a classification declaration from derivescores' storage,
-	and value-labels one or more given variables accordingly
+		and value-labels one or more given numeric variables accordingly;
+		the numeric variables are assumed to contain "prefValues", as of
+		the corresponding table declaration
 */
 program define derivescores_label , nclass
 	// syntax declaration and macros
