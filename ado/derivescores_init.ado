@@ -14,6 +14,7 @@ program define derivescores_init , nclass
 	syntax [, verbose ]
 	local declarationfile `"conceptschemes_correspondences.csv"'
 	local temppath `"`c(tmpdir)'/DERIVESCORES_tmp"'
+	tempvar selector
 	// check if derivescores_init has been run previously, abort if so (unless option -force- is set
 	if (!missing(`"${DERIVESCORES_initialized}"')) {
 		noisily : display as error in smcl `"{it:derivescores} already has been initialized;"' _newline `"{tab}continue with {stata derivescores info}, or clean up with {stata derivescores cleanup}"'
@@ -72,9 +73,16 @@ program define derivescores_init , nclass
 		quietly : save `"${DERIVESCORES_dec`counter'_file}"'
 		if (`"`verbose'"'=="verbose") noisily : display as text in smcl `"saved classification table for declaration {result}{it:${DERIVESCORES_dec`counter'_shortname}}{text} to {result}{it:${DERIVESCORES_dec`counter'_file}}{text}"'
 		if ("${DERIVESCORES_dec`counter'_type}"'=="ConceptScheme") {
-			quietly : levelsof labelStyle , local(styles) clean separate(", ")
+			quietly : levelsof labelStyle , local(styles) clean
 			global DERIVESCORES_dec`counter'_labelStyles `"`styles'"'
 			global DERIVESCORES_dec`counter'_defaultStyle=labelStyle[1]
+			foreach style of local styles {
+				quietly : generate `selector'=(labelStyle==`"`style'"')
+				// save vectors for each labelStyle to create value labels from
+				mata : DERIVESCORES_dec`counter'_vals_`style'=st_data(. , `"prefValue"', `"`selector'"')
+				mata : DERIVESCORES_dec`counter'_lbls_`style'=st_sdata(. , `"prefLabel"', `"`selector'"')
+				drop `selector'
+			}
 		}
 	}
 	snapshot restore `snapshotnum'
