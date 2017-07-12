@@ -31,7 +31,7 @@ program define derivescores_init , nclass
 	quietly : snapshot save
 	local snapshotnum `r(snapshot)'
 	if (`"`verbose'"'=="verbose") noisily : display as text in smcl `"reading table declarations from file {result}{it:`declarationfile'}{text}"'
-	quietly : import delimited `"`declarationfile'"' , clear varnames(1) case(preserve) encoding("utf-8")
+	quietly : import delimited `"`declarationfile'"' , clear varnames(1) case(preserve) encoding("utf-8") bindquotes(loose) stripquotes(default)
 	local total `c(N)'
 	local invalid 0
 	forvalues num=1/`total' {
@@ -69,7 +69,7 @@ program define derivescores_init , nclass
 	quietly : mkdir `"`temppath'"'
 	forvalues counter=1/`total' {
 		global DERIVESCORES_dec`counter'_file `"`temppath'/${DERIVESCORES_dec`counter'_file}"'
-		quietly : import delimited using `"${DERIVESCORES_dec`counter'_pkgfile}"' , clear varnames(1) case(preserve) encoding("utf-8")
+		quietly : import delimited using `"${DERIVESCORES_dec`counter'_pkgfile}"' , clear varnames(1) case(preserve) encoding("utf-8") stringcols(1/4) bindquotes(loose) stripquotes(default)
 		quietly : save `"${DERIVESCORES_dec`counter'_file}"'
 		if (`"`verbose'"'=="verbose") noisily : display as text in smcl `"saved classification table for declaration {result}{it:${DERIVESCORES_dec`counter'_shortname}}{text} to {result}{it:${DERIVESCORES_dec`counter'_file}}{text}"'
 		if ("${DERIVESCORES_dec`counter'_type}"'=="ConceptScheme") {
