@@ -60,7 +60,7 @@ program define derivescores_info , nclass
 			local keyname : subinstr local key `"DERIVESCORES_dec`decnum'_"' "" , all
 			noisily : display as result in smcl `"{p2col:{text}`keyname'}{result}"',cond(strmatch(`"`keyname'"',"*link"),`"{browse `"${`key'}"':`=udsubstr(`"${`key'}"',1,100)+"[...]"'}"',`"${`key'}"'),`"{p_end}"'
 		}
-		noisily : display as result in smcl "{p2colreset}" _continue
+		noisily : display as result in smcl "{p2colreset}" _newline
 	}
 	// quit
 	exit 0
