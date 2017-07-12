@@ -23,10 +23,14 @@ cls
 derivescores cleanup , verbose
 clear
 sysuse auto , clear
-drop make
+replace make="1" in 1
+replace make="11" in 2
+replace make="111" in 3
+replace make="1110" in 4
+rename rep78 sourceConcept
+rename headroom targetConcept
 derivescores init
-*derivescores list
-derivescores label foreign , declaration("ISCO-08_ILO") labelname(test)
+derivescores crosswalk make , generate(newvar) from("ISCO-88_ILO") to("ISCO-88_Ganzeboom") numeric 
 
 *browse
 
