@@ -8,7 +8,7 @@ d This is the current version of the package.
 d
 d Requires: Stata version 14 or newer
 d
-d Distribution-Date: 20170710
+d Distribution-Date: 20170716
 d
 d Authors: Daniel Bela and Knut Wenzig
 d Support: {browse "https://github.com/dirtyhawk/stata-derivescores"}
@@ -24,6 +24,8 @@ f ado/derivescores.sthlp
 F tables/ConceptSchemes_Correspondences.csv
 F tables/EGP_Ganzeboom.csv
 F tables/ISCO-08_Ganzeboom.csv
+F tables/ISCO-88_Ganzeboom_EGP_Ganzeboom_aux1.csv
+F tables/ISCO-88_Ganzeboom_EGP_Ganzeboom_aux2.csv
 F tables/ISCO-08_ILO.csv
 F tables/ISCO-08_ILO--ISCO-08_Ganzeboom.csv
 F tables/ISCO-68_Ganzeboom.csv
