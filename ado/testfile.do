@@ -30,8 +30,15 @@ replace make="1110" in 4
 rename rep78 sourceConcept
 rename headroom targetConcept
 derivescores init
-derivescores crosswalk make , generate(newvar) from("ISCO-88_ILO") to("ISCO-88_Ganzeboom") numeric 
+*derivescores crosswalk make , generate(ISCO_Ganzeboom) from("ISCO-88_ILO") to("ISCO-88_Ganzeboom")
+*derivescores crosswalk ISCO_Ganzeboom , generate(EGP) from("ISCO-88_Ganzeboom") to("EGP_Ganzeboom")
 
+generate KldB88=make
+replace KldB88="0110" in 1
+replace KldB88="0111" in 2
+replace KldB88="0115" in 3
+replace KldB88="0116" in 4
+derivescores crosswalk KldB88 , generate(KldB2010) from("KldB88") to("KldB2010")
 *browse
 
 exit 0

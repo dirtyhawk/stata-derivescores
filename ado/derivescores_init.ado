@@ -14,7 +14,7 @@ program define derivescores_init , nclass
 	syntax [, verbose ]
 	local declarationfile `"conceptschemes_correspondences.csv"'
 	local temppath `"`c(tmpdir)'/DERIVESCORES_tmp"'
-	tempvar selector
+	tempvar selector random max_prob sortorder
 	// check if derivescores_init has been run previously, abort if so (unless option -force- is set
 	if (!missing(`"${DERIVESCORES_initialized}"')) {
 		noisily : display as error in smcl `"{it:derivescores} already has been initialized;"' _newline `"{tab}continue with {stata derivescores info}, or clean up with {stata derivescores cleanup}"'
@@ -70,13 +70,14 @@ program define derivescores_init , nclass
 	forvalues counter=1/`total' {
 		global DERIVESCORES_dec`counter'_file `"`temppath'/${DERIVESCORES_dec`counter'_file}"'
 		quietly : import delimited using `"${DERIVESCORES_dec`counter'_pkgfile}"' , clear varnames(1) case(preserve) encoding("utf-8") stringcols(1/4) bindquotes(loose) stripquotes(default)
-		quietly : save `"${DERIVESCORES_dec`counter'_file}"'
-		if (`"`verbose'"'=="verbose") noisily : display as text in smcl `"saved classification table for declaration {result}{it:${DERIVESCORES_dec`counter'_shortname}}{text} to {result}{it:${DERIVESCORES_dec`counter'_file}}{text}"'
+		// determine defined labelStyles end default labelStyle in ConceptScheme declarations
 		if ("${DERIVESCORES_dec`counter'_type}"'=="ConceptScheme") {
+			if (`"`verbose'"'=="verbose") noisily : display as text in smcl `"detecting {it:labelStyle}s in {result}{it:${DERIVESCORES_dec`counter'_shortname}}{text}, and saving labels to matrices"'
 			quietly : levelsof labelStyle , local(styles) clean
 			global DERIVESCORES_dec`counter'_labelStyles `"`styles'"'
 			global DERIVESCORES_dec`counter'_defaultStyle=labelStyle[1]
 			foreach style of local styles {
+				if (`"`verbose'"'=="verbose") noisily : display as text in smcl `"{tab}...saving {it:labelStyle} {result}{it:`style'}{text}"'
 				quietly : generate `selector'=(labelStyle==`"`style'"')
 				// save vectors for each labelStyle to create value labels from
 				mata : DERIVESCORES_dec`counter'_vals_`style'=st_data(. , `"prefValue"', `"`selector'"')
@@ -84,6 +85,23 @@ program define derivescores_init , nclass
 				drop `selector'
 			}
 		}
+		// tag entry with highest probability per classification code for merging in Correspondence declarations
+		if ("${DERIVESCORES_dec`counter'_type}"'=="Correspondence") {
+			if (`"`verbose'"'=="verbose") noisily : display as text in smcl `"tagging target values with highest propability score in {result}{it:${DERIVESCORES_dec`counter'_shortname}}{text}"'
+			quietly {
+				generate `sortorder'=_n
+				generate `random'=runiform()
+				bysort sourceConcept : egen `max_prob'=max(prob)
+				generate probmarker=(prob==`max_prob')
+				gsort +sourceConcept -probmarker +`random'
+				by sourceConcept : replace probmarker=5 if (probmarker==1 & _n==1)
+				replace probmarker=prob+`random' if (probmarker!=5)
+				sort `sortorder'
+				drop `max_prob' `random' `sortorder'
+			}
+		}
+		quietly : save `"${DERIVESCORES_dec`counter'_file}"'
+		if (`"`verbose'"'=="verbose") noisily : display as text in smcl `"saved classification table for declaration {result}{it:${DERIVESCORES_dec`counter'_shortname}}{text} to {result}{it:${DERIVESCORES_dec`counter'_file}}{text}"'
 	}
 	snapshot restore `snapshotnum'
 	snapshot erase `snapshotnum'

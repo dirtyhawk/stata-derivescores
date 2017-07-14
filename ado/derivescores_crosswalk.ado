@@ -10,6 +10,7 @@ program define derivescores_crosswalk , nclass
 	syntax varname(string) , FROMdeclaration(string) TOdeclaration(string) generate(name) [, AUXiliary(varlist) ASNUMeric ]
 	// check options, prepare macros
 	confirm new variable `generate', exact
+	local probmarkername probmarker
 	local sourcevarname sourceConcept
 	local targetvarname targetConcept
 	local renamefrom
@@ -40,7 +41,7 @@ program define derivescores_crosswalk , nclass
 	// if any: add auxiliary variables to rename lists
 	*! TODO !*
 	// check if "sourceConcept" and "targetConcept" are unused variable names; add to rename lists, if not
-	foreach testvar in `"`sourcevarname'"' `"`targetvarname'"' {
+	foreach testvar in `"`probmarkername'"' `"`sourcevarname'"' `"`targetvarname'"' {
 		capture : confirm variable `testvar' , exact
 		if (_rc==0) {
 			tempvar `testvar'
@@ -57,8 +58,10 @@ program define derivescores_crosswalk , nclass
 	local re_renameto : list re_renameto | varlist
 	// rename variables to match correspondence declaration
 	rename (`renamefrom') (`renameto')
+	// create probability marker for merging
+	quietly : generate `probmarkername'=5
 	// merge with declaration
-	merge m:1 `sourcevarname' using `"${DERIVESCORES_dec`decnum'_file}"' , keep(master match) generate(`mergesource') keepusing(`targetvarname')
+	merge m:1 `sourcevarname' `probmarkername' using `"${DERIVESCORES_dec`decnum'_file}"' , keep(master match) generate(`mergesource') keepusing(`targetvarname')
 	// re-rename variables
 	rename (`re_renamefrom' `targetvarname') (`re_renameto' `generate')
 	// label target variable
@@ -67,7 +70,9 @@ program define derivescores_crosswalk , nclass
 	*! TODO !*
 	// convert targetConcept to classifications prefValue, if specified
 	if (!missing(`"`asnumeric'"')) {
-		*! TODO *!
+		*! will work as soon as -derivescores destring- is finished *!
+		*derivescores destring `generate' , declaration(`todeclaration') replace
+		*derivescores label `generate' , declaration(`todeclaration')
 	}
 	// quit
 	exit 0
