@@ -11,6 +11,7 @@ program define derivescores_info , nclass
 	local col1header `"key"' // column header for column 1
 	local col2header `"content"' // column header for column 2
 	local maxnamelength=udstrlen(`"`col1header'"') // initialization value for width of column 1
+	local keypriority `"type shortname label note defaultStyle labelStyles sourcelink deeplink"'
 	// abort if -derivescores init- has not been run previously
 	if (`"${DERIVESCORES_initialized}"'!="1") {
 		noisily : display as error in smcl `"It does not seem that {it:derivescores} has been initialized; maybe you should run {stata derivescores init} first?"'
@@ -52,13 +53,20 @@ program define derivescores_info , nclass
 				if (udstrlen(`"`keyname'"')+`tableoffset'+`tablespace'>`maxnamelength') local maxnamelength=udstrlen(`"`keyname'"')+`tableoffset'+`tablespace'
 			}
 		}
+		// change sorting of keys for display (according do `keypriority')
+		local displaykeys
+		foreach priokey of local keypriority {
+			local addkey `"DERIVESCORES_dec`decnum'_`priokey'"'
+			if (!missing(`"${DERIVESCORES_dec`decnum'_`priokey'}"')) local displaykeys : list displaykeys | addkey
+		}
+		local displaykeys : list displaykeys | keys
 		// build table displaying information
 		noisily : display as result in smcl _newline `"{p2colset `tableoffset' `maxnamelength' `=`maxnamelength'+`tablespace'' 0}{text}{p2col:`col1header'}`col2header'{p_end}"' _newline `"{p2line}"'
 		// display declaration's information per key
-		foreach key of local keys {
+		foreach key of local displaykeys {
 			// display information per table declaration
 			local keyname : subinstr local key `"DERIVESCORES_dec`decnum'_"' "" , all
-			noisily : display as result in smcl `"{p2col:{text}`keyname'}{result}"',cond(strmatch(`"`keyname'"',"*link"),`"{browse `"${`key'}"':`=udsubstr(`"${`key'}"',1,100)+"[...]"'}"',`"${`key'}"'),`"{p_end}"'
+			noisily : display as result in smcl `"{p2col:{text}`keyname'}{result}"',cond(strmatch(`"`keyname'"',"*link"),`"{browse `"${`key'}"':`=cond(udstrlen(`"${`key'}"')<=100,`"${`key'}"',udsubstr(`"${`key'}"',1,100)+"[...]")'}"',cond(`"`keyname'"'==`"file"',`"{stata `"use `"${`key'}"'"':${`key'}}"',`"${`key'}"')),`"{p_end}"'
 		}
 		noisily : display as result in smcl "{p2colreset}" _newline
 	}
