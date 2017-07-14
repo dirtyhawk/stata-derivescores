@@ -20,7 +20,7 @@ net install derivescores , from(`c(pwd)') replace
 cls
 
 // test procedure
-derivescores cleanup , verbose
+derivescores wipe , verbose
 clear
 derivescores init
 

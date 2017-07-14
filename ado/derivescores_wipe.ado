@@ -1,4 +1,4 @@
-*! derivescores_cleanup.ado: helper script for -derivescores- to cleanup everything left behind from -derivescores init-
+*! derivescores_wipe.ado: helper script for -derivescores- to cleanup everything left behind from -derivescores init-
 /*
 	This procedure erases everything that -derivescores init- leaves behind, especially:
 		- all temporary files in the temporary directory
@@ -9,7 +9,7 @@
 	is finished, to make sure a new session can begin afterwards without
 	encountering conflicts in older or newer initialization info
 */
-program define derivescores_cleanup , nclass
+program define derivescores_wipe , nclass
 	// syntax declaration and macros
 	syntax [, verbose ]
 	local temppath `"`c(tmpdir)'/DERIVESCORES_tmp"'
