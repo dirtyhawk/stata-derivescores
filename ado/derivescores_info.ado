@@ -66,7 +66,14 @@ program define derivescores_info , nclass
 		foreach key of local displaykeys {
 			// display information per table declaration
 			local keyname : subinstr local key `"DERIVESCORES_dec`decnum'_"' "" , all
-			noisily : display as result in smcl `"{p2col:{text}`keyname'}{result}"',cond(strmatch(`"`keyname'"',"*link"),`"{browse `"${`key'}"':`=cond(udstrlen(`"${`key'}"')<=100,`"${`key'}"',udsubstr(`"${`key'}"',1,100)+"[...]")'}"',cond(`"`keyname'"'==`"file"',`"{stata `"use `"${`key'}"'"':${`key'}}"',`"${`key'}"')),`"{p_end}"'
+			if (strmatch(`"`keyname'"',"*link")) {
+				local displaytext `"{browse `"${`key'}"':`=cond(udstrlen(`"${`key'}"')<=100,`"${`key'}"',udsubstr(`"${`key'}"',1,100)+"[...]")'}"'
+			}
+			else if (`"`keyname'"'=="file") {
+				local displaytext `"{stata `"use `"${`key'}"'"':${`key'}}"'
+			}
+			else local displaytext : copy global `key'
+			noisily : display as result in smcl `"{p2col:{text}`keyname'}{result}`displaytext'{p_end}"'
 		}
 		noisily : display as result in smcl "{p2colreset}" _newline
 	}
