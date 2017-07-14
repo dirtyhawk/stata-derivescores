@@ -68,6 +68,7 @@ program define derivescores_init , nclass
 	// open each table declaration file, check for consistency, save temporarily in the user's temp directory
 	quietly : mkdir `"`temppath'"'
 	forvalues counter=1/`total' {
+		local auxvars
 		global DERIVESCORES_dec`counter'_file `"`temppath'/${DERIVESCORES_dec`counter'_file}"'
 		quietly : import delimited using `"${DERIVESCORES_dec`counter'_pkgfile}"' , clear varnames(1) case(preserve) encoding("utf-8") stringcols(1/4) bindquotes(loose) stripquotes(default)
 		// determine defined labelStyles end default labelStyle in ConceptScheme declarations
@@ -85,16 +86,22 @@ program define derivescores_init , nclass
 				drop `selector'
 			}
 		}
+		// detect and save number of auxiliary variables in Correspondence declarations
+		if ("${DERIVESCORES_dec`counter'_type}"'=="Correspondence") {
+			if (`"`verbose'"'=="verbose") noisily : display as text in smcl `"detecting auxiliary varriables in {result}{it:${DERIVESCORES_dec`counter'_shortname}}{text}"'
+			capture : unab auxvars : aux*
+			if (_rc==0) global DERIVESCORES_dec`counter'_auxvars `"`auxvars'"'
+		}
 		// tag entry with highest probability per classification code for merging in Correspondence declarations
 		if ("${DERIVESCORES_dec`counter'_type}"'=="Correspondence") {
 			if (`"`verbose'"'=="verbose") noisily : display as text in smcl `"tagging target values with highest propability score in {result}{it:${DERIVESCORES_dec`counter'_shortname}}{text}"'
 			quietly {
 				generate `sortorder'=_n
 				generate `random'=runiform()
-				bysort sourceConcept : egen `max_prob'=max(prob)
+				bysort sourceConcept `auxvars' : egen `max_prob'=max(prob)
 				generate probmarker=(prob==`max_prob')
-				gsort +sourceConcept -probmarker +`random'
-				by sourceConcept : replace probmarker=5 if (probmarker==1 & _n==1)
+				gsort +sourceConcept `auxvars' -probmarker +`random'
+				by sourceConcept `auxvars' : replace probmarker=5 if (probmarker==1 & _n==1)
 				replace probmarker=prob+`random' if (probmarker!=5)
 				sort `sortorder'
 				drop `max_prob' `random' `sortorder'
