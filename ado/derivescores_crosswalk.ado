@@ -126,6 +126,10 @@ program define derivescores_crosswalk , nclass
 			local dupmatches `r(N)'
 			duplicates report `sourcevarname' `probmarkername' `auxvars' if (`mergesource'==3)
 			local uniqmatches `r(unique_value)'
+			count if `mergesource'==1
+			local dupmismatches `r(N)'
+			duplicates report `sourcevarname' `probmarkername' `auxvars' if (`mergesource'==1)
+			local uniqmismatches `r(unique_value)'
 		}
 		
 	}
@@ -147,8 +151,8 @@ program define derivescores_crosswalk , nclass
 	label variable `generate' `"`: variable label `varlist'' [`todeclaration']"'
 	// report results
 	if (`"`report'"'!="noreport") {
-		local maxnamelength 25
-		noisily : display as result in smcl _newline `"{text}results from crosswalking {result}`declaration'{text}:"' _newline `"{p2colset `tableoffset' `maxnamelength' `=`maxnamelength'+`tablespace'' `=c(linesize)-`maxnamelength'-`tablespace'-`tableoffset'-15'}"' _newline `"{p2line}"' _newline `"{text}{p2col:matched observations:}"' %8.0g `dupmatches' `"{p_end}"' _newline `"{text}{p2col:unique matches:}"' %8.0g `uniqmatches' `"{p_end}"' _newline `"{p2line}"' _newline `"{p2colreset}"'
+		local maxnamelength 30
+		noisily : display as result in smcl _newline `"{text}results from crosswalking {result}`declaration'{text}:"' _newline `"{p2colset `tableoffset' `maxnamelength' `=`maxnamelength'+`tablespace'' `=c(linesize)-`maxnamelength'-`tablespace'-`tableoffset'-15'}"' _newline `"{p2line}"' _newline `"{text}{p2col:matched observations:}"' %8.0g `dupmatches' `"{p_end}"' _newline `"{text}{p2col:unmatched observations:}"' %8.0g `dupmismatches' `"{p_end}"' _newline(2) `"{text}{p2col:unique matches:}"' %8.0g `uniqmatches' `"{p_end}"' _newline `"{text}{p2col:unique non-matches:}"' %8.0g `uniqmismatches' `"{p_end}"' _newline `"{p2line}"' _newline `"{p2colreset}"'
 	}
 	// convert targetConcept to classifications prefValue, if specified
 	if (!missing(`"`asnumeric'"')) {
