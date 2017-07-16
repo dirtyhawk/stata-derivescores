@@ -4,7 +4,9 @@ d
 d 'derivescores' is a Stata program enabling users to derive variables from classifications of any kind,
 d albeit designed for generating status variables from coded occupational information.
 d
-d This is the current version of the package.
+d This is the development version of the package. This means, it is possibly unstable
+d or may contain errors. If you're looking for the latest stable version,
+d you should search SSC from within Stata.
 d
 d Requires: Stata version 14 or newer
 d
@@ -20,7 +22,8 @@ f ado/derivescores_help.ado
 f ado/derivescores_label.ado
 f ado/derivescores_list.ado
 f ado/derivescores_wipe.ado
-f ado/derivescores.sthlp
+f help/derivescores.sthlp
+f help/gnugpl.sthlp
 F tables/ConceptSchemes_Correspondences.csv
 F tables/EGP_Ganzeboom.csv
 F tables/ISCO-08_Ganzeboom.csv
