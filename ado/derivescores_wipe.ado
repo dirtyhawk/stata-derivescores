@@ -1,5 +1,5 @@
 /*-------------------------------------------------------------------------------
-  derivescores_wipe.ado: helper script for -derivescores- to cleanup everything left behind from -derivescores init-
+  derivescores_wipe.ado: helper script for -derivescores- to cleanup everything left behind from -derivescores setup-
   
     Copyright (C) 2017 	Daniel Bela (daniel.bela@lifbi.de)
 			Knut Wenzig
@@ -18,9 +18,9 @@
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 -------------------------------------------------------------------------------*/
-*! derivescores_wipe.ado: helper script for -derivescores- to cleanup everything left behind from -derivescores init-
+*! derivescores_wipe.ado: helper script for -derivescores- to cleanup everything left behind from -derivescores setup-
 /*
-	This procedure erases everything that -derivescores init- leaves behind, especially:
+	This procedure erases everything that -derivescores setup- leaves behind, especially:
 		- all temporary files in the temporary directory
 		- the temporary directory itself
 		- all global macros in Stata's memory that start with the text "DERIVESCORES";

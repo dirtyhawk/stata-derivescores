@@ -22,7 +22,7 @@ cls
 // test procedure
 derivescores wipe , verbose
 clear
-derivescores init
+derivescores setup
 
 
 sysuse auto , clear

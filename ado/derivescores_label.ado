@@ -28,9 +28,9 @@
 program define derivescores_label , nclass
 	// syntax declaration and macros
 	syntax varlist(numeric) , DEClaration(string) [, LABELname(name) Style(string) verbose replace ]
-	// abort if -derivescores init- has not been run previously
+	// abort if -derivescores setup- has not been run previously
 	if (`"${DERIVESCORES_initialized}"'!="1") {
-		noisily : display as error in smcl `"It does not seem that {it:derivescores} has been initialized; maybe you should run {stata derivescores init} first?"'
+		noisily : display as error in smcl `"It does not seem that {it:derivescores} has been initialized; maybe you should run {stata derivescores setup} first?"'
 		exit 459
 	}
 	// determine initialization number for given declaration(s)

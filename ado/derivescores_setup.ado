@@ -1,5 +1,5 @@
 /*-------------------------------------------------------------------------------
-  derivescores_init.ado: helper script for -derivescores- to initialize derivation tables
+  derivescores_setup.ado: helper script for -derivescores- to initialize derivation tables
   
     Copyright (C) 2017 	Daniel Bela (daniel.bela@lifbi.de)
 			Knut Wenzig
@@ -18,26 +18,26 @@
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 -------------------------------------------------------------------------------*/
-*! derivescores_init.ado: helper script for -derivescores- to initialize derivation tables
+*! derivescores_setup.ado: helper script for -derivescores- to initialize derivation tables
 /*
 	This procedure reads all tables delivered with -derivescores- into Stata,
 	and saves them in the user's temporary directory;
 	their relevant paths and other metadata are saved in global macros;
 	this procedure is supposed to be executed before any other -derivescores-
 	subcommand is called, and will automatically be executed if the called
-	procedure detects that -derivescores init- has not been run in the Stata
+	procedure detects that -derivescores setup- has not been run in the Stata
 	session before
 */
 // TODO: mark crosswalks containig invalid declarations as invalid
-program define derivescores_init , nclass
+program define derivescores_setup , nclass
 	// syntax declaration and macros
 	syntax [, verbose ]
 	local declarationfile `"conceptschemes_correspondences.csv"'
 	local temppath `"`c(tmpdir)'/DERIVESCORES_tmp"'
 	tempvar selector random max_prob sortorder
-	// check if derivescores_init has been run previously, abort if so (unless option -force- is set
+	// check if derivescores_setup has been run previously, abort if so (unless option -force- is set
 	if (!missing(`"${DERIVESCORES_initialized}"')) {
-		noisily : display as error in smcl `"{it:derivescores} already has been initialized;"' _newline `"{tab}continue with {stata derivescores info}, or clean up with {stata derivescores cleanup}"'
+		noisily : display as error in smcl `"{it:derivescores} already has been set up;"' _newline `"{tab}continue with {stata derivescores info}, or clean up with {stata derivescores cleanup}"'
 		exit 0
 	}
 	// find main CSV file with table declarations

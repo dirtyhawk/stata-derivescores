@@ -32,9 +32,9 @@ program define derivescores_info , nclass
 	local col2header `"content"' // column header for column 2
 	local maxnamelength=udstrlen(`"`col1header'"') // initialization value for width of column 1
 	local keypriority `"type shortname label note defaultStyle labelStyles sourcelink deeplink"'
-	// abort if -derivescores init- has not been run previously
+	// abort if -derivescores setup- has not been run previously
 	if (`"${DERIVESCORES_initialized}"'!="1") {
-		noisily : display as error in smcl `"It does not seem that {it:derivescores} has been initialized; maybe you should run {stata derivescores init} first?"'
+		noisily : display as error in smcl `"It does not seem that {it:derivescores} has been initialized; maybe you should run {stata derivescores setup} first?"'
 		exit 459
 	}
 	// if no declaration is explicitly queried, determine list of all declaration numbers

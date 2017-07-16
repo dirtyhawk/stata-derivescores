@@ -32,9 +32,9 @@ program define derivescores_list , nclass
 	local col1header `"[no.] declaration"' // column header for column 1
 	local col2header `"content"' // column header for column 2
 	local maxnamelength=udstrlen(`"`col1header'"') // initialization value for width of column 1
-	// abort if -derivescores init- has not been run previously
+	// abort if -derivescores setup- has not been run previously
 	if (`"${DERIVESCORES_initialized}"'!="1") {
-		noisily : display as error in smcl `"It does not seem that {it:derivescores} has been initialized; maybe you should run {stata derivescores init} first?"'
+		noisily : display as error in smcl `"It does not seem that {it:derivescores} has been initialized; maybe you should run {stata derivescores setup} first?"'
 		exit 459
 	}
 	// get maximum length of declaration names for creating table structure
