@@ -1,5 +1,5 @@
 /*-------------------------------------------------------------------------------
-  derivescores_label.ado: labels one or more variables with classification labels
+  derivescores_valuelabel.ado: value-labels one or more variables with classification labels
   
     Copyright (C) 2017 	Daniel Bela (daniel.bela@lifbi.de)
 			Knut Wenzig
@@ -18,14 +18,14 @@
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 -------------------------------------------------------------------------------*/
-*! derivescores_label.ado: labels one or more variables with classification labels
+*! derivescores_valuelabel.ado: value-labels one or more variables with classification labels
 /*
 	This procedure reads a classification declaration from derivescores' storage,
 		and value-labels one or more given numeric variables accordingly;
 		the numeric variables are assumed to contain "prefValues", as of
 		the corresponding table declaration
 */
-program define derivescores_label , nclass
+program define derivescores_valuelabel , nclass
 	// syntax declaration and macros
 	syntax varlist(numeric) , DEClaration(string) [, LABELname(name) Style(string) verbose replace ]
 	// abort if -derivescores setup- has not been run previously

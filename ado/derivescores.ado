@@ -21,8 +21,8 @@
 *! derivescores.ado: Stata tool to enable structured derivation of (score) variables from classifications based on derivation tables
 program define derivescores , nclass sortpreserve
 	version 14 // Stata version 14 or newer required
-	// parse subcommands: valid are "help", "setup", "list", "wipe", "info", "label", "crosswalk", "destring"
-	local validcmds help setup list wipe info label crosswalk destring
+	// parse subcommands: valid are "help", "setup", "list", "wipe", "info", "valuelabel", "crosswalk", "destring"
+	local validcmds help setup list wipe info valuelabel crosswalk destring
 	gettoken cmd 0 : 0, parse(`" ,"')
         local cmdlength=length(`"`cmd'"')
 	// no subcommand specified -- issue error message

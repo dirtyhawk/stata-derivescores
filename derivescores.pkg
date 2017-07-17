@@ -10,7 +10,7 @@ d you should search SSC from within Stata.
 d
 d Requires: Stata version 14 or newer
 d
-d Distribution-Date: 20170716
+d Distribution-Date: 20170717
 d
 d Authors: Daniel Bela and Knut Wenzig
 d Support: {browse "https://github.com/dirtyhawk/stata-derivescores"}
@@ -21,7 +21,7 @@ f ado/derivescores_help.ado
 f ado/derivescores_info.ado
 f ado/derivescores_list.ado
 f ado/derivescores_setup.ado
-f ado/derivescores_label.ado
+f ado/derivescores_valuelabel.ado
 f ado/derivescores_wipe.ado
 f help/derivescores.sthlp
 f help/gnugpl.sthlp

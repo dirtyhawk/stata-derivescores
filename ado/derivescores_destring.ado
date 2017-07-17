@@ -26,7 +26,7 @@
 */
 program define derivescores_destring , nclass
 	// syntax declaration and macros
-	syntax varname(string) , DEClaration(string) [, generate(name) replace verbose ]
+	syntax varname(string) , DEClaration(string) [, generate(name) replace verbose LABel labelname(passthru) ]
 	// set macros
 	local sourcevarname Concept
 	local targetvarname prefValue
@@ -119,6 +119,10 @@ program define derivescores_destring , nclass
 	rename (`re_renamefrom') (`re_renameto')
 	// label target variable
 	label variable `generate' `"`: variable label `varlist''"'
+	// if requested, value-label the new variable
+	if (`"`label'"'==`"label"') {
+		derivescores valuelabel `generate' , declaration(`declaration') `labelname'
+	}
 	// replace-scenario: interchange (temporary) new and already existing variable names
 	if `"`replace'"'=="replace" {
 		rename (`varlist' `generate') (`generate' `varlist')
