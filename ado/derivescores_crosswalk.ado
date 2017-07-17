@@ -131,6 +131,8 @@ program define derivescores_crosswalk , nclass
 			duplicates report `sourcevarname' `probmarkername' `auxvars' if (`mergesource'==1)
 			local uniqmismatches `r(unique_value)'
 		}
+		// sort new variable after source variable
+		order `targetvarname' , after(`sourcevarname')
 	}
 	// in case something went wrong: save return code, and abort after re-renaming variables
 	local returncode=_rc
