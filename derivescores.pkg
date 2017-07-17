@@ -15,12 +15,13 @@ d
 d Authors: Daniel Bela and Knut Wenzig
 d Support: {browse "https://github.com/dirtyhawk/stata-derivescores"}
 f ado/derivescores.ado
-f ado/derivescores_info.ado
-f ado/derivescores_setup.ado
+f ado/derivescores_destring.ado
 f ado/derivescores_crosswalk.ado
 f ado/derivescores_help.ado
-f ado/derivescores_label.ado
+f ado/derivescores_info.ado
 f ado/derivescores_list.ado
+f ado/derivescores_setup.ado
+f ado/derivescores_label.ado
 f ado/derivescores_wipe.ado
 f help/derivescores.sthlp
 f help/gnugpl.sthlp

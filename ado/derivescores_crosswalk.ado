@@ -158,8 +158,8 @@ program define derivescores_crosswalk , nclass
 	// convert targetConcept to classifications prefValue, if specified
 	if (!missing(`"`asnumeric'"')) {
 		*! will work as soon as -derivescores destring- is finished *!
-		*derivescores destring `generate' , declaration(`todeclaration') replace
-		*derivescores label `generate' , declaration(`todeclaration')
+		derivescores destring `generate' , declaration(`todeclaration') replace
+		derivescores label `generate' , declaration(`todeclaration')
 	}
 	// quit
 	exit 0
