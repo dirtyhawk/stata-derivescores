@@ -58,9 +58,13 @@ program define derivescores_destring , nclass
 		noisily : display as error in smcl `"{it:`declaration'} is not a table declaration that has been initialized"'
 		exit 198
 	}
-	// check mutually exclusive options `replace' and `generate()'
+	// check mutually exclusive, but mandatory options `replace' and `generate()'
 	if (!missing(`"`replace'"') & !missing(`"`generate'"')) {
-		noisily : display as error in smcl `"options {it:generate()} and {it:`replace'} are mutually exclusive
+		noisily : display as error in smcl `"options {it:generate()} and {it:`replace'} are mutually exclusive"'
+		exit 198
+	}
+	else if (missing(`"`replace'"') & missing(`"`generate'"')) {
+		noisily : display as error in smcl `"must specify one of the options {it:generate()} or {it:replace}"'
 		exit 198
 	}
 	// replace-scenario: temporarily generate variable as new
