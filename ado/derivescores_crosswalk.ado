@@ -28,7 +28,7 @@
 */
 program define derivescores_crosswalk , nclass
 	// syntax declaration and macros
-	syntax varname(string) , FROMdeclaration(string) TOdeclaration(string) generate(name) [, AUXiliary(varlist) ASNUMeric labelname(passthru) ]
+	syntax varname(string) , FROMdeclaration(string) TOdeclaration(string) generate(name) [, AUXiliary(varlist) ASNUMeric labelname(passthru) style(passthru) ]
 	// check options, prepare macros
 	confirm new variable `generate', exact
 	local probmarkername probmarker
@@ -163,7 +163,7 @@ program define derivescores_crosswalk , nclass
 	}
 	// convert targetConcept to classifications prefValue, if specified
 	if (!missing(`"`asnumeric'"')) {
-		derivescores destring `generate' , declaration(`todeclaration') replace label `labelname'
+		derivescores destring `generate' , declaration(`todeclaration') replace label `labelname' `style'
 	}
 	// quit
 	exit 0
