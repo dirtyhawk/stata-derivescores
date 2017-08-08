@@ -48,7 +48,8 @@ replace KldB88="0110" in 1
 replace KldB88="0111" in 2
 replace KldB88="0115" in 3
 replace KldB88="0116" in 4
-expand 1000 in 1/4
+keep in 1/4
+expand 1000
 derivescores crosswalk make , generate(ISCO_Ganzeboom) from("ISCO-88_ILO") to("ISCO-88_Ganzeboom")
 derivescores crosswalk ISCO_Ganzeboom , generate(EGP) from("ISCO-88_Ganzeboom") to("EGP_Ganzeboom") aux(foreign length)
 derivescores cr KldB88 , generate(KldB2010) from("KldB88") to("KldB2010") asnumeric
