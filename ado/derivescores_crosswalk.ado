@@ -122,14 +122,20 @@ program define derivescores_crosswalk , nclass
 		local re_renameto : list re_renameto | generate
 		// save values for reporting results lateron
 		if (`"`report'"'!="noreport") {
-			count if `mergesource'==3
+			count if (`mergesource'==3)
 			local dupmatches `r(N)'
-			duplicates report `sourcevarname' `probmarkername' `auxvars' if (`mergesource'==3)
-			local uniqmatches `r(unique_value)'
-			count if `mergesource'==1
+			count if (`mergesource'==1)
 			local dupmismatches `r(N)'
-			duplicates report `sourcevarname' `probmarkername' `auxvars' if (`mergesource'==1)
-			local uniqmismatches `r(unique_value)'
+			if (`dupmatches'>0) {
+				duplicates report `sourcevarname' `probmarkername' `auxvars' if (`mergesource'==3)
+				local uniqmatches `r(unique_value)'
+			}
+			else local uniqmatches : copy local dupmatches
+			if (`dupmismatches'>0) {
+				duplicates report `sourcevarname' `probmarkername' `auxvars' if (`mergesource'==1)
+				local uniqmismatches `r(unique_value)'
+			}
+			else local uniqmismatches : copy local dupmismatches
 		}
 		// sort new variable after source variable
 		order `targetvarname' , after(`sourcevarname')
