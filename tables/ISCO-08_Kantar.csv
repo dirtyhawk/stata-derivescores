@@ -1,0 +1,471 @@
+"ConceptScheme","labelStyle","Concept","prefLabel","sortorder","prefValue"
+"ISCO-08_Kantar","de","110","Offiziere, reguläre Streitkräfte",1,110
+"ISCO-08_Kantar","de","210","Unteroffiziere, reguläre Streitkräfte",2,210
+"ISCO-08_Kantar","de","310","Reguläre Streitkräfte, sonstige Ränge",3,310
+"ISCO-08_Kantar","de","1111","Angehörige gesetzgebender Körperschaften",4,1111
+"ISCO-08_Kantar","de","1112","Leitende Verwaltungsbedienstete",5,1112
+"ISCO-08_Kantar","de","1113","Traditionelle Dorf-/Stammeshäuptlinge",6,1113
+"ISCO-08_Kantar","de","1114","Leitende Bedienstete, Interessenorg.",7,1114
+"ISCO-08_Kantar","de","1120","Geschäftsführer/-innen, Vorstände",8,1120
+"ISCO-08_Kantar","de","1211","Führungskräfte, Finanzen",9,1211
+"ISCO-08_Kantar","de","1212","Führungskräfte, Personalwesen",10,1212
+"ISCO-08_Kantar","de","1213","Führungskräfte, Unternehmenspolitik",11,1213
+"ISCO-08_Kantar","de","1219","Führungskräfte, betriebliche Verwaltung",12,1219
+"ISCO-08_Kantar","de","1221","Führungskräfte, Vertrieb/Marketing",13,1221
+"ISCO-08_Kantar","de","1222","Führungskräfte, Öffentlichkeitsarbeit",14,1222
+"ISCO-08_Kantar","de","1223","Führungskräfte, Forschung/Entwicklung",15,1223
+"ISCO-08_Kantar","de","1311","Führungskräfte, Land-/Forstwirtschaft",16,1311
+"ISCO-08_Kantar","de","1312","Führungskräfte, Aquakultur/Fischerei",17,1312
+"ISCO-08_Kantar","de","1321","Führungskräfte, Herst. v. Waren",18,1321
+"ISCO-08_Kantar","de","1322","Führungskräfte, Bergbau",19,1322
+"ISCO-08_Kantar","de","1323","Führungskräfte, Bau",20,1323
+"ISCO-08_Kantar","de","1324","Führungskräfte, Beschaffung/Logistik",21,1324
+"ISCO-08_Kantar","de","1330","Führungskräfte, Informationstechnologie",22,1330
+"ISCO-08_Kantar","de","1341","Führungskräfte, Kinderbetreuung",23,1341
+"ISCO-08_Kantar","de","1342","Führungskräfte, Gesundheitswesen",24,1342
+"ISCO-08_Kantar","de","1343","Führungskräfte, Altenbetreuung",25,1343
+"ISCO-08_Kantar","de","1344","Führungskräfte, Sozialfürsorge",26,1344
+"ISCO-08_Kantar","de","1345","Führungskräfte, Bildungswesen",27,1345
+"ISCO-08_Kantar","de","1346","Führungskräfte, Finanzdienstl.",28,1346
+"ISCO-08_Kantar","de","1349","Führungskräfte, sonst. Dienstl. a.n.g.",29,1349
+"ISCO-08_Kantar","de","1411","Führungskräfte, Hotels",30,1411
+"ISCO-08_Kantar","de","1412","Führungskräfte, Restaurants",31,1412
+"ISCO-08_Kantar","de","1420","Führungskräfte, Groß-/Einzelhandel",32,1420
+"ISCO-08_Kantar","de","1431","Führungskräfte, Sport/Erholung/Kultur",33,1431
+"ISCO-08_Kantar","de","1439","Führungskräfte, Dienstl. a.n.g.",34,1439
+"ISCO-08_Kantar","de","2111","Physiker/-innen u. Astronomen/-innen",35,2111
+"ISCO-08_Kantar","de","2112","Meteorologen/-innen",36,2112
+"ISCO-08_Kantar","de","2113","Chemiker/-innen",37,2113
+"ISCO-08_Kantar","de","2114","Geologen/innen u. Geophysiker/-innen",38,2114
+"ISCO-08_Kantar","de","2120","Mathematiker/-innen",39,2120
+"ISCO-08_Kantar","de","2131","Biologen/innen u. verwandte Berufe",40,2131
+"ISCO-08_Kantar","de","2132","Agrar- u. Forstwissenschaftler/-innen",41,2132
+"ISCO-08_Kantar","de","2133","Umweltwissenschaftler/-innen",42,2133
+"ISCO-08_Kantar","de","2141","Wirtschaftsingenieure/-innen",43,2141
+"ISCO-08_Kantar","de","2142","Bauingenieure/-innen",44,2142
+"ISCO-08_Kantar","de","2143","Umweltschutzingenieure/-innen",45,2143
+"ISCO-08_Kantar","de","2144","Maschinenbauingenieure/-innen",46,2144
+"ISCO-08_Kantar","de","2145","Chemieingenieure/-innen",47,2145
+"ISCO-08_Kantar","de","2146","Bergbauingenieure/-innen",48,2146
+"ISCO-08_Kantar","de","2149","Ingenieure/-innen a.n.g.",49,2149
+"ISCO-08_Kantar","de","2151","Ingenieure/-innen, Elektrotechnik",50,2151
+"ISCO-08_Kantar","de","2152","Ingenieur/-innen, Elektronik",51,2152
+"ISCO-08_Kantar","de","2153","Ingenieur/-innen, Telekommunikation",52,2153
+"ISCO-08_Kantar","de","2161","Architekten/-innen",53,2161
+"ISCO-08_Kantar","de","2162","Landschaftsarchitekten/-innen",54,2162
+"ISCO-08_Kantar","de","2163","Produkt- und Textildesigner/-innen",55,2163
+"ISCO-08_Kantar","de","2164","Raum-, Stadt- und Verkehrsplaner/-innen",56,2164
+"ISCO-08_Kantar","de","2165","Kartografen/-innen",57,2165
+"ISCO-08_Kantar","de","2166","Grafik- und Multimediadesigner/-innen",58,2166
+"ISCO-08_Kantar","de","2211","Allgemeinärzte/-innen",59,2211
+"ISCO-08_Kantar","de","2212","Fachärzte/-innen",60,2212
+"ISCO-08_Kantar","de","2221","Akadem. Krankenpflegefachkräfte",61,2221
+"ISCO-08_Kantar","de","2222","Akadem. Geburtshilfefachkräfte",62,2222
+"ISCO-08_Kantar","de","2230","Akadem. Fachkräfte, Medizin",63,2230
+"ISCO-08_Kantar","de","2240","Paramedizinische Praktiker/-innen",64,2240
+"ISCO-08_Kantar","de","2250","Tierärzte/-innen",65,2250
+"ISCO-08_Kantar","de","2261","Zahnärzte/-innen",66,2261
+"ISCO-08_Kantar","de","2262","Apotheker/-innen",67,2262
+"ISCO-08_Kantar","de","2263","Akadem. Fachkräfte, Umweltmedizin",68,2263
+"ISCO-08_Kantar","de","2264","Physiotherapeuten/-innen",69,2264
+"ISCO-08_Kantar","de","2265","Ernährungsberater/-innen",70,2265
+"ISCO-08_Kantar","de","2266","Sprachtherapeuten/-innen",71,2266
+"ISCO-08_Kantar","de","2267","Optometristen/innen",72,2267
+"ISCO-08_Kantar","de","2269","Akadem. Gesundheitsberufe, a.n.g.",73,2269
+"ISCO-08_Kantar","de","2310","Universitäts- u. Hochschullehrer/-innen",74,2310
+"ISCO-08_Kantar","de","2320","Lehrkräfte im Bereich Berufsbildung",75,2320
+"ISCO-08_Kantar","de","2330","Lehrkräfte im Sekundarbereich",76,2330
+"ISCO-08_Kantar","de","2341","Lehrkräfte im Primarbereich",77,2341
+"ISCO-08_Kantar","de","2342","Lehrkräfte im Vorschulbereich",78,2342
+"ISCO-08_Kantar","de","2351","Pädagogikspezialisten/-innen",79,2351
+"ISCO-08_Kantar","de","2352","Lehrkräfte im Bereich Sonderpädagogik",80,2352
+"ISCO-08_Kantar","de","2353","Sonst. Sprachlehrer/-innen",81,2353
+"ISCO-08_Kantar","de","2354","Sonst. Musiklehrer/-innen",82,2354
+"ISCO-08_Kantar","de","2355","Sonst. Kunstlehrer/-innen",83,2355
+"ISCO-08_Kantar","de","2356","Ausbilder/-innen, Informationstechnolog.",84,2356
+"ISCO-08_Kantar","de","2359","Lehrkräfte, a.n.g.",85,2359
+"ISCO-08_Kantar","de","2411","Wirtschaftsprüfer/-innen",86,2411
+"ISCO-08_Kantar","de","2412","Finanz- u. Anlageberater/-innen",87,2412
+"ISCO-08_Kantar","de","2413","Finanzanalysten/-innen",88,2413
+"ISCO-08_Kantar","de","2421","Akadem. Fachkräfte, Managementsanalyse",89,2421
+"ISCO-08_Kantar","de","2422","Akadem. Fachkräfte, strateg. Planung",90,2422
+"ISCO-08_Kantar","de","2423","Berufsberater/-innen",91,2423
+"ISCO-08_Kantar","de","2424","Fachkräfte, Personalentwicklung",92,2424
+"ISCO-08_Kantar","de","2431","Akadem. Fachkräfte, Werbung/Marketing",93,2431
+"ISCO-08_Kantar","de","2432","Akadem. Fachkräfte, Öffentlichkeitsarb.",94,2432
+"ISCO-08_Kantar","de","2433","Akadem. Fachkräfte, Vertrieb (Technik)",95,2433
+"ISCO-08_Kantar","de","2434","Akadem. Fachkräfte, Vertrieb (Kommunik.)",96,2434
+"ISCO-08_Kantar","de","2511","Systemanalytiker/-innen",97,2511
+"ISCO-08_Kantar","de","2512","Softwareentwickler/-innen",98,2512
+"ISCO-08_Kantar","de","2513","Web-/Multimediaentwickler/-innen",99,2513
+"ISCO-08_Kantar","de","2514","Anwendungsprogrammierer/-innen",100,2514
+"ISCO-08_Kantar","de","2519","Entwickler/-innen von Software, a.n.g.",101,2519
+"ISCO-08_Kantar","de","2521","Datenbankentwickler/-innen",102,2521
+"ISCO-08_Kantar","de","2522","Systemadministratoren/-innen",103,2522
+"ISCO-08_Kantar","de","2523","Akadem. Fachkräfte für Computernetzwerke",104,2523
+"ISCO-08_Kantar","de","2529","Akadem. Fachkräfte, Datenbanken, a.n.g.",105,2529
+"ISCO-08_Kantar","de","2611","Anwälte/-innen",106,2611
+"ISCO-08_Kantar","de","2612","Richter/-innen",107,2612
+"ISCO-08_Kantar","de","2619","Juristen/-innen, a.n.g.",108,2619
+"ISCO-08_Kantar","de","2621","Archiv-/Museumswissenschaftler/-innen",109,2621
+"ISCO-08_Kantar","de","2622","Bibliothekswissenschaftler/-innen",110,2622
+"ISCO-08_Kantar","de","2631","Volkswirtschaftler/-innen",111,2631
+"ISCO-08_Kantar","de","2632","Soziologen/-innen",112,2632
+"ISCO-08_Kantar","de","2633","Philosophen/-innen u. Historiker/-innen",113,2633
+"ISCO-08_Kantar","de","2634","Psychologen/-innen",114,2634
+"ISCO-08_Kantar","de","2635","Sozialarbeiter/-innen",115,2635
+"ISCO-08_Kantar","de","2636","Geistliche, Seelsorger/-innen",116,2636
+"ISCO-08_Kantar","de","2641","Autoren/-innen",117,2641
+"ISCO-08_Kantar","de","2642","Journalisten/-innen",118,2642
+"ISCO-08_Kantar","de","2643","Übersetzer/-innen u. Dolmetscher/-innen",119,2643
+"ISCO-08_Kantar","de","2651","Bildende Künstler/-innen",120,2651
+"ISCO-08_Kantar","de","2652","Musiker/-innen u. Komponisten/-innen",121,2652
+"ISCO-08_Kantar","de","2653","Tänzer/-innen u. Choreografen/-innen",122,2653
+"ISCO-08_Kantar","de","2654","Regisseure/-innen, Film-/Bühnenbereich",123,2654
+"ISCO-08_Kantar","de","2655","Schauspieler/-innen",124,2655
+"ISCO-08_Kantar","de","2656","Sprecher/-innen, Rundfunk/Fernsehen",125,2656
+"ISCO-08_Kantar","de","2659","Künstler/-innen, a.n.g.",126,2659
+"ISCO-08_Kantar","de","3111","Chemo-/Physikotechniker/-innen",127,3111
+"ISCO-08_Kantar","de","3112","Bautechniker/-innen",128,3112
+"ISCO-08_Kantar","de","3113","Elektrotechniker/-innen",129,3113
+"ISCO-08_Kantar","de","3114","Techniker/-innen, Elektronik",130,3114
+"ISCO-08_Kantar","de","3115","Maschinenbautechniker/-innen",131,3115
+"ISCO-08_Kantar","de","3116","Verfahrenstechniker/-innen",132,3116
+"ISCO-08_Kantar","de","3117","Bergbau- u. Hüttentechniker/-innen",133,3117
+"ISCO-08_Kantar","de","3118","Technische Zeichner/-innen",134,3118
+"ISCO-08_Kantar","de","3119","Ingenieurtechnische Fachkräfte, a.n.g.",135,3119
+"ISCO-08_Kantar","de","3121","Produktionsleiter/-innen, Bergbau",136,3121
+"ISCO-08_Kantar","de","3122","Produktionsleiter/-innen, Warenherst.",137,3122
+"ISCO-08_Kantar","de","3123","Bauleiter/-innen",138,3123
+"ISCO-08_Kantar","de","3131","Steuerer v. Energieerzeneugungsanlagen",139,3131
+"ISCO-08_Kantar","de","3132","Steuerer v. Verbrennungssanlagen",140,3132
+"ISCO-08_Kantar","de","3133","Steuerer v. chem. Verfahrensanlagen",141,3133
+"ISCO-08_Kantar","de","3134","Steuerer v. Raffinationsanlagen",142,3134
+"ISCO-08_Kantar","de","3135","Steuerer , Verfahren der Metallerzeugung",143,3135
+"ISCO-08_Kantar","de","3139","Techniker/-innen, Prozesssteuer., a.n.g.",144,3139
+"ISCO-08_Kantar","de","3141","Biotechniker/-innen (ohne med. Fachb.)",145,3141
+"ISCO-08_Kantar","de","3142","Agrartechniker/-innen",146,3142
+"ISCO-08_Kantar","de","3143","Forsttechniker/-innen",147,3143
+"ISCO-08_Kantar","de","3151","Technische Schiffsoffiziere",148,3151
+"ISCO-08_Kantar","de","3152","Schiffsführer/-innen",149,3152
+"ISCO-08_Kantar","de","3153","Flugzeugführer/-innen",150,3153
+"ISCO-08_Kantar","de","3154","Flugverkehrslots/-innen",151,3154
+"ISCO-08_Kantar","de","3155","Flugsicherungstechniker/-innen",152,3155
+"ISCO-08_Kantar","de","3211","Medizintechniker/-innen, Therapiegeräte",153,3211
+"ISCO-08_Kantar","de","3212","Medizintechniker/-innen, Labor",154,3212
+"ISCO-08_Kantar","de","3213","Pharmazeutisch-techn. Assistent/-innen",155,3213
+"ISCO-08_Kantar","de","3214","Medizinische Prothetiktechniker/-innen",156,3214
+"ISCO-08_Kantar","de","3221","Nicht akad. Krankenpflegefachkräfte",157,3221
+"ISCO-08_Kantar","de","3222","Nicht akad. Geburtshilfefachkräfte",158,3222
+"ISCO-08_Kantar","de","3230","Nicht akad. Fachkräfte, Medizin",159,3230
+"ISCO-08_Kantar","de","3240","Veterinärmedizinische Fachkräfte",160,3240
+"ISCO-08_Kantar","de","3251","Zahnmedizinische Assistenten/-innen",161,3251
+"ISCO-08_Kantar","de","3252","Fachkräfte, medizinische Dokumentation",162,3252
+"ISCO-08_Kantar","de","3253","Fachkräfte, öffentl. Gesundheitsfürsorge",163,3253
+"ISCO-08_Kantar","de","3254","Augenoptiker/-innen",164,3254
+"ISCO-08_Kantar","de","3255","Physiotherapeutische Techniker/-innen",165,3255
+"ISCO-08_Kantar","de","3256","Medizinische Assistenten/-innen",166,3256
+"ISCO-08_Kantar","de","3257","Nicht akad. Kontrolleure, Umweltmedizin",167,3257
+"ISCO-08_Kantar","de","3258","Rettungsdienstpersonal",168,3258
+"ISCO-08_Kantar","de","3259","Assistenzberufe, Gesundheitsw., a.n.g.",169,3259
+"ISCO-08_Kantar","de","3311","Wertpapierhändler/-innen",170,3311
+"ISCO-08_Kantar","de","3312","Kreditsachbearbeiter/-innen",171,3312
+"ISCO-08_Kantar","de","3313","Nicht akad. Fachkräfte, Rechnungswesen",172,3313
+"ISCO-08_Kantar","de","3314","Nicht akad. mathematische Fachkräfte",173,3314
+"ISCO-08_Kantar","de","3315","Schadensgutachter/-innen",174,3315
+"ISCO-08_Kantar","de","3321","Versicherungsvertreter/-innen",175,3321
+"ISCO-08_Kantar","de","3322","Vertriebsagenten/-innen",176,3322
+"ISCO-08_Kantar","de","3323","Einkäufer/-innen",177,3323
+"ISCO-08_Kantar","de","3324","Handelsmakler/-innen",178,3324
+"ISCO-08_Kantar","de","3331","Fachkräfte, Abrechnungsdienstl.",179,3331
+"ISCO-08_Kantar","de","3332","Konferenz-/Veranstaltungsplaner/-innen",180,3332
+"ISCO-08_Kantar","de","3333","Arbeits-/Personalvermittler/-innen",181,3333
+"ISCO-08_Kantar","de","3334","Immobilienmakler/-innen",182,3334
+"ISCO-08_Kantar","de","3339","Fachkräfte, unternehm. Dienstl., a.n.g.",183,3339
+"ISCO-08_Kantar","de","3341","Sekretariatsleiter/-innen",184,3341
+"ISCO-08_Kantar","de","3342","Sekretariatsfachkräfte, juristisch",185,3342
+"ISCO-08_Kantar","de","3343","Sekretariatsfachkräfte, Geschäftsleitung",186,3343
+"ISCO-08_Kantar","de","3344","Sekretariatsfachkräfte, Gesundheitswesen",187,3344
+"ISCO-08_Kantar","de","3351","Fachkräfte, Zolldienst/Grenzschutz",188,3351
+"ISCO-08_Kantar","de","3352","Fachkräfte, Steuerverwaltung",189,3352
+"ISCO-08_Kantar","de","3353","Fachkräfte, Sozialverwaltung",190,3353
+"ISCO-08_Kantar","de","3354","Fachkräfte, staatl. Genehmigungsstellen",191,3354
+"ISCO-08_Kantar","de","3355","Polizeikommissare/-innen",192,3355
+"ISCO-08_Kantar","de","3359","Fachkräfte, öffentl. Verwaltung, a.n.g.",193,3359
+"ISCO-08_Kantar","de","3411","Nicht akad. Fachkräfte,  Recht",194,3411
+"ISCO-08_Kantar","de","3412","Nicht akad. Fachkräfte, Sozialpflege",195,3412
+"ISCO-08_Kantar","de","3413","Ordensschwestern/- brüder",196,3413
+"ISCO-08_Kantar","de","3421","Berufssportler/-innen",197,3421
+"ISCO-08_Kantar","de","3422","Sportlehrer/-innen",198,3422
+"ISCO-08_Kantar","de","3423","Trainer/-innen, Fitness u. Erholung",199,3423
+"ISCO-08_Kantar","de","3431","Fotografen/-innen",200,3431
+"ISCO-08_Kantar","de","3432","Raumgestalter/-innen",201,3432
+"ISCO-08_Kantar","de","3433","Fachkräfte, Kunstgalerien/Museen",202,3433
+"ISCO-08_Kantar","de","3434","Küchenchefs/-innen",203,3434
+"ISCO-08_Kantar","de","3435","Sonst. Fachkräfte, Gestaltung/Kultur",204,3435
+"ISCO-08_Kantar","de","3511","Techniker/-innen, Betrieb v. Kommunikat.",205,3511
+"ISCO-08_Kantar","de","3512","Techniker/-innen, Anwenderbetreuung",206,3512
+"ISCO-08_Kantar","de","3513","Techniker/-innen, Computernetzwerke",207,3513
+"ISCO-08_Kantar","de","3514","Webmaster",208,3514
+"ISCO-08_Kantar","de","3521","Rundfunktechniker/-innen",209,3521
+"ISCO-08_Kantar","de","3522","Telekommunikationstechniker/-innen",210,3522
+"ISCO-08_Kantar","de","4110","Allgemeine Bürokräfte",211,4110
+"ISCO-08_Kantar","de","4120","Sekretariatskräfte (allgemein)",212,4120
+"ISCO-08_Kantar","de","4131","Schreibkräfte",213,4131
+"ISCO-08_Kantar","de","4132","Datenerfasser/-innen",214,4132
+"ISCO-08_Kantar","de","4211","Bank- u. andere Schalterbedienstete",215,4211
+"ISCO-08_Kantar","de","4212","Buchmacher/-innen/Croupiers, Glücksspiel",216,4212
+"ISCO-08_Kantar","de","4213","Pfandleiher/-innen",217,4213
+"ISCO-08_Kantar","de","4214","Inkassobeauftragte",218,4214
+"ISCO-08_Kantar","de","4221","Reiseverkehrsfachkräfte",219,4221
+"ISCO-08_Kantar","de","4222","Kundeninformationsfachkräfte/Call Center",220,4222
+"ISCO-08_Kantar","de","4223","Telefonist/-innen",221,4223
+"ISCO-08_Kantar","de","4224","Hotelrezeptionisten/-innen",222,4224
+"ISCO-08_Kantar","de","4225","Auskunftspersonal",223,4225
+"ISCO-08_Kantar","de","4226","Empfangskräfte (allgemein)",224,4226
+"ISCO-08_Kantar","de","4227","Interviewer/-innen, Umfragen",225,4227
+"ISCO-08_Kantar","de","4229","Berufe, Kundeninformation, a.n. g.",226,4229
+"ISCO-08_Kantar","de","4311","Bürokräfte, Rechnungswesen",227,4311
+"ISCO-08_Kantar","de","4312","Bürokräfte, Statistik/Versicherungswesen",228,4312
+"ISCO-08_Kantar","de","4313","Bürokräfte, Lohnbuchhaltung",229,4313
+"ISCO-08_Kantar","de","4321","Fachkräfte, Lagerwirtschaft",230,4321
+"ISCO-08_Kantar","de","4322","Bürokräfte, Material-/Fertigungsplanung",231,4322
+"ISCO-08_Kantar","de","4323","Bürokräfte, Transportwirtschaft",232,4323
+"ISCO-08_Kantar","de","4411","Bibliotheksassistenten/-innen",233,4411
+"ISCO-08_Kantar","de","4412","Postverteiler/-innen",234,4412
+"ISCO-08_Kantar","de","4413","Kodierer/-innen u. Korrekturleser/-innen",235,4413
+"ISCO-08_Kantar","de","4414","Schreiber/-innen",236,4414
+"ISCO-08_Kantar","de","4415","Bürokräfte, Registratur/Dokumentation",237,4415
+"ISCO-08_Kantar","de","4416","Bürokräfte, Personalwesen",238,4416
+"ISCO-08_Kantar","de","4419","Bürokräfte, a.n.g.",239,4419
+"ISCO-08_Kantar","de","5111","Reisebegleiter/-innen",240,5111
+"ISCO-08_Kantar","de","5112","Schaffner/-innen",241,5112
+"ISCO-08_Kantar","de","5113","Reiseleiter/-innen",242,5113
+"ISCO-08_Kantar","de","5120","Köche/-innen",243,5120
+"ISCO-08_Kantar","de","5131","Kellner/-innen",244,5131
+"ISCO-08_Kantar","de","5132","Barkeeper/-innen",245,5132
+"ISCO-08_Kantar","de","5141","Friseure/-innen",246,5141
+"ISCO-08_Kantar","de","5142","Kosmetiker/-innen",247,5142
+"ISCO-08_Kantar","de","5151","Hauswirtschaftsleiter/-innen, Büro/Hotel",248,5151
+"ISCO-08_Kantar","de","5152","Hauswirtschafter/-innen, Privathaushalte",249,5152
+"ISCO-08_Kantar","de","5153","Hauswarte/-innen",250,5153
+"ISCO-08_Kantar","de","5161","Astrologen/-innen u. Wahrsager/-innen",251,5161
+"ISCO-08_Kantar","de","5162","Gesellschafter/-innen",252,5162
+"ISCO-08_Kantar","de","5163","Bestatter/-innen",253,5163
+"ISCO-08_Kantar","de","5164","Tierpfleger/-innen",254,5164
+"ISCO-08_Kantar","de","5165","Fahrschullehrer/-innen",255,5165
+"ISCO-08_Kantar","de","5169","Berufe, personenbez. Dienstl., a.n.g.",256,5169
+"ISCO-08_Kantar","de","5211","Verkaufsstand- u. Marktverkäufer/-innen",257,5211
+"ISCO-08_Kantar","de","5212","Straßenverkäufer/-innen, Lebensmittel",258,5212
+"ISCO-08_Kantar","de","5221","Leiter/-innen, Einzelhandelsgeschäft",259,5221
+"ISCO-08_Kantar","de","5222","Verkaufsaufsichtskräfte, Handelsgeschäft",260,5222
+"ISCO-08_Kantar","de","5223","Verkäufer/-innen, Handelsgeschäft",261,5223
+"ISCO-08_Kantar","de","5230","Kassierer/-innen",262,5230
+"ISCO-08_Kantar","de","5241","Mannequins/Dressmen u. sonst. Modelle",263,5241
+"ISCO-08_Kantar","de","5242","Produktvorführer/-innen",264,5242
+"ISCO-08_Kantar","de","5243","Haustürverkäufer/-innen",265,5243
+"ISCO-08_Kantar","de","5244","Telefonverkäufer/-innen",266,5244
+"ISCO-08_Kantar","de","5245","Tankwarte/-innen",267,5245
+"ISCO-08_Kantar","de","5246","Imbissverkäufer/-innen",268,5246
+"ISCO-08_Kantar","de","5249","Verkaufskräfte, a.n.g.",269,5249
+"ISCO-08_Kantar","de","5311","Kinderbetreuer/-innen",270,5311
+"ISCO-08_Kantar","de","5312","Lernbetreuer/-innen",271,5312
+"ISCO-08_Kantar","de","5321","Pflegehelfer/-innen",272,5321
+"ISCO-08_Kantar","de","5322","Haus- u. Familienpfleger/-innen",273,5322
+"ISCO-08_Kantar","de","5329","Betreuungsberufe, Gesundheitsw., a.n.g.",274,5329
+"ISCO-08_Kantar","de","5411","Feuerwehrleute",275,5411
+"ISCO-08_Kantar","de","5412","Polizisten/-innen",276,5412
+"ISCO-08_Kantar","de","5413","Gefängnisaufseher/-innen",277,5413
+"ISCO-08_Kantar","de","5414","Sicherheitswachpersonal",278,5414
+"ISCO-08_Kantar","de","5419","Schutzkräfte u. Sicherheitsbed., a.n.g.",279,5419
+"ISCO-08_Kantar","de","6111","Ackerbäuerinnen u. Ackerbauern",280,6111
+"ISCO-08_Kantar","de","6112","Baum- u. Strauchfrüchteanbauer/-innen",281,6112
+"ISCO-08_Kantar","de","6113","Gärtner, Saat- u. Pflanzenzüchter/-innen",282,6113
+"ISCO-08_Kantar","de","6114","Fachkräfte, Mischkulturlandwirtschaft",283,6114
+"ISCO-08_Kantar","de","6121","Nutztierhalter/-innen (ohne Geflügel)",284,6121
+"ISCO-08_Kantar","de","6122","Geflügelhalter/-innen",285,6122
+"ISCO-08_Kantar","de","6123","Imker/innen",286,6123
+"ISCO-08_Kantar","de","6129","Tierhalter/-innen, a.n.g.",287,6129
+"ISCO-08_Kantar","de","6130","Landwirt/-innen, Ackerbau u. Tierhaltung",288,6130
+"ISCO-08_Kantar","de","6210","Forstarbeitskräfte",289,6210
+"ISCO-08_Kantar","de","6221","Fachkräfte, Aquakultur",290,6221
+"ISCO-08_Kantar","de","6222","Binnen- u. Küstenfischer/-innen",291,6222
+"ISCO-08_Kantar","de","6223","Hochseefischer/-innen",292,6223
+"ISCO-08_Kantar","de","6224","Jäger/innen u. Fallensteller/-innen",293,6224
+"ISCO-08_Kantar","de","6310","Ackerbauer/-innen, Eigenbedarf",294,6310
+"ISCO-08_Kantar","de","6320","Nutztierhalter/-innen, Eigenbedarf",295,6320
+"ISCO-08_Kantar","de","6330","Ackerbauern/Nutztierhalter, Eigenbedarf",296,6330
+"ISCO-08_Kantar","de","6340","Fischer/-innen, Eigenbedarf",297,6340
+"ISCO-08_Kantar","de","7111","Rohbaufacharbeiter/-innen, Hochbau",298,7111
+"ISCO-08_Kantar","de","7112","Maurer/-innen",299,7112
+"ISCO-08_Kantar","de","7113","Steinbearbeiter/-innen)",300,7113
+"ISCO-08_Kantar","de","7114","Betonoberflächenfertiger/-innen",301,7114
+"ISCO-08_Kantar","de","7115","Zimmerleute u. Bautischler/-innen",302,7115
+"ISCO-08_Kantar","de","7119","Baukonstruktionsberufe, a.n.g.",303,7119
+"ISCO-08_Kantar","de","7121","Dachdecker/-innen",304,7121
+"ISCO-08_Kantar","de","7122","Boden- u. Fliesenleger/innen",305,7122
+"ISCO-08_Kantar","de","7123","Stuckateure/-innen",306,7123
+"ISCO-08_Kantar","de","7124","Isolierer/-innen",307,7124
+"ISCO-08_Kantar","de","7125","Glaser/-innen",308,7125
+"ISCO-08_Kantar","de","7126","Bauspengler/-innen/Installateure/-innen",309,7126
+"ISCO-08_Kantar","de","7127","Klima- u. Kälteanlagenbauer/-innen",310,7127
+"ISCO-08_Kantar","de","7131","Maler/-innen",311,7131
+"ISCO-08_Kantar","de","7132","Lackierer/-innen",312,7132
+"ISCO-08_Kantar","de","7133","Rauchfangkehrer/-innen",313,7133
+"ISCO-08_Kantar","de","7211","Former/-innen (für Metallguss)",314,7211
+"ISCO-08_Kantar","de","7212","Schweißer/-innen",315,7212
+"ISCO-08_Kantar","de","7213","Blechkaltverformer/-innen",316,7213
+"ISCO-08_Kantar","de","7214","Baumetallverformer/-innen",317,7214
+"ISCO-08_Kantar","de","7215","Verspannungsmonteure/-innen",318,7215
+"ISCO-08_Kantar","de","7221","Grob-/Hammerschmiede/-innen",319,7221
+"ISCO-08_Kantar","de","7222","Werkzeugmechaniker/-innen",320,7222
+"ISCO-08_Kantar","de","7223","Werkzeugmaschineneinrichter/-innen",321,7223
+"ISCO-08_Kantar","de","7224","Metallpolierer/-innen",322,7224
+"ISCO-08_Kantar","de","7231","Kraftfahrzeugmechaniker/-innen",323,7231
+"ISCO-08_Kantar","de","7232","Flugmotorenmechaniker/-innen",324,7232
+"ISCO-08_Kantar","de","7233","Industriemaschinenmechaniker/-innen",325,7233
+"ISCO-08_Kantar","de","7234","Fahrradmechaniker/-innen",326,7234
+"ISCO-08_Kantar","de","7311","Präzisionsinstrumentenmacher/-innen",327,7311
+"ISCO-08_Kantar","de","7312","Musikinstrumentenbauer/-innen",328,7312
+"ISCO-08_Kantar","de","7313","Schmuckwarenhersteller/-innen",329,7313
+"ISCO-08_Kantar","de","7314","Keramiker/-innen",330,7314
+"ISCO-08_Kantar","de","7315","Glasmacher/-schneider/-schleifer/-innen",331,7315
+"ISCO-08_Kantar","de","7316","Schildermaler/-innen u. Graveure/-innen",332,7316
+"ISCO-08_Kantar","de","7317","Kunsthandwerkl. Berufe, Holz/Korbwaren",333,7317
+"ISCO-08_Kantar","de","7318","Kunsthandwerkliche Berufe, Textil/Leder",334,7318
+"ISCO-08_Kantar","de","7319","Kunsthandwerkliche Berufe, a.n.g.",335,7319
+"ISCO-08_Kantar","de","7321","Techniker/-innen in der Druckvorstufe",336,7321
+"ISCO-08_Kantar","de","7322","Drucker/-innen",337,7322
+"ISCO-08_Kantar","de","7323","Berufe,  Druckweiterverarbeitung",338,7323
+"ISCO-08_Kantar","de","7411","Bauelektriker/-innen",339,7411
+"ISCO-08_Kantar","de","7412","Elektromechaniker/-innen",340,7412
+"ISCO-08_Kantar","de","7413","Elektroleitungsinstallateur/-innen",341,7413
+"ISCO-08_Kantar","de","7421","Elektroniker/-servicetechniker/-innen",342,7421
+"ISCO-08_Kantar","de","7422","Installateure/-innen, Informationstechn.",343,7422
+"ISCO-08_Kantar","de","7511","Fleischer/-innen u. Fischhändler/-innen",344,7511
+"ISCO-08_Kantar","de","7512","Bäcker/-innen u. Konditor/-innen",345,7512
+"ISCO-08_Kantar","de","7513","Molkerei- u. Käsereifachkräfte",346,7513
+"ISCO-08_Kantar","de","7514","Obst- u. Gemüsekonservierer/-innen",347,7514
+"ISCO-08_Kantar","de","7515","Nahrungsmittel- u. Getränkekoster/-innen",348,7515
+"ISCO-08_Kantar","de","7516","Tabakwarenmacher/-innen",349,7516
+"ISCO-08_Kantar","de","7521","Holztkonservierer/-innen",350,7521
+"ISCO-08_Kantar","de","7522","Möbeltischler/-innen",351,7522
+"ISCO-08_Kantar","de","7523","Bediener/-innen v. Holzbearbeitungsma.",352,7523
+"ISCO-08_Kantar","de","7531","Herren- u. Damenschneider/-innen",353,7531
+"ISCO-08_Kantar","de","7532","Zuschneider/-innen",354,7532
+"ISCO-08_Kantar","de","7533","Näher/-innen u. Sticker/-innen",355,7533
+"ISCO-08_Kantar","de","7534","Polsterer/-innen",356,7534
+"ISCO-08_Kantar","de","7535","Pelzveredler/-innen u. Gerber/-innen",357,7535
+"ISCO-08_Kantar","de","7536","Schuhmacher/-innen",358,7536
+"ISCO-08_Kantar","de","7541","Taucher/-innen",359,7541
+"ISCO-08_Kantar","de","7542","Sprengmeister/-innen",360,7542
+"ISCO-08_Kantar","de","7543","Produkttester/-innen (ohne Nahrungsm.)",361,7543
+"ISCO-08_Kantar","de","7544","Schädlingsbekämpfungsberufe",362,7544
+"ISCO-08_Kantar","de","7549","Handwerksberufe, a.n.g.",363,7549
+"ISCO-08_Kantar","de","8111","Bergleute u. Grubenarbeiter/-innen",364,8111
+"ISCO-08_Kantar","de","8112","Bediener/-innen, Gesteinsaufbereitung",365,8112
+"ISCO-08_Kantar","de","8113","Tiefbohrer/-innen",366,8113
+"ISCO-08_Kantar","de","8114","Bediener/-innen,  Herst. v. Zement",367,8114
+"ISCO-08_Kantar","de","8121","Bediener/-innen, Metallerzeugung",368,8121
+"ISCO-08_Kantar","de","8122","Bediener/-innen, Metallveredlung",369,8122
+"ISCO-08_Kantar","de","8131","Bediener/-innen, chem. Erzeugn.",370,8131
+"ISCO-08_Kantar","de","8132","Bediener/-innen, fotograf. Erzeugn.",371,8132
+"ISCO-08_Kantar","de","8141","Bediener/-innen, Gummiwaren",372,8141
+"ISCO-08_Kantar","de","8142","Bediener/-innen, Kunststoffwaren",373,8142
+"ISCO-08_Kantar","de","8143","Bediener/-innen, Papierwaren",374,8143
+"ISCO-08_Kantar","de","8151","Bediener/-innen, Spinnmaschinen",375,8151
+"ISCO-08_Kantar","de","8152","Bediener/-innen, Web-/Strick-/Wirkmasch.",376,8152
+"ISCO-08_Kantar","de","8153","Bediener/-innen, Nähmaschinen",377,8153
+"ISCO-08_Kantar","de","8154","Bediener/-innen, Bleich-/Färbemaschinen",378,8154
+"ISCO-08_Kantar","de","8155","Bediener/-innen, Lederzurichtungsmasch.",379,8155
+"ISCO-08_Kantar","de","8156","Bediener/-innen, Schuhherst.",380,8156
+"ISCO-08_Kantar","de","8157","Bediener/-innen, Wäschereimaschinen",381,8157
+"ISCO-08_Kantar","de","8159","Bediener/-innen, Textil-/Lederw., a.n.g.",382,8159
+"ISCO-08_Kantar","de","8160","Bediener/-innen, Herst. v. Nahrungsmit.",383,8160
+"ISCO-08_Kantar","de","8171","Bediener/-innen, Zellstoff-/Papierherst.",384,8171
+"ISCO-08_Kantar","de","8172","Bediener/-innen, Holzaufbereitung",385,8172
+"ISCO-08_Kantar","de","8181","Bediener/-innen, Glas-/Keramikherst.",386,8181
+"ISCO-08_Kantar","de","8182","Bediener/-innen, Dampfmaschinen/-kesseln",387,8182
+"ISCO-08_Kantar","de","8183","Bediener/-innen, Verpackungsmaschinen",388,8183
+"ISCO-08_Kantar","de","8189","Bediener/-innen, sonst. Masch., a.n.g.",389,8189
+"ISCO-08_Kantar","de","8211","Berufe der Montage v. mech. Bauteilen",390,8211
+"ISCO-08_Kantar","de","8212","Berufe , Montage elektr./elektron. Ger.",391,8212
+"ISCO-08_Kantar","de","8219","Montageberufe, a.n.g.",392,8219
+"ISCO-08_Kantar","de","8311","Lokomotivführer/-innen",393,8311
+"ISCO-08_Kantar","de","8312","Bediener/-innen, Schienennetzbetrieb",394,8312
+"ISCO-08_Kantar","de","8321","Kraftfahrzeugführer/-innen",395,8321
+"ISCO-08_Kantar","de","8322","Personenkraftwagen-/Taxifahrer/-innen",396,8322
+"ISCO-08_Kantar","de","8331","Busfahrer/-innen",397,8331
+"ISCO-08_Kantar","de","8332","Fahrer/-innen schwerer Lastkraftwagen",398,8332
+"ISCO-08_Kantar","de","8341","Führer/-innen mobiler landtwirt. Masch.",399,8341
+"ISCO-08_Kantar","de","8342","Führer/-innen Erdbewegungmaschinen",400,8342
+"ISCO-08_Kantar","de","8343","Kranführer/-innen",401,8343
+"ISCO-08_Kantar","de","8344","Gabelstaplerfahrer/-innen",402,8344
+"ISCO-08_Kantar","de","8350","Deckspersonal auf Schiffen",403,8350
+"ISCO-08_Kantar","de","9111","Reinigungspers. in Privathaushalten",404,9111
+"ISCO-08_Kantar","de","9112","Reinigungspers. in Büros/Hotels",405,9112
+"ISCO-08_Kantar","de","9121","Handwäscher/-innen u. Handbügler/-innen",406,9121
+"ISCO-08_Kantar","de","9122","Fahrzeugreiniger/-innen",407,9122
+"ISCO-08_Kantar","de","9123","Fensterputzer/-innen",408,9123
+"ISCO-08_Kantar","de","9129","Sonst. Reinigungspersonal",409,9129
+"ISCO-08_Kantar","de","9211","Hilfsarbeiter/-innen, Ackerbau",410,9211
+"ISCO-08_Kantar","de","9212","Hilfsarbeiter/-innen, Tierhaltung",411,9212
+"ISCO-08_Kantar","de","9213","Hilfsarbeiter/-innen, Ackerbau/Tierhalt.",412,9213
+"ISCO-08_Kantar","de","9214","Hilfsarbeiter/-innen, Gartenbau",413,9214
+"ISCO-08_Kantar","de","9215","Hilfsarbeiter/-innen, Forstwirtschaft",414,9215
+"ISCO-08_Kantar","de","9216","Hilfsarbeiter/-innen, Fischerei",415,9216
+"ISCO-08_Kantar","de","9311","Hilfsarbeiter/-innen, Bergbau",416,9311
+"ISCO-08_Kantar","de","9312","Hilfsarbeiter/-innen, Tiefbau",417,9312
+"ISCO-08_Kantar","de","9313","Hilfsarbeiter/-innen, Hochbau",418,9313
+"ISCO-08_Kantar","de","9321","Verpacker/-innen",419,9321
+"ISCO-08_Kantar","de","9329","Hilfsarbeiter/-innen, Herst., a.n.g.",420,9329
+"ISCO-08_Kantar","de","9331","Führer/-innen v. Handwagen",421,9331
+"ISCO-08_Kantar","de","9332","Führer/-innen v. Fahrz. mit Zugtierantr.",422,9332
+"ISCO-08_Kantar","de","9333","Frachtarbeiter/-innen",423,9333
+"ISCO-08_Kantar","de","9334","Regalbetreuer/-innen",424,9334
+"ISCO-08_Kantar","de","9411","Zubereiter/-innen, Fast Food",425,9411
+"ISCO-08_Kantar","de","9412","Küchenhilfen",426,9412
+"ISCO-08_Kantar","de","9510","Auf der Straße arb. Dienstlkr.",427,9510
+"ISCO-08_Kantar","de","9520","Straßenverkäufer/-innen (ohne Lebensm.)",428,9520
+"ISCO-08_Kantar","de","9611","Arbeiter/-innen, Abfallsammlung",429,9611
+"ISCO-08_Kantar","de","9612","Arbeiter/-innen Abfallsortierung",430,9612
+"ISCO-08_Kantar","de","9613","Straßenkehrer/-innen",431,9613
+"ISCO-08_Kantar","de","9621","Paketauslieferer/-innen",432,9621
+"ISCO-08_Kantar","de","9622","Gelegenheitsarbeiter/-innen",433,9622
+"ISCO-08_Kantar","de","9623","Zählerableser/-innen",434,9623
+"ISCO-08_Kantar","de","9624","Wasserträger/-innen",435,9624
+"ISCO-08_Kantar","de","9629","Hilfsarbeitskräfte, a.n.g.",436,9629
+"ISCO-08_Kantar","de","-1","nicht vercodbar",437,-1
+"ISCO-08_Kantar","de","-3","Rentner",438,-3
+"ISCO-08_Kantar","de","-10","Aushilfe",439,-10
+"ISCO-08_Kantar","de","-11","Auszubildende, Azubi, Berufsvorbereitung",440,-11
+"ISCO-08_Kantar","de","-12","Arbeiter, Facharbeiter, Hilfsarbeiter, usw.",441,-12
+"ISCO-08_Kantar","de","-13","Industriemeister, Meister",442,-13
+"ISCO-08_Kantar","de","-14","Techniker, technischer Angestellter",443,-14
+"ISCO-08_Kantar","de","-15","Ingenieur, technischer Ingenieur",444,-15
+"ISCO-08_Kantar","de","-16","Praktikant, Trainee, Volontär",445,-16
+"ISCO-08_Kantar","de","-17","Freiberufler, Geschäftsmann/-frau, Selbstständiger",446,-17
+"ISCO-08_Kantar","de","-18","mithelfender Familienangehöriger",447,-18
+"ISCO-08_Kantar","de","-19","Bundesfreiwilligendienst, Freiwilliges soziales Jahr",448,-19
+"ISCO-08_Kantar","de","-20","Dienstleister, Dienstleistung",449,-20
+"ISCO-08_Kantar","de","-21","Zeitarbeit",450,-21
+"ISCO-08_Kantar","de","-30","studentische Angestellte/Hilfskraft, Werkstudent, wissenscha",451,-30
+"ISCO-08_Kantar","de","-31","Bachelor",452,-31
+"ISCO-08_Kantar","de","-32","Diplom, Magister, Master",453,-32
+"ISCO-08_Kantar","de","-33","2. Staatsexamen, Assessor, 2. Staatsprüfung, Referendariat",454,-33
+"ISCO-08_Kantar","de","-34","Studium, Aufbaustudium, Fachdiplom",455,-34
+"ISCO-08_Kantar","de","-50","Berater, Consultant, Planer",456,-50
+"ISCO-08_Kantar","de","-51","Einsatzleiter, Leiter, leitender Angestellter",457,-51
+"ISCO-08_Kantar","de","-52","Betriebsführer, Betriebsleiter",458,-52
+"ISCO-08_Kantar","de","-53","Kaufmann/-frau",459,-53
+"ISCO-08_Kantar","de","-54","Gutachter, Sachverständiger",460,-54
+"ISCO-08_Kantar","de","-55","Referent",461,-55
+"ISCO-08_Kantar","de","-60","sozial, Sozialbereich, Sozialwesen",462,-60
+"ISCO-08_Kantar","de","-61","medizinischer Bereich",463,-61
+"ISCO-08_Kantar","de","-62","Therapeut",464,-62
+"ISCO-08_Kantar","de","-90","Hauptschulbesuch, Hauptschulabschluss, BEJ, BGJ, Berufsvorbe",465,-90
+"ISCO-08_Kantar","de","-91","Realschulbesuch, -abschluss, mittl. Reife, FOS-Reife, Berufs",466,-91
+"ISCO-08_Kantar","de","-92","Berufsfachschulbesuch, Fachschulreife",467,-92
+"ISCO-08_Kantar","de","-93","Fachschulbesuch, -abschluss (ohne erkennbare Fachrichtung)",468,-93
+"ISCO-08_Kantar","de","-95","FOS, Fachhochschulreife, Berufsfachoberschule, Berufsobersch",469,-95
+"ISCO-08_Kantar","de","-96","Gymnasium, Abitur, HS-Reife, Fachabitur, fachbez. Hochschulz",470,-96
