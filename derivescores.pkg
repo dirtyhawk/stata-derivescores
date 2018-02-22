@@ -28,9 +28,12 @@ f help/gnugpl.sthlp
 F tables/ConceptSchemes_Correspondences.csv
 F tables/EGP_Ganzeboom.csv
 F tables/ISCO-08_Ganzeboom.csv
+F tables/ISCO-08_Kantar.csv
+F tables/ISCO-08_Kantar--ISCO-08_Ganzeboom.csv
 F tables/ISCO-88_Ganzeboom_EGP_Ganzeboom_aux1.csv
 F tables/ISCO-88_Ganzeboom_EGP_Ganzeboom_aux2.csv
 F tables/ISCO-08_ILO.csv
+F tables/ISCO-08_Ganzeboom--ISCO-88_Ganzeboom.csv
 F tables/ISCO-08_ILO--ISCO-08_Ganzeboom.csv
 F tables/ISCO-68_Ganzeboom.csv
 F tables/ISCO-68_Ganzeboom--ISEI.csv
