@@ -47,6 +47,8 @@ F tables/ISCO-88_Ganzeboom.csv
 F tables/ISCO-88_Ganzeboom--EGP_Ganzeboom.csv
 F tables/ISCO-88_Ganzeboom--ISEI.csv
 F tables/ISCO-88_Ganzeboom--SIOPS.csv
+F tables/ISCO-88_Kantar.csv
+F tables/ISCO-88_Kantar--ISCO-88_Ganzeboom.csv
 F tables/ISCO-88_ILO.csv
 F tables/ISCO-88_ILO--ISCO-88_Ganzeboom.csv
 F tables/ISEI.csv

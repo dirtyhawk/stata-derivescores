@@ -19,6 +19,8 @@
 "ISCO-88_Ganzeboom","International Standard Classification of Occupations, ISCO-88 (Ganzeboom‘s version)",,"This version of ISCO-88 is derived from Harry Ganzeboom‘s SPSS script iskolab.sps. Text between [ ] departs from ISCO manual. nec means “not elsewhere classified”, nfs “not further specified”","http://www.harryganzeboom.nl/isco88/index.htm","http://www.harryganzeboom.nl/isco88/isco88.zip"
 "ISCO-88_Ganzeboom_EGP_Ganzeboom_aux1","Selfemployment Status",,"Classification for an auxillary variable for crosswalk from ISCO-88_Ganzeboom to EGP_Ganzeboom",,
 "ISCO-88_Ganzeboom_EGP_Ganzeboom_aux2","Number of Employees",,"Classification for an auxillary variable for crosswalk from ISCO-88_Ganzeboom to EGP_Ganzeboom",,
+"ISCO-88_Kantar","International Standard Classification of Occupations, ISCO-88 (Version of Kantar Public delivered to the SOEP)",,,,
+"ISCO-88_Kantar",,"ISCO-88_Ganzeboom",,,
 "ISCO-88_ILO",,"ISCO-88_Ganzeboom",,,
 "ISCO-88_ILO","International Standard Classification of Occupations, ISCO-88. Version of the ILO.",,"This version of ISCO-88 is used by the International Labour Organization (ILO).","http://www.ilo.org/public/english/bureau/stat/isco/isco88/index.htm","http://www.ilo.org/public/english/bureau/stat/isco/isco88/major.htm"
 "ISEI","International Socio-Economic Index of Occupational Status",,"Range from 10 to 90.",,

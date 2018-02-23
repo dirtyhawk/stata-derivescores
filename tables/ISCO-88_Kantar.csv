@@ -1,0 +1,531 @@
+"ConceptScheme","labelStyle","Concept","prefLabel","sortorder","prefValue"
+"ISCO-88_Kantar","de","11","Angehörige gesetzgebender Körperschaften und leitende Verwal",1,11
+"ISCO-88_Kantar","de","12","Geschäftsleiter und Geschäftsbereichsleiter in großen Untern",2,12
+"ISCO-88_Kantar","de","13","Leiter kleiner Unternehmen",3,13
+"ISCO-88_Kantar","de","21","Physiker, Mathematiker und Ingenieurwissenschaftler",4,21
+"ISCO-88_Kantar","de","22","Biowissenschaftler und Mediziner",5,22
+"ISCO-88_Kantar","de","23","Wissenschaftliche Lehrkräfte",6,23
+"ISCO-88_Kantar","de","24","Sonstige Wissenschaftler und verwandte Berufe",7,24
+"ISCO-88_Kantar","de","31","Technische Fachkräfte",8,31
+"ISCO-88_Kantar","de","32","Biowissenschaftliche und Gesundheitsfachkräfte",9,32
+"ISCO-88_Kantar","de","33","Nicht-wissenschaftliche Lehrkräfte",10,33
+"ISCO-88_Kantar","de","34","Sonstige Fachkräfte (mittlere Qualifikationsebene)",11,34
+"ISCO-88_Kantar","de","41","Büroangestellte ohne Kundenkontakt",12,41
+"ISCO-88_Kantar","de","42","Büroangestellte mit Kundenkontakt",13,42
+"ISCO-88_Kantar","de","51","Personenbezogene Dienstleistungsberufe und Sicherheitsbedien",14,51
+"ISCO-88_Kantar","de","52","Modelle, Verkäufer und Vorführer",15,52
+"ISCO-88_Kantar","de","61","Fachkräfte in der Landwirtschaft und Fischerei",16,61
+"ISCO-88_Kantar","de","71","Mineralgewinnungs- und Bauberufe",17,71
+"ISCO-88_Kantar","de","72","Metallarbeiter, Mechaniker und verwandte Berufe",18,72
+"ISCO-88_Kantar","de","73","Präzisionsarbeiter, Kunsthandwerker, Drucker und verwandte B",19,73
+"ISCO-88_Kantar","de","74","Sonstige Handwerks- und verwandte Berufe",20,74
+"ISCO-88_Kantar","de","81","Bediener stationärer und verwandter Anlagen",21,81
+"ISCO-88_Kantar","de","82","Maschinenbediener und Montierer",22,82
+"ISCO-88_Kantar","de","83","Fahrzeugführer und Bediener mobiler Anlagen",23,83
+"ISCO-88_Kantar","de","91","Verkaufs- und Dienstleistungshilfskräfte",24,91
+"ISCO-88_Kantar","de","92","Landwirtschaftliche, Fischerei- und verwandte Hilfsarbeiter",25,92
+"ISCO-88_Kantar","de","93","Hilfsarbeiter im Bergbau, Baugewerbe, Verarb. Gewerbe und Tr",26,93
+"ISCO-88_Kantar","de","110","Soldaten",27,110
+"ISCO-88_Kantar","de","111","Angehörige gesetzgebender Körperschaften und leitende Verwal",28,111
+"ISCO-88_Kantar","de","114","Leitende Bedienstete von Interessenorganisationen",29,114
+"ISCO-88_Kantar","de","121","Direktoren und Hauptgeschäftsführer",30,121
+"ISCO-88_Kantar","de","122","Produktions- und Operationsleiter",31,122
+"ISCO-88_Kantar","de","123","Sonstige Fachbereichsleiter",32,123
+"ISCO-88_Kantar","de","131","Leiter kleiner Unternehmen",33,131
+"ISCO-88_Kantar","de","211","Physiker, Chemiker und verwandte Wissenschaftler",34,211
+"ISCO-88_Kantar","de","212","Mathematiker, Statistiker und verwandte Wissenschaftler",35,212
+"ISCO-88_Kantar","de","213","Informatiker",36,213
+"ISCO-88_Kantar","de","214","Architekten, Ingenieure und verwandte Wissenschaftler",37,214
+"ISCO-88_Kantar","de","221","Biowissenschaftler",38,221
+"ISCO-88_Kantar","de","222","Mediziner (ohne Krankenpflege)",39,222
+"ISCO-88_Kantar","de","223","Wissenschaftliche Krankenpflege- und Geburtshilfefachkräfte",40,223
+"ISCO-88_Kantar","de","231","Universitäts- und Hochschullehrer",41,231
+"ISCO-88_Kantar","de","232","Lehrer des Sekundarbereiches",42,232
+"ISCO-88_Kantar","de","233","Wissenschaftliche Lehrer des Primar- und Vorschulbereiches",43,233
+"ISCO-88_Kantar","de","234","Wissenschaftliche Sonderschullehrer",44,234
+"ISCO-88_Kantar","de","235","Sonstige wissenschaftliche Lehrkräfte",45,235
+"ISCO-88_Kantar","de","241","Unternehmensberatungs- und Organisationsfachkräfte",46,241
+"ISCO-88_Kantar","de","242","Juristen",47,242
+"ISCO-88_Kantar","de","243","Archiv-, Bibliotheks- und verwandte Informationswissenschaft",48,243
+"ISCO-88_Kantar","de","244","Sozialwissenschaftler und verwandte Berufe",49,244
+"ISCO-88_Kantar","de","245","Schriftsteller, bildende oder darstellende Künstler",50,245
+"ISCO-88_Kantar","de","246","Geistliche, Seelsorger",51,246
+"ISCO-88_Kantar","de","247","Wissenschaftliche Verwaltungsfachkräfte des öffentlichen Die",52,247
+"ISCO-88_Kantar","de","311","Material- und ingenieurtechnische Fachkräfte",53,311
+"ISCO-88_Kantar","de","312","Datenverarbeitungsfachkräfte",54,312
+"ISCO-88_Kantar","de","313","Bediener optischer und elektronischer Anlagen",55,313
+"ISCO-88_Kantar","de","314","Schiffs-, Flugzeugführer und verwandte Berufe",56,314
+"ISCO-88_Kantar","de","315","Sicherheits- und Qualitätskontrolleure",57,315
+"ISCO-88_Kantar","de","321","Biotechniker und verwandte Berufe",58,321
+"ISCO-88_Kantar","de","322","Medizinische Fachberufe (ohne Krankenpflege)",59,322
+"ISCO-88_Kantar","de","323","Nicht-wissenschaftliche Krankenpflege- und Geburtshilfefachk",60,323
+"ISCO-88_Kantar","de","331","Nicht-wissenschaftliche Lehrkräfte des Primarbereiches",61,331
+"ISCO-88_Kantar","de","332","Nicht-wissenschaftliche Lehrkräfte des Vorschulbereiches",62,332
+"ISCO-88_Kantar","de","333","Nicht-wissenschaftliche Sonderschullehrkräfte",63,333
+"ISCO-88_Kantar","de","334","Sonstige nicht-wissenschaftliche Lehrkräfte",64,334
+"ISCO-88_Kantar","de","341","Finanz- und Verkaufsfachkräfte",65,341
+"ISCO-88_Kantar","de","342","Vermittler gewerblicher Dienstleistungen und Handelsmakler",66,342
+"ISCO-88_Kantar","de","343","Verwaltungsfachkräfte",67,343
+"ISCO-88_Kantar","de","344","Zoll-, Steuer- und verwandte Fachkräfte der öffentlichen Ver",68,344
+"ISCO-88_Kantar","de","345","Polizeikommissare und Detektive",69,345
+"ISCO-88_Kantar","de","346","Sozialpflegerische Berufe",70,346
+"ISCO-88_Kantar","de","347","Künstlerische, Unterhaltungs- und Sportberufe",71,347
+"ISCO-88_Kantar","de","348","Ordensbrüder/-schwestern und Seelsorgehelfer",72,348
+"ISCO-88_Kantar","de","411","Sekretärinnen, Maschinenschreibkräfte und verwandte Berufe",73,411
+"ISCO-88_Kantar","de","412","Angestellte im Rechnungs-, Statistik- und Finanzwesen",74,412
+"ISCO-88_Kantar","de","413","Materialverwaltungs- und Transportangestellte",75,413
+"ISCO-88_Kantar","de","414","Bibliotheks-, Post- und verwandte Angestellte",76,414
+"ISCO-88_Kantar","de","419","Sonstige Büroangestellte",77,419
+"ISCO-88_Kantar","de","421","Kassierer, Schalter- und andere Angestellte",78,421
+"ISCO-88_Kantar","de","422","Kundeninformationsangestellte",79,422
+"ISCO-88_Kantar","de","511","Reisebegleiter und verwandte Berufe",80,511
+"ISCO-88_Kantar","de","512","Dienstleistungsberufe im hauswirtschaftlichen Bereich und im",81,512
+"ISCO-88_Kantar","de","513","Pflege- und verwandte Berufe",82,513
+"ISCO-88_Kantar","de","514","Sonstige personenbezogene Dienstleistungsberufe",83,514
+"ISCO-88_Kantar","de","516","Sicherheitsbedienstete",84,516
+"ISCO-88_Kantar","de","521","Mannequins/Dressmen und sonstige Modelle",85,521
+"ISCO-88_Kantar","de","522","Ladenverkäufer, Verkaufs-, Marktstandverkäufer und Vorführer",86,522
+"ISCO-88_Kantar","de","611","Gärtner und Ackerbauern",87,611
+"ISCO-88_Kantar","de","612","Tierwirtschaftliche und verwandte Berufe",88,612
+"ISCO-88_Kantar","de","613","Ackerbauern und Tierzüchter/-halter",89,613
+"ISCO-88_Kantar","de","614","Forstarbeitskräfte und verwandte Berufe",90,614
+"ISCO-88_Kantar","de","615","Fischer, Jäger und Fallensteller",91,615
+"ISCO-88_Kantar","de","711","Bergleute, Sprengmeister, Steinbearbeiter und Steinbildhauer",92,711
+"ISCO-88_Kantar","de","712","Baukonstruktions- und verwandte Berufe",93,712
+"ISCO-88_Kantar","de","713","Ausbau- und verwandte Berufe",94,713
+"ISCO-88_Kantar","de","714","Maler, Gebäudereiniger und verwandte Berufe",95,714
+"ISCO-88_Kantar","de","721","Former (für Metallguß), Schweißer, Blechkaltverformer, Baume",96,721
+"ISCO-88_Kantar","de","722","Grobschmiede, Werkzeugmacher und verwandte Berufe",97,722
+"ISCO-88_Kantar","de","723","Maschinenmechaniker und -schlosser",98,723
+"ISCO-88_Kantar","de","724","Elektro- und Elektronikmechaniker und -monteure",99,724
+"ISCO-88_Kantar","de","731","Präzisionsarbeiter für Metall und verwandte Werkstoffe",100,731
+"ISCO-88_Kantar","de","732","Töpfer, Glasmacher und verwandte Berufe",101,732
+"ISCO-88_Kantar","de","733","Kunsthandwerker für Holz, Textilien, Leder und verwandte Mat",102,733
+"ISCO-88_Kantar","de","734","Druckhandwerker und verwandte Berufe",103,734
+"ISCO-88_Kantar","de","741","Berufe in der Nahrungsmittelverarbeitung und verwandte Beruf",104,741
+"ISCO-88_Kantar","de","742","Holzbearbeiter, Möbeltischler und verwandte Berufe",105,742
+"ISCO-88_Kantar","de","743","Textil-, Bekleidungs- und verwandte Berufe",106,743
+"ISCO-88_Kantar","de","744","Fell-, Lederverarbeiter und Schuhmacher",107,744
+"ISCO-88_Kantar","de","811","Bediener von bergbaulichen und Mineralaufbereitungsanlagen",108,811
+"ISCO-88_Kantar","de","812","Verfahrensanlagenbediener in der Metallerzeugung und Metallu",109,812
+"ISCO-88_Kantar","de","813","Bediener von Anlagen zur Glas- und Keramikherstellung sowie",110,813
+"ISCO-88_Kantar","de","814","Bediener von Anlagen zur Holzaufbereitung und Papierherstell",111,814
+"ISCO-88_Kantar","de","815","Bediener chemischer Verfahrensanlagen",112,815
+"ISCO-88_Kantar","de","816","Bediener von Energieerzeugungs- und verwandten Anlagen",113,816
+"ISCO-88_Kantar","de","817","Bediener von Industrierobotern",114,817
+"ISCO-88_Kantar","de","821","Maschinenbediener für Metall- und Mineralerzeugnisse",115,821
+"ISCO-88_Kantar","de","822","Maschinenbediener für chemische Erzeugnisse",116,822
+"ISCO-88_Kantar","de","823","Maschinenbediener für Gummi- und Kunststofferzeugnisse",117,823
+"ISCO-88_Kantar","de","824","Maschinenbediener für Holzerzeugnisse",118,824
+"ISCO-88_Kantar","de","825","Maschinenbediener für Druck-, Buchbinde- und Papiererzeugnis",119,825
+"ISCO-88_Kantar","de","826","Maschinenbediener für Textil-, Pelz- und Ledererzeugnisse",120,826
+"ISCO-88_Kantar","de","827","Maschinenbediener zur Herstellung von Nahrungs- und Genußmit",121,827
+"ISCO-88_Kantar","de","828","Montierer",122,828
+"ISCO-88_Kantar","de","829","Sonstige Maschinenbediener, anderweitig nicht genannt",123,829
+"ISCO-88_Kantar","de","831","Lokomotivführer und verwandte Berufe",124,831
+"ISCO-88_Kantar","de","832","Kraftfahrzeugführer",125,832
+"ISCO-88_Kantar","de","833","Führer von Landmaschinen und anderen mobilen Anlagen",126,833
+"ISCO-88_Kantar","de","834","Deckspersonal auf Schiffen und verwandte Berufe",127,834
+"ISCO-88_Kantar","de","911","Straßenhändler und verwandte Berufe",128,911
+"ISCO-88_Kantar","de","912","Schuhputzer und sonstige auf der Straße ausgeübte einfache D",129,912
+"ISCO-88_Kantar","de","913","Haushaltshilfen und verwandte Hilfskräfte, Reinigungspersona",130,913
+"ISCO-88_Kantar","de","914","Hausmeister, Fensterputzer und verwandtes Reinigungspersonal",131,914
+"ISCO-88_Kantar","de","915","Boten, Träger, Pförtner und verwandte Berufe",132,915
+"ISCO-88_Kantar","de","916","Müllsammler und verwandte Berufe",133,916
+"ISCO-88_Kantar","de","921","Landwirtschaftliche, Fischerei- und verwandte Hilfsarbeiter",134,921
+"ISCO-88_Kantar","de","931","Hilfsarbeiter im Bergbau und Baugewerbe",135,931
+"ISCO-88_Kantar","de","932","Hilfsarbeiter in der Fertigung",136,932
+"ISCO-88_Kantar","de","933","Transport- und Frachtarbeiter",137,933
+"ISCO-88_Kantar","de","1110","Angehörige gesetzgebender Körperschaften und leitende Verwal",138,1110
+"ISCO-88_Kantar","de","1140","Leitende Bedienstete von Interessenorganisationen ohne weite",139,1140
+"ISCO-88_Kantar","de","1141","Leitende Bedienstete politischer Parteien",140,1141
+"ISCO-88_Kantar","de","1142","Leitende Bedienstete von Arbeitgeber- und Arbeitnehmer- sowi",141,1142
+"ISCO-88_Kantar","de","1143","Leitende Bedienstete humanitärer und anderer Interessenorgan",142,1143
+"ISCO-88_Kantar","de","1200","Geschäftsleiter und Geschäftsbereichsleiter in großen Untern",143,1200
+"ISCO-88_Kantar","de","1210","Direktoren und Hauptgeschäftsführer",144,1210
+"ISCO-88_Kantar","de","1221","Produktions- und Operationsleiter in der Landwirtschaft, Jag",145,1221
+"ISCO-88_Kantar","de","1222","Produktions- und Operationsleiter im verarbeitenden Gewerbe",146,1222
+"ISCO-88_Kantar","de","1223","Produktions- und Operationsleiter im Baugewerbe",147,1223
+"ISCO-88_Kantar","de","1224","Produktions- und Operationsleiter im Groß- und Einzelhandel",148,1224
+"ISCO-88_Kantar","de","1225","Produktions- und Operationsleiter in Restaurants und Hotels",149,1225
+"ISCO-88_Kantar","de","1226","Produktions- und Operationsleiter im Transportwesen, in der",150,1226
+"ISCO-88_Kantar","de","1227","Produktions- und Operationsleiter in gewerblichen Dienst- le",151,1227
+"ISCO-88_Kantar","de","1228","Produktions- und Operationsleiter in Körperpflege-, Pflege-,",152,1228
+"ISCO-88_Kantar","de","1229","Produktions- und Operationsleiter, anderweitig nicht genannt",153,1229
+"ISCO-88_Kantar","de","1231","Finanzdirektoren und Verwaltungsleiter",154,1231
+"ISCO-88_Kantar","de","1232","Personalleiter und Sozialdirektoren",155,1232
+"ISCO-88_Kantar","de","1233","Verkaufs- und Absatzleiter",156,1233
+"ISCO-88_Kantar","de","1234","Werbeleiter und Leiter der Öffentlichkeitsarbeit",157,1234
+"ISCO-88_Kantar","de","1235","Leiter des Einkaufs und der Materialwirtschaft",158,1235
+"ISCO-88_Kantar","de","1236","Leiter der EDV",159,1236
+"ISCO-88_Kantar","de","1237","Forschungs- und Entwicklungsleiter",160,1237
+"ISCO-88_Kantar","de","1239","Sonstige Fachbereichsleiter, anderweitig nicht genannt",161,1239
+"ISCO-88_Kantar","de","1300","Leiter kleiner Unternehmen ohne weitere Spezifizierung",162,1300
+"ISCO-88_Kantar","de","1311","Leiter kleiner Unternehmen in der Landwirtschaft, Jagd, Fors",163,1311
+"ISCO-88_Kantar","de","1312","Leiter kleiner Unternehmen im verarbeitenden Gewerbe",164,1312
+"ISCO-88_Kantar","de","1313","Leiter kleiner Unternehmen im Baugewerbe",165,1313
+"ISCO-88_Kantar","de","1314","Leiter kleiner Unternehmen im Groß- und Einzelhandel",166,1314
+"ISCO-88_Kantar","de","1315","Leiter kleiner Unternehmen von Restaurants und Hotels",167,1315
+"ISCO-88_Kantar","de","1316","Leiter kleiner Unternehmen im Transportwesen, in der Lagerei",168,1316
+"ISCO-88_Kantar","de","1317","Leiter von kleinen gewerblichen Dienstleistungsunternehmen",169,1317
+"ISCO-88_Kantar","de","1318","Leiter von kleinen Körperpflege-, Pflege-, Reinigungs- und v",170,1318
+"ISCO-88_Kantar","de","1319","Leiter kleiner Unternehmen, anderweitig nicht genannt",171,1319
+"ISCO-88_Kantar","de","2111","Physiker und Astronomen",172,2111
+"ISCO-88_Kantar","de","2112","Meteorologen",173,2112
+"ISCO-88_Kantar","de","2113","Chemiker",174,2113
+"ISCO-88_Kantar","de","2114","Geologen und Geophysiker",175,2114
+"ISCO-88_Kantar","de","2121","Mathematiker und verwandte Wissenschaftler",176,2121
+"ISCO-88_Kantar","de","2122","Statistiker",177,2122
+"ISCO-88_Kantar","de","2131","Systemplaner, Systemanalytiker und Systemprogrammierer",178,2131
+"ISCO-88_Kantar","de","2139","Informatiker, anderweitig nicht genannt",179,2139
+"ISCO-88_Kantar","de","2141","Architekten, Raum- und Verkehrsplaner",180,2141
+"ISCO-88_Kantar","de","2142","Bauingenieure",181,2142
+"ISCO-88_Kantar","de","2143","Elektroingenieure",182,2143
+"ISCO-88_Kantar","de","2144","Elektronik- und Fernmeldeingenieure",183,2144
+"ISCO-88_Kantar","de","2145","Maschinenbauingenieure",184,2145
+"ISCO-88_Kantar","de","2146","Chemieingenieure",185,2146
+"ISCO-88_Kantar","de","2147","Bergbauingenieure, Metallurgen und verwandte Wissenschaftler",186,2147
+"ISCO-88_Kantar","de","2148","Kartographen und Vermessungsingenieure",187,2148
+"ISCO-88_Kantar","de","2149","Architekten, Ingenieure und verwandte Wissenschaftler, ander",188,2149
+"ISCO-88_Kantar","de","2211","Biologen, Botaniker, Zoologen und verwandte Wissenschaftler",189,2211
+"ISCO-88_Kantar","de","2212","Pharmakologen, Pathologen und verwandte Wissenschaftler (nic",190,2212
+"ISCO-88_Kantar","de","2213","Agrar- und verwandte Wissenschaftler",191,2213
+"ISCO-88_Kantar","de","2221","Ärzte",192,2221
+"ISCO-88_Kantar","de","2222","Zahnärzte",193,2222
+"ISCO-88_Kantar","de","2223","Tierärzte",194,2223
+"ISCO-88_Kantar","de","2224","Apotheker",195,2224
+"ISCO-88_Kantar","de","2229","Mediziner (ohne Krankenpflege), anderweitig nicht genannt",196,2229
+"ISCO-88_Kantar","de","2230","Wissenschaftliche Krankenpflege- und Geburtshilfefachkräfte",197,2230
+"ISCO-88_Kantar","de","2310","Universitäts- und Hochschullehrer",198,2310
+"ISCO-88_Kantar","de","2320","Lehrer des Sekundarbereiches",199,2320
+"ISCO-88_Kantar","de","2331","Wissenschaftliche Lehrer des Primarbereiches",200,2331
+"ISCO-88_Kantar","de","2332","Wissenschaftliche Lehrer des Vorschulbereiches",201,2332
+"ISCO-88_Kantar","de","2340","Wissenschaftliche Sonderschullehrer",202,2340
+"ISCO-88_Kantar","de","2351","Pädagogik-, Didaktiklehrer und -berater",203,2351
+"ISCO-88_Kantar","de","2352","Schulinspektoren",204,2352
+"ISCO-88_Kantar","de","2359","Sonstige wissenschaftliche Lehrkräfte, anderweitig nicht gen",205,2359
+"ISCO-88_Kantar","de","2400","Sonstige Wissenschaftler und verwandte Berufe ohne weitere S",206,2400
+"ISCO-88_Kantar","de","2411","Buchprüfer, Revisoren, Steuerberater",207,2411
+"ISCO-88_Kantar","de","2412","Personalfachleute, Berufsberater und Berufsanalytiker",208,2412
+"ISCO-88_Kantar","de","2419","Unternehmensberatungs- und Organisationsfachkräfte, anderwei",209,2419
+"ISCO-88_Kantar","de","2421","Anwälte",210,2421
+"ISCO-88_Kantar","de","2422","Richter",211,2422
+"ISCO-88_Kantar","de","2429","Juristen, anderweitig nicht genannt",212,2429
+"ISCO-88_Kantar","de","2431","Archiv- und Museumswissenschaftler",213,2431
+"ISCO-88_Kantar","de","2432","Bibliotheks-, Dokumentations- und verwandte Informationswiss",214,2432
+"ISCO-88_Kantar","de","2441","Wirtschaftswissenschaftler",215,2441
+"ISCO-88_Kantar","de","2442","Soziologen, Anthropologen und verwandte Wissenschaftler",216,2442
+"ISCO-88_Kantar","de","2443","Philosophen, Historiker und Politologen",217,2443
+"ISCO-88_Kantar","de","2444","Philologen, Übersetzer und Dolmetscher",218,2444
+"ISCO-88_Kantar","de","2445","Psychologen",219,2445
+"ISCO-88_Kantar","de","2446","Sozialarbeiter",220,2446
+"ISCO-88_Kantar","de","2451","Autoren, Journalisten und andere Schriftsteller",221,2451
+"ISCO-88_Kantar","de","2452","Bildhauer, Maler und verwandte Künstler",222,2452
+"ISCO-88_Kantar","de","2453","Komponisten, Musiker und Sänger",223,2453
+"ISCO-88_Kantar","de","2454","Choreographen und Tänzer",224,2454
+"ISCO-88_Kantar","de","2455","Film-, Bühnen- und sonstige Schauspieler, Regisseure",225,2455
+"ISCO-88_Kantar","de","2460","Geistliche, Seelsorger",226,2460
+"ISCO-88_Kantar","de","2470","Wissenschaftliche Verwaltungsfachkräfte des öffentlichen Die",227,2470
+"ISCO-88_Kantar","de","3111","Chemo- und Physikotechniker",228,3111
+"ISCO-88_Kantar","de","3112","Bautechniker",229,3112
+"ISCO-88_Kantar","de","3113","Elektrotechniker",230,3113
+"ISCO-88_Kantar","de","3114","Elektronik- und Fernmeldetechniker",231,3114
+"ISCO-88_Kantar","de","3115","Maschinenbautechniker",232,3115
+"ISCO-88_Kantar","de","3116","Chemiebetriebs- und Verfahrenstechniker",233,3116
+"ISCO-88_Kantar","de","3117","Bergbau-, Hüttentechniker",234,3117
+"ISCO-88_Kantar","de","3118","Technische Zeichner",235,3118
+"ISCO-88_Kantar","de","3119","Material- und ingenieurtechnische Fachkräfte, anderweitig ni",236,3119
+"ISCO-88_Kantar","de","3120","Datenverarbeitungsfachkräfte ohne weitere Spezifizierung",237,3120
+"ISCO-88_Kantar","de","3121","Datenverarbeitungsassistenten",238,3121
+"ISCO-88_Kantar","de","3122","EDV-Operateure",239,3122
+"ISCO-88_Kantar","de","3123","Roboterkontrolleure und -programmierer",240,3123
+"ISCO-88_Kantar","de","3131","Photographen und Bediener von Bild- und Tonaufzeichnungsanla",241,3131
+"ISCO-88_Kantar","de","3132","Fernseh-, Rundfunk- und Fernmeldeanlagenbediener",242,3132
+"ISCO-88_Kantar","de","3133","Bediener medizinischer Geräte",243,3133
+"ISCO-88_Kantar","de","3139","Bediener optischer und elektronischer Anlagen, anderweitig n",244,3139
+"ISCO-88_Kantar","de","3141","Schiffsmaschinisten",245,3141
+"ISCO-88_Kantar","de","3142","Schiffsführer und Lotsen",246,3142
+"ISCO-88_Kantar","de","3143","Flugzeugführer und verwandte Berufe",247,3143
+"ISCO-88_Kantar","de","3144","Flugverkehrslotsen",248,3144
+"ISCO-88_Kantar","de","3145","Flugsicherungstechniker",249,3145
+"ISCO-88_Kantar","de","3151","Bau-, Brandschutz-, Brandinspektoren",250,3151
+"ISCO-88_Kantar","de","3152","Gesundheits-, Umweltschutzinspektoren und Qualitätskontrolle",251,3152
+"ISCO-88_Kantar","de","3211","Biotechniker",252,3211
+"ISCO-88_Kantar","de","3212","Agrar- und Forstwirtschaftstechniker",253,3212
+"ISCO-88_Kantar","de","3213","Land- und forstwirtschaftliche Berater",254,3213
+"ISCO-88_Kantar","de","3221","Medizinische Assistenten",255,3221
+"ISCO-88_Kantar","de","3222","Hygiene-, Gesundheitsaufsichts- und Umweltschutzbeamte",256,3222
+"ISCO-88_Kantar","de","3223","Diätassistenten und Ernährungsberater",257,3223
+"ISCO-88_Kantar","de","3224","Augenoptiker",258,3224
+"ISCO-88_Kantar","de","3225","Zahnmedizinische Assistenten",259,3225
+"ISCO-88_Kantar","de","3226","Physiotherapeuten und verwandte Berufe",260,3226
+"ISCO-88_Kantar","de","3227","Veterinärmedizinische Assistenten",261,3227
+"ISCO-88_Kantar","de","3228","Pharmazeutische Assistenten",262,3228
+"ISCO-88_Kantar","de","3229","Medizinische Fachberufe (ohne Krankenpflege), anderweitig ni",263,3229
+"ISCO-88_Kantar","de","3231","Nicht-wissenschaftliche Krankenschwestern/-pfleger",264,3231
+"ISCO-88_Kantar","de","3232","Nicht-wissenschaftliche Hebammen/Geburtshelfer",265,3232
+"ISCO-88_Kantar","de","3310","Nicht-wissenschaftliche Lehrkräfte des Primarbereiches",266,3310
+"ISCO-88_Kantar","de","3320","Nicht-wissenschaftliche Lehrkräfte des Vorschulbereiches",267,3320
+"ISCO-88_Kantar","de","3330","Nicht-wissenschaftliche Sonderschullehrkräfte",268,3330
+"ISCO-88_Kantar","de","3340","Sonstige nicht-wissenschaftliche Lehrkräfte",269,3340
+"ISCO-88_Kantar","de","3411","Effektenhändler, -makler und Finanzmakler",270,3411
+"ISCO-88_Kantar","de","3412","Versicherungsvertreter",271,3412
+"ISCO-88_Kantar","de","3413","Immobilienmakler",272,3413
+"ISCO-88_Kantar","de","3414","Reiseberater und -veranstalter",273,3414
+"ISCO-88_Kantar","de","3415","Technische und kaufmännische Handelsvertreter",274,3415
+"ISCO-88_Kantar","de","3416","Einkäufer",275,3416
+"ISCO-88_Kantar","de","3417","Schätzer und Versteigerer",276,3417
+"ISCO-88_Kantar","de","3419","Finanz- und Verkaufsfachkräfte, anderweitig nicht genannt",277,3419
+"ISCO-88_Kantar","de","3421","Handelsmakler",278,3421
+"ISCO-88_Kantar","de","3422","Vermittler von Abrechnungs- und Speditionsdienstleistungen",279,3422
+"ISCO-88_Kantar","de","3423","Arbeits- und Personalvermittler",280,3423
+"ISCO-88_Kantar","de","3429","Vermittler gewerblicher Dienstleistungen und Handelsmakler,",281,3429
+"ISCO-88_Kantar","de","3431","Verwaltungssekretäre und verwandte Fachkräfte",282,3431
+"ISCO-88_Kantar","de","3432","Fachkräfte für Rechts- und verwandte Angelegenheiten",283,3432
+"ISCO-88_Kantar","de","3433","Buchhalter",284,3433
+"ISCO-88_Kantar","de","3434","Statistische, mathematische und verwandte Fachkräfte",285,3434
+"ISCO-88_Kantar","de","3441","Zoll- und Grenzschutzinspektoren",286,3441
+"ISCO-88_Kantar","de","3442","Staatliche Steuer- und Abgabenbedienstete",287,3442
+"ISCO-88_Kantar","de","3443","Staatliche Sozialverwaltungsbedienstete",288,3443
+"ISCO-88_Kantar","de","3444","Staatliche Bedienstete bei Paß-, Lizenz- und Genehmigungsste",289,3444
+"ISCO-88_Kantar","de","3449","Zoll-, Steuer- und verwandte Fachkräfte der öffentl. Verw.,",290,3449
+"ISCO-88_Kantar","de","3450","Polizeikommissare und Detektive",291,3450
+"ISCO-88_Kantar","de","3460","Sozialpflegerische Berufe",292,3460
+"ISCO-88_Kantar","de","3471","Dekorateure und gewerbliche Designer",293,3471
+"ISCO-88_Kantar","de","3472","Rundfunk-, Fernsehsprecher und verwandte Berufe",294,3472
+"ISCO-88_Kantar","de","3473","Straßen-, Nachtklub- und verwandte Musiker, Sänger und Tänze",295,3473
+"ISCO-88_Kantar","de","3474","Clowns, Zauberer, Akrobaten und verwandte Fachkräfte",296,3474
+"ISCO-88_Kantar","de","3475","Athleten, Berufssportler und verwandte Fachkräfte",297,3475
+"ISCO-88_Kantar","de","3480","Ordensbrüder/-schwestern und Seelsorgehelfer",298,3480
+"ISCO-88_Kantar","de","4111","Stenographen, Stenotypisten, Maschinenschreiber",299,4111
+"ISCO-88_Kantar","de","4112","Bediener von Textverarbeitungs- und verwandten Anlagen",300,4112
+"ISCO-88_Kantar","de","4113","Datenerfasser",301,4113
+"ISCO-88_Kantar","de","4114","Rechenmaschinenbediener",302,4114
+"ISCO-88_Kantar","de","4115","Sekretärinnen",303,4115
+"ISCO-88_Kantar","de","4121","Rechnungswesen- und Buchhaltungsangestellte",304,4121
+"ISCO-88_Kantar","de","4122","Statistik- und Finanzangestellte",305,4122
+"ISCO-88_Kantar","de","4131","Lagerverwalter",306,4131
+"ISCO-88_Kantar","de","4132","Material-, Fertigungsplaner",307,4132
+"ISCO-88_Kantar","de","4133","Speditionsangestellte",308,4133
+"ISCO-88_Kantar","de","4141","Bibliotheks-, Dokumentations- und Registraturangestellte",309,4141
+"ISCO-88_Kantar","de","4142","Postverteiler und -sortierer",310,4142
+"ISCO-88_Kantar","de","4143","Kodierer, Korrekturleser und verwandte Kräfte",311,4143
+"ISCO-88_Kantar","de","4144","Schreiber und verwandte Arbeitskräfte",312,4144
+"ISCO-88_Kantar","de","4190","Sonstige Büroangestellte",313,4190
+"ISCO-88_Kantar","de","4211","Kassierer und Kartenverkäufer",314,4211
+"ISCO-88_Kantar","de","4212","Bank-, Post und andere Schalterbedienstete",315,4212
+"ISCO-88_Kantar","de","4213","Buchmacher und Croupiers",316,4213
+"ISCO-88_Kantar","de","4214","Pfandleiher und Geldverleiher",317,4214
+"ISCO-88_Kantar","de","4215","Inkassobeauftragte und verwandte Arbeitskräfte",318,4215
+"ISCO-88_Kantar","de","4221","Reisebüroangestellte",319,4221
+"ISCO-88_Kantar","de","4222","Empfangsbürokräfte und Auskunftspersonal",320,4222
+"ISCO-88_Kantar","de","4223","Telefonisten",321,4223
+"ISCO-88_Kantar","de","5111","Reisebegleiter und Stewards",322,5111
+"ISCO-88_Kantar","de","5112","Schaffner",323,5112
+"ISCO-88_Kantar","de","5113","Reiseführer",324,5113
+"ISCO-88_Kantar","de","5121","Hauswirtschaftliche und verwandte Berufe",325,5121
+"ISCO-88_Kantar","de","5122","Köche",326,5122
+"ISCO-88_Kantar","de","5123","Kellner und Barkeeper",327,5123
+"ISCO-88_Kantar","de","5131","Kinderbetreuer",328,5131
+"ISCO-88_Kantar","de","5132","Pflegekräfte in Institutionen",329,5132
+"ISCO-88_Kantar","de","5133","Haus- und Familienpfleger",330,5133
+"ISCO-88_Kantar","de","5139","Pflege- und verwandte Berufe, anderweitig nicht genannt",331,5139
+"ISCO-88_Kantar","de","5141","Friseure, Kosmetiker und verwandte Berufe",332,5141
+"ISCO-88_Kantar","de","5142","Gesellschafter und Zofen/Kammerdiener",333,5142
+"ISCO-88_Kantar","de","5143","Leichenbestatter und Einbalsamierer",334,5143
+"ISCO-88_Kantar","de","5149","Sonstige personenbezogene Dienstleistungsberufe, anderweitig",335,5149
+"ISCO-88_Kantar","de","5161","Feuerwehrleute",336,5161
+"ISCO-88_Kantar","de","5162","Polizisten",337,5162
+"ISCO-88_Kantar","de","5163","Gefängnisaufseher",338,5163
+"ISCO-88_Kantar","de","5169","Sicherheitsbedienstete, anderweitig nicht genannt",339,5169
+"ISCO-88_Kantar","de","5210","Mannequins/Dressmen und sonstige Modelle",340,5210
+"ISCO-88_Kantar","de","5220","Ladenverkäufer, Verkaufs-, Marktstandverkäufer und Vorführer",341,5220
+"ISCO-88_Kantar","de","6100","Fachkräfte in der Landwirtschaft und Fischerei ohne weitere",342,6100
+"ISCO-88_Kantar","de","6111","Feldfrucht- und Gemüseanbauer",343,6111
+"ISCO-88_Kantar","de","6112","Gärtner, Saat- und Pflanzenzüchter",344,6112
+"ISCO-88_Kantar","de","6121","Milchviehhalter und Nutztierzüchter",345,6121
+"ISCO-88_Kantar","de","6122","Geflügelzüchter",346,6122
+"ISCO-88_Kantar","de","6129","Tierwirtschaftliche und verwandte Berufe, anderweitig nicht",347,6129
+"ISCO-88_Kantar","de","6130","Ackerbauern und Tierzüchter/-halter",348,6130
+"ISCO-88_Kantar","de","6141","Waldarbeiter und Holzfäller",349,6141
+"ISCO-88_Kantar","de","6142","Köhler und verwandte Berufe",350,6142
+"ISCO-88_Kantar","de","6150","Fischer, Jäger und Fallensteller ohne weitere Spezifizierung",351,6150
+"ISCO-88_Kantar","de","6151","Züchter von Wasserlebewesen",352,6151
+"ISCO-88_Kantar","de","6152","Binnen- und Küstenfischer",353,6152
+"ISCO-88_Kantar","de","6153","Hochseefischer",354,6153
+"ISCO-88_Kantar","de","6154","Jäger und Fallensteller",355,6154
+"ISCO-88_Kantar","de","7111","Bergleute und Steinbrecher",356,7111
+"ISCO-88_Kantar","de","7112","Sprengmeister",357,7112
+"ISCO-88_Kantar","de","7113","Steinspalter, -bearbeiter und Steinbildhauer",358,7113
+"ISCO-88_Kantar","de","7121","Bauhandwerker",359,7121
+"ISCO-88_Kantar","de","7122","Maurer, Bausteinmetzen",360,7122
+"ISCO-88_Kantar","de","7123","Betonierer, Betonoberflächenfertigmacher und verwandte Beruf",361,7123
+"ISCO-88_Kantar","de","7124","Zimmerer, Bautischler",362,7124
+"ISCO-88_Kantar","de","7129","Baukonstruktions- und verwandte Berufe, anderweitig nicht ge",363,7129
+"ISCO-88_Kantar","de","7131","Dachdecker",364,7131
+"ISCO-88_Kantar","de","7132","Fußboden- und Fliesenleger",365,7132
+"ISCO-88_Kantar","de","7133","Stukkateure",366,7133
+"ISCO-88_Kantar","de","7134","Isolierer",367,7134
+"ISCO-88_Kantar","de","7135","Glaser",368,7135
+"ISCO-88_Kantar","de","7136","Klempner, Rohrinstallateure",369,7136
+"ISCO-88_Kantar","de","7137","Bau- und verwandte Elektriker",370,7137
+"ISCO-88_Kantar","de","7139","Ausbau- und verwandte Berufe, anderweitig nicht genannt",371,7139
+"ISCO-88_Kantar","de","7141","Maler, Tapezierer und verwandte Berufe",372,7141
+"ISCO-88_Kantar","de","7143","Gebäudereiniger und Schornsteinfeger",373,7143
+"ISCO-88_Kantar","de","7211","Former und Kernmacher (für Metallguß)",374,7211
+"ISCO-88_Kantar","de","7212","Schweißer und Brennschneider",375,7212
+"ISCO-88_Kantar","de","7213","Blechkaltverformer",376,7213
+"ISCO-88_Kantar","de","7214","Baumetallverformer und Metallbaumonteure",377,7214
+"ISCO-88_Kantar","de","7215","Verspannungsmonteure und Seilspleißer",378,7215
+"ISCO-88_Kantar","de","7216","Taucher",379,7216
+"ISCO-88_Kantar","de","7221","Grobschmiede, Hammerschmiede und Schmiedepresser",380,7221
+"ISCO-88_Kantar","de","7222","Werkzeugmacher und verwandte Berufe",381,7222
+"ISCO-88_Kantar","de","7223","Werkzeugmaschineneinrichter und Einrichter/Bediener",382,7223
+"ISCO-88_Kantar","de","7224","Metallschleifer, Metallpolierer und Werkzeugschärfer",383,7224
+"ISCO-88_Kantar","de","7231","Kraftfahrzeugmechaniker und -schlosser",384,7231
+"ISCO-88_Kantar","de","7232","Flugmotorenmechaniker und -schlosser",385,7232
+"ISCO-88_Kantar","de","7233","Landmaschinen- oder Industriemaschinenmechaniker und -schlos",386,7233
+"ISCO-88_Kantar","de","7241","Elektromechaniker, -monteure und Service-Fachkräfte",387,7241
+"ISCO-88_Kantar","de","7242","Elektronikmechaniker, -monteure und Service-Fachkräfte",388,7242
+"ISCO-88_Kantar","de","7244","Telefon- und Telegrapheninstallateure und -wartungspersonal",389,7244
+"ISCO-88_Kantar","de","7245","Elektrokabel-, Elektroleitungsmonteure und -wartungspersonal",390,7245
+"ISCO-88_Kantar","de","7311","Präzisionsinstrumentenmacher und -instandsetzer",391,7311
+"ISCO-88_Kantar","de","7312","Musikinstrumentenmacher und -stimmer",392,7312
+"ISCO-88_Kantar","de","7313","Schmuckwarenhersteller und Edelmetallbearbeiter",393,7313
+"ISCO-88_Kantar","de","7321","Töpfer und verwandte Berufe",394,7321
+"ISCO-88_Kantar","de","7322","Glasmacher, -schneider, -schleifer und -polierer",395,7322
+"ISCO-88_Kantar","de","7323","Glasgraveure und -ätzer",396,7323
+"ISCO-88_Kantar","de","7324","Glas-, Keram- und verwandte Dekormaler",397,7324
+"ISCO-88_Kantar","de","7331","Kunsthandwerker für Holz und verwandte Materialien",398,7331
+"ISCO-88_Kantar","de","7332","Kunsthandwerker für Textilien, Leder und verwandte Materiali",399,7332
+"ISCO-88_Kantar","de","7341","Schriftsetzer und verwandte Berufe",400,7341
+"ISCO-88_Kantar","de","7342","Stereotypeure und Galvanoplastiker",401,7342
+"ISCO-88_Kantar","de","7343","Klischeehersteller und -ätzer",402,7343
+"ISCO-88_Kantar","de","7344","Fotolaboranten",403,7344
+"ISCO-88_Kantar","de","7345","Buchbinder und verwandte Berufe",404,7345
+"ISCO-88_Kantar","de","7346","Sieb-, Druckstock- und Textildrucker",405,7346
+"ISCO-88_Kantar","de","7411","Fleischer, Fischhändler und verwandte Berufe",406,7411
+"ISCO-88_Kantar","de","7412","Bäcker, Konditoren und Süßwarenhersteller",407,7412
+"ISCO-88_Kantar","de","7413","Molkereiwarenhersteller",408,7413
+"ISCO-88_Kantar","de","7414","Obst-, Gemüse- und verwandte Konservierer",409,7414
+"ISCO-88_Kantar","de","7415","Nahrungsmittel- und Getränkekoster und -klassierer",410,7415
+"ISCO-88_Kantar","de","7416","Tabakaufbereiter und Tabakwarenhersteller",411,7416
+"ISCO-88_Kantar","de","7421","Holztrockner und -konservierer",412,7421
+"ISCO-88_Kantar","de","7422","Möbeltischler und verwandte Berufe",413,7422
+"ISCO-88_Kantar","de","7423","Holzbearbeitungsmaschineneinrichter und Einrichter/Bediener",414,7423
+"ISCO-88_Kantar","de","7424","Korbflechter, Bürstenmacher und verwandte Berufe",415,7424
+"ISCO-88_Kantar","de","7431","Spinnvorbereiter",416,7431
+"ISCO-88_Kantar","de","7432","Weber, Stricker, Wirker und verwandte Berufe",417,7432
+"ISCO-88_Kantar","de","7433","Herren-, Damenschneider und Hutmacher",418,7433
+"ISCO-88_Kantar","de","7434","Kürschner und verwandte Berufe",419,7434
+"ISCO-88_Kantar","de","7435","Schnittmustermacher und Zuschneider (Textilien, Leder u.ä.)",420,7435
+"ISCO-88_Kantar","de","7436","Näher, Sticker  und verwandte Berufe",421,7436
+"ISCO-88_Kantar","de","7437","Polsterer und verwandte Berufe",422,7437
+"ISCO-88_Kantar","de","7441","Rauchwarenzurichter, Gerber und Fellzurichter",423,7441
+"ISCO-88_Kantar","de","7442","Schuhmacher und verwandte Berufe",424,7442
+"ISCO-88_Kantar","de","8111","Bediener von bergbaulichen Maschinen und Anlagen",425,8111
+"ISCO-88_Kantar","de","8112","Bediener von Erz- und Gesteinsaufbereitungsanlagen",426,8112
+"ISCO-88_Kantar","de","8113","Tiefbohrer und verwandte Berufe",427,8113
+"ISCO-88_Kantar","de","8121","Ofenbediener (Erzschmelzen, Metallumformung und -veredlung)",428,8121
+"ISCO-88_Kantar","de","8122","Metallschmelzer, Metallgießer und Walzwerker",429,8122
+"ISCO-88_Kantar","de","8123","Metallhärter, Metallvergüter",430,8123
+"ISCO-88_Kantar","de","8124","Metallzieher, Preßzieher",431,8124
+"ISCO-88_Kantar","de","8131","Glasschmelz-, Kerambrennofenbediener und verwandte Berufe",432,8131
+"ISCO-88_Kantar","de","8139","Bediener von Anlagen zur Glas- und Keramikherst., verw. Anla",433,8139
+"ISCO-88_Kantar","de","8141","Bediener von Holzaufbereitungsanlagen",434,8141
+"ISCO-88_Kantar","de","8142","Bediener von Anlagen zur Papierbreiherstellung",435,8142
+"ISCO-88_Kantar","de","8143","Bediener von Papierherstellungsanlagen",436,8143
+"ISCO-88_Kantar","de","8151","Bediener von Brechmaschinen, Mahlwerken und Mischanlagen",437,8151
+"ISCO-88_Kantar","de","8152","Bediener von Warmbehandlungsanlagen",438,8152
+"ISCO-88_Kantar","de","8153","Bediener von Filtrier- und Trennvorrichtungen",439,8153
+"ISCO-88_Kantar","de","8154","Destillations- und Reaktionsgefäßbediener (ausgenommen Erdöl",440,8154
+"ISCO-88_Kantar","de","8155","Bediener von Erdöl- und Erdgasraffinieranlagen",441,8155
+"ISCO-88_Kantar","de","8159","Bediener chemischer Verfahrensanlagen, anderweitig nicht gen",442,8159
+"ISCO-88_Kantar","de","8161","Bediener von Energieerzeugungsanlagen",443,8161
+"ISCO-88_Kantar","de","8162","Bediener von Dampfmaschinen und -kesseln",444,8162
+"ISCO-88_Kantar","de","8163","Bediener von Verbrennungs-, Wasserbehandlungs- und verwandte",445,8163
+"ISCO-88_Kantar","de","8170","Bediener von Industrierobotern",446,8170
+"ISCO-88_Kantar","de","8211","Werkzeugmaschinenbediener",447,8211
+"ISCO-88_Kantar","de","8212","Bediener von Maschinen zur Herst. und Verarb. von Zement und",448,8212
+"ISCO-88_Kantar","de","8221","Bediener von Maschinen zur Herst. von pharmaz. Produkten und",449,8221
+"ISCO-88_Kantar","de","8222","Bediener von Maschinen zur Herst. von Munition und explosive",450,8222
+"ISCO-88_Kantar","de","8223","Bediener von Metalloberflächenbearbeitungs- und -beschichtun",451,8223
+"ISCO-88_Kantar","de","8224","Bediener von Maschinen zur Herstellung photographischer Erze",452,8224
+"ISCO-88_Kantar","de","8229","Maschinenbediener für chemische Erzeugnisse, anderweitig nic",453,8229
+"ISCO-88_Kantar","de","8231","Bediener von Maschinen zur Herstellung von Gummierzeugnissen",454,8231
+"ISCO-88_Kantar","de","8232","Bediener von Maschinen zur Herstellung von Kunststofferzeugn",455,8232
+"ISCO-88_Kantar","de","8240","Bediener von Holzbearbeitungsmaschinen",456,8240
+"ISCO-88_Kantar","de","8251","Druckmaschinenbediener",457,8251
+"ISCO-88_Kantar","de","8252","Buchbindemaschinenbediener",458,8252
+"ISCO-88_Kantar","de","8253","Bediener von Maschinen zur Herstellung von Papiererzeugnisse",459,8253
+"ISCO-88_Kantar","de","8261","Bediener von Spinnvorbereitungs-, Spinn- und Spulmaschinen",460,8261
+"ISCO-88_Kantar","de","8262","Bediener von Web-, Strick- und Wirkmaschinen",461,8262
+"ISCO-88_Kantar","de","8263","Nähmaschinenbediener",462,8263
+"ISCO-88_Kantar","de","8264","Bediener von Bleich-, Färbe- und Reinigungsmaschinen",463,8264
+"ISCO-88_Kantar","de","8265","Bediener von Pelz- und Ledervorbereitungsmaschinen",464,8265
+"ISCO-88_Kantar","de","8266","Maschinenbediener für die Herstellung von Schuhen und andere",465,8266
+"ISCO-88_Kantar","de","8269","Maschinenbediener für Textil-, Pelz- und Ledererzeugnisse, a",466,8269
+"ISCO-88_Kantar","de","8271","Bediener von Fleisch- und Fischverarbeitungsmaschinen",467,8271
+"ISCO-88_Kantar","de","8272","Bediener von Milchverarbeitungsmaschinen",468,8272
+"ISCO-88_Kantar","de","8273","Bediener von Getreide- und Gewürzmühlen",469,8273
+"ISCO-88_Kantar","de","8274","Bediener von Maschinen zur Herst. von Backwaren, Getreide- u",470,8274
+"ISCO-88_Kantar","de","8275","Bediener von Obst-, Gemüse- und Nußverarbeitungsmaschinen",471,8275
+"ISCO-88_Kantar","de","8276","Bediener von Zuckerherstellungsmaschinen",472,8276
+"ISCO-88_Kantar","de","8277","Bediener von Tee-, Kaffee- und Kakaoverarbeitungsmaschinen",473,8277
+"ISCO-88_Kantar","de","8278","Brauer, Bediener von Wein- und sonstigen Getränkeherstellung",474,8278
+"ISCO-88_Kantar","de","8279","Bediener von Tabakaufbereitungs- und Tabakwarenherstellungsm",475,8279
+"ISCO-88_Kantar","de","8280","Montierer",476,8280
+"ISCO-88_Kantar","de","8281","Montierer (von mechanischen Bauteilen)",477,8281
+"ISCO-88_Kantar","de","8282","Montierer (von elektrischen Einrichtungen)",478,8282
+"ISCO-88_Kantar","de","8283","Montierer (von elektronischen Einrichtungen)",479,8283
+"ISCO-88_Kantar","de","8284","Montierer von Metall-, Gummi- und Kunststofferzeugnissen",480,8284
+"ISCO-88_Kantar","de","8285","Montierer von Holzwaren und verwandten Erzeugnissen",481,8285
+"ISCO-88_Kantar","de","8286","Montierer von Pappe-, Textil- und verwandten Erzeugnissen",482,8286
+"ISCO-88_Kantar","de","8287","Montierer von Erzeugnissen aus unterschiedlichen Materialien",483,8287
+"ISCO-88_Kantar","de","8290","Sonstige Maschinenbediener, anderweitig nicht genannt",484,8290
+"ISCO-88_Kantar","de","8311","Lokomotivführer",485,8311
+"ISCO-88_Kantar","de","8312","Eisenbahnbremser, Stellwerksbediener und Rangierer",486,8312
+"ISCO-88_Kantar","de","8321","Motorradfahrer",487,8321
+"ISCO-88_Kantar","de","8322","Personenkraftwagen-, Taxi- und Kleinlastkraftwagenfahrer",488,8322
+"ISCO-88_Kantar","de","8323","Busfahrer und Straßenbahnführer",489,8323
+"ISCO-88_Kantar","de","8324","Fahrer schwerer Lastkraftwagen",490,8324
+"ISCO-88_Kantar","de","8331","Führer von motorisierten land- und forstwirtschaftlichen Mas",491,8331
+"ISCO-88_Kantar","de","8332","Führer von Erdbewegungs- und verwandten Maschinen",492,8332
+"ISCO-88_Kantar","de","8333","Kranführer, Aufzugsmaschinisten und Bediener verwandter Hebe",493,8333
+"ISCO-88_Kantar","de","8334","Hubkarrenführer",494,8334
+"ISCO-88_Kantar","de","8340","Deckspersonal auf Schiffen und verwandte Berufe",495,8340
+"ISCO-88_Kantar","de","9111","Straßenhändler",496,9111
+"ISCO-88_Kantar","de","9113","Hausierer und Telefonverkäufer",497,9113
+"ISCO-88_Kantar","de","9120","Schuhputzer und sonstige auf der Straße ausgeübte einfache D",498,9120
+"ISCO-88_Kantar","de","9131","Haushaltshilfen und Reinigungspersonal in Privathaushalten",499,9131
+"ISCO-88_Kantar","de","9132","Hilfskräfte und Reinigungspersonal in Büros, Hotels und sons",500,9132
+"ISCO-88_Kantar","de","9133","Handwäscher und Handbügler",501,9133
+"ISCO-88_Kantar","de","9141","Hausmeister, Hauswarte und verwandte Berufe",502,9141
+"ISCO-88_Kantar","de","9142","Fahrzeugreiniger, Fensterputzer und verwandtes Reinigungsper",503,9142
+"ISCO-88_Kantar","de","9151","Boten, Paket-, Gepäckträger und -austräger",504,9151
+"ISCO-88_Kantar","de","9152","Pförtner, Wachpersonal und verwandte Berufe",505,9152
+"ISCO-88_Kantar","de","9153","Automatenkassierer, Zählerableser und verwandte Berufe",506,9153
+"ISCO-88_Kantar","de","9161","Müllsammler",507,9161
+"ISCO-88_Kantar","de","9162","Straßenkehrer und verwandte Berufe",508,9162
+"ISCO-88_Kantar","de","9211","Landwirtschaftliche Hilfsarbeiter",509,9211
+"ISCO-88_Kantar","de","9212","Forstwirtschaftliche Hilfsarbeiter",510,9212
+"ISCO-88_Kantar","de","9213","Hilfsarbeiter in Fischerei, Jagd und Fallenstellerei",511,9213
+"ISCO-88_Kantar","de","9311","Hilfsarbeiter im Bergbau und Steinbruch",512,9311
+"ISCO-88_Kantar","de","9312","Bau- und Instandhaltungshilfsarbeiter (Straßen, Dämme und äh",513,9312
+"ISCO-88_Kantar","de","9313","Bauhilfsarbeiter (Gebäude)",514,9313
+"ISCO-88_Kantar","de","9320","Hilfsarbeiter in der Fertigung",515,9320
+"ISCO-88_Kantar","de","9330","Transport- und Frachtarbeiter",516,9330
+"ISCO-88_Kantar","de","9331","Führer/-innen v. Handwagen",517,9331
+"ISCO-88_Kantar","de","9332","Führer/-innen v. Fahrz. mit Zugtierantr.",518,9332
+"ISCO-88_Kantar","de","9910","mithelfende Familienangehörige außerhalb Landwirtschaft",519,9910
+"ISCO-88_Kantar","de","9920","Auszubildende mit noch nicht feststehendem Ausbildungsberuf",520,9920
+"ISCO-88_Kantar","de","9930","Praktikanten/Volontäre mit noch nicht feststehendem Ausbildu",521,9930
+"ISCO-88_Kantar","de","9940","Arbeitskräfte mit nicht bestimmtem Beruf",522,9940
+"ISCO-88_Kantar","de","9941","Schulentlassene (arbeitsuchend) m. (noch) n. best. Beruf",523,9941
+"ISCO-88_Kantar","de","9942","Sonstige Arbeitskraefte, arbeitssuchend",524,9942
+"ISCO-88_Kantar","de","9950","Facharbeiter ohne weitere Spezifizierung",525,9950
+"ISCO-88_Kantar","de","9960","Heimarbeiter ohne weitere Spezifizierung",526,9960
+"ISCO-88_Kantar","de","9970","Vorarbeiter, Gruppenleiter ohne weitere Spezifizierung",527,9970
+"ISCO-88_Kantar","de","9980","sonstige Arbeitskräfte ohne weitere Spezifizierung",528,9980
+"ISCO-88_Kantar","de","-3","unbezahlte Tätigkeit/Rentner",529,-3
+"ISCO-88_Kantar","de","-1","nicht zu vercoden",530,-1
