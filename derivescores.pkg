@@ -46,9 +46,11 @@ F tables/ISCO-88_COM--ISCO-88_ILO.csv
 F tables/ISCO-88_Ganzeboom.csv
 F tables/ISCO-88_Ganzeboom--EGP_Ganzeboom.csv
 F tables/ISCO-88_Ganzeboom--ISEI.csv
+F tables/ISCO-88_Ganzeboom--SIOPS.csv
 F tables/ISCO-88_ILO.csv
 F tables/ISCO-88_ILO--ISCO-88_Ganzeboom.csv
 F tables/ISEI.csv
+F tables/SIOPS.csv
 F tables/KldB2010.csv
 F tables/KldB2010--ISCO-08_ILO.csv
 F tables/KldB88.csv
