@@ -10,7 +10,7 @@ d you should search SSC from within Stata.
 d
 d Requires: Stata version 14 or newer
 d
-d Distribution-Date: 20170717
+d Distribution-Date: 20190122
 d
 d Authors: Daniel Bela and Knut Wenzig
 d Support: {browse "https://github.com/dirtyhawk/stata-derivescores"}
@@ -34,6 +34,8 @@ F tables/ISCO-88_Ganzeboom_EGP_Ganzeboom_aux1.csv
 F tables/ISCO-88_Ganzeboom_EGP_Ganzeboom_aux2.csv
 F tables/ISCO-08_ILO.csv
 F tables/ISCO-08_Ganzeboom--ISCO-88_Ganzeboom.csv
+F tables/ISCO-08_Ganzeboom--ISEI.csv
+F tables/ISCO-08_Ganzeboom--SIOPS.csv
 F tables/ISCO-08_ILO--ISCO-08_Ganzeboom.csv
 F tables/ISCO-68_Ganzeboom.csv
 F tables/ISCO-68_Ganzeboom--ISEI.csv
