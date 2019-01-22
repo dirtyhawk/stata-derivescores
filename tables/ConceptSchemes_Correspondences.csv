@@ -1,6 +1,8 @@
 "ConceptScheme","prefLabel","Correspondence","coreContentNote","source_overview","source_direct"
 "EGP_Ganzeboom","Goldthorpe‘s class categories (Ganzeboom‘s version)",,"This version of Goldthorpe‘s class categories (EGP) is derived from Ganzeboom‘s SPSS script iskoegp.sps.","http://www.harryganzeboom.nl/isco88/index.htm","http://www.harryganzeboom.nl/isco88/isco88.zip"
 "ISCO-08_Ganzeboom",,"ISCO-88_Ganzeboom",,"http://www.harryganzeboom.nl/isco08/index.htm","http://www.harryganzeboom.nl/isco08/isco08.zip"
+"ISCO-08_Ganzeboom",,"SIOPS",,"http://www.harryganzeboom.nl/isco08/index.htm","http://www.harryganzeboom.nl/isco08/isco08.zip"
+"ISCO-08_Ganzeboom",,"ISEI",,"http://www.harryganzeboom.nl/isco08/index.htm","http://www.harryganzeboom.nl/isco08/isco08.zip"
 "ISCO-08_Ganzeboom","International Standard Classification of Occupations, 2008. (Ganzeboom‘s version)",,"This version of ISCO-08 is derived from Harry Ganzeboom‘s SPSS script isqolab.sps. nec means “not elsewhere classified”.","http://www.harryganzeboom.nl/isco08/index.htm","http://www.harryganzeboom.nl/isco08/isco08.zip"
 "ISCO-08_ILO","International Standard Classification of Occupations, 2008. Version of the ILO.",,"ISCO-08 was adopted through a resolution of a Tripartite Meeting of Experts on Labour Statistics held in December 2007. This resolution was subsequently endorsed by the Governing Body of the ILO in March 2008. Source of German Labels http://ec.europa.eu/eurostat/ramon/documents/SCL/isco08/SCL_isco08.zip","http://www.ilo.org/public/english/bureau/stat/isco/isco08/index.htm","http://www.ilo.org/public/english/bureau/stat/isco/docs/groupdefn08.docx"
 "ISCO-08_Kantar",,"ISCO-08_Ganzeboom","Crosswalk only on lowest level, e.g. not for major, sub-major and minor groups.",,
