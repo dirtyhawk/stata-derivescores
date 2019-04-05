@@ -78,7 +78,13 @@ program define derivescores_crosswalk , nclass
 		}
 	}
 	else {
-		if (!missing(`"`auxiliary'"')) di as err "HAST HILFSVARS ANGEGEBEN, BRAUCHSTE ABER NICHT!"
+		if (!missing(`"`auxiliary'"')) {
+			local needed_auxvarcount 0
+			local given_auxvarcount : word count `auxiliary'
+			if (`given_auxvarcount'>1) local plural s
+			noisily : display as error in smcl `"the correspondence declaration {it:`declaration'} expects {it:no} auxiliary variable`plural'; you specified {it:`given_auxvarcount'} (namely: {it:`auxiliary'}); this will be ignored"'
+			local auxiliary
+		}
 	}
 	// check if "sourceConcept" and "targetConcept" and so on are unused variable names; add to rename lists, if not
 	foreach testvar in `probmarkername' `sourcevarname' `targetvarname' `auxvars' {
