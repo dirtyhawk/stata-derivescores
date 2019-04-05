@@ -53,7 +53,7 @@ program define derivescores_list , nclass
 			continue
 		}
 		// display information per table declaration
-		noisily : display as result in smcl `"{p2col:[`num'] ${DERIVESCORES_dec`num'_shortname}}"',,cond(`"${DERIVESCORES_dec`num'_type}"'==`"Correspondence"',`"correspondence from `=word(`"${DERIVESCORES_dec`num'_shortname}"',1)' to `=word(`"${DERIVESCORES_dec`num'_shortname}"',-1)'"',`"${DERIVESCORES_dec`num'_label}"'),,`" ({stata derivescores info "${DERIVESCORES_dec`num'_shortname}":more information}){p_end}"'
+		noisily : display as result in smcl `"{p2col:[{stata derivescores info "${DERIVESCORES_dec`num'_shortname}":`num'}] ${DERIVESCORES_dec`num'_shortname}}"',,cond(`"${DERIVESCORES_dec`num'_type}"'==`"Correspondence"',`"correspondence from `=word(`"${DERIVESCORES_dec`num'_shortname}"',1)' to `=word(`"${DERIVESCORES_dec`num'_shortname}"',-1)'"',`"${DERIVESCORES_dec`num'_label}"'),,`" ({stata derivescores info "${DERIVESCORES_dec`num'_shortname}":more information}){p_end}"'
 	}
 	noisily : display as result in smcl "{p2colreset}" _continue
 	// quit
