@@ -37,7 +37,7 @@ program define derivescores_setup , nclass
 	tempvar selector random max_prob sortorder
 	// check if derivescores_setup has been run previously, abort if so (unless option -force- is set
 	if (!missing(`"${DERIVESCORES_initialized}"')) {
-		noisily : display as error in smcl `"{it:derivescores} already has been set up;"' _newline `"{tab}continue with {stata derivescores info}, or clean up with {stata derivescores cleanup}"'
+		noisily : display as error in smcl `"{it:derivescores} already has been set up;"' _newline `"{tab}continue with {stata derivescores info}, or clean up with {stata derivescores wipe}"'
 		exit 0
 	}
 	// find main CSV file with table declarations
