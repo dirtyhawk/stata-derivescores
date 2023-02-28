@@ -1,0 +1,604 @@
+"ConceptScheme ","labelStyle ","Concept ","prefLabel ","sortorder ","prefValue"
+"ISCO-08_infas","de",-8,"Frage in diesem Jahr nicht Teil des Frageprogramms",1,-8
+"ISCO-08_infas","de",-7,"nur in weniger eingeschränkter Edition verfügbar",2,-7
+"ISCO-08_infas","de",-6,"Fragebogenversion mit geänderter Filterführung",3,-6
+"ISCO-08_infas","de",-5,"in Fragebogenversion nicht enthalten",4,-5
+"ISCO-08_infas","de",-4,"unzulässige Mehrfachantwort",5,-4
+"ISCO-08_infas","de",-3,"unplausibler Wert",6,-3
+"ISCO-08_infas","de",-2,"trifft nicht zu",7,-2
+"ISCO-08_infas","de",-1,"keine Angabe/weiß nicht",8,-1
+"ISCO-08_infas","de",3,"arbeitssuchend",9,3
+"ISCO-08_infas","de",5,"in der Ausbildung (schulische)",10,5
+"ISCO-08_infas","de",6,"Hausfrau",11,6
+"ISCO-08_infas","de",7,"Rentner",12,7
+"ISCO-08_infas","de",8,"weiß nicht",13,8
+"ISCO-08_infas","de",9,"keine Angabe",14,9
+"ISCO-08_infas","de",110,"Offiziere in regulären Streitkräften",15,110
+"ISCO-08_infas","de",210,"Unteroffiziere in regulären Streitkräften",16,210
+"ISCO-08_infas","de",310,"Angehörige der regulären Streitkräfte in sonstigen Rängen",17,310
+"ISCO-08_infas","de",410,"Soldat/Berufssoldat o.n.A. (-> ISCO 08)",18,410
+"ISCO-08_infas","de",1000,"Führungskräfte",19,1000
+"ISCO-08_infas","de",1100,"Geschäftsführer, Vorstände, leitende Verwaltungsbedienstete und Angehörige gesetzgebender Körperschaften",20,1100
+"ISCO-08_infas","de",1110,"Angehörige gesetzgebender Körperschaften und leitende Verwaltungsbedienstete",21,1110
+"ISCO-08_infas","de",1111,"Angehörige gesetzgebender Körperschaften",22,1111
+"ISCO-08_infas","de",1112,"Leitende Verwaltungsbedienstete",23,1112
+"ISCO-08_infas","de",1113,"Traditionelle Dorf- und Stammeshäuptlinge",24,1113
+"ISCO-08_infas","de",1114,"Leitende Bedienstete von Interessenorganisationen",25,1114
+"ISCO-08_infas","de",1120,"Geschäftsführer und Vorstände",26,1120
+"ISCO-08_infas","de",1200,"Führungskräfte im kaufmännischen Bereich",27,1200
+"ISCO-08_infas","de",1210,"Führungskräfte in der betrieblichen Verwaltung und in unternehmensbezogenen Dienstleistungen",28,1210
+"ISCO-08_infas","de",1211,"Führungskräfte im Bereich Finanzen",29,1211
+"ISCO-08_infas","de",1212,"Führungskräfte im Personalwesen",30,1212
+"ISCO-08_infas","de",1213,"Führungskräfte in Unternehmenspolitik und -planung",31,1213
+"ISCO-08_infas","de",1219,"Führungskräfte in der betrieblichen Verwaltung und in unternehmensbezogenen Dienstleistungen, anderweitig nicht genannt",32,1219
+"ISCO-08_infas","de",1220,"Führungskräfte in Vertrieb, Marketing und Entwicklung",33,1220
+"ISCO-08_infas","de",1221,"Führungskräfte in Vertrieb und Marketing",34,1221
+"ISCO-08_infas","de",1222,"Führungskräfte in Werbung und Öffentlichkeitsarbeit",35,1222
+"ISCO-08_infas","de",1223,"Führungskräfte in Forschung und Entwicklung",36,1223
+"ISCO-08_infas","de",1300,"Führungskräfte in der Produktion und bei speziellen Dienstleistungen",37,1300
+"ISCO-08_infas","de",1310,"Führungskräfte in der Produktion in Land- und Forstwirtschaft und Fischerei",38,1310
+"ISCO-08_infas","de",1311,"Führungskräfte in der Produktion in Land- und Forstwirtschaft",39,1311
+"ISCO-08_infas","de",1312,"Führungskräfte in der Produktion in Aquakultur und Fischerei",40,1312
+"ISCO-08_infas","de",1320,"Führungskräfte in der Produktion bei der Herstellung von Waren, im Bergbau und im Bau sowie in der Logistik",41,1320
+"ISCO-08_infas","de",1321,"Führungskräfte in der Produktion bei der Herstellung von Waren",42,1321
+"ISCO-08_infas","de",1322,"Führungskräfte in der Produktion im Bergbau",43,1322
+"ISCO-08_infas","de",1323,"Führungskräfte in der Produktion im Bau",44,1323
+"ISCO-08_infas","de",1324,"Führungskräfte in der Beschaffung, Logistik und in verwandten Bereichen",45,1324
+"ISCO-08_infas","de",1330,"Führungskräfte in der Erbringung von Dienstleistungen im Bereich Informations- und Kommunikationstechnologie",46,1330
+"ISCO-08_infas","de",1340,"Führungskräfte in der Erbringung von speziellen Dienstleistungen",47,1340
+"ISCO-08_infas","de",1341,"Führungskräfte in der Erbringung von Dienstleistungen der Kinderbetreuung",48,1341
+"ISCO-08_infas","de",1342,"Führungskräfte in der Erbringung von Dienstleistungen im Gesundheitswesen",49,1342
+"ISCO-08_infas","de",1343,"Führungskräfte in der Erbringung von Dienstleistungen der Altenbetreuung",50,1343
+"ISCO-08_infas","de",1344,"Führungskräfte in der Erbringung von Dienstleistungen der Sozialfürsorge",51,1344
+"ISCO-08_infas","de",1345,"Führungskräfte in der Erbringung von Dienstleistungen des Bildungswesens",52,1345
+"ISCO-08_infas","de",1346,"Führungskräfte auf Filialebene in der Erbringung von Finanz- und Versicherungsdienstleistungen",53,1346
+"ISCO-08_infas","de",1349,"Führungskräfte in der Erbringung von speziellen Dienstleistungen, anderweitig nicht genannt",54,1349
+"ISCO-08_infas","de",1400,"Führungskräfte in Hotels und Restaurants, im Handel und in der Erbringung sonstiger Dienstleistungen",55,1400
+"ISCO-08_infas","de",1410,"Führungskräfte in Hotels und Restaurants",56,1410
+"ISCO-08_infas","de",1411,"Führungskräfte in Hotels",57,1411
+"ISCO-08_infas","de",1412,"Führungskräfte in Restaurants",58,1412
+"ISCO-08_infas","de",1420,"Führungskräfte in Groß- und Einzelhandel",59,1420
+"ISCO-08_infas","de",1430,"Führungskräfte in der Erbringung sonstiger Dienstleistungen",60,1430
+"ISCO-08_infas","de",1431,"Führungskräfte in der Erbringung von Dienstleistungen im Bereich Sport, Erholung und Kultur",61,1431
+"ISCO-08_infas","de",1439,"Führungskräfte in der Erbringung von Dienstleistungen, anderweitig nicht genannt",62,1439
+"ISCO-08_infas","de",2000,"Akademische Berufe",63,2000
+"ISCO-08_infas","de",2100,"Naturwissenschaftler, Mathematiker und Ingenieure",64,2100
+"ISCO-08_infas","de",2110,"Physiker, Chemiker, Geologen und verwandte Berufe",65,2110
+"ISCO-08_infas","de",2111,"Physiker und Astronomen",66,2111
+"ISCO-08_infas","de",2112,"Meteorologen",67,2112
+"ISCO-08_infas","de",2113,"Chemiker",68,2113
+"ISCO-08_infas","de",2114,"Geologen und Geophysiker",69,2114
+"ISCO-08_infas","de",2120,"Mathematiker, Versicherungsmathematiker und Statistiker",70,2120
+"ISCO-08_infas","de",2130,"Biowissenschaftler",71,2130
+"ISCO-08_infas","de",2131,"Biologen, Botaniker, Zoologen und verwandte Berufe",72,2131
+"ISCO-08_infas","de",2132,"Agrar-, Forst- und Fischereiwissenschaftler und -berater",73,2132
+"ISCO-08_infas","de",2133,"Umweltwissenschaftler",74,2133
+"ISCO-08_infas","de",2140,"Ingenieurwissenschaftler (ohne Elektrotechnik, Elektronik und Telekommunikation)",75,2140
+"ISCO-08_infas","de",2141,"Wirtschafts- und Produktionsingenieure",76,2141
+"ISCO-08_infas","de",2142,"Bauingenieure",77,2142
+"ISCO-08_infas","de",2143,"Umweltschutzingenieure",78,2143
+"ISCO-08_infas","de",2144,"Maschinenbauingenieure",79,2144
+"ISCO-08_infas","de",2145,"Chemieingenieure",80,2145
+"ISCO-08_infas","de",2146,"Bergbauingenieure, Metallurgen und verwandte Berufe",81,2146
+"ISCO-08_infas","de",2149,"Ingenieure, anderweitig nicht genannt",82,2149
+"ISCO-08_infas","de",2150,"Ingenieure in den Bereichen Elektrotechnik, Elektronik und Telekommunikationstechnik",83,2150
+"ISCO-08_infas","de",2151,"Ingenieure im Bereich Elektrotechnik",84,2151
+"ISCO-08_infas","de",2152,"Ingenieure im Bereich Elektronik",85,2152
+"ISCO-08_infas","de",2153,"Ingenieure im Bereich Telekommunikationstechnik",86,2153
+"ISCO-08_infas","de",2160,"Architekten, Raum-, Stadt- und Verkehrsplaner, Vermessungsingenieure und Designer",87,2160
+"ISCO-08_infas","de",2161,"Architekten",88,2161
+"ISCO-08_infas","de",2162,"Landschaftsarchitekten",89,2162
+"ISCO-08_infas","de",2163,"Produkt- und Textildesigner",90,2163
+"ISCO-08_infas","de",2164,"Raum-, Stadt- und Verkehrsplaner",91,2164
+"ISCO-08_infas","de",2165,"Kartografen und Vermessungsingenieure",92,2165
+"ISCO-08_infas","de",2166,"Grafik- und Multimediadesigner",93,2166
+"ISCO-08_infas","de",2200,"Akademische und verwandte Gesundheitsberufe",94,2200
+"ISCO-08_infas","de",2210,"Ärzte",95,2210
+"ISCO-08_infas","de",2211,"Allgemeinärzte",96,2211
+"ISCO-08_infas","de",2212,"Fachärzte",97,2212
+"ISCO-08_infas","de",2220,"Akademische und vergleichbare Krankenpflege- und Geburtshilfefachkräfte",98,2220
+"ISCO-08_infas","de",2221,"Akademische und vergleichbare Krankenpflegefachkräfte",99,2221
+"ISCO-08_infas","de",2222,"Akademische und vergleichbare Geburtshilfefachkräfte",100,2222
+"ISCO-08_infas","de",2230,"Akademische und vergleichbare Fachkräfte in der traditionellen und komplementären Medizin",101,2230
+"ISCO-08_infas","de",2240,"Feldscher und vergleichbare paramedizinische Praktiker",102,2240
+"ISCO-08_infas","de",2250,"Tierärzte",103,2250
+"ISCO-08_infas","de",2260,"Sonstige akademische und verwandte Gesundheitsberufe",104,2260
+"ISCO-08_infas","de",2261,"Zahnärzte",105,2261
+"ISCO-08_infas","de",2262,"Apotheker",106,2262
+"ISCO-08_infas","de",2263,"Akademische und vergleichbare Fachkräfte in den Bereichen Umwelt- und Arbeitsmedizin sowie Hygiene",107,2263
+"ISCO-08_infas","de",2264,"Physiotherapeuten",108,2264
+"ISCO-08_infas","de",2265,"Diätologen und Ernährungsberater",109,2265
+"ISCO-08_infas","de",2266,"Audiologen und Sprachtherapeuten",110,2266
+"ISCO-08_infas","de",2267,"Optometristen und Orthoptisten",111,2267
+"ISCO-08_infas","de",2269,"Akademische und verwandte Gesundheitsberufe, anderweitig nicht genannt",112,2269
+"ISCO-08_infas","de",2300,"Lehrkräfte",113,2300
+"ISCO-08_infas","de",2310,"Universitäts- und Hochschullehrer",114,2310
+"ISCO-08_infas","de",2320,"Lehrkräfte im Bereich Berufsbildung",115,2320
+"ISCO-08_infas","de",2330,"Lehrkräfte im Sekundarbereich",116,2330
+"ISCO-08_infas","de",2340,"Lehrkräfte im Primar- und Vorschulbereich",117,2340
+"ISCO-08_infas","de",2341,"Lehrkräfte im Primarbereich",118,2341
+"ISCO-08_infas","de",2342,"Lehrkräfte und Erzieher im Vorschulbereich",119,2342
+"ISCO-08_infas","de",2350,"Sonstige Lehrkräfte",120,2350
+"ISCO-08_infas","de",2351,"Pädagogik- und Didaktikspezialisten",121,2351
+"ISCO-08_infas","de",2352,"Lehrkräfte im Bereich Sonderpädagogik",122,2352
+"ISCO-08_infas","de",2353,"Sonstige Sprachlehrer",123,2353
+"ISCO-08_infas","de",2354,"Sonstige Musiklehrer",124,2354
+"ISCO-08_infas","de",2355,"Sonstige Kunstlehrer",125,2355
+"ISCO-08_infas","de",2356,"Ausbilder im Bereich Informationstechnologie",126,2356
+"ISCO-08_infas","de",2359,"Lehrkräfte, anderweitig nicht genannt",127,2359
+"ISCO-08_infas","de",2400,"Betriebswirte und vergleichbare akademische Berufe",128,2400
+"ISCO-08_infas","de",2410,"Akademische und vergleichbare Fachkräfte im Bereich Finanzen",129,2410
+"ISCO-08_infas","de",2411,"Wirtschaftsprüfer, Steuerberater und verwandte Berufe",130,2411
+"ISCO-08_infas","de",2412,"Finanz- und Anlageberater",131,2412
+"ISCO-08_infas","de",2413,"Finanzanalysten",132,2413
+"ISCO-08_infas","de",2420,"Akademische und vergleichbare Fachkräfte in der betrieblichen Verwaltung",133,2420
+"ISCO-08_infas","de",2421,"Akademische und vergleichbare Fachkräfte im Bereich Management- und Organisationsanalyse",134,2421
+"ISCO-08_infas","de",2422,"Akademische und vergleichbare Fachkräfte in der strategischen Planung in Politik und Wirtschaft",135,2422
+"ISCO-08_infas","de",2423,"Berufsberater und -analytiker und akademische und vergleichbare Personalfachleute",136,2423
+"ISCO-08_infas","de",2424,"Fachkräfte in Personalschulung und -entwicklung",137,2424
+"ISCO-08_infas","de",2430,"Akademische und vergleichbare Fachkräfte in Vertrieb, Marketing und Öffentlichkeitsarbeit",138,2430
+"ISCO-08_infas","de",2431,"Akademische und vergleichbare Fachkräfte in Werbung und Marketing",139,2431
+"ISCO-08_infas","de",2432,"Akademische und vergleichbare Fachkräfte in der Öffentlichkeitsarbeit",140,2432
+"ISCO-08_infas","de",2433,"Akademische und vergleichbare Fachkräfte im Bereich Vertrieb (Technik und Medizin, ohne Informations- und Kommunikationstechnologie)",141,2433
+"ISCO-08_infas","de",2434,"Akademische und vergleichbare Fachkräfte im Vertrieb von Informations- und Kommunikationstechnologie",142,2434
+"ISCO-08_infas","de",2500,"Akademische und vergleichbare Fachkräfte in der Informations- und Kommunikationstechnologie",143,2500
+"ISCO-08_infas","de",2510,"Entwickler und Analytiker von Software und Anwendungen",144,2510
+"ISCO-08_infas","de",2511,"Systemanalytiker",145,2511
+"ISCO-08_infas","de",2512,"Softwareentwickler",146,2512
+"ISCO-08_infas","de",2513,"Web- und Multimediaentwickler",147,2513
+"ISCO-08_infas","de",2514,"Anwendungsprogrammierer",148,2514
+"ISCO-08_infas","de",2519,"Entwickler und Analytiker von Software und Anwendungen, anderweitig nicht genannt",149,2519
+"ISCO-08_infas","de",2520,"Akademische und vergleichbare Fachkräfte für Datenbanken und Netzwerke",150,2520
+"ISCO-08_infas","de",2521,"Datenbankentwickler und -administratoren",151,2521
+"ISCO-08_infas","de",2522,"Systemadministratoren",152,2522
+"ISCO-08_infas","de",2523,"Akademische und vergleichbare Fachkräfte für Computernetzwerke",153,2523
+"ISCO-08_infas","de",2529,"Akademische und vergleichbare Fachkräfte für Datenbanken und Netzwerke, anderweitig nicht genannt",154,2529
+"ISCO-08_infas","de",2600,"Juristen, Sozialwissenschaftler und Kulturberufe",155,2600
+"ISCO-08_infas","de",2610,"Juristen",156,2610
+"ISCO-08_infas","de",2611,"Anwälte",157,2611
+"ISCO-08_infas","de",2612,"Richter",158,2612
+"ISCO-08_infas","de",2619,"Juristen, anderweitig nicht genannt",159,2619
+"ISCO-08_infas","de",2620,"Archiv-, Bibliotheks- und Museumswissenschaftler",160,2620
+"ISCO-08_infas","de",2621,"Archiv- und Museumswissenschaftler",161,2621
+"ISCO-08_infas","de",2622,"Bibliothekswissenschaftler und verwandte Informationswissenschaftler",162,2622
+"ISCO-08_infas","de",2630,"Sozialwissenschaftler, Geistliche und Seelsorger",163,2630
+"ISCO-08_infas","de",2631,"Volkswirtschaftler",164,2631
+"ISCO-08_infas","de",2632,"Soziologen, Anthropologen und verwandte Wissenschaftler",165,2632
+"ISCO-08_infas","de",2633,"Philosophen, Historiker und Politologen",166,2633
+"ISCO-08_infas","de",2634,"Psychologen",167,2634
+"ISCO-08_infas","de",2635,"Sozialarbeiter",168,2635
+"ISCO-08_infas","de",2636,"Geistliche, Seelsorger",169,2636
+"ISCO-08_infas","de",2640,"Autoren, Journalisten und Linguisten",170,2640
+"ISCO-08_infas","de",2641,"Autoren und verwandte schriftstellerische Berufe",171,2641
+"ISCO-08_infas","de",2642,"Journalisten",172,2642
+"ISCO-08_infas","de",2643,"Übersetzer, Dolmetscher und andere Linguisten",173,2643
+"ISCO-08_infas","de",2650,"Bildende und darstellende Künstler",174,2650
+"ISCO-08_infas","de",2651,"Bildende Künstler",175,2651
+"ISCO-08_infas","de",2652,"Musiker, Sänger und Komponisten",176,2652
+"ISCO-08_infas","de",2653,"Tänzer und Choreografen",177,2653
+"ISCO-08_infas","de",2654,"Regisseure und Produzenten im Film- und Bühnenbereich sowie in verwandten Bereichen",178,2654
+"ISCO-08_infas","de",2655,"Schauspieler",179,2655
+"ISCO-08_infas","de",2656,"Sprecher im Rundfunk, Fernsehen und sonstigen Medien",180,2656
+"ISCO-08_infas","de",2659,"Bildende und darstellende Künstler, anderweitig nicht genannt",181,2659
+"ISCO-08_infas","de",3000,"Techniker und gleichrangige nichttechnische Berufe",182,3000
+"ISCO-08_infas","de",3100,"Ingenieurtechnische und vergleichbare Fachkräfte",183,3100
+"ISCO-08_infas","de",3110,"Material- und ingenieurtechnische Fachkräfte",184,3110
+"ISCO-08_infas","de",3111,"Chemo- und Physikotechniker",185,3111
+"ISCO-08_infas","de",3112,"Bautechniker",186,3112
+"ISCO-08_infas","de",3113,"Elektrotechniker",187,3113
+"ISCO-08_infas","de",3114,"Techniker im Bereich Elektronik",188,3114
+"ISCO-08_infas","de",3115,"Maschinenbautechniker",189,3115
+"ISCO-08_infas","de",3116,"Chemiebetriebs- und Verfahrenstechniker",190,3116
+"ISCO-08_infas","de",3117,"Bergbau- und Hüttentechniker",191,3117
+"ISCO-08_infas","de",3118,"Technische Zeichner",192,3118
+"ISCO-08_infas","de",3119,"Material- und ingenieurtechnische Fachkräfte, anderweitig nicht genannt",193,3119
+"ISCO-08_infas","de",3120,"Produktionsleiter im Bergbau, bei der Herstellung von Waren und im Bau",194,3120
+"ISCO-08_infas","de",3121,"Produktionsleiter im Bergbau",195,3121
+"ISCO-08_infas","de",3122,"Produktionsleiter bei der Herstellung von Waren",196,3122
+"ISCO-08_infas","de",3123,"Bauleiter",197,3123
+"ISCO-08_infas","de",3130,"Techniker in der Prozesssteuerung",198,3130
+"ISCO-08_infas","de",3131,"Steuerer von Energieerzeugungsanlagen",199,3131
+"ISCO-08_infas","de",3132,"Steuerer von Verbrennungs- und Wasserbehandlungsanlagen",200,3132
+"ISCO-08_infas","de",3133,"Steuerer von chemischen Verfahrensanlagen",201,3133
+"ISCO-08_infas","de",3134,"Steurer von Erdöl- und Erdgasraffinationsanlagen",202,3134
+"ISCO-08_infas","de",3135,"Steuerer von Verfahren in der Metallerzeugung",203,3135
+"ISCO-08_infas","de",3139,"Techniker in der Prozesssteuerung, anderweitig nicht genannt",204,3139
+"ISCO-08_infas","de",3140,"Biotechniker und verwandte technische Berufe",205,3140
+"ISCO-08_infas","de",3141,"Biotechniker (ohne medizinische Fachberufe)",206,3141
+"ISCO-08_infas","de",3142,"Agrartechniker",207,3142
+"ISCO-08_infas","de",3143,"Forsttechniker",208,3143
+"ISCO-08_infas","de",3150,"Schiffsführer, Flugzeugführer und verwandte Berufe",209,3150
+"ISCO-08_infas","de",3151,"Technische Schiffsoffiziere",210,3151
+"ISCO-08_infas","de",3152,"Schiffsführer, nautische Schiffsoffiziere und Schiffslotsen",211,3152
+"ISCO-08_infas","de",3153,"Flugzeugführer und verwandte Berufe",212,3153
+"ISCO-08_infas","de",3154,"Flugverkehrslotsen",213,3154
+"ISCO-08_infas","de",3155,"Flugsicherungstechniker",214,3155
+"ISCO-08_infas","de",3200,"Assistenzberufe im Gesundheitswesen",215,3200
+"ISCO-08_infas","de",3210,"Medizinische und pharmazeutische Fachberufe",216,3210
+"ISCO-08_infas","de",3211,"Medizintechniker im Bereich bildgebende Verfahren und Therapiegeräte",217,3211
+"ISCO-08_infas","de",3212,"Medizintechniker im Bereich Labor und Pathologie",218,3212
+"ISCO-08_infas","de",3213,"Pharmazeutisch-technische Assistenten",219,3213
+"ISCO-08_infas","de",3214,"Medizinische und zahnmedizinische Prothetiktechniker",220,3214
+"ISCO-08_infas","de",3220,"Nicht akademische Krankenpflege- und Geburtshilfefachkräfte",221,3220
+"ISCO-08_infas","de",3221,"Nicht akademische Krankenpflegefachkräfte",222,3221
+"ISCO-08_infas","de",3222,"Nicht akademische Geburtshilfefachkräfte",223,3222
+"ISCO-08_infas","de",3230,"Nicht akademische Fachkräfte in traditioneller und komplementärer Medizin",224,3230
+"ISCO-08_infas","de",3240,"Veterinärmedizinische Fachkräfte und Assistenten",225,3240
+"ISCO-08_infas","de",3250,"Sonstige Assistenzberufe im Gesundheitswesen",226,3250
+"ISCO-08_infas","de",3251,"Zahnmedizinische Assistenten und Dentalhygieniker",227,3251
+"ISCO-08_infas","de",3252,"Fachkräfte im Bereich medizinische Dokumentation und Information",228,3252
+"ISCO-08_infas","de",3253,"Fachkräfte in der öffentlichen Gesundheitsfürsorge",229,3253
+"ISCO-08_infas","de",3254,"Augenoptiker",230,3254
+"ISCO-08_infas","de",3255,"Physiotherapeutische Techniker und Assistenten",231,3255
+"ISCO-08_infas","de",3256,"Medizinische Assistenten",232,3256
+"ISCO-08_infas","de",3257,"Nicht akademische Kontrolleure und Beauftragte in den Bereichen Umwelt- und Arbeitsmedizin sowie verwandte Berufe",233,3257
+"ISCO-08_infas","de",3258,"Rettungsdienstpersonal",234,3258
+"ISCO-08_infas","de",3259,"Assistenzberufe im Gesundheitswesen, anderweitig nicht genannt",235,3259
+"ISCO-08_infas","de",3300,"Nicht akademische betriebswirtschaftliche und kaufmännische Fachkräfte und Verwaltungsfachkräfte",236,3300
+"ISCO-08_infas","de",3310,"Nicht akademische Fachkräfte im Bereich Finanzen und mathematische Verfahren",237,3310
+"ISCO-08_infas","de",3311,"Wertpapierhändler, -makler und Finanzmakler",238,3311
+"ISCO-08_infas","de",3312,"Kreditsachbearbeiter",239,3312
+"ISCO-08_infas","de",3313,"Nicht akademische Fachkräfte im Rechnungswesen",240,3313
+"ISCO-08_infas","de",3314,"Nicht akademische statistische, mathematische und verwandte Fachkräfte",241,3314
+"ISCO-08_infas","de",3315,"Schätzer und Schadensgutachter",242,3315
+"ISCO-08_infas","de",3319,"nicht akademische Fachkräfte im Bereich Finanzen (Gesis-Sondercode)",243,3319
+"ISCO-08_infas","de",3320,"Vertriebsagenten, Einkäufer und Handelsmakler",244,3320
+"ISCO-08_infas","de",3321,"Versicherungsvertreter",245,3321
+"ISCO-08_infas","de",3322,"Vertriebsagenten",246,3322
+"ISCO-08_infas","de",3323,"Einkäufer",247,3323
+"ISCO-08_infas","de",3324,"Handelsmakler",248,3324
+"ISCO-08_infas","de",3330,"Fachkräfte für unternehmensbezogene Dienstleistungen",249,3330
+"ISCO-08_infas","de",3331,"Fachkräfte für Abrechnungs- und Speditionsdienstleistungen",250,3331
+"ISCO-08_infas","de",3332,"Konferenz- und Veranstaltungsplaner",251,3332
+"ISCO-08_infas","de",3333,"Arbeits- und Personalvermittler",252,3333
+"ISCO-08_infas","de",3334,"Immobilienmakler und -verwalter",253,3334
+"ISCO-08_infas","de",3339,"Fachkräfte für unternehmensbezogene Dienstleistungen, anderweitig nicht genannt",254,3339
+"ISCO-08_infas","de",3340,"Sekretariatsfachkräfte",255,3340
+"ISCO-08_infas","de",3341,"Sekretariatsleiter",256,3341
+"ISCO-08_infas","de",3342,"Sekretariatsfachkräfte im juristischen Bereich",257,3342
+"ISCO-08_infas","de",3343,"Sekretariatsfachkräfte in Verwaltung und Geschäftsleitung",258,3343
+"ISCO-08_infas","de",3344,"Sekretariatsfachkräfte im Gesundheitswesen",259,3344
+"ISCO-08_infas","de",3350,"Fachkräfte in der öffentlichen Verwaltung",260,3350
+"ISCO-08_infas","de",3351,"Fachkräfte im Zolldienst und Grenzschutz",261,3351
+"ISCO-08_infas","de",3352,"Fachkräfte in der Steuerverwaltung",262,3352
+"ISCO-08_infas","de",3353,"Fachkräfte in Sozialverwaltung und -versicherung",263,3353
+"ISCO-08_infas","de",3354,"Fachkräfte bei staatlichen Pass-, Lizenz- und Genehmigungsstellen",264,3354
+"ISCO-08_infas","de",3355,"Polizeikommissare und Kriminalbeamte",265,3355
+"ISCO-08_infas","de",3359,"Fachkräfte in der öffentlichen Verwaltung, anderweitig nicht genannt",266,3359
+"ISCO-08_infas","de",3400,"Nicht akademische juristische, sozialpflegerische, kulturelle und verwandte Fachkräfte",267,3400
+"ISCO-08_infas","de",3410,"Nicht akademische juristische, sozialpflegerische und religiöse Berufe",268,3410
+"ISCO-08_infas","de",3411,"Nicht akademische Fachkräfte für Rechts- und verwandte Angelegenheiten",269,3411
+"ISCO-08_infas","de",3412,"Nicht akademische sozialpflegerische Fachkräfte",270,3412
+"ISCO-08_infas","de",3413,"Ordensbrüder/-schwestern und Seelsorgehelfer",271,3413
+"ISCO-08_infas","de",3420,"Fachkräfte im Bereich Sport und Fitness",272,3420
+"ISCO-08_infas","de",3421,"Athleten und Berufssportler",273,3421
+"ISCO-08_infas","de",3422,"Sportlehrer, Sporttrainer und Sportfunktionäre",274,3422
+"ISCO-08_infas","de",3423,"Trainer und Betreuer im Bereich Fitness und Erholung",275,3423
+"ISCO-08_infas","de",3430,"Fachkräfte in Gestaltung und Kultur sowie Küchenchefs",276,3430
+"ISCO-08_infas","de",3431,"Fotografen",277,3431
+"ISCO-08_infas","de",3432,"Raumgestalter und Dekorateure",278,3432
+"ISCO-08_infas","de",3433,"Fachkräfte in Kunstgalerien, Museen und Bibliotheken",279,3433
+"ISCO-08_infas","de",3434,"Küchenchefs",280,3434
+"ISCO-08_infas","de",3435,"Sonstige Fachkräfte in Gestaltung und Kultur",281,3435
+"ISCO-08_infas","de",3500,"Informations- und Kommunikationstechniker",282,3500
+"ISCO-08_infas","de",3510,"Techniker für den Betrieb von Informations- und Kommunikationstechnologie und für die Anwenderbetreuung",283,3510
+"ISCO-08_infas","de",3511,"Techniker für den Betrieb von Informations- und Kommunikationstechnologie",284,3511
+"ISCO-08_infas","de",3512,"Techniker für die Anwenderbetreuung in der Informations- und Kommunikationstechnologie",285,3512
+"ISCO-08_infas","de",3513,"Techniker für Computernetzwerke und -systeme",286,3513
+"ISCO-08_infas","de",3514,"Webmaster",287,3514
+"ISCO-08_infas","de",3520,"Telekommunikations- und Rundfunktechniker",288,3520
+"ISCO-08_infas","de",3521,"Techniker für Rundfunk und audiovisuelle Medien",289,3521
+"ISCO-08_infas","de",3522,"Telekommunikationstechniker",290,3522
+"ISCO-08_infas","de",4000,"Bürokräfte und verwandte Berufe",291,4000
+"ISCO-08_infas","de",4100,"Allgemeine Büro- und Sekretariatskräfte",292,4100
+"ISCO-08_infas","de",4110,"Allgemeine Bürokräfte",293,4110
+"ISCO-08_infas","de",4120,"Sekretariatskräfte (allgemein)",294,4120
+"ISCO-08_infas","de",4130,"Schreibkräfte und Datenerfasser",295,4130
+"ISCO-08_infas","de",4131,"Schreibkräfte und Bediener von Textverarbeitungsanlagen",296,4131
+"ISCO-08_infas","de",4132,"Datenerfasser",297,4132
+"ISCO-08_infas","de",4200,"Bürokräfte mit Kundenkontakt",298,4200
+"ISCO-08_infas","de",4210,"Schalterbedienstete, Inkassobeauftragte und verwandte Berufe",299,4210
+"ISCO-08_infas","de",4211,"Bank- und andere Schalterbedienstete",300,4211
+"ISCO-08_infas","de",4212,"Buchmacher, Croupiers und verwandte Berufe im Bereich Glücks- und Wettspiele",301,4212
+"ISCO-08_infas","de",4213,"Pfandleiher und Geldverleiher",302,4213
+"ISCO-08_infas","de",4214,"Inkassobeauftragte und verwandte Berufe",303,4214
+"ISCO-08_infas","de",4220,"Berufe im Bereich Kundeninformation",304,4220
+"ISCO-08_infas","de",4221,"Reiseverkehrsfachkräfte",305,4221
+"ISCO-08_infas","de",4222,"Kundeninformationsfachkräfte in Call Centers",306,4222
+"ISCO-08_infas","de",4223,"Telefonisten",307,4223
+"ISCO-08_infas","de",4224,"Hotelrezeptionisten",308,4224
+"ISCO-08_infas","de",4225,"Auskunftspersonal",309,4225
+"ISCO-08_infas","de",4226,"Empfangskräfte (allgemein)",310,4226
+"ISCO-08_infas","de",4227,"Interviewer im Bereich Umfragen und Marktforschung",311,4227
+"ISCO-08_infas","de",4229,"Berufe im Bereich Kundeninformation, anderweitig nicht genannt",312,4229
+"ISCO-08_infas","de",4300,"Bürokräfte im Finanz- und Rechnungswesen, in der Statistik und in der Materialwirtschaft",313,4300
+"ISCO-08_infas","de",4310,"Bürokräfte im Finanz- und Rechnungswesen und in der Statistik",314,4310
+"ISCO-08_infas","de",4311,"Bürokräfte im Rechnungswesen und in der Buchhaltung",315,4311
+"ISCO-08_infas","de",4312,"Bürokräfte in der Statistik, im Finanz- und Versicherungswesen",316,4312
+"ISCO-08_infas","de",4313,"Bürokräfte in der Lohnbuchhaltung",317,4313
+"ISCO-08_infas","de",4320,"Bürokräfte im Bereich Materialwirtschaft und Transport und verwandte Berufe",318,4320
+"ISCO-08_infas","de",4321,"Fachkräfte in der Lagerwirtschaft",319,4321
+"ISCO-08_infas","de",4322,"Bürokräfte in der Material- und Fertigungsplanung und verwandte Berufe",320,4322
+"ISCO-08_infas","de",4323,"Bürokräfte in der Transportwirtschaft und verwandte Berufe",321,4323
+"ISCO-08_infas","de",4400,"Sonstige Bürokräfte und verwandte Berufe",322,4400
+"ISCO-08_infas","de",4410,"Sonstige Bürokräfte und verwandte Berufe",323,4410
+"ISCO-08_infas","de",4411,"Bibliotheksassistenten",324,4411
+"ISCO-08_infas","de",4412,"Postverteiler und -sortierer",325,4412
+"ISCO-08_infas","de",4413,"Kodierer, Korrekturleser und verwandte Bürokräfte",326,4413
+"ISCO-08_infas","de",4414,"Schreiber und verwandte Arbeitskräfte",327,4414
+"ISCO-08_infas","de",4415,"Bürokräfte für Registratur und Dokumentation",328,4415
+"ISCO-08_infas","de",4416,"Bürokräfte im Personalwesen",329,4416
+"ISCO-08_infas","de",4419,"Bürokräfte und verwandte Berufe, anderweitig nicht genannt",330,4419
+"ISCO-08_infas","de",5000,"Dienstleistungsberufe und Verkäufer",331,5000
+"ISCO-08_infas","de",5100,"Berufe im Bereich personenbezogener Dienstleistungen",332,5100
+"ISCO-08_infas","de",5110,"Reisebegleiter, Schaffner und Reiseleiter",333,5110
+"ISCO-08_infas","de",5111,"Reisebegleiter und Stewards",334,5111
+"ISCO-08_infas","de",5112,"Schaffner",335,5112
+"ISCO-08_infas","de",5113,"Reiseleiter/Fremdenführer",336,5113
+"ISCO-08_infas","de",5120,"Köche",337,5120
+"ISCO-08_infas","de",5130,"Kellner und Barkeeper",338,5130
+"ISCO-08_infas","de",5131,"Kellner",339,5131
+"ISCO-08_infas","de",5132,"Barkeeper",340,5132
+"ISCO-08_infas","de",5140,"Friseure, Kosmetiker und verwandte Berufe",341,5140
+"ISCO-08_infas","de",5141,"Friseure",342,5141
+"ISCO-08_infas","de",5142,"Kosmetiker und verwandte Berufe",343,5142
+"ISCO-08_infas","de",5150,"Hauswarte und Hauswirtschaftsleiter",344,5150
+"ISCO-08_infas","de",5151,"Reinigungs- und Hauswirtschaftsleiter in Büros, Hotels und anderen Einrichtungen",345,5151
+"ISCO-08_infas","de",5152,"Hauswirtschafter in Privathaushalten",346,5152
+"ISCO-08_infas","de",5153,"Hauswarte",347,5153
+"ISCO-08_infas","de",5160,"Sonstige Berufe im Bereich personenbezogener Dienstleistungen",348,5160
+"ISCO-08_infas","de",5161,"Astrologen, Wahrsager und verwandte Berufe",349,5161
+"ISCO-08_infas","de",5162,"Gesellschafter und Zofen/Kammerdiener",350,5162
+"ISCO-08_infas","de",5163,"Bestatter und Einbalsamierer",351,5163
+"ISCO-08_infas","de",5164,"Tierpfleger und -betreuer",352,5164
+"ISCO-08_infas","de",5165,"Fahrschullehrer",353,5165
+"ISCO-08_infas","de",5169,"Berufe im Bereich personenbezogener Dienstleistungen, anderweitig nicht genannt",354,5169
+"ISCO-08_infas","de",5200,"Verkaufskräfte",355,5200
+"ISCO-08_infas","de",5210,"Straßen- und Marktverkäufer",356,5210
+"ISCO-08_infas","de",5211,"Verkaufsstand- und Marktverkäufer",357,5211
+"ISCO-08_infas","de",5212,"Straßenverkäufer von Lebensmitteln",358,5212
+"ISCO-08_infas","de",5220,"Verkaufskräfte in Handelsgeschäften",359,5220
+"ISCO-08_infas","de",5221,"Leiter eines Einzelhandelsgeschäftes",360,5221
+"ISCO-08_infas","de",5222,"Verkaufsaufsichtskräfte in Handelsgeschäften",361,5222
+"ISCO-08_infas","de",5223,"Verkäufer und Verkaufshilfskräfte in Handelsgeschäften",362,5223
+"ISCO-08_infas","de",5230,"Kassierer und Kartenverkäufer",363,5230
+"ISCO-08_infas","de",5240,"Sonstige Verkaufskräfte",364,5240
+"ISCO-08_infas","de",5241,"Mannequins/Dressmen und sonstige Modelle",365,5241
+"ISCO-08_infas","de",5242,"Produktvorführer",366,5242
+"ISCO-08_infas","de",5243,"Haustürverkäufer",367,5243
+"ISCO-08_infas","de",5244,"Telefonverkäufer",368,5244
+"ISCO-08_infas","de",5245,"Tankwarte",369,5245
+"ISCO-08_infas","de",5246,"Imbissverkäufer",370,5246
+"ISCO-08_infas","de",5249,"Verkaufskräfte, anderweitig nicht genannt",371,5249
+"ISCO-08_infas","de",5300,"Betreuungsberufe",372,5300
+"ISCO-08_infas","de",5310,"Kinder- und Lernbetreuer",373,5310
+"ISCO-08_infas","de",5311,"Kinderbetreuer",374,5311
+"ISCO-08_infas","de",5312,"Lernbetreuer",375,5312
+"ISCO-08_infas","de",5320,"Betreuungsberufe im Gesundheitswesen",376,5320
+"ISCO-08_infas","de",5321,"Pflegehelfer",377,5321
+"ISCO-08_infas","de",5322,"Haus- und Familienpfleger",378,5322
+"ISCO-08_infas","de",5329,"Betreuungsberufe im Gesundheitswesen, anderweitig nicht genannt",379,5329
+"ISCO-08_infas","de",5400,"Schutzkräfte und Sicherheitsbedienstete",380,5400
+"ISCO-08_infas","de",5410,"Schutzkräfte und Sicherheitsbedienstete",381,5410
+"ISCO-08_infas","de",5411,"Feuerwehrleute",382,5411
+"ISCO-08_infas","de",5412,"Polizisten (ohne Polizeikommissare)",383,5412
+"ISCO-08_infas","de",5413,"Gefängnisaufseher",384,5413
+"ISCO-08_infas","de",5414,"Sicherheitswachpersonal",385,5414
+"ISCO-08_infas","de",5419,"Schutzkräfte und Sicherheitsbedienstete, anderweitig nicht genannt",386,5419
+"ISCO-08_infas","de",6000,"Fachkräfte in Land- und Forstwirtschaft und Fischerei",387,6000
+"ISCO-08_infas","de",6100,"Fachkräfte in der Landwirtschaft",388,6100
+"ISCO-08_infas","de",6110,"Gärtner und Ackerbauern",389,6110
+"ISCO-08_infas","de",6111,"Ackerbauern und Gemüseanbauer",390,6111
+"ISCO-08_infas","de",6112,"Baum- und Strauchfrüchteanbauer",391,6112
+"ISCO-08_infas","de",6113,"Gärtner, Saat- und Pflanzenzüchter",392,6113
+"ISCO-08_infas","de",6114,"Fachkräfte in der Mischkulturlandwirtschaft",393,6114
+"ISCO-08_infas","de",6120,"Tierhalter",394,6120
+"ISCO-08_infas","de",6121,"Nutztierhalter (ohne Geflügel) und Milchproduzenten",395,6121
+"ISCO-08_infas","de",6122,"Geflügelhalter",396,6122
+"ISCO-08_infas","de",6123,"Imker und Seidenraupenzüchter",397,6123
+"ISCO-08_infas","de",6129,"Tierhalter, anderweitig nicht genannt",398,6129
+"ISCO-08_infas","de",6130,"Landwirte mit Ackerbau und Tierhaltung (ohne ausgeprägten Schwerpunkt)",399,6130
+"ISCO-08_infas","de",6200,"Fachkräfte in Forstwirtschaft, Fischerei und Jagd",400,6200
+"ISCO-08_infas","de",6210,"Forstarbeitskräfte und verwandte Berufe",401,6210
+"ISCO-08_infas","de",6220,"Fischer, Jäger und Fallensteller",402,6220
+"ISCO-08_infas","de",6221,"Fachkräfte im Bereich Aquakultur",403,6221
+"ISCO-08_infas","de",6222,"Binnen- und Küstenfischer",404,6222
+"ISCO-08_infas","de",6223,"Hochseefischer",405,6223
+"ISCO-08_infas","de",6224,"Jäger und Fallensteller",406,6224
+"ISCO-08_infas","de",6300,"Landwirte, Fischer, Jäger und Sammler für den Eigenbedarf",407,6300
+"ISCO-08_infas","de",6310,"Ackerbauern für den Eigenbedarf",408,6310
+"ISCO-08_infas","de",6320,"Nutztierhalter für den Eigenbedarf",409,6320
+"ISCO-08_infas","de",6330,"Ackerbauern und Nutztierhalter (ohne ausgeprägten Schwerpunkt) für den Eigenbedarf",410,6330
+"ISCO-08_infas","de",6340,"Fischer, Jäger, Fallensteller und Sammler für den Eigenbedarf",411,6340
+"ISCO-08_infas","de",7000,"Handwerks- und verwandte Berufe",412,7000
+"ISCO-08_infas","de",7100,"Bau- und Ausbaufachkräfte sowie verwandte Berufe, ausgenommen Elektriker",413,7100
+"ISCO-08_infas","de",7110,"Baukonstruktions- und verwandte Berufe",414,7110
+"ISCO-08_infas","de",7111,"Rohbaufacharbeiter im Hochbau",415,7111
+"ISCO-08_infas","de",7112,"Maurer und verwandte Berufe",416,7112
+"ISCO-08_infas","de",7113,"Steinmetze, Steinspalter, -bearbeiter und Steinbildhauer",417,7113
+"ISCO-08_infas","de",7114,"Betonierer, Betonoberflächenfertiger und verwandte Berufe",418,7114
+"ISCO-08_infas","de",7115,"Zimmerleute und Bautischler",419,7115
+"ISCO-08_infas","de",7119,"Baukonstruktions- und verwandte Berufe, anderweitig nicht genannt",420,7119
+"ISCO-08_infas","de",7120,"Ausbaufachkräfte und verwandte Berufe",421,7120
+"ISCO-08_infas","de",7121,"Dachdecker",422,7121
+"ISCO-08_infas","de",7122,"Boden- und Fliesenleger",423,7122
+"ISCO-08_infas","de",7123,"Stuckateure",424,7123
+"ISCO-08_infas","de",7124,"Isolierer",425,7124
+"ISCO-08_infas","de",7125,"Glaser",426,7125
+"ISCO-08_infas","de",7126,"Bauspengler und Sanitär- und Heizungsinstallateure",427,7126
+"ISCO-08_infas","de",7127,"Klima- und Kälteanlagenbauer",428,7127
+"ISCO-08_infas","de",7130,"Maler, Gebäudereiniger und verwandte Berufe",429,7130
+"ISCO-08_infas","de",7131,"Maler und verwandte Berufe",430,7131
+"ISCO-08_infas","de",7132,"Lackierer und verwandte Berufe",431,7132
+"ISCO-08_infas","de",7133,"Fassadenreiniger und Schornsteinfeger/Rauchfangkehrer",432,7133
+"ISCO-08_infas","de",7200,"Metallarbeiter, Mechaniker und verwandte Berufe",433,7200
+"ISCO-08_infas","de",7210,"Blechkaltverformer, Baumetallverformer, Former (für Metallguss), Schweißer und verwandte Berufe",434,7210
+"ISCO-08_infas","de",7211,"Former und Kernmacher (für Metallguss)",435,7211
+"ISCO-08_infas","de",7212,"Schweißer und Brennschneider",436,7212
+"ISCO-08_infas","de",7213,"Blechkaltverformer",437,7213
+"ISCO-08_infas","de",7214,"Baumetallverformer und Metallbauer",438,7214
+"ISCO-08_infas","de",7215,"Verspannungsmonteure und Seilspleißer",439,7215
+"ISCO-08_infas","de",7220,"Grobschmiede, Werkzeugmechaniker und verwandte Berufe",440,7220
+"ISCO-08_infas","de",7221,"Grobschmiede, Hammerschmiede und Schmiedepresser",441,7221
+"ISCO-08_infas","de",7222,"Werkzeugmechaniker und verwandte Berufe",442,7222
+"ISCO-08_infas","de",7223,"Werkzeugmaschineneinrichter und -bediener",443,7223
+"ISCO-08_infas","de",7224,"Metallpolierer, Rundschleifer und Werkzeugschärfer",444,7224
+"ISCO-08_infas","de",7230,"Maschinenmechaniker und -schlosser",445,7230
+"ISCO-08_infas","de",7231,"Kraftfahrzeugmechaniker und -schlosser",446,7231
+"ISCO-08_infas","de",7232,"Flugmotorenmechaniker und -schlosser",447,7232
+"ISCO-08_infas","de",7233,"Landmaschinen- und Industriemaschinenmechaniker und -schlosser",448,7233
+"ISCO-08_infas","de",7234,"Fahrradmechaniker und verwandte Berufe",449,7234
+"ISCO-08_infas","de",7250,"Schlosser ohne weitere Spezifizierung (Gesis-Sondercode)",450,7250
+"ISCO-08_infas","de",7300,"Präzisionshandwerker, Drucker und kunsthandwerkliche Berufe",451,7300
+"ISCO-08_infas","de",7310,"Präzisionshandwerker und kunsthandwerkliche Berufe",452,7310
+"ISCO-08_infas","de",7311,"Präzisionsinstrumentenmacher und -instandsetzer",453,7311
+"ISCO-08_infas","de",7312,"Musikinstrumentenbauer und -stimmer",454,7312
+"ISCO-08_infas","de",7313,"Schmuckwarenhersteller und Edelmetallbearbeiter",455,7313
+"ISCO-08_infas","de",7314,"Keramiker und verwandte Berufe",456,7314
+"ISCO-08_infas","de",7315,"Glasmacher, -schneider, -schleifer und -veredler",457,7315
+"ISCO-08_infas","de",7316,"Schildermaler, Dekormaler, Graveure und Ätzer",458,7316
+"ISCO-08_infas","de",7317,"Kunsthandwerkliche Berufe für Holz, Korbwaren und verwandte Materialien",459,7317
+"ISCO-08_infas","de",7318,"Kunsthandwerkliche Berufe für Textilien, Leder und verwandte Materialien",460,7318
+"ISCO-08_infas","de",7319,"Kunsthandwerkliche Berufe, anderweitig nicht genannt",461,7319
+"ISCO-08_infas","de",7320,"Druckhandwerker",462,7320
+"ISCO-08_infas","de",7321,"Techniker in der Druckvorstufe",463,7321
+"ISCO-08_infas","de",7322,"Drucker",464,7322
+"ISCO-08_infas","de",7323,"Berufe in der Druckweiterverarbeitung und Buchbinder",465,7323
+"ISCO-08_infas","de",7400,"Elektriker- und Elektroniker",466,7400
+"ISCO-08_infas","de",7410,"Elektroinstallateure und -mechaniker",467,7410
+"ISCO-08_infas","de",7411,"Bauelektriker und verwandte Berufe",468,7411
+"ISCO-08_infas","de",7412,"Elektromechaniker und verwandte Berufe",469,7412
+"ISCO-08_infas","de",7413,"Elektroleitungsinstallateure und Wartungspersonal",470,7413
+"ISCO-08_infas","de",7420,"Installateure und Mechaniker für Elektronik und Telekommunikationstechnik",471,7420
+"ISCO-08_infas","de",7421,"Elektroniker und Elektronik-Servicetechniker",472,7421
+"ISCO-08_infas","de",7422,"Installateure und Servicetechniker im Bereich Informations- und Kommunikationstechnik",473,7422
+"ISCO-08_infas","de",7500,"Berufe in der Nahrungsmittelverarbeitung, Holzverarbeitung und Bekleidungsherstellung und verwandte handwerkliche Fachkräfte",474,7500
+"ISCO-08_infas","de",7510,"Berufe in der Nahrungsmittelverarbeitung und verwandte handwerkliche Fachkräfte",475,7510
+"ISCO-08_infas","de",7511,"Fleischer, Fischhändler und -verarbeiter und verwandte Berufe",476,7511
+"ISCO-08_infas","de",7512,"Bäcker, Konditoren und Konfektmacher",477,7512
+"ISCO-08_infas","de",7513,"Molkerei- und Käsereifachkräfte",478,7513
+"ISCO-08_infas","de",7514,"Obst- und Gemüsekonservierer und verwandte Berufe",479,7514
+"ISCO-08_infas","de",7515,"Nahrungsmittel- und Getränkekoster und -klassierer",480,7515
+"ISCO-08_infas","de",7516,"Tabakaufbereiter und Tabakwarenmacher",481,7516
+"ISCO-08_infas","de",7520,"Holzbearbeiter, Möbeltischler und verwandte Berufe",482,7520
+"ISCO-08_infas","de",7521,"Holztrockner und -konservierer",483,7521
+"ISCO-08_infas","de",7522,"Möbeltischler und verwandte Berufe",484,7522
+"ISCO-08_infas","de",7523,"Einrichter und Bediener von Holzbearbeitungsmaschinen",485,7523
+"ISCO-08_infas","de",7530,"Berufe der Bekleidungsherstellung und verwandte Berufe",486,7530
+"ISCO-08_infas","de",7531,"Herren- und Damenschneider, Kürschner und Hutmacher",487,7531
+"ISCO-08_infas","de",7532,"Schnittmustermacher und Zuschneider",488,7532
+"ISCO-08_infas","de",7533,"Näher, Sticker und verwandte Berufe",489,7533
+"ISCO-08_infas","de",7534,"Polsterer und verwandte Berufe",490,7534
+"ISCO-08_infas","de",7535,"Pelzveredler, Gerber und Fellzurichter",491,7535
+"ISCO-08_infas","de",7536,"Schuhmacher und verwandte Berufe",492,7536
+"ISCO-08_infas","de",7540,"Sonstige Handwerks- und verwandte Berufe",493,7540
+"ISCO-08_infas","de",7541,"Taucher",494,7541
+"ISCO-08_infas","de",7542,"Sprengmeister und Sprengbeauftragte",495,7542
+"ISCO-08_infas","de",7543,"Produkttester und -klassierer (ohne Nahrungsmittel und Getränke)",496,7543
+"ISCO-08_infas","de",7544,"Kammerjäger und andere Schädlingsbekämpfungsberufe",497,7544
+"ISCO-08_infas","de",7549,"Handwerks- und verwandte Berufe, anderweitig nicht genannt",498,7549
+"ISCO-08_infas","de",8000,"Bediener von Anlagen und Maschinen und Montageberufe",499,8000
+"ISCO-08_infas","de",8100,"Bediener stationärer Anlagen und Maschinen",500,8100
+"ISCO-08_infas","de",8110,"Bediener von Anlagen für den Bergbau und die Mineralaufbereitung",501,8110
+"ISCO-08_infas","de",8111,"Bergleute und Grubenarbeiter",502,8111
+"ISCO-08_infas","de",8112,"Bediener von Mineral- und Gesteinsaufbereitungsanlagen",503,8112
+"ISCO-08_infas","de",8113,"Tiefbohrer und verwandte Berufe",504,8113
+"ISCO-08_infas","de",8114,"Bediener von Maschinen zur Herstellung und Verarbeitung von Zement, Steinen und sonstigen Mineralien",505,8114
+"ISCO-08_infas","de",8120,"Bediener von Anlagen in der Metallerzeugung, -umformung und -veredlung",506,8120
+"ISCO-08_infas","de",8121,"Bediener von Anlagen in der Metallerzeugung und -umformung",507,8121
+"ISCO-08_infas","de",8122,"Bediener von Anlagen zur Metallveredlung, Plattierung und Beschichtung von Metallen",508,8122
+"ISCO-08_infas","de",8130,"Bediener von Anlagen und Maschinen für chemische und fotografische Erzeugnisse",509,8130
+"ISCO-08_infas","de",8131,"Bediener von Anlagen und Maschinen für chemische Erzeugnisse",510,8131
+"ISCO-08_infas","de",8132,"Bediener von Anlagen für fotografische Erzeugnisse",511,8132
+"ISCO-08_infas","de",8140,"Bediener von Maschinen zur Herstellung von Gummi-, Kunststoff- und Papierwaren",512,8140
+"ISCO-08_infas","de",8141,"Bediener von Maschinen zur Herstellung von Gummiwaren",513,8141
+"ISCO-08_infas","de",8142,"Bediener von Maschinen zur Herstellung von Kunststoffwaren",514,8142
+"ISCO-08_infas","de",8143,"Bediener von Maschinen zur Herstellung von Papierwaren",515,8143
+"ISCO-08_infas","de",8150,"Bediener von Maschinen zur Herstellung von Textil-, Pelz- und Lederwaren",516,8150
+"ISCO-08_infas","de",8151,"Bediener von Spinnstoffaufbereitungs-, Spinn- und Spulmaschinen",517,8151
+"ISCO-08_infas","de",8152,"Bediener von Web-, Strick- und Wirkmaschinen",518,8152
+"ISCO-08_infas","de",8153,"Bediener von Nähmaschinen",519,8153
+"ISCO-08_infas","de",8154,"Bediener von Bleich- und Färbemaschinen",520,8154
+"ISCO-08_infas","de",8155,"Bediener von Pelz- und Lederzurichtungs- und -vorbereitungsmaschinen",521,8155
+"ISCO-08_infas","de",8156,"Bediener von Maschinen zur Schuhherstellung und verwandte Berufe",522,8156
+"ISCO-08_infas","de",8157,"Bediener von Wäschereimaschinen",523,8157
+"ISCO-08_infas","de",8159,"Bediener von Maschinen zur Herstellung von Textil-, Pelz- und Lederwaren, anderweitig nicht genannt",524,8159
+"ISCO-08_infas","de",8160,"Bediener von Maschinen zur Herstellung von Nahrungs- und Genussmitteln",525,8160
+"ISCO-08_infas","de",8170,"Bediener von Anlagen zur Holzaufbereitung und Papierherstellung",526,8170
+"ISCO-08_infas","de",8171,"Bediener von Anlagen zur Zellstoff- und Papierherstellung",527,8171
+"ISCO-08_infas","de",8172,"Bediener von Anlagen zur Holzaufbereitung",528,8172
+"ISCO-08_infas","de",8180,"Bediener sonstiger stationärer Anlagen und Maschinen",529,8180
+"ISCO-08_infas","de",8181,"Bediener von Anlagen zur Glas- und Keramikherstellung",530,8181
+"ISCO-08_infas","de",8182,"Bediener von Dampfmaschinen und -kesseln",531,8182
+"ISCO-08_infas","de",8183,"Bediener von Verpackungs-, Abfüll- und Etikettiermaschinen",532,8183
+"ISCO-08_infas","de",8189,"Bediener stationärer Anlagen und Maschinen, anderweitig nicht genannt",533,8189
+"ISCO-08_infas","de",8200,"Montageberufe",534,8200
+"ISCO-08_infas","de",8210,"Montageberufe",535,8210
+"ISCO-08_infas","de",8211,"Berufe der Montage von mechanischen Bauteilen",536,8211
+"ISCO-08_infas","de",8212,"Berufe der Montage von elektrischen und elektronischen Geräten",537,8212
+"ISCO-08_infas","de",8219,"Montageberufe, anderweitig nicht genannt",538,8219
+"ISCO-08_infas","de",8300,"Fahrzeugführer und Bediener mobiler Anlagen",539,8300
+"ISCO-08_infas","de",8310,"Lokomotivführer und verwandte Berufe",540,8310
+"ISCO-08_infas","de",8311,"Lokomotivführer",541,8311
+"ISCO-08_infas","de",8312,"Bediener von Sicherungs-, Signal- und Leittechnik im Schienennetzbetrieb",542,8312
+"ISCO-08_infas","de",8320,"Kraftfahrzeugführer",543,8320
+"ISCO-08_infas","de",8321,"Kraftradfahrer",544,8321
+"ISCO-08_infas","de",8322,"Personenkraftwagen-, Taxi-, Kleintransporter- und Kleinbusfahrer",545,8322
+"ISCO-08_infas","de",8330,"Fahrer schwerer Lastkraftwagen und Busse",546,8330
+"ISCO-08_infas","de",8331,"Busfahrer und Straßenbahnführer",547,8331
+"ISCO-08_infas","de",8332,"Fahrer schwerer Lastkraftwagen",548,8332
+"ISCO-08_infas","de",8340,"Bediener mobiler Anlagen",549,8340
+"ISCO-08_infas","de",8341,"Führer von mobilen land- und forstwirtschaftlichen Maschinen",550,8341
+"ISCO-08_infas","de",8342,"Führer von Erdbewegungs- und verwandten Maschinen",551,8342
+"ISCO-08_infas","de",8343,"Kranführer, Aufzugmaschinisten und Bediener verwandter Hebeeinrichtungen",552,8343
+"ISCO-08_infas","de",8344,"Gabelstaplerfahrer und verwandte Berufe",553,8344
+"ISCO-08_infas","de",8350,"Deckspersonal auf Schiffen und verwandte Berufe",554,8350
+"ISCO-08_infas","de",9000,"Hilfsarbeitskräfte",555,9000
+"ISCO-08_infas","de",9100,"Reinigungspersonal und Hilfskräfte",556,9100
+"ISCO-08_infas","de",9110,"Reinigungspersonal und Hilfskräfte in Privathaushalten, Hotels und Büros",557,9110
+"ISCO-08_infas","de",9111,"Reinigungspersonal und Hilfskräfte in Privathaushalten",558,9111
+"ISCO-08_infas","de",9112,"Reinigungspersonal und Hilfskräfte in Büros, Hotels und anderen Einrichtungen",559,9112
+"ISCO-08_infas","de",9120,"Reinigungspersonal für Fahrzeuge, Fenster, Wäsche und sonstige manuelle Reinigungsberufe",560,9120
+"ISCO-08_infas","de",9121,"Handwäscher und Handbügler",561,9121
+"ISCO-08_infas","de",9122,"Fahrzeugreiniger",562,9122
+"ISCO-08_infas","de",9123,"Fensterputzer",563,9123
+"ISCO-08_infas","de",9129,"Sonstiges Reinigungspersonal",564,9129
+"ISCO-08_infas","de",9200,"Hilfsarbeiter in der Land- und Forstwirtschaft und Fischerei",565,9200
+"ISCO-08_infas","de",9210,"Hilfsarbeiter in der Land- und Forstwirtschaft und Fischerei",566,9210
+"ISCO-08_infas","de",9211,"Hilfsarbeiter im Ackerbau",567,9211
+"ISCO-08_infas","de",9212,"Hilfsarbeiter in der Tierhaltung",568,9212
+"ISCO-08_infas","de",9213,"Hilfsarbeiter in Ackerbau und Tierhaltung (ohne ausgeprägten Schwerpunkt)",569,9213
+"ISCO-08_infas","de",9214,"Hilfsarbeiter im Gartenbau",570,9214
+"ISCO-08_infas","de",9215,"Hilfsarbeiter in der Forstwirtschaft",571,9215
+"ISCO-08_infas","de",9216,"Hilfsarbeiter in der Fischerei und Aquakultur",572,9216
+"ISCO-08_infas","de",9300,"Hilfsarbeiter im Bergbau, im Bau, bei der Herstellung von Waren und im Transportwesen",573,9300
+"ISCO-08_infas","de",9310,"Hilfsarbeiter im Bergbau und im Bau",574,9310
+"ISCO-08_infas","de",9311,"Hilfsarbeiter im Bergbau und in der Gewinnung von Steinen und Erden",575,9311
+"ISCO-08_infas","de",9312,"Hilfsarbeiter im Tiefbau",576,9312
+"ISCO-08_infas","de",9313,"Hilfsarbeiter im Hochbau",577,9313
+"ISCO-08_infas","de",9320,"Hilfsarbeiter bei der Herstellung von Waren",578,9320
+"ISCO-08_infas","de",9321,"Verpacker",579,9321
+"ISCO-08_infas","de",9329,"Hilfsarbeiter bei der Herstellung von Waren, anderweitig nicht genannt",580,9329
+"ISCO-08_infas","de",9330,"Hilfsarbeiter in Transport und Lagerei",581,9330
+"ISCO-08_infas","de",9331,"Führer von Handwagen und pedalbetriebenen Fahrzeugen",582,9331
+"ISCO-08_infas","de",9332,"Führer von Fahrzeugen und Maschinen mit Zugtierantrieb",583,9332
+"ISCO-08_infas","de",9333,"Frachtarbeiter und verwandte Berufe",584,9333
+"ISCO-08_infas","de",9334,"Regalbetreuer und -auffüller",585,9334
+"ISCO-08_infas","de",9400,"Hilfskräfte in der Nahrungsmittelzubereitung",586,9400
+"ISCO-08_infas","de",9410,"Hilfskräfte in der Nahrungsmittelzubereitung",587,9410
+"ISCO-08_infas","de",9411,"Zubereiter von Fast Food und anderen Imbissen",588,9411
+"ISCO-08_infas","de",9412,"Küchenhilfen",589,9412
+"ISCO-08_infas","de",9500,"Straßenhändler und auf der Straße arbeitende Dienstleistungskräfte",590,9500
+"ISCO-08_infas","de",9510,"Auf der Straße arbeitende Dienstleistungskräfte und verwandte Berufe",591,9510
+"ISCO-08_infas","de",9520,"Straßenverkäufer (ohne Lebensmittel)",592,9520
+"ISCO-08_infas","de",9600,"Abfallentsorgungsarbeiter und sonstige Hilfsarbeitskräfte",593,9600
+"ISCO-08_infas","de",9610,"Abfallentsorgungsarbeiter",594,9610
+"ISCO-08_infas","de",9611,"Arbeiter in der Abfall- und Wertstoffsammlung",595,9611
+"ISCO-08_infas","de",9612,"Arbeiter in der Abfallsortierung",596,9612
+"ISCO-08_infas","de",9613,"Straßenkehrer und verwandte Berufe",597,9613
+"ISCO-08_infas","de",9620,"Sonstige Hilfsarbeitskräfte",598,9620
+"ISCO-08_infas","de",9621,"Boten, Paketauslieferer und Gepäckträger",599,9621
+"ISCO-08_infas","de",9622,"Gelegenheitsarbeiter",600,9622
+"ISCO-08_infas","de",9623,"Zählerableser, Automatenbefüller und -kassierer",601,9623
+"ISCO-08_infas","de",9624,"Wasserträger und Brennholzsammler",602,9624
+"ISCO-08_infas","de",9629,"Hilfsarbeitskräfte, anderweitig nicht genannt",603,9629
